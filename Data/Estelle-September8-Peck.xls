@@ -1,0 +1,1312 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.382411e+02	1.323247e+02	StartStim	1	1	 	543	657	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.384012e+02	1.324848e+02	StartStim	2	2	 	555	102	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.385151e+02	1.325987e+02	StartStim	3	3	 	724	298	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.386783e+02	1.327619e+02	StartStim	4	4	 	203	561	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.388221e+02	1.329058e+02	StartStim	5	5	 	294	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.388649e+02	1.329485e+02	StartStim	6	6	 	1007	603	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.389767e+02	1.330603e+02	StartStim	7	7	 	529	475	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.393399e+02	1.334236e+02	StartStim	8	8	 	267	322	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.407384e+02	1.348221e+02	StartStim	9	9	 	555	706	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:3	1	1	Hort	 	1.416444e+02	1.357280e+02	StartStim	10	10	 	893	765	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:8	1	1	Hort	 	4.342350e+02	4.283186e+02	StartStim	11	11	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:8	1	1	Hort	 	4.380560e+02	4.321396e+02	StartStim	12	12	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	 	5.237514e+02	5.178350e+02	StartStim	13	13	 	917	681	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	 	5.357143e+02	5.297979e+02	StartStim	14	14	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	 	5.360069e+02	5.300905e+02	StartStim	15	15	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.373679e+02	1.319287e+00	StimUp	16	1	h23.jpg	566	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.377523e+02	1.703700e+00	StimUp	17	2	h23.jpg	493	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.384274e+02	2.378876e+00	StimUp	18	3	h23.jpg	530	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.390523e+02	3.003763e+00	StimUp	19	4	h23.jpg	544	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.550672e+02	1.901859e+01	StimUp	20	5	h23.jpg	506	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.554433e+02	1.939471e+01	StimUp	21	6	h23.jpg	610	495	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.557863e+02	1.973773e+01	StimUp	22	7	h23.jpg	614	459	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.561798e+02	2.013122e+01	StimUp	23	8	h23.jpg	471	535	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.569451e+02	2.089657e+01	StimUp	24	9	h23.jpg	471	535	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:10	1	1	Hort	H Correct	5.573384e+02	2.128982e+01	StimUp	25	10	h23.jpg	610	472	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.797607e+02	1.067796e+01	StartStim	1	1	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.802141e+02	1.113134e+01	StartStim	2	2	 	473	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.805367e+02	1.145401e+01	StartStim	3	3	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.849708e+02	1.588807e+01	StartStim	4	4	 	462	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.852735e+02	1.619073e+01	StartStim	5	5	 	472	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.875159e+02	1.843313e+01	StartStim	6	6	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.884316e+02	1.934888e+01	StartStim	7	7	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.967761e+02	2.769336e+01	StartStim	8	8	 	522	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	5.985765e+02	2.949372e+01	StartStim	9	9	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	6.079664e+02	3.888368e+01	StartStim	10	10	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	6.081886e+02	3.910585e+01	StartStim	11	11	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	6.137885e+02	4.470575e+01	StartStim	12	12	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:11	1	2	Hort	 	6.242832e+02	5.520048e+01	StartStim	13	13	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.380771e+02	6.899440e+01	StartStim	14	14	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.386008e+02	6.951807e+01	StartStim	15	15	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.406423e+02	7.155958e+01	StartStim	16	16	 	479	564	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.413168e+02	7.223405e+01	StartStim	17	17	 	463	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.471779e+02	7.809520e+01	StartStim	18	18	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.610704e+02	9.198771e+01	StartStim	19	19	 	501	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.645895e+02	9.550680e+01	StartStim	20	20	 	463	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.648520e+02	9.576924e+01	StartStim	21	21	 	540	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.655766e+02	9.649384e+01	StartStim	22	22	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.686936e+02	9.961091e+01	StartStim	23	23	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.690465e+02	9.996375e+01	StartStim	24	24	 	452	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.693691e+02	1.002864e+02	StartStim	25	25	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.813317e+02	1.122489e+02	StartStim	26	26	 	494	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.815639e+02	1.124811e+02	StartStim	27	27	 	519	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.932245e+02	1.241418e+02	StartStim	28	28	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:12	1	2	Hort	 	6.936276e+02	1.245449e+02	StartStim	29	29	 	522	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	 	7.263332e+02	2.666698e+00	ITI	1	1	c8.jpg  	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	 	7.273767e+02	6.968392e-01	StartStim	2	1	 	511	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.280365e+02	6.446336e-01	StimUp	3	1	h21.jpg	468	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.287320e+02	1.340086e+00	StimUp	4	2	h21.jpg	399	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.294168e+02	2.024972e+00	StimUp	5	3	h21.jpg	471	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.297095e+02	2.317667e+00	StimUp	6	4	h21.jpg	420	559	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.300927e+02	2.700790e+00	StimUp	7	5	h21.jpg	479	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.384761e+02	1.108420e+01	StimUp	8	6	h21.jpg	428	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.389498e+02	1.155793e+01	StimUp	9	7	h21.jpg	476	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.395944e+02	1.220252e+01	StimUp	10	8	h21.jpg	442	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.402088e+02	1.281694e+01	StimUp	11	9	h21.jpg	479	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.402501e+02	1.285823e+01	StimUp	12	10	h21.jpg	457	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:13	1	3	Hort	H Correct	7.407136e+02	1.332170e+01	StimUp	13	11	h21.jpg	492	475	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.600809e+02	2.667658e+00	ITI	1	1	h21.jpg	550	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.611844e+02	7.671890e-01	StartStim	2	1	 	465	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.627436e+02	2.326356e+00	StartStim	3	2	 	504	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.631869e+02	2.769652e+00	StartStim	4	3	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.656809e+02	5.263659e+00	StartStim	5	4	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	4	Hort	 	7.660236e+02	5.606419e+00	StartStim	6	5	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	 	8.006764e+02	1.603096e+00	StartStim	1	1	 	460	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	 	8.014514e+02	2.378090e+00	StartStim	2	2	 	486	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	 	8.019951e+02	2.921839e+00	StartStim	3	3	 	522	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.027515e+02	7.360760e-01	StimUp	4	1	h21.jpg	443	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.030545e+02	1.039073e+00	StimUp	5	2	h21.jpg	446	495	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.037896e+02	1.774195e+00	StimUp	6	3	h21.jpg	413	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.043337e+02	2.318256e+00	StimUp	7	4	h21.jpg	468	486	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.053907e+02	3.375257e+00	StimUp	8	5	h21.jpg	428	525	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.117720e+02	9.756524e+00	StimUp	9	6	h21.jpg	405	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.125880e+02	1.057258e+01	StimUp	10	7	h21.jpg	457	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.126896e+02	1.067415e+01	StimUp	11	8	h21.jpg	488	477	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.130123e+02	1.099689e+01	StimUp	12	9	h21.jpg	459	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:14	1	5	Hort	H Correct	8.132749e+02	1.125941e+01	StimUp	13	10	h21.jpg	488	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.136278e+02	1.161238e+01	StimUp	14	11	h21.jpg	477	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.215864e+02	1.957099e+01	StimUp	15	12	h21.jpg	464	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.220300e+02	2.001454e+01	StimUp	16	13	h21.jpg	457	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.230467e+02	2.103126e+01	StimUp	17	14	h21.jpg	483	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.233697e+02	2.135422e+01	StimUp	18	15	h21.jpg	470	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.309424e+02	2.892693e+01	StimUp	19	16	h21.jpg	381	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.313056e+02	2.929011e+01	StimUp	20	17	h21.jpg	428	490	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	5	Hort	H Correct	8.319101e+02	2.989468e+01	StimUp	21	18	h21.jpg	398	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.391225e+02	4.063766e+00	StartStim	1	1	 	526	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.402795e+02	5.220769e+00	StartStim	2	2	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.452058e+02	1.014707e+01	StartStim	3	3	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.455184e+02	1.045966e+01	StartStim	4	4	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.467456e+02	1.168683e+01	StartStim	5	5	 	522	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.483952e+02	1.333642e+01	StartStim	6	6	 	496	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.489389e+02	1.388017e+01	StartStim	7	7	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.494224e+02	1.436364e+01	StartStim	8	8	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.508607e+02	1.580195e+01	StartStim	9	9	 	522	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	 	8.516557e+02	1.659699e+01	StartStim	10	10	 	511	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.523546e+02	6.844957e-01	StimUp	11	1	h29.jpg	428	516	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.526793e+02	1.009161e+00	StimUp	12	2	h29.jpg	491	453	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.533440e+02	1.673867e+00	StimUp	13	3	h29.jpg	464	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.540391e+02	2.368956e+00	StimUp	14	4	h29.jpg	501	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.608215e+02	9.151345e+00	StimUp	15	5	h29.jpg	437	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.611343e+02	9.464127e+00	StimUp	16	6	h29.jpg	501	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.623923e+02	1.072213e+01	StimUp	17	7	h29.jpg	501	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.627352e+02	1.106506e+01	StimUp	18	8	h29.jpg	522	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.634401e+02	1.176994e+01	StimUp	19	9	h29.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.641953e+02	1.252516e+01	StimUp	20	10	h29.jpg	392	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.645986e+02	1.292848e+01	StimUp	21	11	h29.jpg	498	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.726970e+02	2.102687e+01	StimUp	22	12	h29.jpg	413	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:15	1	6	Hort	H Correct	8.732915e+02	2.162131e+01	StimUp	23	13	h29.jpg	488	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.750892e+02	2.341910e+01	StimUp	24	14	h29.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.754925e+02	2.382239e+01	StimUp	25	15	h29.jpg	386	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.762175e+02	2.454740e+01	StimUp	26	16	h29.jpg	376	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.765907e+02	2.492051e+01	StimUp	27	17	h29.jpg	392	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.798499e+02	2.817975e+01	StimUp	28	18	h29.jpg	387	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	6	Hort	H Correct	8.808263e+02	2.915619e+01	StimUp	29	19	h29.jpg	381	561	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.875937e+02	2.897805e+00	StartStim	1	1	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.880471e+02	3.351154e+00	StartStim	2	2	 	471	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.884300e+02	3.734093e+00	StartStim	3	3	 	511	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.907327e+02	6.036839e+00	StartStim	4	4	 	493	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.918897e+02	7.193792e+00	StartStim	5	5	 	494	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.930868e+02	8.390926e+00	StartStim	6	6	 	490	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.934095e+02	8.713602e+00	StartStim	7	7	 	473	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.943452e+02	9.649283e+00	StartStim	8	8	 	522	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.954619e+02	1.076601e+01	StartStim	9	9	 	484	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.982069e+02	1.351099e+01	StartStim	10	10	 	468	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	8.985295e+02	1.383358e+01	StartStim	11	11	 	474	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.001285e+02	1.543263e+01	StartStim	12	12	 	473	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.029439e+02	1.824796e+01	StartStim	13	13	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.037892e+02	1.909332e+01	StartStim	14	14	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.047049e+02	2.000899e+01	StartStim	15	15	 	526	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.056406e+02	2.094474e+01	StartStim	16	16	 	505	553	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.066468e+02	2.195088e+01	StartStim	17	17	 	490	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.108394e+02	2.614348e+01	StartStim	18	18	 	522	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.138459e+02	2.915004e+01	StartStim	19	19	 	548	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.157769e+02	3.108095e+01	StartStim	20	20	 	473	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.173157e+02	3.261978e+01	StartStim	21	21	 	484	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.203655e+02	3.566956e+01	StartStim	22	22	 	516	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.232009e+02	3.850501e+01	StartStim	23	23	 	496	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.235436e+02	3.884772e+01	StartStim	24	24	 	484	585	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.239164e+02	3.922048e+01	StartStim	25	25	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	 	9.260582e+02	4.136234e+01	StartStim	26	26	 	526	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	H Correct	9.269185e+02	8.454777e-01	StimUp	27	1	h1.jpg 	518	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	H Correct	9.272017e+02	1.128658e+00	StimUp	28	2	h1.jpg 	522	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	H Correct	9.273535e+02	1.280486e+00	StimUp	29	3	h1.jpg 	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:16	1	7	Hort	H Correct	9.301201e+02	4.047065e+00	StimUp	30	4	h1.jpg 	509	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.304530e+02	4.379957e+00	StimUp	31	5	h1.jpg 	419	555	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.369993e+02	1.092630e+01	StimUp	32	6	h1.jpg 	411	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.377546e+02	1.168154e+01	StimUp	33	7	h1.jpg 	501	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.385198e+02	1.244676e+01	StimUp	34	8	h1.jpg 	501	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.394158e+02	1.334277e+01	StimUp	35	9	h1.jpg 	460	495	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.396984e+02	1.362535e+01	StimUp	36	10	h1.jpg 	544	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.402122e+02	1.413917e+01	StimUp	37	11	h1.jpg 	527	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.475548e+02	2.148179e+01	StimUp	38	12	h1.jpg 	494	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.478273e+02	2.175431e+01	StimUp	39	13	h1.jpg 	454	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.481903e+02	2.211728e+01	StimUp	40	14	h1.jpg 	518	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.485332e+02	2.246019e+01	StimUp	41	15	h1.jpg 	348	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	7	Hort	H Correct	9.489163e+02	2.284331e+01	StimUp	42	16	h1.jpg 	531	469	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.653047e+02	6.204737e+00	StartStim	1	1	 	496	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.672657e+02	8.165755e+00	StartStim	2	2	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.684428e+02	9.342857e+00	StartStim	3	3	 	482	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.688056e+02	9.705678e+00	StartStim	4	4	 	538	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.698019e+02	1.070194e+01	StartStim	5	5	 	484	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.700642e+02	1.096425e+01	StartStim	6	6	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.701053e+02	1.100535e+01	StartStim	7	7	 	519	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.711616e+02	1.206160e+01	StartStim	8	8	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.718058e+02	1.270583e+01	StartStim	9	9	 	487	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.730833e+02	1.398331e+01	StartStim	10	10	 	468	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.733455e+02	1.424557e+01	StartStim	11	11	 	494	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.734270e+02	1.432703e+01	StartStim	12	12	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.742622e+02	1.516226e+01	StartStim	13	13	 	490	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.752281e+02	1.612817e+01	StartStim	14	14	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:17	1	8	Hort	 	9.772393e+02	1.813939e+01	StartStim	15	15	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	 	1.029411e+03	1.911143e+01	StartStim	1	1	 	530	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	 	1.039051e+03	2.875212e+01	StartStim	2	2	 	493	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	 	1.039846e+03	2.954713e+01	StartStim	3	3	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.041027e+03	1.167133e+00	StimUp	4	1	h15.jpg	443	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.041803e+03	1.942611e+00	StimUp	5	2	h15.jpg	522	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.042407e+03	2.547088e+00	StimUp	6	3	h15.jpg	475	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.042730e+03	2.869871e+00	StimUp	7	4	h15.jpg	689	496	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.043023e+03	3.162398e+00	StimUp	8	5	h15.jpg	522	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.050641e+03	1.078102e+01	StimUp	9	6	h15.jpg	533	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.051044e+03	1.118428e+01	StimUp	10	7	h15.jpg	464	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:18	1	9	Hort	H Correct	1.051347e+03	1.148692e+01	StimUp	11	8	h15.jpg	530	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.051720e+03	1.185991e+01	StimUp	12	9	h15.jpg	457	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.059284e+03	1.942378e+01	StimUp	13	10	h15.jpg	562	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.059597e+03	1.973658e+01	StimUp	14	11	h15.jpg	473	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.060603e+03	2.074321e+01	StimUp	15	12	h15.jpg	468	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.060977e+03	2.111635e+01	StimUp	16	13	h15.jpg	490	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.061360e+03	2.149945e+01	StimUp	17	14	h15.jpg	660	517	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.061964e+03	2.210367e+01	StimUp	18	15	h15.jpg	479	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	9	Hort	H Correct	1.062719e+03	2.285885e+01	StimUp	19	16	h15.jpg	588	469	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	 	1.082949e+03	1.006442e+01	StartStim	1	1	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	 	1.083372e+03	1.048765e+01	StartStim	2	2	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	 	1.084489e+03	1.160439e+01	StartStim	3	3	 	485	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	 	1.085837e+03	1.295224e+01	StartStim	4	4	 	501	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.086756e+03	9.056638e-01	StimUp	5	1	h32.jpg	522	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.087090e+03	1.238780e+00	StimUp	6	2	h32.jpg	581	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.087433e+03	1.581780e+00	StimUp	7	3	h32.jpg	603	534	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.087735e+03	1.884499e+00	StimUp	8	4	h32.jpg	585	579	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.093828e+03	7.976771e+00	StimUp	9	5	h32.jpg	505	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.094191e+03	8.339764e+00	StimUp	10	6	h32.jpg	610	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.096012e+03	1.016094e+01	StimUp	11	7	h32.jpg	633	604	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.096355e+03	1.050385e+01	StimUp	12	8	h32.jpg	461	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.096667e+03	1.081646e+01	StimUp	13	9	h32.jpg	494	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.097030e+03	1.117937e+01	StimUp	14	10	h32.jpg	631	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.097866e+03	1.201507e+01	StimUp	15	11	h32.jpg	636	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.098591e+03	1.274006e+01	StimUp	16	12	h32.jpg	514	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.099266e+03	1.341480e+01	StimUp	17	13	h32.jpg	544	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.099910e+03	1.405935e+01	StimUp	18	14	h32.jpg	482	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.102304e+03	1.645361e+01	StimUp	19	15	h32.jpg	601	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.103371e+03	1.752057e+01	StimUp	20	16	h32.jpg	620	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.103905e+03	1.805452e+01	StimUp	21	17	h32.jpg	490	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.105324e+03	1.947350e+01	StimUp	22	18	h32.jpg	518	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.106884e+03	2.103316e+01	StimUp	23	19	h32.jpg	448	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.108524e+03	2.267328e+01	StimUp	24	20	h32.jpg	527	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:19	1	10	Hort	H Correct	1.110064e+03	2.421285e+01	StimUp	25	21	h32.jpg	440	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.121869e+03	2.988337e+00	StartStim	1	1	 	457	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.122724e+03	3.843721e+00	StartStim	2	2	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.123127e+03	4.246710e+00	StartStim	3	3	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.125963e+03	7.082478e+00	StartStim	4	4	 	559	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.129401e+03	1.052102e+01	StartStim	5	5	 	463	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.131563e+03	1.268304e+01	StartStim	6	6	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.132288e+03	1.340771e+01	StartStim	7	7	 	484	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.132701e+03	1.382073e+01	StartStim	8	8	 	479	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.133064e+03	1.418344e+01	StartStim	9	9	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	 	1.133406e+03	1.452611e+01	StartStim	10	10	 	508	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.134065e+03	6.441776e-01	StimUp	11	1	h21.jpg	422	472	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.134388e+03	9.671907e-01	StimUp	12	2	h21.jpg	501	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.134741e+03	1.320189e+00	StimUp	13	3	h21.jpg	376	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.135023e+03	1.602685e+00	StimUp	14	4	h21.jpg	512	415	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.135326e+03	1.905345e+00	StimUp	15	5	h21.jpg	485	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.135920e+03	2.499590e+00	StimUp	16	6	h21.jpg	494	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.143124e+03	9.703411e+00	StimUp	17	7	h21.jpg	376	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.144181e+03	1.076039e+01	StimUp	18	8	h21.jpg	385	540	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.145097e+03	1.167658e+01	StimUp	19	9	h21.jpg	530	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.145460e+03	1.203971e+01	StimUp	20	10	h21.jpg	481	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.145803e+03	1.238260e+01	StimUp	21	11	h21.jpg	522	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.146186e+03	1.276569e+01	StimUp	22	12	h21.jpg	501	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.153277e+03	1.985682e+01	StimUp	23	13	h21.jpg	446	477	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.153922e+03	2.050159e+01	StimUp	24	14	h21.jpg	477	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.154245e+03	2.082442e+01	StimUp	25	15	h21.jpg	490	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.154578e+03	2.115729e+01	StimUp	26	16	h21.jpg	488	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.154921e+03	2.150017e+01	StimUp	27	17	h21.jpg	499	448	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.163097e+03	2.967684e+01	StimUp	28	18	h21.jpg	479	450	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:20	1	11	Hort	H Correct	1.163360e+03	2.993937e+01	StimUp	29	19	h21.jpg	498	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	12	Hort	 	1.175816e+03	9.371111e+00	StartStim	1	1	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	12	Hort	 	1.179758e+03	1.331230e+01	StartStim	2	2	 	472	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	12	Hort	 	1.180100e+03	1.365502e+01	StartStim	3	3	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	12	Hort	 	1.181317e+03	1.487215e+01	StartStim	4	4	 	522	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	12	Hort	H Minor	1.184139e+03	2.796432e+00	StimUp	5	1	w13.jpg	403	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.215415e+03	1.048326e+00	StartStim	1	1	 	449	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.216773e+03	2.406211e+00	StartStim	2	2	 	541	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.217568e+03	3.201266e+00	StartStim	3	3	 	507	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.217951e+03	3.584195e+00	StartStim	4	4	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.218273e+03	3.906731e+00	StartStim	5	5	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.219933e+03	5.566131e+00	StartStim	6	6	 	493	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.221050e+03	6.682826e+00	StartStim	7	7	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.221372e+03	7.005432e+00	StartStim	8	8	 	464	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.222107e+03	7.740075e+00	StartStim	9	9	 	446	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.222409e+03	8.042539e+00	StartStim	10	10	 	468	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.222712e+03	8.344910e+00	StartStim	11	11	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.222793e+03	8.426176e+00	StartStim	12	12	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.223588e+03	9.221084e+00	StartStim	13	13	 	474	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.224413e+03	1.004629e+01	StartStim	14	14	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.224826e+03	1.045936e+01	StartStim	15	15	 	457	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.225551e+03	1.118400e+01	StartStim	16	16	 	493	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.228647e+03	1.428074e+01	StartStim	17	17	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.229091e+03	1.472399e+01	StartStim	18	18	 	526	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.230348e+03	1.598136e+01	StartStim	19	19	 	463	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.230610e+03	1.624366e+01	StartStim	20	20	 	529	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.231385e+03	1.701855e+01	StartStim	21	21	 	484	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.231688e+03	1.732103e+01	StartStim	22	22	 	541	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.232704e+03	1.833708e+01	StartStim	23	23	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.233127e+03	1.876017e+01	StartStim	24	24	 	514	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:21	1	13	Hort	 	1.234133e+03	1.976627e+01	StartStim	25	25	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.236004e+03	2.163687e+01	StartStim	26	26	 	495	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.237884e+03	2.351748e+01	StartStim	27	27	 	474	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.238549e+03	2.418183e+01	StartStim	28	28	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.238891e+03	2.452451e+01	StartStim	29	29	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.239525e+03	2.515867e+01	StartStim	30	30	 	501	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.240572e+03	2.620499e+01	StartStim	31	31	 	526	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.240864e+03	2.649743e+01	StartStim	32	32	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.241066e+03	2.669934e+01	StartStim	33	33	 	537	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.243650e+03	2.928362e+01	StartStim	34	34	 	522	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.244385e+03	3.001838e+01	StartStim	35	35	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	 	1.244708e+03	3.034097e+01	StartStim	36	36	 	526	519	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.244742e+03	2.067087e-02	StimUp	37	1	w1.jpg 	475	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.245951e+03	1.228792e+00	StimUp	38	2	w1.jpg 	610	490	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.246585e+03	1.863390e+00	StimUp	39	3	w1.jpg 	488	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.247049e+03	2.326983e+00	StimUp	40	4	w1.jpg 	620	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.264981e+03	2.025904e+01	StimUp	41	5	w1.jpg 	476	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.272162e+03	2.744052e+01	StimUp	42	6	w1.jpg 	438	481	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	13	Hort	H Minor	1.274085e+03	2.936316e+01	StimUp	43	7	w1.jpg 	806	433	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	 	1.276604e+03	1.862133e+00	ITI	1	1	w1.jpg 	479	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	 	1.279265e+03	1.510715e+00	StartStim	2	1	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	 	1.280060e+03	2.305746e+00	StartStim	3	2	 	519	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.281261e+03	1.187282e+00	StimUp	4	1	h3.jpg 	642	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.281896e+03	1.821834e+00	StimUp	5	2	h3.jpg 	446	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.282239e+03	2.164818e+00	StimUp	6	3	h3.jpg 	661	489	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.282582e+03	2.507633e+00	StimUp	7	4	h3.jpg 	472	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.283196e+03	3.122073e+00	StimUp	8	5	h3.jpg 	457	541	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.284655e+03	4.581236e+00	StimUp	9	6	h3.jpg 	505	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.285018e+03	4.944305e+00	StimUp	10	7	h3.jpg 	486	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.291940e+03	1.186612e+01	StimUp	11	8	h3.jpg 	471	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.292534e+03	1.246047e+01	StimUp	12	9	h3.jpg 	631	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.292837e+03	1.276307e+01	StimUp	13	10	h3.jpg 	464	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.293482e+03	1.340762e+01	StimUp	14	11	h3.jpg 	501	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:22	1	14	Hort	H Correct	1.293754e+03	1.368012e+01	StimUp	15	12	h3.jpg 	537	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.294097e+03	1.402301e+01	StimUp	16	13	h3.jpg 	465	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.301319e+03	2.124466e+01	StimUp	17	14	h3.jpg 	475	516	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.301702e+03	2.162778e+01	StimUp	18	15	h3.jpg 	601	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.302276e+03	2.220187e+01	StimUp	19	16	h3.jpg 	566	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.302317e+03	2.224305e+01	StimUp	20	17	h3.jpg 	558	493	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.309241e+03	2.916708e+01	StimUp	21	18	h3.jpg 	496	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.309554e+03	2.947989e+01	StimUp	22	19	h3.jpg 	631	474	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	14	Hort	H Correct	1.309856e+03	2.978243e+01	StimUp	23	20	h3.jpg 	468	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.316080e+03	2.978156e+00	StartStim	1	1	 	519	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.317930e+03	4.828617e+00	StartStim	2	2	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.320012e+03	6.910251e+00	StartStim	3	3	 	472	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.320315e+03	7.212753e+00	StartStim	4	4	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.321210e+03	8.108348e+00	StartStim	5	5	 	497	553	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.321673e+03	8.571683e+00	StartStim	6	6	 	490	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.322458e+03	9.356564e+00	StartStim	7	7	 	463	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.324078e+03	1.097584e+01	StartStim	8	8	 	511	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.324370e+03	1.126835e+01	StartStim	9	9	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.325336e+03	1.223422e+01	StartStim	10	10	 	441	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.325608e+03	1.250655e+01	StartStim	11	11	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.326072e+03	1.296985e+01	StartStim	12	12	 	468	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.327249e+03	1.414683e+01	StartStim	13	13	 	449	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.327913e+03	1.481140e+01	StartStim	14	14	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	 	1.328809e+03	1.570699e+01	StartStim	15	15	 	511	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.329648e+03	8.252236e-01	StimUp	16	1	h23.jpg	564	450	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.330654e+03	1.831921e+00	StimUp	17	2	h23.jpg	599	426	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.331711e+03	2.888807e+00	StimUp	18	3	h23.jpg	600	429	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.332929e+03	4.106610e+00	StimUp	19	4	h23.jpg	441	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.333996e+03	5.173733e+00	StimUp	20	5	h23.jpg	482	547	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.340608e+03	1.178519e+01	StimUp	21	6	h23.jpg	588	429	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.342228e+03	1.340555e+01	StimUp	22	7	h23.jpg	600	447	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.342551e+03	1.372833e+01	StimUp	23	8	h23.jpg	563	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.343869e+03	1.504657e+01	StimUp	24	9	h23.jpg	479	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.344192e+03	1.536938e+01	StimUp	25	10	h23.jpg	515	514	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.351132e+03	2.230995e+01	StimUp	26	11	h23.jpg	514	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.351807e+03	2.298473e+01	StimUp	27	12	h23.jpg	507	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:23	1	15	Hort	H Correct	1.352472e+03	2.364940e+01	StimUp	28	13	h23.jpg	486	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	15	Hort	H Correct	1.353066e+03	2.424369e+01	StimUp	29	14	h23.jpg	501	537	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.368506e+03	6.658138e+00	StartStim	1	1	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.369703e+03	7.855441e+00	StartStim	2	2	 	494	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.371202e+03	9.354275e+00	StartStim	3	3	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.372329e+03	1.048114e+01	StartStim	4	4	 	468	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.374723e+03	1.287487e+01	StartStim	5	5	 	485	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.375065e+03	1.321765e+01	StartStim	6	6	 	533	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.375549e+03	1.370110e+01	StartStim	7	7	 	516	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.375861e+03	1.401362e+01	StartStim	8	8	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.376727e+03	1.487906e+01	StartStim	9	9	 	484	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.377070e+03	1.522179e+01	StartStim	10	10	 	519	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.378066e+03	1.621801e+01	StartStim	11	11	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	 	1.378760e+03	1.691260e+01	StartStim	12	12	 	526	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.379529e+03	7.549477e-01	StimUp	13	1	h2.jpg 	479	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.379862e+03	1.087939e+00	StimUp	14	2	h2.jpg 	522	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.380829e+03	2.054454e+00	StimUp	15	3	h2.jpg 	509	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.381644e+03	2.870143e+00	StimUp	16	4	h2.jpg 	506	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.382068e+03	3.293590e+00	StimUp	17	5	h2.jpg 	400	678	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.382702e+03	3.928147e+00	StimUp	18	6	h2.jpg 	516	564	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.388840e+03	1.006593e+01	StimUp	19	7	h2.jpg 	430	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.389223e+03	1.044911e+01	StimUp	20	8	h2.jpg 	409	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.389999e+03	1.122442e+01	StimUp	21	9	h2.jpg 	473	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.390221e+03	1.144668e+01	StimUp	22	10	h2.jpg 	479	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.390825e+03	1.205091e+01	StimUp	23	11	h2.jpg 	501	580	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.400639e+03	2.186514e+01	StimUp	24	12	h2.jpg 	474	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.400761e+03	2.198682e+01	StimUp	25	13	h2.jpg 	490	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.401466e+03	2.269168e+01	StimUp	26	14	h2.jpg 	507	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.401718e+03	2.294410e+01	StimUp	27	15	h2.jpg 	522	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.402041e+03	2.326686e+01	StimUp	28	16	h2.jpg 	392	600	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	16	Hort	H Correct	1.402323e+03	2.354936e+01	StimUp	29	17	h2.jpg 	539	591	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:24	1	17	Hort	 	1.412480e+03	6.764921e-01	StartStim	1	1	 	511	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	 	1.445171e+03	2.656460e+00	ITI	1	1	w5.jpg 	441	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	 	1.449591e+03	4.063924e+00	StartStim	2	1	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	 	1.450990e+03	5.462031e+00	StartStim	3	2	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.451698e+03	6.945008e-01	StimUp	4	1	h29.jpg	417	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.451991e+03	9.872001e-01	StimUp	5	2	h29.jpg	479	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.452293e+03	1.289897e+00	StimUp	6	3	h29.jpg	471	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.452636e+03	1.632776e+00	StimUp	7	4	h29.jpg	471	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.459097e+03	8.093267e+00	StimUp	8	5	h29.jpg	376	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.459932e+03	8.928878e+00	StimUp	9	6	h29.jpg	487	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.460889e+03	9.885181e+00	StimUp	10	7	h29.jpg	501	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.462287e+03	1.128405e+01	StimUp	11	8	h29.jpg	392	562	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.463073e+03	1.206943e+01	StimUp	12	9	h29.jpg	337	519	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.463456e+03	1.245249e+01	StimUp	13	10	h29.jpg	392	585	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.465257e+03	1.425345e+01	StimUp	14	11	h29.jpg	443	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.465610e+03	1.460643e+01	StimUp	15	12	h29.jpg	413	525	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.471987e+03	2.098373e+01	StimUp	16	13	h29.jpg	488	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.472390e+03	2.138695e+01	StimUp	17	14	h29.jpg	471	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.472995e+03	2.199125e+01	StimUp	18	15	h29.jpg	509	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.473307e+03	2.230397e+01	StimUp	19	16	h29.jpg	508	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:25	1	18	Hort	H Correct	1.473650e+03	2.264685e+01	StimUp	20	17	h29.jpg	465	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	18	Hort	H Correct	1.475105e+03	2.410198e+01	StimUp	21	18	h29.jpg	448	465	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	 	1.486069e+03	2.033361e+00	StartStim	1	1	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	 	1.486512e+03	2.476584e+00	StartStim	2	2	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	 	1.489006e+03	4.970163e+00	StartStim	3	3	 	463	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	 	1.489329e+03	5.293281e+00	StartStim	4	4	 	522	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	H Minor	1.490310e+03	9.559093e-01	StimUp	5	1	9h.jpg 	501	448	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	H Minor	1.490704e+03	1.349115e+00	StimUp	6	2	9h.jpg 	623	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	19	Hort	H Minor	1.491429e+03	2.074075e+00	StimUp	7	3	9h.jpg 	464	492	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	 	1.520506e+03	1.137785e+00	ITI	1	1	9h.jpg 	557	465	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	 	1.521584e+03	2.215428e+00	ITI	2	2	9h.jpg 	428	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	 	1.522118e+03	2.749391e+00	ITI	3	3	9h.jpg 	435	504	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	 	1.522638e+03	2.643457e-01	StartStim	4	1	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.523578e+03	9.257198e-01	StimUp	5	1	1h.jpg 	527	448	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.523860e+03	1.208369e+00	StimUp	6	2	1h.jpg 	509	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.524284e+03	1.631688e+00	StimUp	7	3	1h.jpg 	354	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.524576e+03	1.924336e+00	StimUp	8	4	1h.jpg 	533	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.525140e+03	2.488496e+00	StimUp	9	5	1h.jpg 	345	562	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.525463e+03	2.811253e+00	StimUp	10	6	1h.jpg 	544	481	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.525746e+03	3.093729e+00	StimUp	11	7	1h.jpg 	376	561	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.526360e+03	3.707992e+00	StimUp	12	8	1h.jpg 	464	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.527065e+03	4.412889e+00	StimUp	13	9	1h.jpg 	378	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.527478e+03	4.826141e+00	StimUp	14	10	1h.jpg 	395	489	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.527922e+03	5.269553e+00	StimUp	15	11	1h.jpg 	535	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.529079e+03	6.426989e+00	StimUp	16	12	1h.jpg 	518	492	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.529402e+03	6.749770e+00	StimUp	17	13	1h.jpg 	392	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.530016e+03	7.364168e+00	StimUp	18	14	1h.jpg 	464	492	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.530641e+03	7.988659e+00	StimUp	19	15	1h.jpg 	421	504	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:26	1	20	Hort	H Minor	1.531084e+03	8.432110e+00	StimUp	20	16	1h.jpg 	362	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	20	Hort	H Minor	1.534957e+03	1.230485e+01	StimUp	21	17	1h.jpg 	392	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	20	Hort	H Minor	1.535883e+03	1.323102e+01	StimUp	22	18	1h.jpg 	622	447	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	20	Hort	H Minor	1.539203e+03	1.655071e+01	StimUp	23	19	1h.jpg 	457	481	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	20	Hort	H Minor	1.550457e+03	2.780499e+01	StimUp	24	20	1h.jpg 	618	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	20	Hort	H Minor	1.550981e+03	2.832897e+01	StimUp	25	21	1h.jpg 	471	481	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.553217e+03	5.445129e-01	ITI	1	1	1h.jpg 	708	334	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.555119e+03	2.446218e+00	ITI	2	2	1h.jpg 	511	459	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.556614e+03	9.376532e-01	StartStim	3	1	 	633	708	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.556957e+03	1.280375e+00	StartStim	4	2	 	610	684	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.557340e+03	1.663232e+00	StartStim	5	3	 	457	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.557562e+03	1.885286e+00	StartStim	6	4	 	609	718	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	 	1.557693e+03	2.016873e+00	StartStim	7	5	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.558391e+03	6.844019e-01	StimUp	8	1	h24.jpg	631	750	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.558976e+03	1.268654e+00	StimUp	9	2	h24.jpg	642	652	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.559540e+03	1.832759e+00	StimUp	10	3	h24.jpg	642	709	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.562075e+03	4.368077e+00	StimUp	11	4	h24.jpg	631	741	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.562730e+03	5.022722e+00	StimUp	12	5	h24.jpg	577	706	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.564119e+03	6.411451e+00	StimUp	13	6	h24.jpg	588	741	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.564552e+03	6.844891e+00	StimUp	14	7	h24.jpg	399	639	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.564915e+03	7.207836e+00	StimUp	15	8	h24.jpg	516	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.565348e+03	7.641253e+00	StimUp	16	9	h24.jpg	397	604	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.566174e+03	8.466816e+00	StimUp	17	10	h24.jpg	504	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.566929e+03	9.222004e+00	StimUp	18	11	h24.jpg	408	603	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.568187e+03	1.048011e+01	StimUp	19	12	h24.jpg	387	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.570270e+03	1.256275e+01	StimUp	20	13	h24.jpg	610	762	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.570935e+03	1.322745e+01	StimUp	21	14	h24.jpg	399	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.579966e+03	2.225888e+01	StimUp	22	15	h24.jpg	686	387	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.580228e+03	2.252137e+01	StimUp	23	16	h24.jpg	686	387	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.583488e+03	2.578047e+01	StimUp	24	17	h24.jpg	592	622	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.583891e+03	2.618367e+01	StimUp	25	18	h24.jpg	496	601	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.585008e+03	2.730089e+01	StimUp	26	19	h24.jpg	518	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	21	Hort	H Correct	1.585331e+03	2.762365e+01	StimUp	27	20	h24.jpg	504	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.591163e+03	4.251048e-01	StartStim	1	1	 	504	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.591526e+03	7.879257e-01	StartStim	2	2	 	471	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.591849e+03	1.110409e+00	StartStim	3	3	 	519	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.593106e+03	2.367755e+00	StartStim	4	4	 	520	640	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.593609e+03	2.871294e+00	StartStim	5	5	 	600	657	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:27	1	22	Hort	 	1.594043e+03	3.304469e+00	StartStim	6	6	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.594747e+03	4.009035e+00	StartStim	7	7	 	519	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.595522e+03	4.783924e+00	StartStim	8	8	 	522	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.596006e+03	5.267394e+00	StartStim	9	9	 	494	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.597484e+03	6.746014e+00	StartStim	10	10	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.597807e+03	7.068635e+00	StartStim	11	11	 	551	535	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.598602e+03	7.863581e+00	StartStim	12	12	 	495	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.598884e+03	8.145936e+00	StartStim	13	13	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.598965e+03	8.227216e+00	StartStim	14	14	 	518	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.599358e+03	8.620083e+00	StartStim	15	15	 	463	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.600505e+03	9.766911e+00	StartStim	16	16	 	457	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.600779e+03	1.004064e+01	StartStim	17	17	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.600861e+03	1.012237e+01	StartStim	18	18	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.601203e+03	1.046499e+01	StartStim	19	19	 	541	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.601566e+03	1.082772e+01	StartStim	20	20	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.601597e+03	1.085869e+01	StartStim	21	21	 	457	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.602161e+03	1.142251e+01	StartStim	22	22	 	463	585	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	 	1.603700e+03	1.296203e+01	StartStim	23	23	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	H Minor	1.604479e+03	7.648702e-01	StimUp	24	1	34h.jpg	413	657	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	H Minor	1.604842e+03	1.127859e+00	StimUp	25	2	34h.jpg	457	559	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	H Minor	1.605225e+03	1.510923e+00	StimUp	26	3	34h.jpg	392	669	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	22	Hort	H Minor	1.605598e+03	1.883905e+00	StimUp	27	4	34h.jpg	479	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.637557e+03	8.171710e-01	StartStim	1	1	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.637860e+03	1.119694e+00	StartStim	2	2	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.640474e+03	3.734071e+00	StartStim	3	3	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.640877e+03	4.137123e+00	StartStim	4	4	 	473	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.641511e+03	4.771388e+00	StartStim	5	5	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.641995e+03	5.254914e+00	StartStim	6	6	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.648519e+03	1.177946e+01	StartStim	7	7	 	526	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	 	1.649234e+03	1.249409e+01	StartStim	8	8	 	526	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.650898e+03	1.649789e+00	StimUp	9	1	34h.jpg	461	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.651231e+03	1.982652e+00	StimUp	10	2	34h.jpg	462	553	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.651574e+03	2.325509e+00	StimUp	11	3	34h.jpg	441	570	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.651896e+03	2.648319e+00	StimUp	12	4	34h.jpg	457	564	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.652672e+03	3.424380e+00	StimUp	13	5	34h.jpg	452	558	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.653035e+03	3.787409e+00	StimUp	14	6	34h.jpg	457	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:28	1	23	Hort	H Minor	1.653439e+03	4.190598e+00	StimUp	15	7	34h.jpg	451	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.682632e+03	3.547536e-01	StartStim	1	1	 	547	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.686925e+03	4.647827e+00	StartStim	2	2	 	537	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.687670e+03	5.392714e+00	StartStim	3	3	 	479	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.687953e+03	5.675110e+00	StartStim	4	4	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.689743e+03	7.465150e+00	StartStim	5	5	 	483	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.690749e+03	8.471295e+00	StartStim	6	6	 	486	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.691031e+03	8.753717e+00	StartStim	7	7	 	529	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.691424e+03	9.146625e+00	StartStim	8	8	 	529	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.691787e+03	9.509327e+00	StartStim	9	9	 	482	535	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.692130e+03	9.852053e+00	StartStim	10	10	 	566	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.693307e+03	1.102896e+01	StartStim	11	11	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.693931e+03	1.165327e+01	StartStim	12	12	 	563	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.694284e+03	1.200613e+01	StartStim	13	13	 	529	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.694687e+03	1.240909e+01	StartStim	14	14	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.695532e+03	1.325433e+01	StartStim	15	15	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.697624e+03	1.534617e+01	StartStim	16	16	 	486	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	 	1.697826e+03	1.554817e+01	StartStim	17	17	 	526	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:29	1	24	Hort	H Minor	1.697867e+03	2.074996e-02	StimUp	18	1	w10.jpg	516	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	24	Hort	H Minor	1.723823e+03	2.597679e+01	StimUp	19	2	w10.jpg	653	420	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.731486e+03	6.160680e-01	StartStim	1	1	 	482	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.732301e+03	1.431251e+00	StartStim	2	2	 	485	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.733146e+03	2.276532e+00	StartStim	3	3	 	497	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.734765e+03	3.895778e+00	StartStim	4	4	 	490	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.736003e+03	5.133060e+00	StartStim	5	5	 	483	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.737079e+03	6.209536e+00	StartStim	6	6	 	501	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.737442e+03	6.572341e+00	StartStim	7	7	 	457	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.737764e+03	6.894873e+00	StartStim	8	8	 	551	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.738238e+03	7.368234e+00	StartStim	9	9	 	533	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.738982e+03	8.113009e+00	StartStim	10	10	 	550	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.739385e+03	8.516027e+00	StartStim	11	11	 	473	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.739658e+03	8.788283e+00	StartStim	12	12	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.741086e+03	1.021649e+01	StartStim	13	13	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.741901e+03	1.103162e+01	StartStim	14	14	 	465	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.742837e+03	1.196730e+01	StartStim	15	15	 	530	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.742938e+03	1.206874e+01	StartStim	16	16	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.743683e+03	1.281342e+01	StartStim	17	17	 	471	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.744578e+03	1.370897e+01	StartStim	18	18	 	495	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.744901e+03	1.403175e+01	StartStim	19	19	 	494	535	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.745304e+03	1.443477e+01	StartStim	20	20	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.746340e+03	1.547100e+01	StartStim	21	21	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.747085e+03	1.621578e+01	StartStim	22	22	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.747840e+03	1.697074e+01	StartStim	23	23	 	493	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.748223e+03	1.735366e+01	StartStim	24	24	 	497	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.748656e+03	1.778679e+01	StartStim	25	25	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.750125e+03	1.925525e+01	StartStim	26	26	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.751704e+03	2.083439e+01	StartStim	27	27	 	537	504	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.751866e+03	2.099619e+01	StartStim	28	28	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.752138e+03	2.126847e+01	StartStim	29	29	 	544	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.753637e+03	2.276717e+01	StartStim	30	30	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.755045e+03	2.417538e+01	StartStim	31	31	 	471	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.756101e+03	2.523176e+01	StartStim	32	32	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.757017e+03	2.614743e+01	StartStim	33	33	 	588	459	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.757239e+03	2.636948e+01	StartStim	34	34	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.757963e+03	2.709403e+01	StartStim	35	35	 	530	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.759744e+03	2.887412e+01	StartStim	36	36	 	686	364	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.760217e+03	2.934754e+01	StartStim	37	37	 	773	426	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.761163e+03	3.029334e+01	StartStim	38	38	 	468	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.762159e+03	3.128940e+01	StartStim	39	39	 	486	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.763004e+03	3.213466e+01	StartStim	40	40	 	465	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.763317e+03	3.244717e+01	StartStim	41	41	 	507	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.763659e+03	3.278976e+01	StartStim	42	42	 	484	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.763982e+03	3.311225e+01	StartStim	43	43	 	511	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.764063e+03	3.319358e+01	StartStim	44	44	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.765602e+03	3.473231e+01	StartStim	45	45	 	473	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.765844e+03	3.497450e+01	StartStim	46	46	 	501	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.766518e+03	3.564885e+01	StartStim	47	47	 	487	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.767655e+03	3.678558e+01	StartStim	48	48	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.768742e+03	3.787209e+01	StartStim	49	49	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.768803e+03	3.793355e+01	StartStim	50	50	 	522	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:30	1	25	Hort	 	1.770422e+03	3.955287e+01	StartStim	51	51	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	 	1.781802e+03	5.093214e+01	StartStim	52	52	 	490	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	 	1.782396e+03	5.152616e+01	StartStim	53	53	 	515	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.783175e+03	7.649139e-01	StimUp	54	1	34h.jpg	392	621	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.783980e+03	1.570529e+00	StimUp	55	2	34h.jpg	451	541	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.784333e+03	1.923490e+00	StimUp	56	3	34h.jpg	410	669	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.784696e+03	2.286469e+00	StimUp	57	4	34h.jpg	464	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.784999e+03	2.589102e+00	StimUp	58	5	34h.jpg	476	582	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.785613e+03	3.203473e+00	StimUp	59	6	34h.jpg	468	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.785916e+03	3.506089e+00	StimUp	60	7	34h.jpg	459	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.786339e+03	3.929375e+00	StimUp	61	8	34h.jpg	479	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.786682e+03	4.272194e+00	StimUp	62	9	34h.jpg	440	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.787055e+03	4.645159e+00	StimUp	63	10	34h.jpg	475	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.787519e+03	5.108658e+00	StimUp	64	11	34h.jpg	413	700	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.788394e+03	5.984425e+00	StimUp	65	12	34h.jpg	415	657	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.789280e+03	6.870349e+00	StimUp	66	13	34h.jpg	432	669	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	25	Hort	H Minor	1.795737e+03	1.332743e+01	StimUp	67	14	34h.jpg	497	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	26	Hort	 	1.816696e+03	1.259352e+00	StartStim	1	1	 	526	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	26	Hort	H Major	1.818154e+03	1.438713e+00	StimUp	2	1	j6.jpg  	533	618	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:31	1	26	Hort	H Major	1.818789e+03	2.073301e+00	StimUp	3	2	j6.jpg  	549	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	26	Hort	H Major	1.836086e+03	1.937084e+01	StimUp	4	3	j6.jpg  	795	42	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	26	Hort	H Major	1.836288e+03	1.957293e+01	StimUp	5	4	j6.jpg  	740	291	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	26	Hort	H Major	1.836370e+03	1.965423e+01	StimUp	6	5	j6.jpg  	659	145	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.850308e+03	5.658232e-01	StartStim	1	1	 	508	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.850610e+03	8.683466e-01	StartStim	2	2	 	541	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.851003e+03	1.261267e+00	StartStim	3	3	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.851326e+03	1.583842e+00	StartStim	4	4	 	507	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.852442e+03	2.700383e+00	StartStim	5	5	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	27	Hort	 	1.853388e+03	3.646161e+00	StartStim	6	6	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.889944e+03	3.500791e+00	StartStim	1	1	 	479	535	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.890226e+03	3.783202e+00	StartStim	2	2	 	544	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.891684e+03	5.241612e+00	StartStim	3	3	 	501	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.891937e+03	5.493840e+00	StartStim	4	4	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.892299e+03	5.856581e+00	StartStim	5	5	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	 	1.892763e+03	6.319826e+00	StartStim	6	6	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:32	1	28	Hort	H Correct	1.894024e+03	1.247494e+00	StimUp	7	1	h3.jpg 	514	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.894598e+03	1.821774e+00	StimUp	8	2	h3.jpg 	492	477	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.894901e+03	2.124413e+00	StimUp	9	3	h3.jpg 	617	511	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.895244e+03	2.467253e+00	StimUp	10	4	h3.jpg 	457	516	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.895557e+03	2.779955e+00	StimUp	11	5	h3.jpg 	653	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.895919e+03	3.142811e+00	StimUp	12	6	h3.jpg 	479	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.898163e+03	5.386347e+00	StimUp	13	7	h3.jpg 	664	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.898777e+03	6.000754e+00	StimUp	14	8	h3.jpg 	514	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.904465e+03	1.168811e+01	StimUp	15	9	h3.jpg 	536	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.904777e+03	1.200084e+01	StimUp	16	10	h3.jpg 	557	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.905161e+03	1.238390e+01	StimUp	17	11	h3.jpg 	631	477	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.905483e+03	1.270662e+01	StimUp	18	12	h3.jpg 	472	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.905786e+03	1.300943e+01	StimUp	19	13	h3.jpg 	522	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.913944e+03	2.116755e+01	StimUp	20	14	h3.jpg 	514	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.914800e+03	2.202345e+01	StimUp	21	15	h3.jpg 	487	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.915425e+03	2.264792e+01	StimUp	22	16	h3.jpg 	627	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.915717e+03	2.294046e+01	StimUp	23	17	h3.jpg 	472	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.916040e+03	2.326318e+01	StimUp	24	18	h3.jpg 	580	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	28	Hort	H Correct	1.916342e+03	2.356584e+01	StimUp	25	19	h3.jpg 	501	525	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.922943e+03	1.523057e-01	ITI	1	1	h3.jpg 	472	459	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.926419e+03	6.160582e-01	StartStim	2	1	 	460	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.927778e+03	1.974337e+00	StartStim	3	2	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.928140e+03	2.337224e+00	StartStim	4	3	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.929880e+03	4.077089e+00	StartStim	5	4	 	504	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.931057e+03	5.254081e+00	StartStim	6	5	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.932184e+03	6.380795e+00	StartStim	7	6	 	463	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.932476e+03	6.673213e+00	StartStim	8	7	 	484	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:33	1	29	Hort	 	1.936277e+03	1.047380e+01	StartStim	9	8	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	 	1.969959e+03	6.361418e-01	StartStim	1	1	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.970657e+03	6.843886e-01	StimUp	2	1	h32.jpg	505	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.970980e+03	1.007179e+00	StimUp	3	2	h32.jpg	528	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.971022e+03	1.048419e+00	StimUp	4	3	h32.jpg	536	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.971284e+03	1.310769e+00	StimUp	5	4	h32.jpg	595	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.971858e+03	1.885121e+00	StimUp	6	5	h32.jpg	583	582	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.981056e+03	1.108279e+01	StimUp	7	6	h32.jpg	517	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.982203e+03	1.223026e+01	StimUp	8	7	h32.jpg	588	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.982858e+03	1.288489e+01	StimUp	9	8	h32.jpg	479	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.983221e+03	1.324784e+01	StimUp	10	9	h32.jpg	479	640	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.983554e+03	1.358063e+01	StimUp	11	10	h32.jpg	518	618	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.983937e+03	1.396369e+01	StimUp	12	11	h32.jpg	501	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.984320e+03	1.434678e+01	StimUp	13	12	h32.jpg	620	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.984663e+03	1.468967e+01	StimUp	14	13	h32.jpg	459	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.984996e+03	1.502246e+01	StimUp	15	14	h32.jpg	490	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.985761e+03	1.578763e+01	StimUp	16	15	h32.jpg	675	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.986918e+03	1.694510e+01	StimUp	17	16	h32.jpg	522	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.987241e+03	1.726790e+01	StimUp	18	17	h32.jpg	527	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.987614e+03	1.764106e+01	StimUp	19	18	h32.jpg	494	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.987997e+03	1.802417e+01	StimUp	20	19	h32.jpg	472	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.988762e+03	1.878936e+01	StimUp	21	20	h32.jpg	479	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.989156e+03	1.918246e+01	StimUp	22	21	h32.jpg	610	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.990494e+03	2.052113e+01	StimUp	23	22	h32.jpg	479	646	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.991501e+03	2.152775e+01	StimUp	24	23	h32.jpg	497	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.991854e+03	2.188069e+01	StimUp	25	24	h32.jpg	511	640	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.993474e+03	2.350082e+01	StimUp	26	25	h32.jpg	483	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.995939e+03	2.596563e+01	StimUp	27	26	h32.jpg	518	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	30	Hort	H Correct	1.998383e+03	2.841036e+01	StimUp	28	27	h32.jpg	566	603	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	31	Hort	 	2.007142e+03	5.355553e-01	StartStim	1	1	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	31	Hort	 	2.010661e+03	4.054568e+00	StartStim	2	2	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	31	Hort	 	2.012772e+03	6.166344e+00	StartStim	3	3	 	511	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:34	1	31	Hort	 	2.014301e+03	7.695190e+00	StartStim	4	4	 	473	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.014614e+03	8.007787e+00	StartStim	5	5	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.014876e+03	8.270037e+00	StartStim	6	6	 	541	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.015621e+03	9.014729e+00	StartStim	7	7	 	516	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.017833e+03	1.122708e+01	StartStim	8	8	 	457	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.018075e+03	1.146928e+01	StartStim	9	9	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.018398e+03	1.179183e+01	StartStim	10	10	 	508	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	 	2.018891e+03	1.228525e+01	StartStim	11	11	 	508	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.019700e+03	7.949949e-01	StimUp	12	1	10h.jpg	479	607	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.020395e+03	1.490056e+00	StimUp	13	2	10h.jpg	475	622	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.020718e+03	1.812847e+00	StimUp	14	3	10h.jpg	645	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.021041e+03	2.135553e+00	StimUp	15	4	10h.jpg	440	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.021353e+03	2.448239e+00	StimUp	16	5	10h.jpg	484	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.021958e+03	3.052464e+00	StimUp	17	6	10h.jpg	494	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.022300e+03	3.395297e+00	StimUp	18	7	10h.jpg	681	603	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.022613e+03	3.707921e+00	StimUp	19	8	10h.jpg	485	630	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.023680e+03	4.774891e+00	StimUp	20	9	10h.jpg	446	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.024053e+03	5.147959e+00	StimUp	21	10	10h.jpg	669	598	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.025512e+03	6.607098e+00	StimUp	22	11	10h.jpg	462	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.027112e+03	8.207203e+00	StimUp	23	12	10h.jpg	637	579	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.027536e+03	8.630546e+00	StimUp	24	13	10h.jpg	497	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	31	Hort	H Minor	2.027939e+03	9.033696e+00	StimUp	25	14	10h.jpg	461	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	32	Hort	 	2.054879e+03	2.948148e+00	StartStim	1	1	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	32	Hort	 	2.055151e+03	3.220519e+00	StartStim	2	2	 	519	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:35	1	32	Hort	 	2.055534e+03	3.603360e+00	StartStim	3	3	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	 	2.087352e+03	1.791677e+00	ITI	1	1	c7.jpg  	394	621	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	 	2.089009e+03	4.355224e-01	StartStim	2	1	 	538	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	 	2.089412e+03	8.386006e-01	StartStim	3	2	 	511	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	H Major	2.090191e+03	7.648674e-01	StimUp	4	1	c6.jpg  	527	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	H Major	2.113634e+03	2.420779e+01	StimUp	5	2	c6.jpg  	506	603	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	33	Hort	H Major	2.114409e+03	2.498314e+01	StimUp	6	3	c6.jpg  	548	646	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	 	2.122967e+03	5.154573e-01	StartStim	1	1	 	522	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	 	2.123290e+03	8.380868e-01	StartStim	2	2	 	515	519	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.123928e+03	6.140119e-01	StimUp	3	1	2h.jpg 	577	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.124250e+03	9.367916e-01	StimUp	4	2	2h.jpg 	511	618	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.124895e+03	1.581386e+00	StimUp	5	3	2h.jpg 	516	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.125208e+03	1.894283e+00	StimUp	6	4	2h.jpg 	626	579	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.125510e+03	2.196935e+00	StimUp	7	5	2h.jpg 	483	630	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.131354e+03	8.040623e+00	StimUp	8	6	2h.jpg 	460	645	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.131767e+03	8.453891e+00	StimUp	9	7	2h.jpg 	421	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.132392e+03	9.078287e+00	StimUp	10	8	2h.jpg 	479	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.132654e+03	9.340696e+00	StimUp	11	9	2h.jpg 	522	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.132786e+03	9.472326e+00	StimUp	12	10	2h.jpg 	495	603	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.133149e+03	9.835245e+00	StimUp	13	11	2h.jpg 	413	693	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.133512e+03	1.019817e+01	StimUp	14	12	2h.jpg 	484	580	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:36	1	34	Hort	H Minor	2.133935e+03	1.062148e+01	StimUp	15	13	2h.jpg 	411	696	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	34	Hort	H Minor	2.134610e+03	1.129625e+01	StimUp	16	14	2h.jpg 	431	628	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	 	2.157287e+03	9.477531e-01	StartStim	1	1	 	463	535	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	 	2.157992e+03	1.652386e+00	StartStim	2	2	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	H Minor	2.158046e+03	4.083920e-02	StimUp	3	1	2h.jpg 	515	541	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	H Minor	2.160089e+03	2.083289e+00	StimUp	4	2	2h.jpg 	435	603	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	H Minor	2.160391e+03	2.385972e+00	StimUp	5	3	2h.jpg 	519	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	H Minor	2.160624e+03	2.618159e+00	StimUp	6	4	2h.jpg 	522	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	35	Hort	H Minor	2.161147e+03	3.142036e+00	StimUp	7	5	2h.jpg 	363	646	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.192091e+03	1.058412e+00	StartStim	1	1	 	485	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.192403e+03	1.370945e+00	StartStim	2	2	 	465	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.192686e+03	1.653193e+00	StartStim	3	3	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.192948e+03	1.915376e+00	StartStim	4	4	 	504	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.193270e+03	2.237932e+00	StartStim	5	5	 	609	717	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.193744e+03	2.711271e+00	StartStim	6	6	 	536	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:37	1	36	Hort	 	2.193805e+03	2.772506e+00	StartStim	7	7	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.194510e+03	3.477078e+00	StartStim	8	8	 	519	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.194903e+03	3.870031e+00	StartStim	9	9	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.195285e+03	4.252880e+00	StartStim	10	10	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.195729e+03	4.696050e+00	StartStim	11	11	 	468	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.196463e+03	5.430702e+00	StartStim	12	12	 	479	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.196786e+03	5.753316e+00	StartStim	13	13	 	472	601	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.197461e+03	6.428198e+00	StartStim	14	14	 	465	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	36	Hort	 	2.197864e+03	6.831195e+00	StartStim	15	15	 	522	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	 	2.231587e+03	6.762884e-01	StartStim	1	1	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.232627e+03	1.026293e+00	StimUp	2	1	h13.jpg	501	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.233281e+03	1.681069e+00	StimUp	3	2	h13.jpg	403	511	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.233826e+03	2.225235e+00	StimUp	4	3	h13.jpg	513	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.234219e+03	2.618454e+00	StimUp	5	4	h13.jpg	435	472	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.234763e+03	3.162466e+00	StimUp	6	5	h13.jpg	530	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.241325e+03	9.724839e+00	StimUp	7	6	h13.jpg	509	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.241628e+03	1.002750e+01	StimUp	8	7	h13.jpg	471	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.241920e+03	1.032004e+01	StimUp	9	8	h13.jpg	531	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.242243e+03	1.064303e+01	StimUp	10	9	h13.jpg	400	492	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.242546e+03	1.094567e+01	StimUp	11	10	h13.jpg	536	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.249728e+03	1.812722e+01	StimUp	12	11	h13.jpg	537	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.250362e+03	1.876182e+01	StimUp	13	12	h13.jpg	407	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.250745e+03	1.914494e+01	StimUp	14	13	h13.jpg	544	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.252245e+03	2.064427e+01	StimUp	15	14	h13.jpg	533	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.252578e+03	2.097712e+01	StimUp	16	15	h13.jpg	533	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:38	1	37	Hort	H Correct	2.253866e+03	2.226524e+01	StimUp	17	16	h13.jpg	359	555	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	37	Hort	H Correct	2.255777e+03	2.417693e+01	StimUp	18	17	h13.jpg	403	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	37	Hort	H Correct	2.256603e+03	2.500249e+01	StimUp	19	18	h13.jpg	370	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	37	Hort	H Correct	2.257117e+03	2.551641e+01	StimUp	20	19	h13.jpg	388	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	 	2.265725e+03	1.098575e+00	StartStim	1	1	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	 	2.267726e+03	3.099814e+00	StartStim	2	2	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.268344e+03	6.039565e-01	StimUp	3	1	h3.jpg 	623	472	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.268385e+03	6.451418e-01	StimUp	4	2	h3.jpg 	623	471	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.269240e+03	1.500769e+00	StimUp	5	3	h3.jpg 	516	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.270177e+03	2.437212e+00	StimUp	6	4	h3.jpg 	645	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.270520e+03	2.780109e+00	StimUp	7	5	h3.jpg 	421	516	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.271185e+03	3.444856e+00	StimUp	8	6	h3.jpg 	516	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.271517e+03	3.777708e+00	StimUp	9	7	h3.jpg 	616	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.273097e+03	5.357409e+00	StimUp	10	8	h3.jpg 	526	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.279857e+03	1.211742e+01	StimUp	11	9	h3.jpg 	631	490	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.280160e+03	1.242010e+01	StimUp	12	10	h3.jpg 	485	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.280744e+03	1.300430e+01	StimUp	13	11	h3.jpg 	522	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.282243e+03	1.450376e+01	StimUp	14	12	h3.jpg 	617	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.282536e+03	1.479637e+01	StimUp	15	13	h3.jpg 	492	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.283160e+03	1.542077e+01	StimUp	16	14	h3.jpg 	490	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.283483e+03	1.574355e+01	StimUp	17	15	h3.jpg 	618	474	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.284118e+03	1.637808e+01	StimUp	18	16	h3.jpg 	533	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.284883e+03	1.714336e+01	StimUp	19	17	h3.jpg 	490	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.291803e+03	2.406321e+01	StimUp	20	18	h3.jpg 	631	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.292096e+03	2.435584e+01	StimUp	21	19	h3.jpg 	494	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.292418e+03	2.467858e+01	StimUp	22	20	h3.jpg 	531	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.292721e+03	2.498112e+01	StimUp	23	21	h3.jpg 	490	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.293355e+03	2.561559e+01	StimUp	24	22	h3.jpg 	639	504	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	38	Hort	H Correct	2.293658e+03	2.591843e+01	StimUp	25	23	h3.jpg 	453	519	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:39	1	39	Hort	 	2.309102e+03	7.219824e+00	StartStim	1	1	 	515	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:40	1	39	Hort	H Major	2.331200e+03	2.208421e+01	StimUp	2	1	c6.jpg  	392	600	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:40	1	39	Hort	H Major	2.332056e+03	2.294000e+01	StimUp	3	2	c6.jpg  	490	603	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:40	1	40	Hort	 	2.344434e+03	2.294648e+00	StartStim	1	1	 	493	492	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:40	1	40	Hort	 	2.345199e+03	3.059528e+00	StartStim	2	2	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	 	2.378931e+03	6.863253e-01	StartStim	1	1	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	 	2.379576e+03	1.330583e+00	StartStim	2	2	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	H Minor	2.380616e+03	1.026292e+00	StimUp	3	1	w13.jpg	486	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	H Minor	2.381059e+03	1.469765e+00	StimUp	4	2	w13.jpg	457	492	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	H Minor	2.381694e+03	2.104248e+00	StimUp	5	3	w13.jpg	546	471	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	H Minor	2.382519e+03	2.929743e+00	StimUp	6	4	w13.jpg	428	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	41	Hort	H Minor	2.409453e+03	2.986310e+01	StimUp	7	5	w13.jpg	618	459	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	42	Hort	 	2.412731e+03	1.134739e-01	StartStim	1	1	 	407	511	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:41	1	42	Hort	 	2.414994e+03	2.376216e+00	StartStim	2	2	 	508	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	43	Hort	 	2.445513e+03	4.841259e-01	ITI	1	1	c7.jpg  	577	372	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	43	Hort	 	2.454427e+03	6.385951e+00	StartStim	2	1	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	43	Hort	 	2.456288e+03	8.246504e+00	StartStim	3	2	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.490131e+03	7.970940e-01	StartStim	1	1	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.491389e+03	2.054481e+00	StartStim	2	2	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.491892e+03	2.557994e+00	StartStim	3	3	 	493	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.493190e+03	3.855536e+00	StartStim	4	4	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.493432e+03	4.097713e+00	StartStim	5	5	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.493865e+03	4.530795e+00	StartStim	6	6	 	547	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:42	1	44	Hort	 	2.494288e+03	4.953911e+00	StartStim	7	7	 	544	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.494570e+03	5.236338e+00	StartStim	8	8	 	537	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.495768e+03	6.433429e+00	StartStim	9	9	 	511	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.496151e+03	6.816411e+00	StartStim	10	10	 	504	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.496483e+03	7.149043e+00	StartStim	11	11	 	544	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.497610e+03	8.275722e+00	StartStim	12	12	 	541	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	 	2.497983e+03	8.648595e+00	StartStim	13	13	 	522	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.504648e+03	6.637973e+00	StimUp	14	1	w14.jpg	431	600	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.515510e+03	1.750032e+01	StimUp	15	2	w14.jpg	427	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.515803e+03	1.779293e+01	StimUp	16	3	w14.jpg	483	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.516307e+03	1.829663e+01	StimUp	17	4	w14.jpg	403	619	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.520350e+03	2.234030e+01	StimUp	18	5	w14.jpg	784	420	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.520864e+03	2.285417e+01	StimUp	19	6	w14.jpg	773	399	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.521026e+03	2.301603e+01	StimUp	20	7	w14.jpg	762	399	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	44	Hort	H Minor	2.523068e+03	2.505840e+01	StimUp	21	8	w14.jpg	424	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.529901e+03	1.871934e+00	ITI	1	1	w14.jpg	372	639	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.530385e+03	2.355669e+00	ITI	2	2	w14.jpg	372	631	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.532282e+03	1.249412e+00	StartStim	3	1	 	529	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.534223e+03	3.190580e+00	StartStim	4	2	 	537	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.534968e+03	3.935400e+00	StartStim	5	3	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.535361e+03	4.328537e+00	StartStim	6	4	 	516	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.535422e+03	4.389791e+00	StartStim	7	5	 	497	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.535785e+03	4.752434e+00	StartStim	8	6	 	464	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.536208e+03	5.175539e+00	StartStim	9	7	 	529	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.537807e+03	6.774708e+00	StartStim	10	8	 	537	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.538130e+03	7.097318e+00	StartStim	11	9	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.538563e+03	7.530413e+00	StartStim	12	10	 	472	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.540041e+03	9.008921e+00	StartStim	13	11	 	537	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.540605e+03	9.572746e+00	StartStim	14	12	 	544	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.541762e+03	1.072959e+01	StartStim	15	13	 	479	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.543482e+03	1.244934e+01	StartStim	16	14	 	494	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.543764e+03	1.273173e+01	StartStim	17	15	 	530	519	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.544227e+03	1.319496e+01	StartStim	18	16	 	541	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.544922e+03	1.388950e+01	StartStim	19	17	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.545305e+03	1.427243e+01	StartStim	20	18	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.546401e+03	1.536896e+01	StartStim	21	19	 	518	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.547639e+03	1.660632e+01	StartStim	22	20	 	507	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.549087e+03	1.805474e+01	StartStim	23	21	 	533	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:43	1	45	Hort	 	2.550546e+03	1.951320e+01	StartStim	24	22	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:44	1	46	Hort	 	2.586078e+03	2.485589e+00	StartStim	1	1	 	508	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	 	2.620736e+03	1.611134e+00	StartStim	1	1	 	497	516	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.621444e+03	6.944305e-01	StimUp	2	1	41h.jpg	429	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.622079e+03	1.328986e+00	StimUp	3	2	41h.jpg	471	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.622683e+03	1.933286e+00	StimUp	4	3	41h.jpg	474	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.623297e+03	2.547613e+00	StimUp	5	4	41h.jpg	457	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.625581e+03	4.831466e+00	StimUp	6	5	41h.jpg	435	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.625904e+03	5.154263e+00	StimUp	7	6	41h.jpg	424	604	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.626277e+03	5.527295e+00	StimUp	8	7	41h.jpg	485	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.626781e+03	6.031040e+00	StimUp	9	8	41h.jpg	440	556	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.627224e+03	6.474411e+00	StimUp	10	9	41h.jpg	471	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.627557e+03	6.807215e+00	StimUp	11	10	41h.jpg	465	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.627900e+03	7.150004e+00	StimUp	12	11	41h.jpg	443	547	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.628263e+03	7.512905e+00	StimUp	13	12	41h.jpg	464	537	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	47	Hort	H Minor	2.642815e+03	2.206527e+01	StimUp	14	13	41h.jpg	550	558	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	 	2.651739e+03	9.768731e-01	ITI	1	1	41h.jpg	479	471	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	 	2.653058e+03	2.295216e+00	ITI	2	2	41h.jpg	392	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	 	2.656362e+03	2.596178e+00	StartStim	3	1	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	 	2.659579e+03	5.813555e+00	StartStim	4	2	 	497	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.660600e+03	1.006225e+00	StimUp	5	1	h13.jpg	509	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.660922e+03	1.329095e+00	StimUp	6	2	h13.jpg	533	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.661034e+03	1.440667e+00	StimUp	7	3	h13.jpg	487	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.661337e+03	1.743282e+00	StimUp	8	4	h13.jpg	535	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.661659e+03	2.065961e+00	StimUp	9	5	h13.jpg	370	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.662294e+03	2.700453e+00	StimUp	10	6	h13.jpg	537	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.669862e+03	1.026818e+01	StimUp	11	7	h13.jpg	413	519	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.670215e+03	1.062116e+01	StimUp	12	8	h13.jpg	507	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:45	1	48	Hort	H Correct	2.670678e+03	1.108472e+01	StimUp	13	9	h13.jpg	473	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.671122e+03	1.152818e+01	StimUp	14	10	h13.jpg	488	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.677593e+03	1.799990e+01	StimUp	15	11	h13.jpg	405	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.678519e+03	1.892605e+01	StimUp	16	12	h13.jpg	366	517	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.678792e+03	1.919850e+01	StimUp	17	13	h13.jpg	527	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.679336e+03	1.974245e+01	StimUp	18	14	h13.jpg	388	511	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.679679e+03	2.008526e+01	StimUp	19	15	h13.jpg	544	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.679961e+03	2.036779e+01	StimUp	20	16	h13.jpg	498	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.680797e+03	2.120345e+01	StimUp	21	17	h13.jpg	533	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.682598e+03	2.300452e+01	StimUp	22	18	h13.jpg	536	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.689337e+03	2.974331e+01	StimUp	23	19	h13.jpg	511	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	48	Hort	H Correct	2.689378e+03	2.978459e+01	StimUp	24	20	h13.jpg	468	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.689654e+03	4.163921e-02	ITI	1	1	h13.jpg	400	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.693220e+03	5.959318e-01	StartStim	2	1	 	519	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.693714e+03	1.089423e+00	StartStim	3	2	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.694157e+03	1.532602e+00	StartStim	4	3	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.694600e+03	1.975824e+00	StartStim	5	4	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.694631e+03	2.006887e+00	StartStim	6	5	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.695135e+03	2.510294e+00	StartStim	7	6	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.698372e+03	5.747945e+00	StartStim	8	7	 	473	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.698775e+03	6.150958e+00	StartStim	9	8	 	541	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.699359e+03	6.734824e+00	StartStim	10	9	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.699792e+03	7.168027e+00	StartStim	11	10	 	544	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.700195e+03	7.571087e+00	StartStim	12	11	 	482	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.701091e+03	8.466572e+00	StartStim	13	12	 	479	553	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.703997e+03	1.137239e+01	StartStim	14	13	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.704510e+03	1.188602e+01	StartStim	15	14	 	526	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.704572e+03	1.194726e+01	StartStim	16	15	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.705929e+03	1.330500e+01	StartStim	17	16	 	463	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.706232e+03	1.360751e+01	StartStim	18	17	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.706997e+03	1.437276e+01	StartStim	19	18	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	 	2.707390e+03	1.476582e+01	StartStim	20	19	 	508	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.708571e+03	1.167156e+00	StimUp	21	1	h16.jpg	516	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.708874e+03	1.469906e+00	StimUp	22	2	h16.jpg	634	577	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.709216e+03	1.812752e+00	StimUp	23	3	h16.jpg	505	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.709529e+03	2.125458e+00	StimUp	24	4	h16.jpg	605	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.709832e+03	2.428163e+00	StimUp	25	5	h16.jpg	448	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.710175e+03	2.771059e+00	StimUp	26	6	h16.jpg	666	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.710829e+03	3.425680e+00	StimUp	27	7	h16.jpg	490	603	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.717458e+03	1.005408e+01	StimUp	28	8	h16.jpg	450	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.717791e+03	1.038690e+01	StimUp	29	9	h16.jpg	631	577	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.718435e+03	1.103154e+01	StimUp	30	10	h16.jpg	506	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.718798e+03	1.139454e+01	StimUp	31	11	h16.jpg	492	601	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.721877e+03	1.447293e+01	StimUp	32	12	h16.jpg	485	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.722592e+03	1.518796e+01	StimUp	33	13	h16.jpg	492	601	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.723196e+03	1.579234e+01	StimUp	34	14	h16.jpg	522	574	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.723529e+03	1.612519e+01	StimUp	35	15	h16.jpg	530	580	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.730510e+03	2.310600e+01	StimUp	36	16	h16.jpg	517	570	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.731868e+03	2.446464e+01	StimUp	37	17	h16.jpg	520	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.732493e+03	2.508912e+01	StimUp	38	18	h16.jpg	506	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.732856e+03	2.545213e+01	StimUp	39	19	h16.jpg	636	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.733189e+03	2.578490e+01	StimUp	40	20	h16.jpg	448	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:46	1	49	Hort	H Correct	2.733511e+03	2.610758e+01	StimUp	41	21	h16.jpg	533	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	49	Hort	H Correct	2.733814e+03	2.641023e+01	StimUp	42	22	h16.jpg	479	591	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.749608e+03	7.571705e+00	StartStim	1	1	 	473	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.750675e+03	8.638147e+00	StartStim	2	2	 	468	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.751832e+03	9.794985e+00	StartStim	3	3	 	462	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.752617e+03	1.057995e+01	StartStim	4	4	 	479	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.753613e+03	1.157595e+01	StartStim	5	5	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.754488e+03	1.245150e+01	StartStim	6	6	 	463	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.754730e+03	1.269367e+01	StartStim	7	7	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.755847e+03	1.381024e+01	StartStim	8	8	 	486	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.757134e+03	1.509775e+01	StartStim	9	9	 	495	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.758271e+03	1.623465e+01	StartStim	10	10	 	474	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.758775e+03	1.673819e+01	StartStim	11	11	 	511	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.759067e+03	1.703059e+01	StartStim	12	12	 	493	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.759973e+03	1.793618e+01	StartStim	13	13	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.760336e+03	1.829897e+01	StartStim	14	14	 	457	559	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.760628e+03	1.859135e+01	StartStim	15	15	 	482	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.761031e+03	1.899428e+01	StartStim	16	16	 	530	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.763354e+03	2.131713e+01	StartStim	17	17	 	495	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.763666e+03	2.162968e+01	StartStim	18	18	 	479	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.765296e+03	2.325891e+01	StartStim	19	19	 	470	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.765548e+03	2.351114e+01	StartStim	20	20	 	515	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.765850e+03	2.381350e+01	StartStim	21	21	 	468	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.766233e+03	2.419634e+01	StartStim	22	22	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.766576e+03	2.453899e+01	StartStim	23	23	 	460	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.767270e+03	2.523347e+01	StartStim	24	24	 	446	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.768226e+03	2.618948e+01	StartStim	25	25	 	435	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:47	1	50	Hort	 	2.768549e+03	2.651206e+01	StartStim	26	26	 	522	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.802351e+03	7.567748e-01	StartStim	1	1	 	533	492	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.802704e+03	1.109544e+00	StartStim	2	2	 	457	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.803288e+03	1.693455e+00	StartStim	3	3	 	486	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.803711e+03	2.116824e+00	StartStim	4	4	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.805230e+03	3.635597e+00	StartStim	5	5	 	464	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.805532e+03	3.938067e+00	StartStim	6	6	 	457	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.805985e+03	4.391243e+00	StartStim	7	7	 	452	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	51	Hort	 	2.806429e+03	4.834444e+00	StartStim	8	8	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	 	2.840050e+03	5.757877e-01	StartStim	1	1	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.841110e+03	1.046376e+00	StimUp	2	1	h4.jpg 	474	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.841403e+03	1.339056e+00	StimUp	3	2	h4.jpg 	610	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.841665e+03	1.601404e+00	StimUp	4	3	h4.jpg 	483	601	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.842229e+03	2.165473e+00	StimUp	5	4	h4.jpg 	572	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.842522e+03	2.458138e+00	StimUp	6	5	h4.jpg 	610	579	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.849122e+03	9.058343e+00	StimUp	7	6	h4.jpg 	519	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.851507e+03	1.144271e+01	StimUp	8	7	h4.jpg 	430	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.852825e+03	1.276107e+01	StimUp	9	8	h4.jpg 	614	534	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.853128e+03	1.306373e+01	StimUp	10	9	h4.jpg 	457	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:48	1	52	Hort	H Correct	2.853410e+03	1.334623e+01	StimUp	11	10	h4.jpg 	520	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.854004e+03	1.394057e+01	StimUp	12	11	h4.jpg 	470	591	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.860381e+03	2.031701e+01	StimUp	13	12	h4.jpg 	631	538	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.860684e+03	2.061965e+01	StimUp	14	13	h4.jpg 	470	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.860986e+03	2.092224e+01	StimUp	15	14	h4.jpg 	569	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.861601e+03	2.153661e+01	StimUp	16	15	h4.jpg 	484	580	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.861903e+03	2.183939e+01	StimUp	17	16	h4.jpg 	525	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.862206e+03	2.214202e+01	StimUp	18	17	h4.jpg 	541	547	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.868601e+03	2.853698e+01	StimUp	19	18	h4.jpg 	620	534	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.869607e+03	2.954358e+01	StimUp	20	19	h4.jpg 	634	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	52	Hort	H Correct	2.869900e+03	2.983617e+01	StimUp	21	20	h4.jpg 	450	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.873741e+03	6.461668e-01	StartStim	1	1	 	468	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.874969e+03	1.873494e+00	StartStim	2	2	 	473	552	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.875422e+03	2.326790e+00	StartStim	3	3	 	479	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.875905e+03	2.810177e+00	StartStim	4	4	 	497	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.876680e+03	3.585014e+00	StartStim	5	5	 	484	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.877144e+03	4.048308e+00	StartStim	6	6	 	507	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.877938e+03	4.843275e+00	StartStim	7	7	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.878241e+03	5.145748e+00	StartStim	8	8	 	507	541	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.878845e+03	5.749730e+00	StartStim	9	9	 	537	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.881520e+03	8.424358e+00	StartStim	10	10	 	526	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.882626e+03	9.530966e+00	StartStim	11	11	 	490	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.883582e+03	1.048685e+01	StartStim	12	12	 	490	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.883864e+03	1.076928e+01	StartStim	13	13	 	479	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.884288e+03	1.119238e+01	StartStim	14	14	 	538	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.886460e+03	1.336456e+01	StartStim	15	15	 	506	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.887124e+03	1.402900e+01	StartStim	16	16	 	485	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.887588e+03	1.449233e+01	StartStim	17	17	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	 	2.887960e+03	1.486525e+01	StartStim	18	18	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.888005e+03	3.076063e-02	StimUp	19	1	h29.jpg	501	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.888740e+03	7.659120e-01	StimUp	20	2	h29.jpg	424	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.889084e+03	1.109316e+00	StimUp	21	3	h29.jpg	479	450	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.895644e+03	7.669348e+00	StimUp	22	4	h29.jpg	405	471	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.896268e+03	8.293881e+00	StimUp	23	5	h29.jpg	492	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.896702e+03	8.727612e+00	StimUp	24	6	h29.jpg	446	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.897307e+03	9.332911e+00	StimUp	25	7	h29.jpg	488	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.897602e+03	9.627680e+00	StimUp	26	8	h29.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.899403e+03	1.142904e+01	StimUp	27	9	h29.jpg	477	454	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.905926e+03	1.795204e+01	StimUp	28	10	h29.jpg	387	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.906621e+03	1.864688e+01	StimUp	29	11	h29.jpg	510	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.906924e+03	1.894961e+01	StimUp	30	12	h29.jpg	454	493	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.907287e+03	1.931253e+01	StimUp	31	13	h29.jpg	494	465	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.907620e+03	1.964530e+01	StimUp	32	14	h29.jpg	457	475	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.908043e+03	2.006889e+01	StimUp	33	15	h29.jpg	384	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:49	1	53	Hort	H Correct	2.909281e+03	2.130685e+01	StimUp	34	16	h29.jpg	494	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	53	Hort	H Correct	2.909624e+03	2.164976e+01	StimUp	35	17	h29.jpg	490	448	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	53	Hort	H Correct	2.915922e+03	2.794765e+01	StimUp	36	18	h29.jpg	473	415	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	53	Hort	H Correct	2.916305e+03	2.833084e+01	StimUp	37	19	h29.jpg	397	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	53	Hort	H Correct	2.916618e+03	2.864347e+01	StimUp	38	20	h29.jpg	481	447	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	 	2.921284e+03	2.843135e-01	StartStim	1	1	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	 	2.921637e+03	6.370919e-01	StartStim	2	2	 	507	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.922324e+03	6.743111e-01	StimUp	3	1	h29.jpg	477	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.922979e+03	1.329064e+00	StimUp	4	2	h29.jpg	466	450	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.923302e+03	1.651865e+00	StimUp	5	3	h29.jpg	480	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.923937e+03	2.286543e+00	StimUp	6	4	h29.jpg	514	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.930439e+03	8.788640e+00	StimUp	7	5	h29.jpg	476	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.930741e+03	9.091304e+00	StimUp	8	6	h29.jpg	501	454	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.931366e+03	9.715673e+00	StimUp	9	7	h29.jpg	479	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.931658e+03	1.000825e+01	StimUp	10	8	h29.jpg	466	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.931961e+03	1.031089e+01	StimUp	11	9	h29.jpg	498	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.932636e+03	1.098584e+01	StimUp	12	10	h29.jpg	422	481	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.939756e+03	1.810624e+01	StimUp	13	11	h29.jpg	373	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.940099e+03	1.844912e+01	StimUp	14	12	h29.jpg	485	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.940422e+03	1.877187e+01	StimUp	15	13	h29.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.941097e+03	1.944659e+01	StimUp	16	14	h29.jpg	444	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.941721e+03	2.007106e+01	StimUp	17	15	h29.jpg	509	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.947597e+03	2.594705e+01	StimUp	18	16	h29.jpg	433	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.947900e+03	2.624991e+01	StimUp	19	17	h29.jpg	488	426	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.948836e+03	2.718613e+01	StimUp	20	18	h29.jpg	490	442	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.949179e+03	2.752901e+01	StimUp	21	19	h29.jpg	435	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	54	Hort	H Correct	2.949783e+03	2.813328e+01	StimUp	22	20	h29.jpg	490	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	 	2.960614e+03	2.606356e+00	StartStim	1	1	 	474	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	 	2.960876e+03	2.868627e+00	StartStim	2	2	 	548	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	 	2.960917e+03	2.909680e+00	StartStim	3	3	 	529	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	 	2.961984e+03	3.976124e+00	StartStim	4	4	 	457	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	 	2.962356e+03	4.348984e+00	StartStim	5	5	 	508	504	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.963014e+03	6.441307e-01	StimUp	6	1	h21.jpg	479	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.963297e+03	9.267207e-01	StimUp	7	2	h21.jpg	472	510	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.963961e+03	1.591347e+00	StimUp	8	3	h21.jpg	488	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.964043e+03	1.672730e+00	StimUp	9	4	h21.jpg	449	487	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.970122e+03	7.752011e+00	StimUp	10	5	h21.jpg	388	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.970716e+03	8.346277e+00	StimUp	11	6	h21.jpg	457	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.970818e+03	8.447802e+00	StimUp	12	7	h21.jpg	443	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.971141e+03	8.770528e+00	StimUp	13	8	h21.jpg	445	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.971443e+03	9.073175e+00	StimUp	14	9	h21.jpg	488	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:50	1	55	Hort	H Correct	2.971776e+03	9.405912e+00	StimUp	15	10	h21.jpg	479	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.972058e+03	9.688381e+00	StimUp	16	11	h21.jpg	498	448	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.978536e+03	1.616621e+01	StimUp	17	12	h21.jpg	399	490	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.978839e+03	1.646887e+01	StimUp	18	13	h21.jpg	466	450	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.979101e+03	1.673129e+01	StimUp	19	14	h21.jpg	476	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.979434e+03	1.706409e+01	StimUp	20	15	h21.jpg	457	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.979757e+03	1.738673e+01	StimUp	21	16	h21.jpg	450	465	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.986202e+03	2.383186e+01	StimUp	22	17	h21.jpg	363	540	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.986515e+03	2.414454e+01	StimUp	23	18	h21.jpg	450	447	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.986938e+03	2.456788e+01	StimUp	24	19	h21.jpg	413	529	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.987261e+03	2.489058e+01	StimUp	25	20	h21.jpg	477	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.987614e+03	2.524347e+01	StimUp	26	21	h21.jpg	354	561	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	55	Hort	H Correct	2.988218e+03	2.584772e+01	StimUp	27	22	h21.jpg	477	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	56	Hort	 	2.999580e+03	3.139154e+00	StartStim	1	1	 	479	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	56	Hort	 	2.999832e+03	3.391426e+00	StartStim	2	2	 	519	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	56	Hort	H Major	3.002632e+03	2.786171e+00	StimUp	3	1	c6.jpg  	515	564	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	56	Hort	H Major	3.002754e+03	2.907827e+00	StimUp	4	2	c6.jpg  	507	558	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	56	Hort	H Major	3.024719e+03	2.487289e+01	StimUp	5	3	c6.jpg  	520	585	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	57	Hort	 	3.032577e+03	2.716541e+00	ITI	1	1	c6.jpg  	392	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:51	1	57	Hort	 	3.033991e+03	1.118616e+00	StartStim	2	1	 	471	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	57	Hort	 	3.035390e+03	2.516842e+00	StartStim	3	2	 	504	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	57	Hort	H Major	3.035438e+03	2.059423e-02	StimUp	4	1	j5.jpg  	494	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	 	3.080667e+03	1.221585e+01	StartStim	1	1	 	526	504	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.080751e+03	7.093070e-02	StimUp	2	1	h22.jpg	515	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.081195e+03	5.144680e-01	StimUp	3	2	h22.jpg	426	669	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.081528e+03	8.472614e-01	StimUp	4	3	h22.jpg	453	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.081810e+03	1.129732e+00	StimUp	5	4	h22.jpg	473	570	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.087689e+03	7.008388e+00	StimUp	6	5	h22.jpg	409	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.088394e+03	7.713282e+00	StimUp	7	6	h22.jpg	374	630	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.088807e+03	8.126532e+00	StimUp	8	7	h22.jpg	468	535	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.089130e+03	8.449289e+00	StimUp	9	8	h22.jpg	468	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.089432e+03	8.751874e+00	StimUp	10	9	h22.jpg	463	570	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.089735e+03	9.054401e+00	StimUp	11	10	h22.jpg	449	579	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:52	1	58	Hort	H Correct	3.090329e+03	9.648584e+00	StimUp	12	11	h22.jpg	457	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.091014e+03	1.033334e+01	StimUp	13	12	h22.jpg	479	547	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.097633e+03	1.695230e+01	StimUp	14	13	h22.jpg	396	561	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.100168e+03	1.948746e+01	StimUp	15	14	h22.jpg	413	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.100551e+03	1.987057e+01	StimUp	16	15	h22.jpg	452	559	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.101507e+03	2.082683e+01	StimUp	17	16	h22.jpg	483	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.101830e+03	2.114959e+01	StimUp	18	17	h22.jpg	408	573	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.102133e+03	2.145217e+01	StimUp	19	18	h22.jpg	484	570	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.102445e+03	2.176485e+01	StimUp	20	19	h22.jpg	472	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.102768e+03	2.208752e+01	StimUp	21	20	h22.jpg	494	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.103131e+03	2.245045e+01	StimUp	22	21	h22.jpg	471	547	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.109631e+03	2.895049e+01	StimUp	23	22	h22.jpg	451	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	58	Hort	H Correct	3.110014e+03	2.933364e+01	StimUp	24	23	h22.jpg	374	630	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	59	Hort	 	3.110752e+03	5.170797e-02	ITI	1	1	h22.jpg	403	619	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	59	Hort	 	3.114691e+03	9.779587e-01	StartStim	2	1	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	59	Hort	 	3.118170e+03	4.456766e+00	StartStim	3	2	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	59	Hort	 	3.120633e+03	6.920317e+00	StartStim	4	3	 	471	543	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:53	1	59	Hort	 	3.123831e+03	1.011762e+01	StartStim	5	4	 	508	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	 	3.159664e+03	2.787132e+00	StartStim	1	1	 	533	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	 	3.161666e+03	4.788338e+00	StartStim	2	2	 	530	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	 	3.168311e+03	1.143380e+01	StartStim	3	3	 	501	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.169110e+03	7.848747e-01	StimUp	4	1	h15.jpg	631	474	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.169342e+03	1.017119e+00	StimUp	5	2	h15.jpg	558	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.169584e+03	1.259391e+00	StimUp	6	3	h15.jpg	631	490	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.169887e+03	1.561905e+00	StimUp	7	4	h15.jpg	509	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.170209e+03	1.884591e+00	StimUp	8	5	h15.jpg	642	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.170904e+03	2.579353e+00	StimUp	9	6	h15.jpg	645	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.171901e+03	3.575813e+00	StimUp	10	7	h15.jpg	653	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.172203e+03	3.878485e+00	StimUp	11	8	h15.jpg	442	498	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.172868e+03	4.543164e+00	StimUp	12	9	h15.jpg	653	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.173181e+03	4.855849e+00	StimUp	13	10	h15.jpg	449	535	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.180283e+03	1.195789e+01	StimUp	14	11	h15.jpg	466	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.180988e+03	1.266281e+01	StimUp	15	12	h15.jpg	471	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.181300e+03	1.297558e+01	StimUp	16	13	h15.jpg	526	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.181623e+03	1.329836e+01	StimUp	17	14	h15.jpg	507	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.188686e+03	2.036096e+01	StimUp	18	15	h15.jpg	620	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.189341e+03	2.101569e+01	StimUp	19	16	h15.jpg	508	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.189985e+03	2.166025e+01	StimUp	20	17	h15.jpg	457	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.191665e+03	2.334059e+01	StimUp	21	18	h15.jpg	494	469	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.192028e+03	2.370359e+01	StimUp	22	19	h15.jpg	661	504	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.193085e+03	2.476046e+01	StimUp	23	20	h15.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.193368e+03	2.504303e+01	StimUp	24	21	h15.jpg	511	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.194063e+03	2.573799e+01	StimUp	25	22	h15.jpg	642	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	60	Hort	H Correct	3.194446e+03	2.612111e+01	StimUp	26	23	h15.jpg	448	472	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	61	Hort	 	3.205660e+03	2.988162e+00	StartStim	1	1	 	485	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	61	Hort	 	3.208888e+03	6.215619e+00	StartStim	2	2	 	470	603	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	61	Hort	 	3.210838e+03	8.166524e+00	StartStim	3	3	 	457	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:54	1	61	Hort	 	3.212146e+03	9.474380e+00	StartStim	4	4	 	505	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:55	1	62	Hort	 	3.245697e+03	5.054085e-01	StartStim	1	1	 	507	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:55	1	62	Hort	 	3.246020e+03	8.280219e-01	StartStim	2	2	 	522	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:55	1	62	Hort	H Minor	3.251706e+03	5.672588e+00	StimUp	3	1	w2.jpg 	408	603	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	63	Hort	 	3.282375e+03	3.319935e+00	StartStim	1	1	 	490	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	63	Hort	 	3.282597e+03	3.541993e+00	StartStim	2	2	 	548	513	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	63	Hort	 	3.282940e+03	3.884585e+00	StartStim	3	3	 	519	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	63	Hort	H Minor	3.283599e+03	6.342422e-01	StimUp	4	1	33h.jpg	435	516	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	63	Hort	H Minor	3.294743e+03	1.177827e+01	StimUp	5	2	33h.jpg	575	469	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	 	3.317501e+03	1.510625e+00	StartStim	1	1	 	530	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	 	3.318718e+03	2.727768e+00	StartStim	2	2	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	 	3.319392e+03	3.402168e+00	StartStim	3	3	 	519	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.320855e+03	1.448682e+00	StimUp	4	1	h16.jpg	452	582	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.321499e+03	2.093336e+00	StimUp	5	2	h16.jpg	659	591	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.321782e+03	2.375861e+00	StimUp	6	3	h16.jpg	501	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.322396e+03	2.990213e+00	StimUp	7	4	h16.jpg	484	597	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.328517e+03	9.110637e+00	StimUp	8	5	h16.jpg	615	577	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.328860e+03	9.453486e+00	StimUp	9	6	h16.jpg	485	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.329172e+03	9.766153e+00	StimUp	10	7	h16.jpg	629	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.329515e+03	1.010894e+01	StimUp	11	8	h16.jpg	476	547	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.329838e+03	1.043165e+01	StimUp	12	9	h16.jpg	631	597	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.330160e+03	1.075438e+01	StimUp	13	10	h16.jpg	464	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.330473e+03	1.106703e+01	StimUp	14	11	h16.jpg	623	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.330796e+03	1.138969e+01	StimUp	15	12	h16.jpg	474	613	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.331179e+03	1.177312e+01	StimUp	16	13	h16.jpg	636	606	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.331512e+03	1.210611e+01	StimUp	17	14	h16.jpg	454	556	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.331855e+03	1.244904e+01	StimUp	18	15	h16.jpg	631	604	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:56	1	64	Hort	H Correct	3.332218e+03	1.281195e+01	StimUp	19	16	h16.jpg	451	603	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.332832e+03	1.342631e+01	StimUp	20	17	h16.jpg	492	601	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.339914e+03	2.050791e+01	StimUp	21	18	h16.jpg	516	558	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.340297e+03	2.089107e+01	StimUp	22	19	h16.jpg	620	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.340952e+03	2.154564e+01	StimUp	23	20	h16.jpg	574	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.341576e+03	2.217010e+01	StimUp	24	21	h16.jpg	468	559	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.341879e+03	2.247274e+01	StimUp	25	22	h16.jpg	484	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.342191e+03	2.278538e+01	StimUp	26	23	h16.jpg	492	624	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.342615e+03	2.320860e+01	StimUp	27	24	h16.jpg	483	601	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.342998e+03	2.359184e+01	StimUp	28	25	h16.jpg	649	627	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.343773e+03	2.436724e+01	StimUp	29	26	h16.jpg	660	636	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	64	Hort	H Correct	3.345031e+03	2.562527e+01	StimUp	30	27	h16.jpg	479	580	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.360273e+03	7.019090e+00	StartStim	1	1	 	490	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.361279e+03	8.025231e+00	StartStim	2	2	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364236e+03	1.098139e+01	StartStim	3	3	 	475	622	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364357e+03	1.110295e+01	StartStim	4	4	 	457	630	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364479e+03	1.122443e+01	StartStim	5	5	 	410	663	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364550e+03	1.129568e+01	StartStim	6	6	 	392	700	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364631e+03	1.137691e+01	StartStim	7	7	 	348	708	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364672e+03	1.141790e+01	StartStim	8	8	 	326	738	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364794e+03	1.153929e+01	StartStim	9	9	 	326	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.364975e+03	1.172104e+01	StartStim	10	10	 	326	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365057e+03	1.180231e+01	StartStim	11	11	 	326	753	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365218e+03	1.196401e+01	StartStim	12	12	 	326	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365259e+03	1.200501e+01	StartStim	13	13	 	326	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365290e+03	1.203594e+01	StartStim	14	14	 	348	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365351e+03	1.209703e+01	StartStim	15	15	 	348	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365533e+03	1.227875e+01	StartStim	16	16	 	392	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365795e+03	1.254088e+01	StartStim	17	17	 	392	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.365997e+03	1.274272e+01	StartStim	18	18	 	392	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.366309e+03	1.305520e+01	StartStim	19	19	 	370	766	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.372130e+03	1.887609e+01	StartStim	20	20	 	494	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	 	3.372473e+03	1.921878e+01	StartStim	21	21	 	511	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.376118e+03	3.631110e+00	StimUp	22	1	h23.jpg	555	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.377869e+03	5.381927e+00	StimUp	23	2	h23.jpg	490	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.378151e+03	5.664495e+00	StimUp	24	3	h23.jpg	620	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.378454e+03	5.967049e+00	StimUp	25	4	h23.jpg	566	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.384854e+03	1.236703e+01	StimUp	26	5	h23.jpg	540	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.385237e+03	1.275032e+01	StimUp	27	6	h23.jpg	533	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.385550e+03	1.306307e+01	StimUp	28	7	h23.jpg	588	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.385852e+03	1.336575e+01	StimUp	29	8	h23.jpg	533	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:57	1	65	Hort	H Correct	3.387573e+03	1.508648e+01	StimUp	30	9	h23.jpg	479	547	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.395035e+03	2.254818e+01	StimUp	31	10	h23.jpg	464	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.396373e+03	2.388668e+01	StimUp	32	11	h23.jpg	516	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.396696e+03	2.420945e+01	StimUp	33	12	h23.jpg	623	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.397149e+03	2.466288e+01	StimUp	34	13	h23.jpg	468	591	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.397553e+03	2.506614e+01	StimUp	35	14	h23.jpg	501	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.398670e+03	2.618336e+01	StimUp	36	15	h23.jpg	631	474	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.399415e+03	2.692846e+01	StimUp	37	16	h23.jpg	511	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.400472e+03	2.798540e+01	StimUp	38	17	h23.jpg	620	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	65	Hort	H Correct	3.400835e+03	2.834838e+01	StimUp	39	18	h23.jpg	463	535	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	66	Hort	 	3.412448e+03	3.390431e+00	StartStim	1	1	 	501	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	66	Hort	 	3.412730e+03	3.672814e+00	StartStim	2	2	 	529	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	66	Hort	 	3.413596e+03	4.538116e+00	StartStim	3	3	 	486	514	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	66	Hort	 	3.414049e+03	4.991365e+00	StartStim	4	4	 	501	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	67	Hort	 	3.448264e+03	1.168895e+00	StartStim	1	1	 	515	514	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	67	Hort	H Correct	3.448973e+03	6.944368e-01	StimUp	2	1	h29.jpg	470	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	67	Hort	H Correct	3.449245e+03	9.669786e-01	StimUp	3	2	h29.jpg	450	537	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:58	1	67	Hort	H Correct	3.449568e+03	1.289717e+00	StimUp	4	3	h29.jpg	488	426	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.449911e+03	1.632561e+00	StimUp	5	4	h29.jpg	468	448	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.457085e+03	8.807271e+00	StimUp	6	5	h29.jpg	396	511	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.457368e+03	9.089868e+00	StimUp	7	6	h29.jpg	501	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.457490e+03	9.211515e+00	StimUp	8	7	h29.jpg	457	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.459069e+03	1.079129e+01	StimUp	9	8	h29.jpg	443	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.459644e+03	1.136544e+01	StimUp	10	9	h29.jpg	514	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.460690e+03	1.241234e+01	StimUp	11	10	h29.jpg	511	426	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.461124e+03	1.284578e+01	StimUp	12	11	h29.jpg	494	459	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.468606e+03	2.032774e+01	StimUp	13	12	h29.jpg	413	513	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.468909e+03	2.063042e+01	StimUp	14	13	h29.jpg	509	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.469664e+03	2.138559e+01	StimUp	15	14	h29.jpg	448	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.470982e+03	2.270399e+01	StimUp	16	15	h29.jpg	483	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	67	Hort	H Correct	3.478024e+03	2.974617e+01	StimUp	17	16	h29.jpg	381	489	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.478320e+03	2.154193e-02	ITI	1	1	h29.jpg	505	448	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.483163e+03	1.852351e+00	StartStim	2	1	 	511	531	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.486280e+03	4.969502e+00	StartStim	3	2	 	522	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.487618e+03	6.307334e+00	StartStim	4	3	 	501	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.489439e+03	8.127692e+00	StartStim	5	4	 	474	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.489781e+03	8.470394e+00	StartStim	6	5	 	464	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	 	3.491742e+03	1.043137e+01	StartStim	7	6	 	511	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.492541e+03	7.849247e-01	StimUp	8	1	h15.jpg	522	514	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.492884e+03	1.127862e+00	StimUp	9	2	h15.jpg	657	481	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.493176e+03	1.420412e+00	StimUp	10	3	h15.jpg	431	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.493499e+03	1.743393e+00	StimUp	11	4	h15.jpg	682	496	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.493802e+03	2.046028e+00	StimUp	12	5	h15.jpg	457	525	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.499860e+03	8.103731e+00	StimUp	13	6	h15.jpg	631	468	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.500534e+03	8.778444e+00	StimUp	14	7	h15.jpg	530	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.500857e+03	9.101198e+00	StimUp	15	8	h15.jpg	483	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.501451e+03	9.695419e+00	StimUp	16	9	h15.jpg	431	525	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.501794e+03	1.003828e+01	StimUp	17	10	h15.jpg	490	465	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.502137e+03	1.038110e+01	StimUp	18	11	h15.jpg	620	490	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.502399e+03	1.064348e+01	StimUp	19	12	h15.jpg	505	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.502712e+03	1.095614e+01	StimUp	20	13	h15.jpg	588	490	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.509231e+03	1.747525e+01	StimUp	21	14	h15.jpg	479	471	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.509936e+03	1.818020e+01	StimUp	22	15	h15.jpg	639	489	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.510279e+03	1.852304e+01	StimUp	23	16	h15.jpg	468	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.510572e+03	1.881559e+01	StimUp	24	17	h15.jpg	518	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	10:59	1	68	Hort	H Correct	3.510874e+03	1.911818e+01	StimUp	25	18	h15.jpg	530	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.511277e+03	1.952136e+01	StimUp	26	19	h15.jpg	457	492	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.517936e+03	2.617990e+01	StimUp	27	20	h15.jpg	588	490	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.518208e+03	2.645247e+01	StimUp	28	21	h15.jpg	490	492	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.518551e+03	2.679528e+01	StimUp	29	22	h15.jpg	631	495	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.518854e+03	2.709782e+01	StimUp	30	23	h15.jpg	450	504	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	68	Hort	H Correct	3.519629e+03	2.787304e+01	StimUp	31	24	h15.jpg	485	471	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	69	Hort	 	3.536831e+03	8.978881e+00	StartStim	1	1	 	494	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	69	Hort	 	3.537144e+03	9.291512e+00	StartStim	2	2	 	468	553	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	69	Hort	 	3.539165e+03	1.131274e+01	StartStim	3	3	 	515	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	69	Hort	H Major	3.540467e+03	1.287761e+00	StimUp	4	1	c6.jpg  	431	600	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	69	Hort	H Major	3.553662e+03	1.448266e+01	StimUp	5	2	c6.jpg  	503	591	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	70	Hort	 	3.570902e+03	1.710943e+00	ITI	1	1	c6.jpg  	675	678	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	70	Hort	 	3.572800e+03	5.959532e-01	StartStim	2	1	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	70	Hort	 	3.573243e+03	1.039191e+00	StartStim	3	2	 	522	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:0	1	70	Hort	 	3.574098e+03	1.894493e+00	StartStim	4	3	 	485	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.574401e+03	2.197019e+00	StartStim	5	4	 	538	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.574723e+03	2.519567e+00	StartStim	6	5	 	493	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.576383e+03	4.179032e+00	StartStim	7	6	 	493	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.576716e+03	4.511665e+00	StartStim	8	7	 	455	597	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.578084e+03	5.879749e+00	StartStim	9	8	 	463	580	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.581763e+03	9.559450e+00	StartStim	10	9	 	538	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.582156e+03	9.952396e+00	StartStim	11	10	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.582197e+03	9.993492e+00	StartStim	12	11	 	485	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.582540e+03	1.033605e+01	StartStim	13	12	 	529	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.583637e+03	1.143265e+01	StartStim	14	13	 	497	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.590121e+03	1.791674e+01	StartStim	15	14	 	457	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.590775e+03	1.857100e+01	StartStim	16	15	 	533	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.591379e+03	1.917497e+01	StartStim	17	16	 	486	525	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.591691e+03	1.948747e+01	StartStim	18	17	 	476	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.594979e+03	2.277520e+01	StartStim	19	18	 	464	504	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.596196e+03	2.399240e+01	StartStim	20	19	 	493	516	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.596931e+03	2.472708e+01	StartStim	21	20	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.597374e+03	2.517022e+01	StartStim	22	21	 	507	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.597415e+03	2.521130e+01	StartStim	23	22	 	515	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.597858e+03	2.565439e+01	StartStim	24	23	 	533	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.599256e+03	2.705253e+01	StartStim	25	24	 	468	582	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.599539e+03	2.733490e+01	StartStim	26	25	 	471	558	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.599871e+03	2.766748e+01	StartStim	27	26	 	653	570	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.600576e+03	2.837201e+01	StartStim	28	27	 	519	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.603190e+03	3.098626e+01	StartStim	29	28	 	494	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.603694e+03	3.148979e+01	StartStim	30	29	 	486	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	 	3.603775e+03	3.157109e+01	StartStim	31	30	 	522	525	Stim	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.604433e+03	6.442053e-01	StimUp	32	1	h29.jpg	407	537	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.604736e+03	9.468593e-01	StimUp	33	2	h29.jpg	492	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.604837e+03	1.048397e+00	StimUp	34	3	h29.jpg	471	481	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.605190e+03	1.401240e+00	StimUp	35	4	h29.jpg	471	498	Stim	1	1	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.611854e+03	8.065023e+00	StimUp	36	5	h29.jpg	466	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.611935e+03	8.146440e+00	StimUp	37	6	h29.jpg	479	447	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.612710e+03	8.921619e+00	StimUp	38	7	h29.jpg	407	547	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.613355e+03	9.566129e+00	StimUp	39	8	h29.jpg	485	448	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.613728e+03	9.939332e+00	StimUp	40	9	h29.jpg	400	471	Screen	0	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.614131e+03	1.034253e+01	StimUp	41	10	h29.jpg	466	459	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.614434e+03	1.064518e+01	StimUp	42	11	h29.jpg	490	438	Stim	1	0	P014C Hort	
+Estelle	September8	08-Sep-2017	11:1	1	70	Hort	H Correct	3.615149e+03	1.136010e+01	StimUp	43	12	h29.jpg	522	427	Stim	1	1	P014C Hort	

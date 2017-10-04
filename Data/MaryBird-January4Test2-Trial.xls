@@ -1,0 +1,5 @@
+Bird	Session number	Date	Time	Level	raName	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	MaryBird	January4Test2	04-Jan-2017	14:9	1	MaryRA	1	Vert	FollowedV	5.867576e+00	3.009377e+00	1.471093e+00	3.004709e+00	a9.jpg 	0	1	1	13	13	5.000000e-01	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	MaryRA	2	Vert	IncorrectMinorV	1.336395e+01	3.009529e+00	9.846982e-01	7.399327e+00	e19.jpg	4	1	1	4	4	5.000000e-01	0	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	MaryRA	3	Vert	FollowedV	2.477085e+01	3.013333e+00	9.174608e-01	7.168637e+00	a3.jpg 	0	1	1	10	10	5.000000e-01	1	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	MaryRA	4	Vert	FollowedV	3.587858e+01	3.012369e+00	6.781515e+01	7.273538e+00	a1.jpg 	0	1	1	8	8	5.000000e-01	1	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	MaryRA	5	Vert	IncorrectMinorV	1.139911e+02	3.012378e+00	1.771413e+00	7.455688e+00	e9.jpg 	0	1	1	9	9	5.000000e-01	0	1	P019A Super Remdial Vert	

@@ -1,0 +1,15 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Cousteau	October28	28-Oct-2016	8:30	1	1	Vert	FollowedV	8.182505e+00	3.013602e+00	5.117093e+01	3.014557e+00	a11.jpg	0	1	4	4	0	1	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:30	1	2	Vert	IncorrectMinorV	6.539376e+01	3.011665e+00	1.006583e+01	3.007821e+00	e10.jpg	0	1	3	0	0	NaN	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:30	1	3	Vert	IncorrectMinorV	8.148499e+01	3.005713e+00	1.986592e+00	3.013567e+00	e12.jpg	0	1	1	4	0	1	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:30	1	4	Vert	IncorrectMinorV	8.950461e+01	3.008214e+00	3.416383e+00	3.005451e+00	e4.jpg 	1	1	5	3	2	6.000000e-01	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:30	1	5	Vert	IncorrectMinorV	9.895514e+01	3.013515e+00	7.634476e+00	3.005624e+00	e11.jpg	4	1	0	6	0	1	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:31	1	6	Vert	FollowedV	1.126312e+02	3.009099e+00	3.612022e+00	3.009151e+00	a51.jpg	2	1	1	3	0	1	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:31	1	7	Vert	FollowedV	1.222687e+02	3.007613e+00	8.247472e+00	3.012763e+00	a10.jpg	1	1	3	4	0	1	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:31	1	8	Vert	IncorrectMinorV	1.365464e+02	3.009006e+00	1.733800e+01	3.005089e+00	e25.jpg	2	1	0	3	0	1	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:31	1	9	Vert	IncorrectMinorV	1.599115e+02	3.013356e+00	3.562835e+00	3.006645e+00	e20.jpg	2	1	0	6	2	7.500000e-01	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:52	1	10	Vert	FollowedV	1.694997e+02	3.010357e+00	1.237361e+03	3.008714e+00	a11.jpg	3	1	0	2	0	1	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:53	1	11	Vert	IncorrectMinorV	1.412883e+03	3.005543e+00	2.017483e+01	3.010033e+00	e19.jpg	0	1	1	1	2	3.333333e-01	0	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:53	1	12	Vert	FollowedV	1.439085e+03	3.008608e+00	2.851387e+00	3.005147e+00	a1.jpg 	2	1	0	0	0	NaN	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:53	1	13	Vert	FollowedV	1.447955e+03	3.005196e+00	1.541925e+01	3.010880e+00	a52.jpg	0	1	7	3	0	1	1	0	P019A Super Remdial Vert	
+Cousteau	October28	28-Oct-2016	8:54	1	14	Vert	IncorrectMinorV	1.469399e+03	3.005253e+00	2.609185e+01	3.013225e+00	e19.jpg	0	1	33	5	0	1	0	0	P019A Super Remdial Vert	

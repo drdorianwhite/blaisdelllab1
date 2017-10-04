@@ -1,0 +1,38 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Wilhelm	July5	05-Jul-2016	13:13	1	1	Vert	 	4.754208e+00	1.831278e+00	ITI	1	1	 	863	547	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:13	1	1	Vert	 	4.817039e+00	1.894109e+00	ITI	2	2	 	918	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:17	1	1	Vert	 	1.927801e+02	1.868462e+02	StartStim	3	1	 	784	765	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:17	1	1	Vert	 	1.948426e+02	1.889087e+02	StartStim	4	2	 	784	763	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:17	1	1	Vert	 	1.969859e+02	1.910521e+02	StartStim	5	3	 	762	763	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:17	1	1	Vert	 	1.984011e+02	1.924672e+02	StartStim	6	4	 	740	766	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:20	1	1	Vert	 	4.309157e+02	4.249818e+02	StartStim	7	5	 	501	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:21	1	1	Vert	 	4.317353e+02	4.258014e+02	StartStim	8	6	 	501	514	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:21	1	1	Vert	FollowedV	4.326989e+02	9.303860e-01	StimUp	9	1	a12.jpg	417	525	Stim	1	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:22	1	2	Vert	 	5.367113e+02	7.191854e+01	StartStim	1	1	 	515	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:23	1	2	Vert	 	5.823606e+02	1.175679e+02	StartStim	2	2	 	522	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:23	1	2	Vert	 	5.837356e+02	1.189428e+02	StartStim	3	3	 	526	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:23	1	2	Vert	 	5.841007e+02	1.193079e+02	StartStim	4	4	 	518	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	 	6.299818e+02	1.651890e+02	StartStim	5	5	 	518	547	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	 	6.314071e+02	1.666143e+02	StartStim	6	6	 	519	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	 	6.364475e+02	1.716547e+02	StartStim	7	7	 	515	547	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	 	6.368429e+02	1.720501e+02	StartStim	8	8	 	522	525	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.381087e+02	1.243690e+00	StimUp	9	1	e24.jpg	501	525	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.385651e+02	1.700129e+00	StimUp	10	2	e24.jpg	493	525	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.393862e+02	2.521192e+00	StimUp	11	3	e24.jpg	472	537	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.398729e+02	3.007914e+00	StimUp	12	4	e24.jpg	470	603	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.403899e+02	3.524963e+00	StimUp	13	5	e24.jpg	522	591	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.408262e+02	3.961280e+00	StimUp	14	6	e24.jpg	457	624	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	2	Vert	IncorrectMinorV	6.414544e+02	4.589457e+00	StimUp	15	7	e24.jpg	496	591	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	3	Vert	 	6.709225e+02	1.033080e+00	StartStim	1	1	 	522	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:24	1	3	Vert	 	6.712877e+02	1.398251e+00	StartStim	2	2	 	529	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.729653e+02	3.075881e+00	StartStim	3	3	 	518	531	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.732497e+02	3.360229e+00	StartStim	4	4	 	529	525	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.736046e+02	3.715126e+00	StartStim	5	5	 	494	535	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.762716e+02	6.382158e+00	StartStim	6	6	 	522	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.793930e+02	9.503560e+00	StartStim	7	7	 	515	537	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	 	6.804351e+02	1.054561e+01	StartStim	8	8	 	522	525	Stim	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	FollowedV	6.809926e+02	5.363183e-01	StimUp	9	1	a87.jpg	485	547	Stim	1	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	FollowedV	6.813077e+02	8.513642e-01	StimUp	10	2	a87.jpg	463	564	Stim	1	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	FollowedV	6.813498e+02	8.934708e-01	StimUp	11	3	a87.jpg	460	558	Stim	1	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:25	1	3	Vert	FollowedV	6.817556e+02	1.299229e+00	StimUp	12	4	a87.jpg	440	603	Stim	1	1	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:53	1	4	Vert	 	2.374800e+03	1.661315e+03	StartStim	1	1	 	1000	16	Screen	0	0	P019A 1	
+Wilhelm	July5	05-Jul-2016	13:53	1	4	Vert	 	2.377977e+03	1.664493e+03	StartStim	2	2	 	505	660	Screen	0	0	P019A 1	

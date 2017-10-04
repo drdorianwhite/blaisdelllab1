@@ -1,0 +1,20 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Jubilee	September29	29-Sep-2017	12:13	1	1	Vert	V Correct	7.674530e+00	3.013701e+00	9.566391e+01	3.226938e+01	e11.jpg	0	1	12	17	9	6.538462e-01	1	2	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:14	1	2	Vert	V Major	1.386255e+02	3.006441e+00	1.314212e+01	3.000486e+01	d46.jpg	0	1	8	10	3	7.692308e-01	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:16	1	3	Vert	V Major	1.847882e+02	3.005640e+00	9.118201e+01	3.001348e+01	g50.jpg	5	1	27	1	0	1	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:17	1	4	Vert	V Minor	3.090006e+02	3.007192e+00	2.655153e+01	3.000531e+01	f2.jpg 	0	1	24	2	0	1	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:18	1	5	Vert	V Major	3.685853e+02	3.012376e+00	2.176849e+01	3.000768e+01	g52.jpg	0	1	7	0	1	0	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:20	1	6	Vert	V Correct	4.233967e+02	3.007308e+00	1.351249e+02	3.001417e+01	e2.jpg 	1	1	35	18	5	7.826087e-01	1	2	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:21	1	7	Vert	V Correct	5.915516e+02	3.007451e+00	2.401269e+01	3.001078e+01	e20.jpg	1	1	34	25	2	9.259259e-01	1	2	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:22	1	8	Vert	V Major	6.485891e+02	3.005684e+00	1.498502e+01	3.000524e+01	d11.jpg	0	1	39	18	4	8.181818e-01	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:23	1	9	Vert	V Minor	6.965957e+02	3.008029e+00	3.505790e+00	3.001058e+01	f22.jpg	1	1	19	0	3	0	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:23	1	10	Vert	V Correct	7.331260e+02	3.005540e+00	3.003295e+00	3.198701e+01	e3.jpg 	0	1	1	26	12	6.842105e-01	1	3	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:33	1	11	Vert	V Minor	7.711302e+02	3.005675e+00	5.269617e+02	3.000446e+01	e25.jpg	0	1	41	4	1	8.000000e-01	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:38	1	12	Vert	V Correct	1.331110e+03	3.005795e+00	2.801477e+02	3.243886e+01	e4.jpg 	0	1	21	25	4	8.620690e-01	1	3	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:39	1	13	Vert	V Correct	1.646711e+03	3.005677e+00	1.211686e+01	3.000605e+01	e25.jpg	0	1	17	12	42	2.222222e-01	1	1	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:40	1	14	Vert	V Minor	1.691852e+03	3.010390e+00	1.553876e+01	3.001312e+01	e9.jpg 	0	1	27	19	8	7.037037e-01	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:58	1	15	Vert	V Correct	1.740418e+03	3.005764e+00	1.065974e+03	3.406160e+01	e19.jpg	0	1	24	25	3	8.928571e-01	1	3	P014C Vert	
+Jubilee	September29	29-Sep-2017	12:59	1	16	Vert	V Minor	2.843468e+03	3.006492e+00	3.895560e+00	3.000430e+01	e25.jpg	0	1	11	12	9	5.714286e-01	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	13:0	1	17	Vert	V Correct	2.880382e+03	3.005771e+00	2.986154e+01	3.000643e+01	e1.jpg 	0	1	31	20	14	5.882353e-01	1	2	P014C Vert	
+Jubilee	September29	29-Sep-2017	13:1	1	18	Vert	V Major	2.943265e+03	3.007489e+00	4.242893e+01	3.001253e+01	g7.jpg 	1	1	37	1	0	1	0	0	P014C Vert	
+Jubilee	September29	29-Sep-2017	13:2	1	19	Vert	V Major	3.018720e+03	3.005563e+00	2.429024e+01	3.000778e+01	d52.jpg	0	1	47	3	1	7.500000e-01	0	0	P014C Vert	

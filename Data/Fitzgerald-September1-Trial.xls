@@ -1,0 +1,3 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Fitzgerald	September1	01-Sep-2017	8:43	1	1	Hort	H Correct	7.723995e+00	3.008141e+00	3.165565e+03	3.000797e+01	h14.jpg	0	1	77	3	0	1	1	1	P014C Hort	
+Fitzgerald	September1	01-Sep-2017	8:47	1	2	Hort	H Major	3.206318e+03	3.011937e+00	1.764234e+02	3.001333e+01	j33.jpg 	0	1	49	32	0	1	0	0	P014C Hort	

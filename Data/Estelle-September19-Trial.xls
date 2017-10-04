@@ -1,0 +1,82 @@
+Bird	Session number	Date	Time	Level	Probe	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Estelle	September19	19-Sep-2017	10:42	1	3	1	Hort	H Correct	6.852298e+00	3.004392e+00	4.781436e+02	3.001358e+01	h14.jpg	0	1	5	13	12	5.200000e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:44	1	3	2	Hort	Minor H	5.180319e+02	3.013144e+00	4.891056e+01	3.001409e+01	42h.jpg	0	1	2	29	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:45	1	3	3	Hort	H Correct	5.999781e+02	3.012934e+00	5.746739e+00	3.000811e+01	h1.jpg 	0	1	2	24	8	7.500000e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:46	1	3	4	Hort	Major H	6.387460e+02	3.004621e+00	4.206813e+01	3.001328e+01	j36.jpg 	0	1	13	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:47	1	3	5	Hort	H Correct	7.138453e+02	3.006168e+00	3.612819e+01	3.000538e+01	h16.jpg	0	1	22	18	15	5.454545e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:48	1	3	6	Hort	H Correct	7.830116e+02	3.014010e+00	1.399870e+01	3.001052e+01	h29.jpg	0	1	2	21	5	8.076923e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:55	1	3	7	Hort	H Correct	8.300329e+02	3.003853e+00	3.972659e+02	3.000729e+01	h22.jpg	1	1	33	28	11	7.179487e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:57	1	3	8	Hort	H Correct	1.260318e+03	3.003569e+00	7.410257e+01	3.001029e+01	h15.jpg	1	1	12	20	5	8.000000e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:58	1	3	9	Hort	Minor H	1.367452e+03	3.013136e+00	4.279219e+01	3.001373e+01	w10.jpg	0	1	9	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	10:59	1	3	10	Hort	H Correct	1.443279e+03	3.012672e+00	2.557617e+01	3.000446e+01	h13.jpg	0	1	19	25	9	7.352941e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:0	1	3	11	Hort	Major H	1.501880e+03	3.012655e+00	3.616762e+01	3.001356e+01	c7.jpg  	0	1	32	0	1	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:1	1	3	12	Hort	H Correct	1.571082e+03	3.012765e+00	2.508007e+01	3.000631e+01	h13.jpg	0	1	5	24	6	8.000000e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:2	1	3	13	Hort	Minor H	1.629189e+03	3.012663e+00	3.748287e+01	3.000891e+01	42h.jpg	0	1	31	3	2	6.000000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:3	1	3	14	Hort	Minor H	1.699702e+03	3.012733e+00	2.154047e+01	3.000644e+01	w5.jpg 	0	1	26	0	1	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:5	1	3	15	Hort	H Correct	1.754263e+03	3.006294e+00	7.452421e+01	3.383164e+01	h3.jpg 	3	1	64	23	11	6.764706e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:6	1	3	16	Hort	Major H	1.865640e+03	3.012718e+00	2.423691e+01	3.001358e+01	c5.jpg  	0	1	31	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:7	1	3	17	Hort	H Correct	1.922902e+03	3.003747e+00	4.920078e+00	3.000748e+01	h22.jpg	1	1	6	32	12	7.272727e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:7	1	3	18	Hort	H Correct	1.960850e+03	3.012668e+00	1.074325e+01	3.001315e+01	h29.jpg	0	1	8	20	7	7.407407e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:8	1	3	19	Hort	Probe Correct Hort	2.004627e+03	3.012890e+00	9.267969e+00	3.001065e+01	h41.jpg	0	1	11	14	4	7.777778e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:9	1	3	20	Hort	H Correct	2.046927e+03	3.013288e+00	1.520399e+01	3.000612e+01	h21.jpg	0	1	15	23	7	7.666667e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:10	1	3	21	Hort	Minor H	2.095158e+03	3.012308e+00	1.488741e+01	3.000679e+01	2h.jpg 	0	1	9	21	26	4.468085e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:10	1	3	22	Hort	Probe Correct Hort	2.143063e+03	3.003502e+00	1.213785e+00	3.000594e+01	h45.jpg	1	1	0	3	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:11	1	3	23	Hort	H Correct	2.177304e+03	3.012537e+00	1.840010e+00	3.308284e+01	h22.jpg	0	1	3	32	7	8.205128e-01	1	3	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:12	1	3	24	Hort	Probe Correct Hort	2.215240e+03	3.005739e+00	2.541813e+01	3.000546e+01	h27.jpg	0	1	24	6	6	5.000000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:12	1	3	25	Hort	Minor H	2.273675e+03	3.003602e+00	2.272798e+00	3.000447e+01	1h.jpg 	1	1	3	12	10	5.454545e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:13	1	3	26	Hort	Probe Correct Hort	2.308965e+03	3.004450e+00	9.591891e+00	3.000904e+01	h40.jpg	2	1	0	9	7	5.625000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:14	1	3	27	Hort	Probe Correct Hort	2.351587e+03	3.012797e+00	2.029293e+01	3.000813e+01	h43.jpg	0	1	24	10	6	6.250000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:15	1	3	28	Hort	Probe Correct Hort	2.404899e+03	3.003540e+00	3.932956e+00	3.000702e+01	h39.jpg	1	1	5	3	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:15	1	3	29	Hort	Major H	2.441851e+03	3.003854e+00	3.247403e+00	3.000882e+01	c7.jpg  	1	1	3	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:16	1	3	30	Hort	Major H	2.478128e+03	3.012410e+00	9.582462e+00	3.001429e+01	j35.jpg 	0	1	3	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:16	1	3	31	Hort	H Correct	2.520746e+03	3.013312e+00	1.466799e+00	3.000647e+01	h29.jpg	0	1	1	26	4	8.666667e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:17	1	3	32	Hort	Minor H	2.555231e+03	3.003605e+00	9.328537e+00	3.001309e+01	w13.jpg	1	1	12	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:18	1	3	33	Hort	Major H	2.597593e+03	3.012679e+00	7.718865e-02	3.000458e+01	j5.jpg  	0	1	0	1	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:18	1	3	34	Hort	Minor H	2.630695e+03	3.012627e+00	6.400377e-01	3.000577e+01	41h.jpg	0	1	0	32	14	6.956522e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:19	1	3	35	Hort	Minor H	2.664353e+03	3.003547e+00	3.749385e+00	3.001359e+01	w13.jpg	1	1	1	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:19	1	3	36	Hort	Minor H	2.701137e+03	3.013314e+00	1.032120e+00	3.000768e+01	42h.jpg	0	1	0	1	3	2.500000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:20	1	3	37	Hort	Probe Correct Hort	2.735189e+03	3.004553e+00	6.829697e+00	3.000506e+01	h48.jpg	2	1	13	5	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:21	1	3	38	Hort	Minor H	2.775046e+03	3.013410e+00	1.920320e+00	3.001354e+01	w5.jpg 	1	1	3	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:21	1	3	39	Hort	Minor H	2.810000e+03	3.012740e+00	4.396059e-01	3.000698e+01	34h.jpg	0	1	1	17	11	6.071429e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:22	1	3	40	Hort	H Correct	2.843467e+03	3.012296e+00	5.627415e+00	3.000452e+01	h24.jpg	0	1	10	0	2	0	1	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:23	1	3	41	Hort	Major H	2.882120e+03	3.012707e+00	8.608790e+00	3.001351e+01	j34.jpg 	0	1	5	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:23	1	3	42	Hort	Probe Minor Hort	2.923762e+03	3.012646e+00	5.347512e+00	3.000489e+01	w12.jpg	0	1	3	0	2	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:24	1	3	43	Hort	Major H	2.962135e+03	3.012600e+00	3.661930e+00	3.000728e+01	j6.jpg  	0	1	5	2	1	6.666667e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:24	1	3	44	Hort	Probe Minor Hort	2.998825e+03	3.012305e+00	1.682041e+00	3.000467e+01	31h.jpg	0	1	2	13	9	5.909091e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:25	1	3	45	Hort	Major H	3.033532e+03	3.012704e+00	1.865593e+01	3.000986e+01	c6.jpg  	0	1	8	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:26	1	3	46	Hort	Minor H	3.085218e+03	3.012328e+00	1.589967e+01	3.000949e+01	1h.jpg 	0	1	17	16	10	6.153846e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:27	1	3	47	Hort	Minor H	3.134148e+03	3.012633e+00	9.615733e-01	3.001365e+01	w9.jpg 	0	1	0	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:27	1	3	48	Hort	Minor H	3.168144e+03	3.012371e+00	1.625924e+00	3.000444e+01	w13.jpg	0	1	0	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:28	1	3	49	Hort	H Correct	3.202795e+03	3.012536e+00	6.472936e+00	3.001005e+01	h22.jpg	0	1	1	28	17	6.222222e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:29	1	3	50	Hort	Probe Correct Hort	3.242298e+03	3.012724e+00	7.913766e+00	3.001135e+01	h12.jpg	0	1	8	4	15	2.105263e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:29	1	3	51	Hort	Minor H	3.283244e+03	3.012524e+00	4.798514e-01	3.000572e+01	42h.jpg	0	1	0	1	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:30	1	3	52	Hort	H Correct	3.316750e+03	3.012629e+00	4.799707e+01	3.000596e+01	h22.jpg	0	1	62	11	13	4.583333e-01	1	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:31	1	3	53	Hort	Major H	3.397774e+03	3.012706e+00	5.074971e+00	3.001338e+01	j33.jpg 	0	1	1	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:32	1	3	54	Hort	Probe Correct Hort	3.435883e+03	3.013017e+00	4.608126e+00	3.000725e+01	h38.jpg	0	1	11	10	4	7.142857e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:32	1	3	55	Hort	H Correct	3.473520e+03	3.013053e+00	1.959668e+00	3.200054e+01	h31.jpg	0	1	2	28	7	8.000000e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:33	1	3	56	Hort	H Correct	3.510501e+03	3.013454e+00	1.156936e+01	3.247893e+01	h30.jpg	0	1	8	32	6	8.421053e-01	1	3	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:34	1	3	57	Hort	Major H	3.557571e+03	3.013269e+00	2.230216e+00	3.001386e+01	c6.jpg  	0	1	0	4	4	5.000000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:34	1	3	58	Hort	Major H	3.592836e+03	3.013393e+00	2.228311e+00	3.000447e+01	c7.jpg  	0	1	0	1	0	1	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:35	1	3	59	Hort	H Correct	3.628081e+03	3.004261e+00	4.912486e+00	3.000802e+01	h16.jpg	2	1	9	19	33	3.653846e-01	1	1	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:36	1	3	60	Hort	H Correct	3.666014e+03	3.003792e+00	1.301158e+01	3.000466e+01	h15.jpg	1	1	18	22	4	8.461538e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:36	1	3	61	Hort	H Correct	3.712051e+03	3.012775e+00	7.230666e+00	3.001151e+01	h23.jpg	0	1	4	30	3	9.090909e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:37	1	3	62	Hort	H Correct	3.752313e+03	3.012711e+00	1.709991e+01	3.000790e+01	h13.jpg	0	1	21	27	7	7.941176e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:38	1	3	63	Hort	Minor H	3.802442e+03	3.012381e+00	1.851108e+00	3.000704e+01	w6.jpg 	0	1	1	0	1	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:38	1	3	64	Hort	H Correct	3.837311e+03	3.003551e+00	1.689210e+00	3.131964e+01	h3.jpg 	1	1	3	26	19	5.777778e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:39	1	3	65	Hort	Major H	3.873341e+03	3.012422e+00	1.943232e+01	3.000412e+01	j5.jpg  	0	1	30	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:40	1	3	66	Hort	H Correct	3.925798e+03	3.012951e+00	4.490497e-01	3.001219e+01	h15.jpg	0	1	0	27	9	7.500000e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:41	1	3	67	Hort	Probe Minor Hort	3.959280e+03	3.012508e+00	1.679499e+01	3.000712e+01	w18.jpg	0	1	23	1	3	2.500000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:41	1	3	68	Hort	Major H	4.009103e+03	3.012943e+00	7.437548e+00	3.000587e+01	j36.jpg 	0	1	11	0	2	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:42	1	3	69	Hort	Probe Major Hort	4.049567e+03	3.012531e+00	1.032252e+01	3.001397e+01	j120.jpg              	0	1	0	0	1	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:43	1	3	70	Hort	H Correct	4.092915e+03	3.003456e+00	5.029696e+00	3.009710e+01	h4.jpg 	1	1	6	22	13	6.285714e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:43	1	3	71	Hort	Major H	4.131063e+03	3.013449e+00	1.111784e+01	3.001346e+01	j33.jpg 	0	1	10	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:44	1	3	72	Hort	Probe Major Hort	4.175215e+03	3.012302e+00	1.254982e+00	3.000897e+01	j110.jpg              	0	1	1	0	6	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:45	1	3	73	Hort	Minor H	4.209499e+03	3.012571e+00	1.556027e+01	3.001323e+01	10h.jpg	0	1	10	22	9	7.096774e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:45	1	3	74	Hort	Minor H	4.258086e+03	3.005480e+00	9.432912e-01	3.000895e+01	w10.jpg	3	1	1	0	0	NaN	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:46	1	3	75	Hort	H Correct	4.292050e+03	3.003610e+00	1.042861e+00	3.001153e+01	h2.jpg 	1	1	1	24	10	7.058824e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:47	1	3	76	Hort	H Correct	4.326125e+03	3.012673e+00	1.556955e+01	3.001053e+01	h23.jpg	0	1	19	34	4	8.947368e-01	1	2	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:48	1	3	77	Hort	Probe Major Hort	4.374717e+03	3.004083e+00	1.629732e+01	3.000899e+01	j109 - Copy.jpg       	1	1	16	1	3	2.500000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:48	1	3	78	Hort	Major H	4.424035e+03	3.003520e+00	8.882116e+00	3.000661e+01	j35.jpg 	1	1	7	0	1	0	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:49	1	3	79	Hort	Probe Minor Hort	4.465936e+03	3.004564e+00	6.787209e-01	3.000989e+01	48h.jpg	2	1	1	24	16	6.000000e-01	0	0	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:49	1	3	80	Hort	H Correct	4.499645e+03	3.012310e+00	4.892465e-01	3.417861e+01	h15.jpg	0	1	0	30	4	8.823529e-01	1	3	P019aHortProbeSet2	
+Estelle	September19	19-Sep-2017	11:50	1	3	81	Hort	H Correct	4.537334e+03	3.013361e+00	6.369751e+00	3.001173e+01	h3.jpg 	0	1	9	6	1	8.571429e-01	1	1	P019aHortProbeSet2	

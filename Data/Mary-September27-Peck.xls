@@ -1,0 +1,5 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	September27	27-Sep-2017	12:39	1	1	Vert	 	1.048846e+01	3.604354e+00	StartStim	1	1	 	515	525	Stim	0	0	P014C Vert	
+Mary	September27	27-Sep-2017	12:39	1	2	Vert	 	5.807543e+01	1.449939e+01	StartStim	1	1	 	163	279	Screen	0	0	P014C Vert	
+Mary	September27	27-Sep-2017	12:39	1	2	Vert	 	6.100856e+01	1.743252e+01	StartStim	2	2	 	515	358	Screen	0	0	P014C Vert	
+Mary	September27	27-Sep-2017	12:39	1	2	Vert	 	6.483932e+01	2.126327e+01	StartStim	3	3	 	420	157	Screen	0	0	P014C Vert	
+Mary	September27	27-Sep-2017	12:39	1	2	Vert	 	6.519664e+01	2.162060e+01	StartStim	4	4	 	413	158	Screen	0	0	P014C Vert	

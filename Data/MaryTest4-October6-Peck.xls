@@ -1,0 +1,16 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest4	October6	03-Oct-2017	15:12	1	1	Vert	 	9.061402e+00	3.147478e+00	StartStim	1	1	 	501	541	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:12	1	1	Vert	 	9.459768e+00	3.545843e+00	StartStim	2	2	 	526	519	Stim	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:12	1	1	Vert	V Major	9.776691e+00	2.772981e-01	StimUp	3	1	g51.jpg	490	516	Stim	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	 	4.418398e+01	1.654609e+00	StartStim	1	1	 	468	520	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	 	4.446265e+01	1.933279e+00	StartStim	2	2	 	493	516	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	 	4.472574e+01	2.196368e+00	StartStim	3	3	 	526	525	Stim	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.499689e+01	2.436411e-01	StimUp	4	1	e26.jpg	511	537	Stim	1	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.569850e+01	9.452503e-01	StimUp	5	2	e26.jpg	548	510	Stim	1	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.586281e+01	1.109562e+00	StimUp	6	3	e26.jpg	432	525	Stim	1	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.599651e+01	1.243265e+00	StimUp	7	4	e26.jpg	577	541	Stim	1	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.614160e+01	1.388353e+00	StimUp	8	5	e26.jpg	504	510	Stim	1	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	4.627897e+01	1.525718e+00	StimUp	9	6	e26.jpg	558	519	Stim	1	1	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	5.423520e+01	9.481948e+00	StimUp	10	7	e26.jpg	201	326	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	5.493577e+01	1.018252e+01	StimUp	11	8	e26.jpg	206	318	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	5.712277e+01	1.236952e+01	StimUp	12	9	e26.jpg	655	0	Screen	0	0	P014C Vert	
+MaryTest4	October6	03-Oct-2017	15:13	1	2	Vert	V Correct	5.820412e+01	1.345087e+01	StimUp	13	10	e26.jpg	400	153	Screen	0	0	P014C Vert	

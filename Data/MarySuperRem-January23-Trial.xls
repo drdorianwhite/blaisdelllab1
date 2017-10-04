@@ -1,0 +1,4 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+MarySuperRem	January23	23-Jan-2017	10:18	1	1	Hort	IncorrectMinorH	4.611646e+00	3.012291e+00	1.973584e+01	3.001171e+01	11h.jpg	0	1	0	35	22	6.140351e-01	0	0	P019A Super Remedial Hort	
+MarySuperRem	January23	23-Jan-2017	10:19	1	2	Hort	IncorrectMinorH	5.737589e+01	3.005845e+00	7.701938e+00	3.000847e+01	33h.jpg	0	1	0	25	0	1	0	0	P019A Super Remedial Hort	
+MarySuperRem	January23	23-Jan-2017	10:20	1	3	Hort	IncorrectMinorH	9.810857e+01	3.012804e+00	3.169169e+01	3.001042e+01	12h.jpg	0	1	1	10	0	1	0	0	P019A Super Remedial Hort	

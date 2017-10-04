@@ -1,0 +1,372 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Hawthorne	September12	12-Sep-2017	12:12	1	1	Vert	 	6.546333e+02	6.474992e+02	StartStim	1	1	 	394	666	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:12	1	1	Vert	 	6.546699e+02	6.475358e+02	StartStim	2	2	 	394	666	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.806352e+02	6.735011e+02	StartStim	3	3	 	205	438	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.840754e+02	6.769413e+02	StartStim	4	4	 	588	543	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.881509e+02	6.810168e+02	StartStim	5	5	 	519	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.905879e+02	6.834538e+02	StartStim	6	6	 	650	534	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.958662e+02	6.887321e+02	StartStim	7	7	 	747	534	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.961692e+02	6.890351e+02	StartStim	8	8	 	857	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.962715e+02	6.891374e+02	StartStim	9	9	 	849	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	6.980518e+02	6.909177e+02	StartStim	10	10	 	204	501	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	7.013497e+02	6.942156e+02	StartStim	11	11	 	606	564	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	7.030897e+02	6.959556e+02	StartStim	12	12	 	326	492	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	7.033521e+02	6.962180e+02	StartStim	13	13	 	326	499	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	 	7.107503e+02	7.036162e+02	StartStim	14	14	 	522	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.127138e+02	1.872552e+00	StimUp	15	1	e11.jpg	486	514	Stim	1	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.127467e+02	1.905441e+00	StimUp	16	2	e11.jpg	485	537	Stim	1	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.151922e+02	4.350907e+00	StimUp	17	3	e11.jpg	499	678	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.161705e+02	5.329216e+00	StimUp	18	4	e11.jpg	439	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.166744e+02	5.833170e+00	StimUp	19	5	e11.jpg	499	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.172489e+02	6.407633e+00	StimUp	20	6	e11.jpg	465	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.180344e+02	7.193199e+00	StimUp	21	7	e11.jpg	455	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.181470e+02	7.305797e+00	StimUp	22	8	e11.jpg	415	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.187916e+02	7.950321e+00	StimUp	23	9	e11.jpg	526	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.194060e+02	8.564735e+00	StimUp	24	10	e11.jpg	507	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.200306e+02	9.189314e+00	StimUp	25	11	e11.jpg	463	591	Stim	1	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.200722e+02	9.230960e+00	StimUp	26	12	e11.jpg	459	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:13	1	1	Vert	V Correct	7.201133e+02	9.272089e+00	StimUp	27	13	e11.jpg	418	600	Stim	1	1	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.297734e+02	1.893217e+01	StimUp	28	14	e11.jpg	461	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.305287e+02	1.968744e+01	StimUp	29	15	e11.jpg	408	582	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.306102e+02	1.976892e+01	StimUp	30	16	e11.jpg	373	643	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.318078e+02	2.096659e+01	StimUp	31	17	e11.jpg	501	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.324927e+02	2.165147e+01	StimUp	32	18	e11.jpg	435	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.325943e+02	2.175304e+01	StimUp	33	19	e11.jpg	499	712	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.332289e+02	2.238762e+01	StimUp	34	20	e11.jpg	481	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.333305e+02	2.248921e+01	StimUp	35	21	e11.jpg	459	690	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.339146e+02	2.307334e+01	StimUp	36	22	e11.jpg	475	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.345692e+02	2.372794e+01	StimUp	37	23	e11.jpg	457	622	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.352540e+02	2.441279e+01	StimUp	38	24	e11.jpg	548	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.358081e+02	2.496689e+01	StimUp	39	25	e11.jpg	474	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.365734e+02	2.573212e+01	StimUp	40	26	e11.jpg	403	678	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.371680e+02	2.632675e+01	StimUp	41	27	e11.jpg	548	625	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.374707e+02	2.662943e+01	StimUp	42	28	e11.jpg	537	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.375520e+02	2.671075e+01	StimUp	43	29	e11.jpg	522	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.382870e+02	2.744574e+01	StimUp	44	30	e11.jpg	501	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.389115e+02	2.807024e+01	StimUp	45	31	e11.jpg	501	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.390130e+02	2.817179e+01	StimUp	46	32	e11.jpg	456	690	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.396877e+02	2.884644e+01	StimUp	47	33	e11.jpg	504	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.397892e+02	2.894794e+01	StimUp	48	34	e11.jpg	461	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.501267e+02	6.255755e+00	StartStim	1	1	 	697	576	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.534048e+02	9.533826e+00	StartStim	2	2	 	711	510	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.547528e+02	1.088181e+01	StartStim	3	3	 	275	519	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.577893e+02	1.391834e+01	StartStim	4	4	 	566	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.621127e+02	1.824174e+01	StartStim	5	5	 	442	541	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.630486e+02	1.917759e+01	StartStim	6	6	 	570	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.650297e+02	2.115874e+01	StartStim	7	7	 	341	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.659655e+02	2.209453e+01	StartStim	8	8	 	581	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.665898e+02	2.271880e+01	StartStim	9	9	 	538	552	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.674855e+02	2.361447e+01	StartStim	10	10	 	290	514	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	 	7.681096e+02	2.423866e+01	StartStim	11	11	 	522	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.691674e+02	1.036562e+00	StimUp	12	1	d43.jpg	529	558	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.692899e+02	1.159146e+00	StimUp	13	2	d43.jpg	519	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.697534e+02	1.622649e+00	StimUp	14	3	d43.jpg	502	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.698449e+02	1.714103e+00	StimUp	15	4	d43.jpg	435	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.707509e+02	2.620103e+00	StimUp	16	5	d43.jpg	544	579	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.715464e+02	3.415633e+00	StimUp	17	6	d43.jpg	470	591	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.720707e+02	3.939919e+00	StimUp	18	7	d43.jpg	538	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.721522e+02	4.021449e+00	StimUp	19	8	d43.jpg	542	690	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.726459e+02	4.515056e+00	StimUp	20	9	d43.jpg	490	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.731093e+02	4.978529e+00	StimUp	21	10	d43.jpg	504	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.738444e+02	5.713606e+00	StimUp	22	11	d43.jpg	504	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.758465e+02	7.715746e+00	StimUp	23	12	d43.jpg	377	516	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.759883e+02	7.857515e+00	StimUp	24	13	d43.jpg	492	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.765523e+02	8.421535e+00	StimUp	25	14	d43.jpg	516	558	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.766244e+02	8.493604e+00	StimUp	26	15	d43.jpg	586	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.766856e+02	8.554776e+00	StimUp	27	16	d43.jpg	521	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.767669e+02	8.636060e+00	StimUp	28	17	d43.jpg	474	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.774114e+02	9.280625e+00	StimUp	29	18	d43.jpg	542	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.774526e+02	9.321836e+00	StimUp	30	19	d43.jpg	519	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.780669e+02	9.936136e+00	StimUp	31	20	d43.jpg	494	558	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.781082e+02	9.977352e+00	StimUp	32	21	d43.jpg	522	580	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.782096e+02	1.007876e+01	StimUp	33	22	d43.jpg	584	625	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.788842e+02	1.075337e+01	StimUp	34	23	d43.jpg	497	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.789656e+02	1.083476e+01	StimUp	35	24	d43.jpg	517	580	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.790068e+02	1.087601e+01	StimUp	36	25	d43.jpg	551	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.801341e+02	1.200329e+01	StimUp	37	26	d43.jpg	486	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.802457e+02	1.211488e+01	StimUp	38	27	d43.jpg	413	538	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.803069e+02	1.217610e+01	StimUp	39	28	d43.jpg	413	561	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.803883e+02	1.225747e+01	StimUp	40	29	d43.jpg	455	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.804494e+02	1.231863e+01	StimUp	41	30	d43.jpg	481	706	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.805106e+02	1.237978e+01	StimUp	42	31	d43.jpg	459	712	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.813664e+02	1.323560e+01	StimUp	43	32	d43.jpg	606	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.819306e+02	1.379976e+01	StimUp	44	33	d43.jpg	539	580	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.820321e+02	1.390134e+01	StimUp	45	34	d43.jpg	497	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.825258e+02	1.439500e+01	StimUp	46	35	d43.jpg	511	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.826876e+02	1.455680e+01	StimUp	47	36	d43.jpg	440	600	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.850114e+02	1.688061e+01	StimUp	48	37	d43.jpg	485	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.863500e+02	1.821918e+01	StimUp	49	38	d43.jpg	549	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:14	1	2	Vert	V Major	7.869845e+02	1.885371e+01	StimUp	50	39	d43.jpg	407	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.874279e+02	1.929713e+01	StimUp	51	40	d43.jpg	501	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.875496e+02	1.941876e+01	StimUp	52	41	d43.jpg	540	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.875906e+02	1.945983e+01	StimUp	53	42	d43.jpg	523	700	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.876317e+02	1.950086e+01	StimUp	54	43	d43.jpg	481	712	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.881051e+02	1.997432e+01	StimUp	55	44	d43.jpg	464	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.882670e+02	2.013621e+01	StimUp	56	45	d43.jpg	381	583	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.883283e+02	2.019747e+01	StimUp	57	46	d43.jpg	437	622	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.907326e+02	2.260181e+01	StimUp	58	47	d43.jpg	522	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.908141e+02	2.268327e+01	StimUp	59	48	d43.jpg	550	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.913077e+02	2.317694e+01	StimUp	60	49	d43.jpg	515	492	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.920933e+02	2.396252e+01	StimUp	61	50	d43.jpg	579	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.935323e+02	2.540155e+01	StimUp	62	51	d43.jpg	480	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.971335e+02	2.900266e+01	StimUp	63	52	d43.jpg	493	516	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.971847e+02	2.905395e+01	StimUp	64	53	d43.jpg	516	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.210908e+02	1.992532e+01	StartStim	1	1	 	614	604	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.211320e+02	1.996651e+01	StartStim	2	2	 	594	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.227712e+02	2.160568e+01	StartStim	3	3	 	377	516	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.237673e+02	2.260180e+01	StartStim	4	4	 	555	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.259897e+02	2.482419e+01	StartStim	5	5	 	305	531	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.260510e+02	2.488550e+01	StartStim	6	6	 	420	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.295296e+02	2.836411e+01	StartStim	7	7	 	486	514	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.355515e+02	3.438601e+01	StartStim	8	8	 	675	555	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.377642e+02	3.659875e+01	StartStim	9	9	 	399	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.381673e+02	3.700181e+01	StartStim	10	10	 	413	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.397262e+02	3.856070e+01	StartStim	11	11	 	566	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.431851e+02	4.201958e+01	StartStim	12	12	 	288	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.432664e+02	4.210096e+01	StartStim	13	13	 	332	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.435287e+02	4.236324e+01	StartStim	14	14	 	354	561	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	3	Vert	 	8.463442e+02	4.517871e+01	StartStim	15	15	 	479	535	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	 	8.485063e+02	4.734085e+01	StartStim	16	16	 	362	522	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	 	8.490300e+02	4.786455e+01	StartStim	17	17	 	479	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	 	8.491717e+02	4.800622e+01	StartStim	18	18	 	479	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	 	8.505898e+02	4.942435e+01	StartStim	19	19	 	507	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.536466e+02	3.037745e+00	StimUp	20	1	g50.jpg	602	504	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.537080e+02	3.099075e+00	StimUp	21	2	g50.jpg	595	534	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.542118e+02	3.602939e+00	StimUp	22	3	g50.jpg	580	513	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.542631e+02	3.654208e+00	StimUp	23	4	g50.jpg	548	513	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.543243e+02	3.715387e+00	StimUp	24	5	g50.jpg	530	513	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.543854e+02	3.776544e+00	StimUp	25	6	g50.jpg	507	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.549494e+02	4.340542e+00	StimUp	26	7	g50.jpg	588	661	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.550308e+02	4.421932e+00	StimUp	27	8	g50.jpg	585	690	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.578072e+02	7.198330e+00	StimUp	28	9	g50.jpg	566	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.584116e+02	7.802720e+00	StimUp	29	10	g50.jpg	588	648	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.593880e+02	8.779130e+00	StimUp	30	11	g50.jpg	616	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.594493e+02	8.840417e+00	StimUp	31	12	g50.jpg	647	577	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.594903e+02	8.881445e+00	StimUp	32	13	g50.jpg	615	580	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.602052e+02	9.596280e+00	StimUp	33	14	g50.jpg	577	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.602665e+02	9.657579e+00	StimUp	34	15	g50.jpg	603	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.603880e+02	9.779109e+00	StimUp	35	16	g50.jpg	566	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.604894e+02	9.880513e+00	StimUp	36	17	g50.jpg	610	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.605707e+02	9.961826e+00	StimUp	37	18	g50.jpg	562	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.611448e+02	1.053596e+01	StimUp	38	19	g50.jpg	605	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.612262e+02	1.061736e+01	StimUp	39	20	g50.jpg	657	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.613277e+02	1.071882e+01	StimUp	40	21	g50.jpg	591	627	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.618314e+02	1.122252e+01	StimUp	41	22	g50.jpg	566	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.618725e+02	1.126366e+01	StimUp	42	23	g50.jpg	555	579	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.626678e+02	1.205893e+01	StimUp	43	24	g50.jpg	547	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.627492e+02	1.214030e+01	StimUp	44	25	g50.jpg	504	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.653043e+02	1.469545e+01	StimUp	45	26	g50.jpg	552	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.715303e+02	2.092146e+01	StimUp	46	27	g50.jpg	566	535	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.715716e+02	2.096267e+01	StimUp	47	28	g50.jpg	582	579	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.721054e+02	2.149656e+01	StimUp	48	29	g50.jpg	584	625	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.734850e+02	2.287609e+01	StimUp	49	30	g50.jpg	644	609	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.739888e+02	2.337990e+01	StimUp	50	31	g50.jpg	566	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.740501e+02	2.344120e+01	StimUp	51	32	g50.jpg	623	591	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.745638e+02	2.395493e+01	StimUp	52	33	g50.jpg	588	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.771491e+02	2.654022e+01	StimUp	53	34	g50.jpg	575	469	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.777233e+02	2.711439e+01	StimUp	54	35	g50.jpg	631	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.777845e+02	2.717562e+01	StimUp	55	36	g50.jpg	697	606	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.788312e+02	2.822235e+01	StimUp	56	37	g50.jpg	588	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.798278e+02	2.921891e+01	StimUp	57	38	g50.jpg	633	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.808484e+02	2.229537e-01	ITI	1	1	g50.jpg	669	561	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.828922e+02	2.266757e+00	ITI	2	2	g50.jpg	450	516	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.831045e+02	2.478986e+00	ITI	3	3	g50.jpg	450	516	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.836853e+02	5.352027e-02	StartStim	4	1	 	270	478	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.840885e+02	4.566411e-01	StartStim	5	2	 	296	471	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.863511e+02	2.719256e+00	StartStim	6	3	 	476	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.877694e+02	4.137551e+00	StartStim	7	4	 	604	573	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.910873e+02	7.455490e+00	StartStim	8	5	 	283	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.913296e+02	7.697782e+00	StartStim	9	6	 	411	580	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.915919e+02	7.960058e+00	StartStim	10	7	 	460	564	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.917837e+02	8.151915e+00	StartStim	11	8	 	463	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.925887e+02	8.956923e+00	StartStim	12	9	 	605	597	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.926299e+02	8.998034e+00	StartStim	13	10	 	539	580	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.932841e+02	9.652260e+00	StartStim	14	11	 	413	514	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.936469e+02	1.001508e+01	StartStim	15	12	 	413	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.945826e+02	1.095082e+01	StartStim	16	13	 	420	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.952672e+02	1.163537e+01	StartStim	17	14	 	529	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.953889e+02	1.175711e+01	StartStim	18	15	 	507	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.969680e+02	1.333617e+01	StartStim	19	16	 	581	543	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.983261e+02	1.469431e+01	StartStim	20	17	 	298	564	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.987694e+02	1.513757e+01	StartStim	21	18	 	454	582	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	8.996851e+02	1.605325e+01	StartStim	22	19	 	525	585	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.007515e+02	1.711970e+01	StartStim	23	20	 	633	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.026424e+02	1.901054e+01	StartStim	24	21	 	246	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.055885e+02	2.195673e+01	StartStim	25	22	 	681	573	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.059715e+02	2.233971e+01	StartStim	26	23	 	550	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.063444e+02	2.271257e+01	StartStim	27	24	 	441	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	4	Vert	 	9.067877e+02	2.315587e+01	StartStim	28	25	 	591	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.083064e+02	2.467460e+01	StartStim	29	26	 	363	529	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.089708e+02	2.533895e+01	StartStim	30	27	 	592	604	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.101881e+02	2.655627e+01	StartStim	31	28	 	268	522	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.115663e+02	2.793445e+01	StartStim	32	29	 	398	561	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.127232e+02	2.909142e+01	StartStim	33	30	 	588	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.146040e+02	3.097218e+01	StartStim	34	31	 	588	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.161430e+02	3.251119e+01	StartStim	35	32	 	441	564	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.162244e+02	3.259253e+01	StartStim	36	33	 	529	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.171298e+02	3.349802e+01	StartStim	37	34	 	629	591	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.175228e+02	3.389102e+01	StartStim	38	35	 	721	598	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.179459e+02	3.431409e+01	StartStim	39	36	 	588	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.188516e+02	3.521976e+01	StartStim	40	37	 	189	528	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.205110e+02	3.687920e+01	StartStim	41	38	 	659	555	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.208036e+02	3.717175e+01	StartStim	42	39	 	637	577	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.215886e+02	3.795677e+01	StartStim	43	40	 	529	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.221424e+02	3.851057e+01	StartStim	44	41	 	516	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.229273e+02	3.929551e+01	StartStim	45	42	 	555	493	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.231896e+02	3.955775e+01	StartStim	46	43	 	435	481	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.238641e+02	4.023224e+01	StartStim	47	44	 	403	486	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.246893e+02	4.105749e+01	StartStim	48	45	 	631	577	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.254039e+02	4.177212e+01	StartStim	49	46	 	544	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.260483e+02	4.241644e+01	StartStim	50	47	 	446	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.272053e+02	4.357346e+01	StartStim	51	48	 	620	514	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.275883e+02	4.395644e+01	StartStim	52	49	 	544	481	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.278304e+02	4.419861e+01	StartStim	53	50	 	326	507	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.297311e+02	4.609928e+01	StartStim	54	51	 	267	564	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.311295e+02	4.749765e+01	StartStim	55	52	 	392	481	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.314121e+02	4.778027e+01	StartStim	56	53	 	181	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.322073e+02	4.857548e+01	StartStim	57	54	 	130	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.358670e+02	5.223520e+01	StartStim	58	55	 	582	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.359283e+02	5.229646e+01	StartStim	59	56	 	494	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.415077e+02	5.787584e+01	StartStim	60	57	 	451	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.418907e+02	5.825883e+01	StartStim	61	58	 	350	621	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:17	1	4	Vert	 	9.451081e+02	6.147626e+01	StartStim	62	59	 	397	586	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	9.937483e+02	1.101165e+02	StartStim	63	60	 	610	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	9.938096e+02	1.101778e+02	StartStim	64	61	 	591	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	9.960420e+02	1.124102e+02	StartStim	65	62	 	547	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	9.964855e+02	1.128536e+02	StartStim	66	63	 	539	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	9.974414e+02	1.138095e+02	StartStim	67	64	 	582	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.001945e+03	1.183137e+02	StartStim	68	65	 	604	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.003384e+03	1.197520e+02	StartStim	69	66	 	392	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.003847e+03	1.202154e+02	StartStim	70	67	 	634	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.004210e+03	1.205781e+02	StartStim	71	68	 	588	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.006583e+03	1.229514e+02	StartStim	72	69	 	442	525	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.013228e+03	1.295965e+02	StartStim	73	70	 	430	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.013541e+03	1.299091e+02	StartStim	74	71	 	430	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.018548e+03	1.349159e+02	StartStim	75	72	 	615	585	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.020569e+03	1.369374e+02	StartStim	76	73	 	537	541	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.022601e+03	1.389691e+02	StartStim	77	74	 	551	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.022702e+03	1.390706e+02	StartStim	78	75	 	454	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.023106e+03	1.394739e+02	StartStim	79	76	 	454	553	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.023469e+03	1.398368e+02	StartStim	80	77	 	364	561	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.023841e+03	1.402097e+02	StartStim	81	78	 	233	531	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.024084e+03	1.404518e+02	StartStim	82	79	 	297	522	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.024627e+03	1.409956e+02	StartStim	83	80	 	399	516	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	 	1.025724e+03	1.420921e+02	StartStim	84	81	 	522	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	V Minor	1.025760e+03	9.463013e-04	StimUp	85	1	e18.jpg	522	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	V Minor	1.026928e+03	1.168693e+00	StimUp	86	2	e18.jpg	572	556	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:18	1	4	Vert	V Minor	1.027029e+03	1.270258e+00	StimUp	87	3	e18.jpg	627	604	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.027583e+03	1.824271e+00	StimUp	88	4	e18.jpg	529	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.028369e+03	2.609619e+00	StimUp	89	5	e18.jpg	593	559	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.028470e+03	2.711151e+00	StimUp	90	6	e18.jpg	649	619	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.028501e+03	2.742141e+00	StimUp	91	7	e18.jpg	613	627	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.028602e+03	2.843512e+00	StimUp	92	8	e18.jpg	542	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.029066e+03	3.306926e+00	StimUp	93	9	e18.jpg	555	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.029127e+03	3.368185e+00	StimUp	94	10	e18.jpg	605	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.029168e+03	3.409211e+00	StimUp	95	11	e18.jpg	595	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.029823e+03	4.063892e+00	StimUp	96	12	e18.jpg	568	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.030246e+03	4.487216e+00	StimUp	97	13	e18.jpg	570	625	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.030307e+03	4.548452e+00	StimUp	98	14	e18.jpg	548	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.031988e+03	6.228685e+00	StimUp	99	15	e18.jpg	553	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.032602e+03	6.843133e+00	StimUp	100	16	e18.jpg	486	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.032744e+03	6.984904e+00	StimUp	101	17	e18.jpg	562	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.032805e+03	7.046134e+00	StimUp	102	18	e18.jpg	570	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.033942e+03	8.183341e+00	StimUp	103	19	e18.jpg	555	492	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.034004e+03	8.244624e+00	StimUp	104	20	e18.jpg	537	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.034085e+03	8.325944e+00	StimUp	105	21	e18.jpg	544	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.034759e+03	9.000532e+00	StimUp	106	22	e18.jpg	538	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.034861e+03	9.102016e+00	StimUp	107	23	e18.jpg	563	667	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.034962e+03	9.203448e+00	StimUp	108	24	e18.jpg	542	690	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.035768e+03	1.000881e+01	StimUp	109	25	e18.jpg	558	591	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.036442e+03	1.068355e+01	StimUp	110	26	e18.jpg	540	547	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.036564e+03	1.080518e+01	StimUp	111	27	e18.jpg	544	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.036625e+03	1.086639e+01	StimUp	112	28	e18.jpg	547	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.037199e+03	1.144051e+01	StimUp	113	29	e18.jpg	570	625	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.037261e+03	1.150179e+01	StimUp	114	30	e18.jpg	583	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.037302e+03	1.154286e+01	StimUp	115	31	e18.jpg	606	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.037343e+03	1.158391e+01	StimUp	116	32	e18.jpg	586	700	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.038048e+03	1.228867e+01	StimUp	117	33	e18.jpg	572	591	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.038109e+03	1.234994e+01	StimUp	118	34	e18.jpg	566	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.038140e+03	1.238092e+01	StimUp	119	35	e18.jpg	568	711	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.038744e+03	1.298513e+01	StimUp	120	36	e18.jpg	547	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.040082e+03	1.432352e+01	StimUp	121	37	e18.jpg	566	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.040144e+03	1.438482e+01	StimUp	122	38	e18.jpg	566	648	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.040828e+03	1.506953e+01	StimUp	123	39	e18.jpg	539	607	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.040860e+03	1.510069e+01	StimUp	124	40	e18.jpg	540	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.042047e+03	1.628824e+01	StimUp	125	41	e18.jpg	610	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.042541e+03	1.678193e+01	StimUp	126	42	e18.jpg	515	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.042602e+03	1.684313e+01	StimUp	127	43	e18.jpg	561	591	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.042683e+03	1.692445e+01	StimUp	128	44	e18.jpg	584	645	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.043428e+03	1.766949e+01	StimUp	129	45	e18.jpg	594	556	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.043480e+03	1.772072e+01	StimUp	130	46	e18.jpg	639	648	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.044104e+03	1.834504e+01	StimUp	131	47	e18.jpg	461	471	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.044145e+03	1.838620e+01	StimUp	132	48	e18.jpg	428	516	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.044226e+03	1.846747e+01	StimUp	133	49	e18.jpg	519	624	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.044267e+03	1.850851e+01	StimUp	134	50	e18.jpg	497	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.044309e+03	1.854957e+01	StimUp	135	51	e18.jpg	476	666	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.045023e+03	1.926443e+01	StimUp	136	52	e18.jpg	568	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.045939e+03	2.018050e+01	StimUp	137	53	e18.jpg	575	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.046021e+03	2.026188e+01	StimUp	138	54	e18.jpg	585	688	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.046726e+03	2.096670e+01	StimUp	139	55	e18.jpg	591	657	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.048627e+03	2.286828e+01	StimUp	140	56	e18.jpg	579	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.048668e+03	2.290947e+01	StimUp	141	57	e18.jpg	566	646	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.048719e+03	2.296056e+01	StimUp	142	58	e18.jpg	608	700	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.049545e+03	2.378597e+01	StimUp	143	59	e18.jpg	537	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.049626e+03	2.386738e+01	StimUp	144	60	e18.jpg	562	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.049748e+03	2.398906e+01	StimUp	145	61	e18.jpg	501	712	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.050624e+03	2.486502e+01	StimUp	146	62	e18.jpg	504	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.050685e+03	2.492637e+01	StimUp	147	63	e18.jpg	499	700	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.050726e+03	2.496750e+01	StimUp	148	64	e18.jpg	479	712	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.051462e+03	2.570261e+01	StimUp	149	65	e18.jpg	537	492	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	1.051644e+03	2.588465e+01	StimUp	150	66	e18.jpg	563	669	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.067387e+03	8.589117e+00	StartStim	1	1	 	428	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.069469e+03	1.067085e+01	StartStim	2	2	 	413	504	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.070163e+03	1.136540e+01	StartStim	3	3	 	625	556	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.071963e+03	1.316578e+01	StartStim	4	4	 	291	475	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.072939e+03	1.414177e+01	StartStim	5	5	 	239	514	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.075765e+03	1.696716e+01	StartStim	6	6	 	550	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.075826e+03	1.702844e+01	StartStim	7	7	 	550	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.077305e+03	1.850706e+01	StartStim	8	8	 	637	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.078200e+03	1.940275e+01	StartStim	9	9	 	735	598	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.078664e+03	1.986618e+01	StartStim	10	10	 	542	603	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.081128e+03	2.232998e+01	StartStim	11	11	 	399	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.081983e+03	2.318549e+01	StartStim	12	12	 	634	570	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.082426e+03	2.362872e+01	StartStim	13	13	 	544	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.082799e+03	2.400155e+01	StartStim	14	14	 	435	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.083323e+03	2.452518e+01	StartStim	15	15	 	211	567	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.083927e+03	2.512925e+01	StartStim	16	16	 	84	567	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	5	Vert	 	1.086009e+03	2.721085e+01	StartStim	17	17	 	585	579	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.087688e+03	2.889067e+01	StartStim	18	18	 	529	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.088705e+03	2.990686e+01	StartStim	19	19	 	725	544	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.089560e+03	3.076253e+01	StartStim	20	20	 	613	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.089843e+03	3.104500e+01	StartStim	21	21	 	348	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.089944e+03	3.114644e+01	StartStim	22	22	 	342	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.090920e+03	3.212237e+01	StartStim	23	23	 	130	567	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.091645e+03	3.284721e+01	StartStim	24	24	 	494	558	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.093686e+03	3.488873e+01	StartStim	25	25	 	428	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.093929e+03	3.513098e+01	StartStim	26	26	 	507	552	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.094764e+03	3.596617e+01	StartStim	27	27	 	538	537	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.095489e+03	3.669085e+01	StartStim	28	28	 	734	544	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.095882e+03	3.708387e+01	StartStim	29	29	 	840	462	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.096164e+03	3.736632e+01	StartStim	30	30	 	835	483	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.097562e+03	3.876445e+01	StartStim	31	31	 	146	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	 	1.099302e+03	4.050433e+01	StartStim	32	32	 	501	514	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.105781e+03	6.437930e+00	StimUp	33	1	g50.jpg	595	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.106345e+03	7.002043e+00	StimUp	34	2	g50.jpg	580	513	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.106447e+03	7.103533e+00	StimUp	35	3	g50.jpg	607	613	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.106980e+03	7.637342e+00	StimUp	36	4	g50.jpg	603	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.110682e+03	1.133905e+01	StimUp	37	5	g50.jpg	616	547	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.110744e+03	1.140037e+01	StimUp	38	6	g50.jpg	590	591	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.111288e+03	1.194448e+01	StimUp	39	7	g50.jpg	649	636	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.111329e+03	1.198567e+01	StimUp	40	8	g50.jpg	678	664	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.114648e+03	1.530497e+01	StimUp	41	9	g50.jpg	602	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.114699e+03	1.535623e+01	StimUp	42	10	g50.jpg	631	591	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.115243e+03	1.590008e+01	StimUp	43	11	g50.jpg	566	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.115304e+03	1.596134e+01	StimUp	44	12	g50.jpg	631	600	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.115868e+03	1.652528e+01	StimUp	45	13	g50.jpg	603	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.116382e+03	1.703908e+01	StimUp	46	14	g50.jpg	588	537	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.117882e+03	1.853840e+01	StimUp	47	15	g50.jpg	603	525	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.120527e+03	2.118411e+01	StimUp	48	16	g50.jpg	594	538	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.120599e+03	2.125554e+01	StimUp	49	17	g50.jpg	591	627	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.121123e+03	2.177954e+01	StimUp	50	18	g50.jpg	564	603	Stim	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	13:6	1	6	Vert	 	3.849612e+03	2.717227e+03	StartStim	1	1	 	149	275	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	13:6	1	6	Vert	 	3.851291e+03	2.718906e+03	StartStim	2	2	 	553	1	Screen	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	13:6	1	6	Vert	 	3.852444e+03	2.720060e+03	StartStim	3	3	 	396	154	Screen	0	0	P014C Vert	

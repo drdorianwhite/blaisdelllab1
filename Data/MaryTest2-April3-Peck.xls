@@ -1,0 +1,12 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest2	April3	03-Apr-2017	17:4	1	1	Hort	 	6.702976e+00	8.108783e-01	StartStim	1	1	 	509	517	Stim	0	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	 	4.716056e+01	7.325712e+00	StartStim	1	1	 	549	544	Screen	0	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	 	4.771777e+01	7.882919e+00	StartStim	2	2	 	515	495	Stim	0	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.844449e+01	6.770362e-01	StimUp	3	1	b43.jpg	452	513	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.860918e+01	8.417259e-01	StimUp	4	2	b43.jpg	453	513	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.880284e+01	1.035388e+00	StimUp	5	3	b43.jpg	467	513	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.894565e+01	1.178194e+00	StimUp	6	4	b43.jpg	471	514	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.911841e+01	1.350961e+00	StimUp	7	5	b43.jpg	484	517	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.928301e+01	1.515560e+00	StimUp	8	6	b43.jpg	484	517	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.943537e+01	1.667919e+00	StimUp	9	7	b43.jpg	484	517	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.960775e+01	1.840301e+00	StimUp	10	8	b43.jpg	484	517	Stim	1	0	P019A Remedial Hort	
+MaryTest2	April3	03-Apr-2017	17:5	1	2	Hort	FollowedH	4.979031e+01	2.022860e+00	StimUp	11	9	b43.jpg	484	517	Stim	1	1	P019A Remedial Hort	

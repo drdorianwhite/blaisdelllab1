@@ -1,0 +1,754 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Jubilee	September5	05-Sep-2017	16:44	1	1	Vert	 	2.438229e+03	2.430778e+03	StartStim	1	1	 	524	678	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:44	1	1	Vert	 	2.439513e+03	2.432061e+03	StartStim	2	2	 	521	712	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:44	1	1	Vert	 	2.439688e+03	2.432237e+03	StartStim	3	3	 	415	690	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.638357e+03	2.630905e+03	StartStim	4	4	 	566	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.638603e+03	2.631152e+03	StartStim	5	5	 	559	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.639401e+03	2.631949e+03	StartStim	6	6	 	420	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.651394e+03	2.643942e+03	StartStim	7	7	 	596	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.651436e+03	2.643984e+03	StartStim	8	8	 	580	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.652633e+03	2.645181e+03	StartStim	9	9	 	370	451	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.653478e+03	2.646027e+03	StartStim	10	10	 	642	447	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.653711e+03	2.646259e+03	StartStim	11	11	 	653	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.653853e+03	2.646401e+03	StartStim	12	12	 	662	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.654135e+03	2.646684e+03	StartStim	13	13	 	653	441	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.654176e+03	2.646725e+03	StartStim	14	14	 	631	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.655273e+03	2.647821e+03	StartStim	15	15	 	356	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.656470e+03	2.649018e+03	StartStim	16	16	 	488	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.656511e+03	2.649060e+03	StartStim	17	17	 	501	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.656754e+03	2.649302e+03	StartStim	18	18	 	509	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.657217e+03	2.649766e+03	StartStim	19	19	 	558	514	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.658857e+03	2.651405e+03	StartStim	20	20	 	667	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.659370e+03	2.651919e+03	StartStim	21	21	 	639	489	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.668970e+03	2.661519e+03	StartStim	22	22	 	624	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.669353e+03	2.661902e+03	StartStim	23	23	 	641	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.669746e+03	2.662295e+03	StartStim	24	24	 	631	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.671747e+03	2.664296e+03	StartStim	25	25	 	529	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.672533e+03	2.665081e+03	StartStim	26	26	 	718	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.673147e+03	2.665695e+03	StartStim	27	27	 	334	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.673308e+03	2.665857e+03	StartStim	28	28	 	334	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.673943e+03	2.666491e+03	StartStim	29	29	 	566	427	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.674527e+03	2.667075e+03	StartStim	30	30	 	317	453	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.675171e+03	2.667719e+03	StartStim	31	31	 	335	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.675584e+03	2.668132e+03	StartStim	32	32	 	522	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	 	2.678089e+03	2.670637e+03	StartStim	33	33	 	508	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.678283e+03	4.204797e-02	StimUp	34	1	e11.jpg	522	537	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.679865e+03	1.623557e+00	StimUp	35	2	e11.jpg	479	580	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.680228e+03	1.987032e+00	StimUp	36	3	e11.jpg	457	582	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.680622e+03	2.380489e+00	StimUp	37	4	e11.jpg	506	591	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.681509e+03	3.267685e+00	StimUp	38	5	e11.jpg	490	580	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:48	1	1	Vert	V Correct	2.683987e+03	5.745455e+00	StimUp	39	6	e11.jpg	501	580	Stim	1	1	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.697079e+03	1.883773e+01	StimUp	40	7	e11.jpg	483	601	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.697523e+03	1.928161e+01	StimUp	41	8	e11.jpg	474	600	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.697976e+03	1.973513e+01	StimUp	42	9	e11.jpg	453	600	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.700019e+03	2.177753e+01	StimUp	43	10	e11.jpg	437	622	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.700402e+03	2.216098e+01	StimUp	44	11	e11.jpg	455	600	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.702857e+03	2.461581e+01	StimUp	45	12	e11.jpg	431	621	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	1	Vert	V Correct	2.703240e+03	2.499903e+01	StimUp	46	13	e11.jpg	431	600	Stim	1	1	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.718753e+03	7.260415e+00	StartStim	1	1	 	517	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.720111e+03	8.618582e+00	StartStim	2	2	 	508	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.726214e+03	1.472096e+01	StartStim	3	3	 	522	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.729351e+03	1.785804e+01	StartStim	4	4	 	522	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.732389e+03	2.089651e+01	StartStim	5	5	 	527	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.734330e+03	2.283741e+01	StartStim	6	6	 	507	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.737055e+03	2.556231e+01	StartStim	7	7	 	485	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.738735e+03	2.724194e+01	StartStim	8	8	 	526	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.740665e+03	2.917282e+01	StartStim	9	9	 	474	591	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.742074e+03	3.058104e+01	StartStim	10	10	 	522	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.744447e+03	3.295413e+01	StartStim	11	11	 	529	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:49	1	2	Vert	 	2.751122e+03	3.962941e+01	StartStim	12	12	 	516	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.752289e+03	4.079640e+01	StartStim	13	13	 	479	535	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.753044e+03	4.155126e+01	StartStim	14	14	 	362	522	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.753507e+03	4.201459e+01	StartStim	15	15	 	305	489	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.753790e+03	4.229694e+01	StartStim	16	16	 	326	486	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.754203e+03	4.270993e+01	StartStim	17	17	 	494	553	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.755329e+03	4.383665e+01	StartStim	18	18	 	516	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.756506e+03	4.501369e+01	StartStim	19	19	 	516	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.767624e+03	5.613175e+01	StartStim	20	20	 	473	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.771505e+03	6.001272e+01	StartStim	21	21	 	544	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.772321e+03	6.082803e+01	StartStim	22	22	 	516	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.773186e+03	6.169343e+01	StartStim	23	23	 	402	406	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.773499e+03	6.200596e+01	StartStim	24	24	 	404	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.773540e+03	6.204699e+01	StartStim	25	25	 	427	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.773842e+03	6.234942e+01	StartStim	26	26	 	468	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.774165e+03	6.267201e+01	StartStim	27	27	 	507	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.777482e+03	6.598983e+01	StartStim	28	28	 	519	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.777524e+03	6.603101e+01	StartStim	29	29	 	503	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.782219e+03	7.072598e+01	StartStim	30	30	 	490	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.784019e+03	7.252637e+01	StartStim	31	31	 	381	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.784794e+03	7.330130e+01	StartStim	32	32	 	529	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.787760e+03	7.626739e+01	StartStim	33	33	 	533	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.788002e+03	7.650960e+01	StartStim	34	34	 	530	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:50	1	2	Vert	 	2.789139e+03	7.764629e+01	StartStim	35	35	 	501	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.837283e+03	1.257902e+02	StartStim	36	36	 	283	672	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.839465e+03	1.279724e+02	StartStim	37	37	 	298	564	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.841084e+03	1.295918e+02	StartStim	38	38	 	528	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.841940e+03	1.304473e+02	StartStim	39	39	 	433	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.842323e+03	1.308302e+02	StartStim	40	40	 	346	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.842987e+03	1.314946e+02	StartStim	41	41	 	178	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.843119e+03	1.316262e+02	StartStim	42	42	 	212	588	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.843703e+03	1.322101e+02	StartStim	43	43	 	312	519	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.844166e+03	1.326734e+02	StartStim	44	44	 	355	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.844519e+03	1.330262e+02	StartStim	45	45	 	370	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.845465e+03	1.339720e+02	StartStim	46	46	 	283	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.845737e+03	1.342444e+02	StartStim	47	47	 	274	444	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.845899e+03	1.344061e+02	StartStim	48	48	 	413	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.846161e+03	1.346683e+02	StartStim	49	49	 	507	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.847619e+03	1.361266e+02	StartStim	50	50	 	399	513	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.847821e+03	1.363286e+02	StartStim	51	51	 	399	513	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.849078e+03	1.375859e+02	StartStim	52	52	 	435	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.850085e+03	1.385920e+02	StartStim	53	53	 	511	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.850518e+03	1.390251e+02	StartStim	54	54	 	494	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.850961e+03	1.394683e+02	StartStim	55	55	 	507	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.851344e+03	1.398513e+02	StartStim	56	56	 	529	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.858974e+03	1.474817e+02	StartStim	57	57	 	516	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.865056e+03	1.535637e+02	StartStim	58	58	 	516	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.865932e+03	1.544392e+02	StartStim	59	59	 	365	603	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.866174e+03	1.546814e+02	StartStim	60	60	 	367	591	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.866215e+03	1.547224e+02	StartStim	61	61	 	376	555	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.866477e+03	1.549846e+02	StartStim	62	62	 	398	561	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.868076e+03	1.565836e+02	StartStim	63	63	 	451	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.869092e+03	1.575998e+02	StartStim	64	64	 	345	555	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.870812e+03	1.593196e+02	StartStim	65	65	 	354	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.870894e+03	1.594011e+02	StartStim	66	66	 	364	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.870935e+03	1.594421e+02	StartStim	67	67	 	413	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.871498e+03	1.600059e+02	StartStim	68	68	 	280	564	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.871831e+03	1.603387e+02	StartStim	69	69	 	283	487	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.871893e+03	1.603999e+02	StartStim	70	70	 	326	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:51	1	2	Vert	 	2.872115e+03	1.606219e+02	StartStim	71	71	 	335	474	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.872497e+03	1.610047e+02	StartStim	72	72	 	441	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.872538e+03	1.610458e+02	StartStim	73	73	 	494	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.872951e+03	1.614588e+02	StartStim	74	74	 	373	583	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.872993e+03	1.615000e+02	StartStim	75	75	 	348	609	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.873777e+03	1.622849e+02	StartStim	76	76	 	285	646	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.874593e+03	1.631002e+02	StartStim	77	77	 	326	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.874674e+03	1.631816e+02	StartStim	78	78	 	378	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.874957e+03	1.634640e+02	StartStim	79	79	 	464	514	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.875289e+03	1.637967e+02	StartStim	80	80	 	494	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.875853e+03	1.643605e+02	StartStim	81	81	 	367	664	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.875894e+03	1.644016e+02	StartStim	82	82	 	348	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.876257e+03	1.647644e+02	StartStim	83	83	 	330	654	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.876670e+03	1.651775e+02	StartStim	84	84	 	435	579	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.877133e+03	1.656408e+02	StartStim	85	85	 	494	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.877969e+03	1.664760e+02	StartStim	86	86	 	494	535	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.878352e+03	1.668590e+02	StartStim	87	87	 	468	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.878835e+03	1.673424e+02	StartStim	88	88	 	457	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.879590e+03	1.680973e+02	StartStim	89	89	 	533	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.905966e+03	1.944736e+02	StartStim	90	90	 	418	600	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.907203e+03	1.957108e+02	StartStim	91	91	 	365	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.907546e+03	1.960535e+02	StartStim	92	92	 	352	628	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.907668e+03	1.961750e+02	StartStim	93	93	 	302	687	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.908010e+03	1.965177e+02	StartStim	94	94	 	285	687	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.908041e+03	1.965487e+02	StartStim	95	95	 	303	669	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.910967e+03	1.994746e+02	StartStim	96	96	 	283	610	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.911421e+03	1.999280e+02	StartStim	97	97	 	346	609	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.911783e+03	2.002909e+02	StartStim	98	98	 	332	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.911925e+03	2.004326e+02	StartStim	99	99	 	333	561	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.912620e+03	2.011271e+02	StartStim	100	100	 	222	603	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.913023e+03	2.015302e+02	StartStim	101	101	 	384	517	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.913365e+03	2.018728e+02	StartStim	102	102	 	385	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.913447e+03	2.019540e+02	StartStim	103	103	 	333	561	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.913729e+03	2.022363e+02	StartStim	104	104	 	334	517	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.914102e+03	2.026091e+02	StartStim	105	105	 	400	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.914766e+03	2.032734e+02	StartStim	106	106	 	485	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.919320e+03	2.078275e+02	StartStim	107	107	 	568	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.920166e+03	2.086730e+02	StartStim	108	108	 	634	682	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.920478e+03	2.089855e+02	StartStim	109	109	 	539	603	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.920519e+03	2.090265e+02	StartStim	110	110	 	528	579	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.920741e+03	2.092485e+02	StartStim	111	111	 	520	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.921838e+03	2.103451e+02	StartStim	112	112	 	581	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.922180e+03	2.106877e+02	StartStim	113	113	 	506	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.923478e+03	2.119852e+02	StartStim	114	114	 	374	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.923579e+03	2.120866e+02	StartStim	115	115	 	370	621	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.923841e+03	2.123488e+02	StartStim	116	116	 	288	606	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.924224e+03	2.127318e+02	StartStim	117	117	 	286	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.924477e+03	2.129840e+02	StartStim	118	118	 	283	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.924819e+03	2.133267e+02	StartStim	119	119	 	196	523	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.925544e+03	2.140514e+02	StartStim	120	120	 	341	519	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.925625e+03	2.141327e+02	StartStim	121	121	 	370	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.926058e+03	2.145658e+02	StartStim	122	122	 	399	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.926501e+03	2.150089e+02	StartStim	123	123	 	377	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.926945e+03	2.154520e+02	StartStim	124	124	 	342	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.927016e+03	2.155235e+02	StartStim	125	125	 	326	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.927258e+03	2.157657e+02	StartStim	126	126	 	326	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.928124e+03	2.166310e+02	StartStim	127	127	 	372	595	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.928436e+03	2.169436e+02	StartStim	128	128	 	370	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.928839e+03	2.173466e+02	StartStim	129	129	 	428	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.929242e+03	2.177495e+02	StartStim	130	130	 	450	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.929524e+03	2.180319e+02	StartStim	131	131	 	471	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.929576e+03	2.180829e+02	StartStim	132	132	 	507	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.929617e+03	2.181240e+02	StartStim	133	133	 	539	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.930442e+03	2.189491e+02	StartStim	134	134	 	443	514	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.930543e+03	2.190506e+02	StartStim	135	135	 	405	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.930896e+03	2.194033e+02	StartStim	136	136	 	403	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.930957e+03	2.194645e+02	StartStim	137	137	 	348	511	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:52	1	2	Vert	 	2.931722e+03	2.202294e+02	StartStim	138	138	 	413	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.932396e+03	2.209038e+02	StartStim	139	139	 	348	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.933041e+03	2.215482e+02	StartStim	140	140	 	273	421	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.933363e+03	2.218708e+02	StartStim	141	141	 	317	423	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.933445e+03	2.219521e+02	StartStim	142	142	 	381	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.933657e+03	2.221640e+02	StartStim	143	143	 	382	420	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.935035e+03	2.235419e+02	StartStim	144	144	 	522	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.935840e+03	2.243471e+02	StartStim	145	145	 	413	456	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.935921e+03	2.244284e+02	StartStim	146	146	 	457	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.936555e+03	2.250624e+02	StartStim	147	147	 	494	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.936616e+03	2.251236e+02	StartStim	148	148	 	550	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.937100e+03	2.256069e+02	StartStim	149	149	 	442	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.937261e+03	2.257687e+02	StartStim	150	150	 	428	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.937453e+03	2.259605e+02	StartStim	151	151	 	508	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.939917e+03	2.284241e+02	StartStim	152	152	 	403	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.940259e+03	2.287668e+02	StartStim	153	153	 	413	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.940341e+03	2.288481e+02	StartStim	154	154	 	509	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.940914e+03	2.294219e+02	StartStim	155	155	 	490	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.940996e+03	2.295032e+02	StartStim	156	156	 	560	564	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.941459e+03	2.299665e+02	StartStim	157	157	 	485	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.942294e+03	2.308019e+02	StartStim	158	158	 	615	591	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.943873e+03	2.323808e+02	StartStim	159	159	 	526	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.947513e+03	2.360204e+02	StartStim	160	160	 	305	576	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.947816e+03	2.363229e+02	StartStim	161	161	 	290	544	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.948952e+03	2.374599e+02	StartStim	162	162	 	286	550	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.949074e+03	2.375814e+02	StartStim	163	163	 	392	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.949376e+03	2.378838e+02	StartStim	164	164	 	413	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	 	2.949910e+03	2.384174e+02	StartStim	165	165	 	501	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.950575e+03	6.342257e-01	StimUp	166	1	d46.jpg	537	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.950958e+03	1.017692e+00	StimUp	167	2	d46.jpg	529	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.951955e+03	2.014431e+00	StimUp	168	3	d46.jpg	583	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.954553e+03	4.612740e+00	StimUp	169	4	d46.jpg	559	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.956032e+03	6.092018e+00	StimUp	170	5	d46.jpg	555	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.956074e+03	6.133292e+00	StimUp	171	6	d46.jpg	571	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.956850e+03	6.909232e+00	StimUp	172	7	d46.jpg	427	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.957233e+03	7.292397e+00	StimUp	173	8	d46.jpg	555	493	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.957636e+03	7.695557e+00	StimUp	174	9	d46.jpg	514	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.957949e+03	8.008231e+00	StimUp	175	10	d46.jpg	581	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.958694e+03	8.753286e+00	StimUp	176	11	d46.jpg	541	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.959409e+03	9.468198e+00	StimUp	177	12	d46.jpg	620	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.960154e+03	1.021342e+01	StimUp	178	13	d46.jpg	584	535	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.961191e+03	1.125048e+01	StimUp	179	14	d46.jpg	482	558	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.961594e+03	1.165367e+01	StimUp	180	15	d46.jpg	566	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.964391e+03	1.445027e+01	StimUp	181	16	d46.jpg	580	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.964774e+03	1.483357e+01	StimUp	182	17	d46.jpg	530	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.966032e+03	1.609155e+01	StimUp	183	18	d46.jpg	602	495	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.966395e+03	1.645452e+01	StimUp	184	19	d46.jpg	610	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.967130e+03	1.718949e+01	StimUp	185	20	d46.jpg	618	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.969073e+03	1.913213e+01	StimUp	186	21	d46.jpg	588	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.969405e+03	1.946493e+01	StimUp	187	22	d46.jpg	601	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.970150e+03	2.020992e+01	StimUp	188	23	d46.jpg	620	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.970554e+03	2.061315e+01	StimUp	189	24	d46.jpg	602	495	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.971429e+03	2.148904e+01	StimUp	190	25	d46.jpg	570	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.971793e+03	2.185210e+01	StimUp	191	26	d46.jpg	603	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.972246e+03	2.230556e+01	StimUp	192	27	d46.jpg	548	642	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.973232e+03	2.329198e+01	StimUp	193	28	d46.jpg	552	493	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.974088e+03	2.414770e+01	StimUp	194	29	d46.jpg	546	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.974451e+03	2.451068e+01	StimUp	195	30	d46.jpg	569	648	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.976664e+03	2.672396e+01	StimUp	196	31	d46.jpg	583	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.977068e+03	2.712717e+01	StimUp	197	32	d46.jpg	546	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.977591e+03	2.765100e+01	StimUp	198	33	d46.jpg	591	627	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	2	Vert	V Major	2.977964e+03	2.802402e+01	StimUp	199	34	d46.jpg	600	625	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:53	1	3	Vert	 	2.980463e+03	5.045381e-01	ITI	1	1	d46.jpg	453	619	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.020820e+03	3.784821e+01	StartStim	2	1	 	348	514	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.021173e+03	3.820106e+01	StartStim	3	2	 	392	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.021295e+03	3.832264e+01	StartStim	4	3	 	370	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.021336e+03	3.836373e+01	StartStim	5	4	 	314	453	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.021679e+03	3.870632e+01	StartStim	6	5	 	336	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.022152e+03	3.917965e+01	StartStim	7	6	 	374	630	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.022515e+03	3.954238e+01	StartStim	8	7	 	365	603	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.023511e+03	4.053850e+01	StartStim	9	8	 	291	466	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.023552e+03	4.057966e+01	StartStim	10	9	 	315	432	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.023915e+03	4.094238e+01	StartStim	11	10	 	400	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.024318e+03	4.134537e+01	StartStim	12	11	 	381	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.024610e+03	4.163775e+01	StartStim	13	12	 	392	402	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.025033e+03	4.206084e+01	StartStim	14	13	 	403	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.025698e+03	4.272522e+01	StartStim	15	14	 	446	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.026050e+03	4.307806e+01	StartStim	16	15	 	488	477	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.027157e+03	4.418490e+01	StartStim	17	16	 	335	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.027430e+03	4.445731e+01	StartStim	18	17	 	405	447	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.027571e+03	4.459890e+01	StartStim	19	18	 	435	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	 	3.028135e+03	4.516269e+01	StartStim	20	19	 	515	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.028369e+03	2.019160e-01	StimUp	21	1	g50.jpg	515	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.029617e+03	1.449870e+00	StimUp	22	2	g50.jpg	571	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.030775e+03	2.607290e+00	StimUp	23	3	g50.jpg	559	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.031078e+03	2.910024e+00	StimUp	24	4	g50.jpg	574	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.032989e+03	4.821792e+00	StimUp	25	5	g50.jpg	574	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.033835e+03	5.667512e+00	StimUp	26	6	g50.jpg	570	625	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.035676e+03	7.508712e+00	StimUp	27	7	g50.jpg	562	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.036029e+03	7.861654e+00	StimUp	28	8	g50.jpg	562	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.037126e+03	8.958673e+00	StimUp	29	9	g50.jpg	586	648	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.038254e+03	1.008594e+01	StimUp	30	10	g50.jpg	542	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.038566e+03	1.039863e+01	StimUp	31	11	g50.jpg	549	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.038607e+03	1.043970e+01	StimUp	32	12	g50.jpg	584	625	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.039855e+03	1.168757e+01	StimUp	33	13	g50.jpg	520	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.040128e+03	1.196003e+01	StimUp	34	14	g50.jpg	564	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.042270e+03	1.410285e+01	StimUp	35	15	g50.jpg	542	711	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.042352e+03	1.418427e+01	StimUp	36	16	g50.jpg	521	700	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.043268e+03	1.510019e+01	StimUp	37	17	g50.jpg	542	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.043691e+03	1.552350e+01	StimUp	38	18	g50.jpg	541	669	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.044466e+03	1.629889e+01	StimUp	39	19	g50.jpg	429	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.044548e+03	1.638032e+01	StimUp	40	20	g50.jpg	528	579	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.044850e+03	1.668289e+01	StimUp	41	21	g50.jpg	528	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.045284e+03	1.711624e+01	StimUp	42	22	g50.jpg	460	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.045506e+03	1.733833e+01	StimUp	43	23	g50.jpg	463	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.045587e+03	1.741962e+01	StimUp	44	24	g50.jpg	572	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.045970e+03	1.780258e+01	StimUp	45	25	g50.jpg	483	601	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.046353e+03	1.818560e+01	StimUp	46	26	g50.jpg	465	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.046927e+03	1.875968e+01	StimUp	47	27	g50.jpg	524	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.048004e+03	1.983668e+01	StimUp	48	28	g50.jpg	424	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.048347e+03	2.017953e+01	StimUp	49	29	g50.jpg	552	493	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.048730e+03	2.056270e+01	StimUp	50	30	g50.jpg	501	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.049043e+03	2.087541e+01	StimUp	51	31	g50.jpg	581	513	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.049768e+03	2.160041e+01	StimUp	52	32	g50.jpg	522	558	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.050111e+03	2.194325e+01	StimUp	53	33	g50.jpg	548	493	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.050886e+03	2.271849e+01	StimUp	54	34	g50.jpg	555	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.051169e+03	2.300100e+01	StimUp	55	35	g50.jpg	540	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.051612e+03	2.344441e+01	StimUp	56	36	g50.jpg	517	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:54	1	3	Vert	V Major	3.051884e+03	2.371687e+01	StimUp	57	37	g50.jpg	501	558	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.052408e+03	2.424068e+01	StimUp	58	38	g50.jpg	579	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.053566e+03	2.539800e+01	StimUp	59	39	g50.jpg	514	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.054311e+03	2.614314e+01	StimUp	60	40	g50.jpg	552	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.054945e+03	2.677772e+01	StimUp	61	41	g50.jpg	514	459	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.055047e+03	2.687924e+01	StimUp	62	42	g50.jpg	638	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.055842e+03	2.767455e+01	StimUp	63	43	g50.jpg	564	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.056205e+03	2.803752e+01	StimUp	64	44	g50.jpg	562	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.057684e+03	2.951673e+01	StimUp	65	45	g50.jpg	551	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	3	Vert	V Major	3.058108e+03	2.994006e+01	StimUp	66	46	g50.jpg	541	585	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.058605e+03	4.240605e-01	ITI	1	1	g50.jpg	464	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.058908e+03	7.269035e-01	ITI	2	2	g50.jpg	422	447	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.059302e+03	1.121270e+00	ITI	3	3	g50.jpg	392	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.059485e+03	1.303334e+00	ITI	4	4	g50.jpg	675	477	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.059788e+03	1.606559e+00	ITI	5	5	g50.jpg	675	496	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.059970e+03	1.788508e+00	ITI	6	6	g50.jpg	669	573	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.060162e+03	1.980455e+00	ITI	7	7	g50.jpg	659	573	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.062140e+03	9.481170e-01	StartStim	8	1	 	501	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.065840e+03	4.648007e+00	StartStim	9	2	 	431	600	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.067419e+03	6.227064e+00	StartStim	10	3	 	413	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.068385e+03	7.193069e+00	StartStim	11	4	 	298	510	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.068748e+03	7.555954e+00	StartStim	12	5	 	319	489	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.069100e+03	7.908682e+00	StartStim	13	6	 	392	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.069463e+03	8.271438e+00	StartStim	14	7	 	457	597	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.069504e+03	8.312483e+00	StartStim	15	8	 	441	582	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.070641e+03	9.449197e+00	StartStim	16	9	 	381	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.070702e+03	9.510437e+00	StartStim	17	10	 	426	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.070924e+03	9.732461e+00	StartStim	18	11	 	403	429	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.071599e+03	1.040710e+01	StartStim	19	12	 	359	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.072203e+03	1.101121e+01	StartStim	20	13	 	403	408	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:55	1	4	Vert	 	3.073722e+03	1.252989e+01	StartStim	21	14	 	572	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.210747e+03	1.495549e+02	StartStim	22	15	 	457	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.210949e+03	1.497570e+02	StartStim	23	16	 	457	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.213383e+03	1.521908e+02	StartStim	24	17	 	488	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.213625e+03	1.524330e+02	StartStim	25	18	 	489	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.214842e+03	1.536502e+02	StartStim	26	19	 	600	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.215265e+03	1.540733e+02	StartStim	27	20	 	544	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	 	3.215366e+03	1.541747e+02	StartStim	28	21	 	515	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.215523e+03	1.215629e-01	StimUp	29	1	f2.jpg 	507	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.218782e+03	3.380889e+00	StimUp	30	2	f2.jpg 	433	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.219879e+03	4.478021e+00	StimUp	31	3	f2.jpg 	569	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.221027e+03	5.625468e+00	StimUp	32	4	f2.jpg 	527	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.222878e+03	7.476849e+00	StimUp	33	5	f2.jpg 	433	628	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.223684e+03	8.282378e+00	StimUp	34	6	f2.jpg 	411	618	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.224620e+03	9.218607e+00	StimUp	35	7	f2.jpg 	596	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.228341e+03	1.294028e+01	StimUp	36	8	f2.jpg 	583	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.229539e+03	1.413795e+01	StimUp	37	9	f2.jpg 	605	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:57	1	4	Vert	V Minor	3.231159e+03	1.575795e+01	StimUp	38	10	f2.jpg 	527	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.233543e+03	1.814232e+01	StimUp	39	11	f2.jpg 	571	597	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.234319e+03	1.891767e+01	StimUp	40	12	f2.jpg 	455	600	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.234833e+03	1.943151e+01	StimUp	41	13	f2.jpg 	424	618	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.235517e+03	2.011625e+01	StimUp	42	14	f2.jpg 	474	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.236021e+03	2.062004e+01	StimUp	43	15	f2.jpg 	568	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.237199e+03	2.179761e+01	StimUp	44	16	f2.jpg 	577	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.238296e+03	2.289473e+01	StimUp	45	17	f2.jpg 	583	601	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.239122e+03	2.372037e+01	StimUp	46	18	f2.jpg 	430	570	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.239374e+03	2.397272e+01	StimUp	47	19	f2.jpg 	417	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.239495e+03	2.409428e+01	StimUp	48	20	f2.jpg 	435	618	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.239818e+03	2.441698e+01	StimUp	49	21	f2.jpg 	440	600	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.240976e+03	2.557435e+01	StimUp	50	22	f2.jpg 	474	579	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.241097e+03	2.569611e+01	StimUp	51	23	f2.jpg 	473	570	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.241672e+03	2.627054e+01	StimUp	52	24	f2.jpg 	450	516	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.242377e+03	2.697548e+01	StimUp	53	25	f2.jpg 	610	619	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.243212e+03	2.781107e+01	StimUp	54	26	f2.jpg 	464	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.243274e+03	2.787234e+01	StimUp	55	27	f2.jpg 	450	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.243415e+03	2.801394e+01	StimUp	56	28	f2.jpg 	450	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.243597e+03	2.819598e+01	StimUp	57	29	f2.jpg 	529	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.243980e+03	2.857912e+01	StimUp	58	30	f2.jpg 	515	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.244152e+03	2.875101e+01	StimUp	59	31	f2.jpg 	515	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.244334e+03	2.893286e+01	StimUp	60	32	f2.jpg 	581	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	4	Vert	V Minor	3.245200e+03	2.979863e+01	StimUp	61	33	f2.jpg 	420	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.245833e+03	4.154570e-01	ITI	1	1	f2.jpg 	392	447	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.246216e+03	7.985299e-01	ITI	2	2	f2.jpg 	358	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.246730e+03	1.312328e+00	ITI	3	3	f2.jpg 	253	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.247113e+03	1.695410e+00	ITI	4	4	f2.jpg 	424	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.262966e+03	1.453947e+01	StartStim	5	1	 	560	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.263108e+03	1.468116e+01	StartStim	6	2	 	560	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264114e+03	1.568721e+01	StartStim	7	3	 	681	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264265e+03	1.583893e+01	StartStim	8	4	 	675	540	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264347e+03	1.592020e+01	StartStim	9	5	 	653	474	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264649e+03	1.622286e+01	StartStim	10	6	 	618	474	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264711e+03	1.628412e+01	StartStim	11	7	 	618	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	 	3.264812e+03	1.638548e+01	StartStim	12	8	 	522	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.266646e+03	1.791974e+00	StimUp	13	1	g52.jpg	540	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.268527e+03	3.673450e+00	StimUp	14	2	g52.jpg	540	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.270690e+03	5.836524e+00	StimUp	15	3	g52.jpg	570	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.270732e+03	5.877726e+00	StimUp	16	4	g52.jpg	568	669	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.271849e+03	6.994986e+00	StimUp	17	5	g52.jpg	564	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.272192e+03	7.337832e+00	StimUp	18	6	g52.jpg	577	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.272967e+03	8.113055e+00	StimUp	19	7	g52.jpg	547	648	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.273803e+03	8.948654e+00	StimUp	20	8	g52.jpg	527	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.274688e+03	9.834527e+00	StimUp	21	9	g52.jpg	568	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.275051e+03	1.019752e+01	StimUp	22	10	g52.jpg	546	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.275445e+03	1.059064e+01	StimUp	23	11	g52.jpg	583	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.276270e+03	1.141609e+01	StimUp	24	12	g52.jpg	546	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.276703e+03	1.184944e+01	StimUp	25	13	g52.jpg	570	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.278625e+03	1.377106e+01	StimUp	26	14	g52.jpg	564	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.279390e+03	1.453628e+01	StimUp	27	15	g52.jpg	584	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.280869e+03	1.601548e+01	StimUp	28	16	g52.jpg	542	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.281202e+03	1.634832e+01	StimUp	29	17	g52.jpg	542	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.284109e+03	1.925556e+01	StimUp	30	18	g52.jpg	486	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.284664e+03	1.980963e+01	StimUp	31	19	g52.jpg	544	579	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.284725e+03	1.987089e+01	StimUp	32	20	g52.jpg	527	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.285721e+03	2.086726e+01	StimUp	33	21	g52.jpg	522	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.285762e+03	2.090841e+01	StimUp	34	22	g52.jpg	544	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.287603e+03	2.274953e+01	StimUp	35	23	g52.jpg	394	582	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.287846e+03	2.299193e+01	StimUp	36	24	g52.jpg	389	577	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.289023e+03	2.416942e+01	StimUp	37	25	g52.jpg	502	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.289346e+03	2.449213e+01	StimUp	38	26	g52.jpg	473	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.289719e+03	2.486514e+01	StimUp	39	27	g52.jpg	479	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.289780e+03	2.492653e+01	StimUp	40	28	g52.jpg	566	558	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:58	1	5	Vert	V Major	3.290204e+03	2.534993e+01	StimUp	41	29	g52.jpg	583	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	5	Vert	V Major	3.292226e+03	2.737217e+01	StimUp	42	30	g52.jpg	485	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	5	Vert	V Major	3.293464e+03	2.861014e+01	StimUp	43	31	g52.jpg	479	558	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	5	Vert	V Major	3.294199e+03	2.934523e+01	StimUp	44	32	g52.jpg	577	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	5	Vert	V Major	3.294602e+03	2.974841e+01	StimUp	45	33	g52.jpg	518	601	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.296720e+03	1.841741e+00	ITI	1	1	g52.jpg	361	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.296962e+03	2.084064e+00	ITI	2	2	g52.jpg	528	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.297023e+03	2.145305e+00	ITI	3	3	g52.jpg	539	570	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.327437e+03	2.955472e+01	StartStim	4	1	 	464	513	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.328332e+03	3.045036e+01	StartStim	5	2	 	427	472	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.328695e+03	3.081318e+01	StartStim	6	3	 	407	511	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.328957e+03	3.107544e+01	StartStim	7	4	 	428	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.329893e+03	3.201121e+01	StartStim	8	5	 	435	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.330276e+03	3.239409e+01	StartStim	9	6	 	424	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.330428e+03	3.254570e+01	StartStim	10	7	 	423	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.331936e+03	3.405444e+01	StartStim	11	8	 	601	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.331968e+03	3.408555e+01	StartStim	12	9	 	558	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.332833e+03	3.495077e+01	StartStim	13	10	 	405	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.333135e+03	3.525324e+01	StartStim	14	11	 	405	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.333408e+03	3.552554e+01	StartStim	15	12	 	348	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.334092e+03	3.620990e+01	StartStim	16	13	 	558	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.342033e+03	4.415141e+01	StartStim	17	14	 	348	441	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.342427e+03	4.454453e+01	StartStim	18	15	 	268	487	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.342789e+03	4.490727e+01	StartStim	19	16	 	339	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.344047e+03	4.616463e+01	StartStim	20	17	 	315	409	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.344510e+03	4.662796e+01	StartStim	21	18	 	413	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.345184e+03	4.730230e+01	StartStim	22	19	 	468	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.347789e+03	4.990657e+01	StartStim	23	20	 	392	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.348312e+03	5.043021e+01	StartStim	24	21	 	326	408	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.349087e+03	5.120509e+01	StartStim	25	22	 	381	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.349209e+03	5.132665e+01	StartStim	26	23	 	448	450	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	16:59	1	6	Vert	 	3.349732e+03	5.185017e+01	StartStim	27	24	 	595	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	 	3.352869e+03	5.498723e+01	StartStim	28	25	 	522	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.354989e+03	2.102331e+00	StimUp	29	1	e2.jpg 	543	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.356901e+03	4.014126e+00	StimUp	30	2	e2.jpg 	546	603	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.358461e+03	5.574438e+00	StimUp	31	3	e2.jpg 	451	582	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.360061e+03	7.174427e+00	StimUp	32	4	e2.jpg 	563	591	Stim	1	1	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.367860e+03	1.497280e+01	StimUp	33	5	e2.jpg 	546	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.371944e+03	1.905667e+01	StimUp	34	6	e2.jpg 	392	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.372699e+03	1.981185e+01	StimUp	35	7	e2.jpg 	420	547	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.375496e+03	2.260864e+01	StimUp	36	8	e2.jpg 	330	621	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.375818e+03	2.293147e+01	StimUp	37	9	e2.jpg 	280	574	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.376262e+03	2.337487e+01	StimUp	38	10	e2.jpg 	370	543	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.376705e+03	2.381831e+01	StimUp	39	11	e2.jpg 	326	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.376897e+03	2.401035e+01	StimUp	40	12	e2.jpg 	326	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.376979e+03	2.409173e+01	StimUp	41	13	e2.jpg 	334	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.377744e+03	2.485691e+01	StimUp	42	14	e2.jpg 	595	481	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.378499e+03	2.561212e+01	StimUp	43	15	e2.jpg 	526	646	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.380662e+03	2.777523e+01	StimUp	44	16	e2.jpg 	568	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.381558e+03	2.867126e+01	StimUp	45	17	e2.jpg 	522	603	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.381619e+03	2.873261e+01	StimUp	46	18	e2.jpg 	519	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.381982e+03	2.909551e+01	StimUp	47	19	e2.jpg 	542	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.382275e+03	2.938806e+01	StimUp	48	20	e2.jpg 	435	600	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	6	Vert	V Correct	3.382316e+03	2.942921e+01	StimUp	49	21	e2.jpg 	441	547	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.383357e+03	4.540064e-01	ITI	1	1	e2.jpg 	546	646	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.385017e+03	2.114569e+00	ITI	2	2	e2.jpg 	461	477	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.388020e+03	2.113858e+00	StartStim	3	1	 	501	580	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.391379e+03	5.472275e+00	StartStim	4	2	 	283	441	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.391671e+03	5.764780e+00	StartStim	5	3	 	283	435	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.393280e+03	7.373958e+00	StartStim	6	4	 	326	423	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.393533e+03	7.626248e+00	StartStim	7	5	 	317	423	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.393574e+03	7.667302e+00	StartStim	8	6	 	326	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.396479e+03	1.057301e+01	StartStim	9	7	 	522	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.397596e+03	1.168983e+01	StartStim	10	8	 	403	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.398472e+03	1.256534e+01	StartStim	11	9	 	616	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	 	3.399015e+03	1.310910e+01	StartStim	12	10	 	515	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	V Correct	3.399916e+03	8.855707e-01	StimUp	13	1	e20.jpg	499	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	V Correct	3.402009e+03	2.978386e+00	StimUp	14	2	e20.jpg	581	535	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	V Correct	3.403609e+03	4.578509e+00	StimUp	15	3	e20.jpg	544	591	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	V Correct	3.404254e+03	5.223181e+00	StimUp	16	4	e20.jpg	585	537	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:0	1	7	Vert	V Correct	3.405673e+03	6.642156e+00	StimUp	17	5	e20.jpg	506	591	Stim	1	1	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.419287e+03	2.025593e+01	StimUp	18	6	e20.jpg	395	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.419710e+03	2.067926e+01	StimUp	19	7	e20.jpg	418	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.424468e+03	2.543696e+01	StimUp	20	8	e20.jpg	413	586	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.425243e+03	2.621240e+01	StimUp	21	9	e20.jpg	337	543	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.425284e+03	2.625357e+01	StimUp	22	10	e20.jpg	377	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.427588e+03	2.855726e+01	StimUp	23	11	e20.jpg	482	580	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	7	Vert	V Correct	3.427629e+03	2.859854e+01	StimUp	24	12	e20.jpg	551	603	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.437146e+03	5.083981e+00	StartStim	1	1	 	640	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.439519e+03	7.457076e+00	StartStim	2	2	 	466	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.439822e+03	7.760517e+00	StartStim	3	3	 	501	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.440699e+03	8.637079e+00	StartStim	4	4	 	381	423	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.441062e+03	9.000076e+00	StartStim	5	5	 	413	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.442923e+03	1.086068e+01	StartStim	6	6	 	468	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.443567e+03	1.150493e+01	StartStim	7	7	 	544	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.444221e+03	1.215925e+01	StartStim	8	8	 	641	429	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.445358e+03	1.329598e+01	StartStim	9	9	 	827	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.448505e+03	1.644320e+01	StartStim	10	10	 	893	372	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.448737e+03	1.667536e+01	StartStim	11	11	 	740	378	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.451422e+03	1.936024e+01	StartStim	12	12	 	468	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.451565e+03	1.950274e+01	StartStim	13	13	 	479	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.452199e+03	2.013700e+01	StartStim	14	14	 	522	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.453758e+03	2.169594e+01	StartStim	15	15	 	566	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.454080e+03	2.201852e+01	StartStim	16	16	 	501	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.455961e+03	2.389910e+01	StartStim	17	17	 	439	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.457098e+03	2.503592e+01	StartStim	18	18	 	555	657	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.460295e+03	2.823326e+01	StartStim	19	19	 	326	486	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.461040e+03	2.897825e+01	StartStim	20	20	 	413	534	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.462197e+03	3.013522e+01	StartStim	21	21	 	413	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.462238e+03	3.017637e+01	StartStim	22	22	 	450	525	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.462279e+03	3.021738e+01	StartStim	23	23	 	476	535	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.462682e+03	3.062025e+01	StartStim	24	24	 	348	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.462995e+03	3.093280e+01	StartStim	25	25	 	339	444	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.463056e+03	3.099398e+01	StartStim	26	26	 	381	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.463358e+03	3.129635e+01	StartStim	27	27	 	435	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.463801e+03	3.173951e+01	StartStim	28	28	 	305	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.463873e+03	3.181084e+01	StartStim	29	29	 	380	402	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.464175e+03	3.211327e+01	StartStim	30	30	 	392	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.464237e+03	3.217464e+01	StartStim	31	31	 	466	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	 	3.464579e+03	3.251723e+01	StartStim	32	32	 	508	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.467513e+03	2.918948e+00	StimUp	33	1	d11.jpg	428	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.467735e+03	3.141231e+00	StimUp	34	2	d11.jpg	424	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.468551e+03	3.956705e+00	StimUp	35	3	d11.jpg	615	591	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.469617e+03	5.023575e+00	StimUp	36	4	d11.jpg	506	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.470775e+03	6.181185e+00	StimUp	37	5	d11.jpg	424	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.471178e+03	6.584386e+00	StimUp	38	6	d11.jpg	492	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:1	1	8	Vert	V Major	3.471260e+03	6.665766e+00	StimUp	39	7	d11.jpg	591	519	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.472337e+03	7.742753e+00	StimUp	40	8	d11.jpg	514	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.472670e+03	8.075650e+00	StimUp	41	9	d11.jpg	486	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.472731e+03	8.136927e+00	StimUp	42	10	d11.jpg	514	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.473013e+03	8.419408e+00	StimUp	43	11	d11.jpg	511	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.473095e+03	8.500792e+00	StimUp	44	12	d11.jpg	566	459	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.476012e+03	1.141792e+01	StimUp	45	13	d11.jpg	501	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.476274e+03	1.168039e+01	StimUp	46	14	d11.jpg	544	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.484974e+03	2.037989e+01	StimUp	47	15	d11.jpg	550	579	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.485035e+03	2.044120e+01	StimUp	48	16	d11.jpg	550	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.486615e+03	2.202076e+01	StimUp	49	17	d11.jpg	519	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.489411e+03	2.481724e+01	StimUp	50	18	d11.jpg	549	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.490428e+03	2.583387e+01	StimUp	51	19	d11.jpg	470	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.493013e+03	2.841952e+01	StimUp	52	20	d11.jpg	527	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	8	Vert	V Major	3.493991e+03	2.939666e+01	StimUp	53	21	d11.jpg	561	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.504769e+03	7.149736e+00	StartStim	1	1	 	356	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.505162e+03	7.542951e+00	StartStim	2	2	 	457	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.505364e+03	7.744917e+00	StartStim	3	3	 	457	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.505606e+03	7.986972e+00	StartStim	4	4	 	468	360	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.506250e+03	8.631107e+00	StartStim	5	5	 	697	466	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.506342e+03	8.722494e+00	StartStim	6	6	 	688	456	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.506785e+03	9.165574e+00	StartStim	7	7	 	728	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.506886e+03	9.266966e+00	StartStim	8	8	 	555	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.508485e+03	1.086610e+01	StartStim	9	9	 	457	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.508728e+03	1.110833e+01	StartStim	10	10	 	448	450	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.509864e+03	1.224507e+01	StartStim	11	11	 	675	430	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.510408e+03	1.278886e+01	StartStim	12	12	 	708	397	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.511645e+03	1.402622e+01	StartStim	13	13	 	509	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.512069e+03	1.444941e+01	StartStim	14	14	 	479	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.514301e+03	1.668176e+01	StartStim	15	15	 	457	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.514664e+03	1.704460e+01	StartStim	16	16	 	488	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.515559e+03	1.794015e+01	StartStim	17	17	 	305	507	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.516284e+03	1.866488e+01	StartStim	18	18	 	359	468	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.516386e+03	1.876631e+01	StartStim	19	19	 	457	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.516879e+03	1.925970e+01	StartStim	20	20	 	501	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517141e+03	1.952194e+01	StartStim	21	21	 	492	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517504e+03	1.988466e+01	StartStim	22	22	 	413	477	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517565e+03	1.994580e+01	StartStim	23	23	 	446	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517606e+03	1.998681e+01	StartStim	24	24	 	446	429	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517898e+03	2.027919e+01	StartStim	25	25	 	426	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.517960e+03	2.034048e+01	StartStim	26	26	 	348	423	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.518302e+03	2.068317e+01	StartStim	27	27	 	370	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519178e+03	2.155860e+01	StartStim	28	28	 	404	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519239e+03	2.161983e+01	StartStim	29	29	 	446	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519340e+03	2.172113e+01	StartStim	30	30	 	405	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519542e+03	2.192297e+01	StartStim	31	31	 	413	490	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519644e+03	2.202432e+01	StartStim	32	32	 	348	489	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.519986e+03	2.236693e+01	StartStim	33	33	 	305	466	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520027e+03	2.240799e+01	StartStim	34	34	 	305	444	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520058e+03	2.243896e+01	StartStim	35	35	 	315	397	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520099e+03	2.248009e+01	StartStim	36	36	 	337	412	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520402e+03	2.278249e+01	StartStim	37	37	 	402	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520684e+03	2.306478e+01	StartStim	38	38	 	401	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.520786e+03	2.316636e+01	StartStim	39	39	 	370	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521058e+03	2.343875e+01	StartStim	40	40	 	370	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521119e+03	2.349999e+01	StartStim	41	41	 	305	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521381e+03	2.376220e+01	StartStim	42	42	 	305	412	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521523e+03	2.390382e+01	StartStim	43	43	 	392	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521725e+03	2.410570e+01	StartStim	44	44	 	402	406	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.521887e+03	2.426743e+01	StartStim	45	45	 	379	477	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522199e+03	2.457994e+01	StartStim	46	46	 	362	507	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522240e+03	2.462096e+01	StartStim	47	47	 	370	507	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522321e+03	2.470216e+01	StartStim	48	48	 	283	444	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522644e+03	2.502466e+01	StartStim	49	49	 	283	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522725e+03	2.510593e+01	StartStim	50	50	 	381	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.522766e+03	2.514693e+01	StartStim	51	51	 	403	397	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.523058e+03	2.543926e+01	StartStim	52	52	 	413	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.523120e+03	2.550045e+01	StartStim	53	53	 	487	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.523502e+03	2.588322e+01	StartStim	54	54	 	550	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.524780e+03	2.716070e+01	StartStim	55	55	 	381	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.525103e+03	2.748338e+01	StartStim	56	56	 	294	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.525405e+03	2.778586e+01	StartStim	57	57	 	359	390	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.525476e+03	2.785705e+01	StartStim	58	58	 	457	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.525779e+03	2.815944e+01	StartStim	59	59	 	514	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.526081e+03	2.846192e+01	StartStim	60	60	 	457	450	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.526142e+03	2.852310e+01	StartStim	61	61	 	457	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.526203e+03	2.858421e+01	StartStim	62	62	 	413	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.526244e+03	2.862520e+01	StartStim	63	63	 	380	433	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.526476e+03	2.885719e+01	StartStim	64	64	 	370	402	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.528880e+03	3.126045e+01	StartStim	65	65	 	392	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.529082e+03	3.146246e+01	StartStim	66	66	 	392	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.529957e+03	3.233792e+01	StartStim	67	67	 	457	535	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.530280e+03	3.266051e+01	StartStim	68	68	 	457	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.530341e+03	3.272167e+01	StartStim	69	69	 	488	454	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.530623e+03	3.300398e+01	StartStim	70	70	 	491	450	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.530916e+03	3.329639e+01	StartStim	71	71	 	511	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.531459e+03	3.384017e+01	StartStim	72	72	 	544	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.531722e+03	3.410250e+01	StartStim	73	73	 	511	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.531783e+03	3.416372e+01	StartStim	74	74	 	510	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:2	1	9	Vert	 	3.531995e+03	3.437566e+01	StartStim	75	75	 	511	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.532880e+03	3.526117e+01	StartStim	76	76	 	383	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.532962e+03	3.534255e+01	StartStim	77	77	 	479	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.533003e+03	3.538366e+01	StartStim	78	78	 	511	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.533215e+03	3.559556e+01	StartStim	79	79	 	522	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.533276e+03	3.565667e+01	StartStim	80	80	 	533	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.534523e+03	3.690403e+01	StartStim	81	81	 	710	456	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.534775e+03	3.715629e+01	StartStim	82	82	 	705	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	 	3.534937e+03	3.731801e+01	StartStim	83	83	 	515	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.535074e+03	1.111771e-01	StimUp	84	1	f22.jpg	515	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.537076e+03	2.113294e+00	StimUp	85	2	f22.jpg	547	579	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.539722e+03	4.759033e+00	StimUp	86	3	f22.jpg	560	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.540176e+03	5.212532e+00	StimUp	87	4	f22.jpg	494	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.540901e+03	5.937492e+00	StimUp	88	5	f22.jpg	548	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.542320e+03	7.356495e+00	StimUp	89	6	f22.jpg	433	591	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.544151e+03	9.187953e+00	StimUp	90	7	f22.jpg	566	625	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.544977e+03	1.001360e+01	StimUp	91	8	f22.jpg	572	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.545813e+03	1.084952e+01	StimUp	92	9	f22.jpg	413	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.545995e+03	1.103154e+01	StimUp	93	10	f22.jpg	428	504	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.546056e+03	1.109277e+01	StimUp	94	11	f22.jpg	515	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.546499e+03	1.153606e+01	StimUp	95	12	f22.jpg	413	561	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.547656e+03	1.269339e+01	StimUp	96	13	f22.jpg	482	547	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.548412e+03	1.344870e+01	StimUp	97	14	f22.jpg	442	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.548775e+03	1.381178e+01	StimUp	98	15	f22.jpg	395	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.549299e+03	1.433560e+01	StimUp	99	16	f22.jpg	413	481	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.551049e+03	1.608644e+01	StimUp	100	17	f22.jpg	450	525	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.552669e+03	1.770643e+01	StimUp	101	18	f22.jpg	596	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.553998e+03	1.903480e+01	StimUp	102	19	f22.jpg	539	580	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.554733e+03	1.976985e+01	StimUp	103	20	f22.jpg	462	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555116e+03	2.015293e+01	StimUp	104	21	f22.jpg	435	516	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555177e+03	2.021417e+01	StimUp	105	22	f22.jpg	410	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555369e+03	2.040604e+01	StimUp	106	23	f22.jpg	400	495	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555531e+03	2.056776e+01	StimUp	107	24	f22.jpg	413	537	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555894e+03	2.093085e+01	StimUp	108	25	f22.jpg	413	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.555955e+03	2.099214e+01	StimUp	109	26	f22.jpg	457	438	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.558430e+03	2.346679e+01	StimUp	110	27	f22.jpg	614	604	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.559135e+03	2.417169e+01	StimUp	111	28	f22.jpg	575	625	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.560875e+03	2.591244e+01	StimUp	112	29	f22.jpg	420	513	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.562435e+03	2.747225e+01	StimUp	113	30	f22.jpg	517	603	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.562829e+03	2.786550e+01	StimUp	114	31	f22.jpg	422	471	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.563111e+03	2.814807e+01	StimUp	115	32	f22.jpg	422	472	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.563192e+03	2.822946e+01	StimUp	116	33	f22.jpg	509	492	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	9	Vert	V Minor	3.563575e+03	2.861238e+01	StimUp	117	34	f22.jpg	493	516	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.566466e+03	1.489760e+00	ITI	1	1	f22.jpg	605	603	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.567211e+03	2.234986e+00	ITI	2	2	f22.jpg	572	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.567886e+03	2.909717e+00	ITI	3	3	f22.jpg	368	598	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.570486e+03	2.505701e+00	StartStim	4	1	 	405	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.570809e+03	2.828352e+00	StartStim	5	2	 	427	472	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.571272e+03	3.291765e+00	StartStim	6	3	 	357	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.571484e+03	3.503820e+00	StartStim	7	4	 	348	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.571545e+03	3.564949e+00	StartStim	8	5	 	359	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.571968e+03	3.987971e+00	StartStim	9	6	 	457	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.575065e+03	7.084769e+00	StartStim	10	7	 	392	522	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.575408e+03	7.427500e+00	StartStim	11	8	 	413	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.575690e+03	7.709780e+00	StartStim	12	9	 	449	469	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.575731e+03	7.750840e+00	StartStim	13	10	 	445	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.575943e+03	7.962765e+00	StartStim	14	11	 	392	382	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.578909e+03	1.092881e+01	StartStim	15	12	 	507	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.580126e+03	1.214604e+01	StartStim	16	13	 	450	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.585465e+03	1.748438e+01	StartStim	17	14	 	463	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.587849e+03	1.986889e+01	StartStim	18	15	 	326	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.587880e+03	1.990000e+01	StartStim	19	16	 	317	441	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588163e+03	2.018227e+01	StartStim	20	17	 	295	418	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588244e+03	2.026350e+01	StartStim	21	18	 	359	408	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588506e+03	2.052566e+01	StartStim	22	19	 	370	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588587e+03	2.060691e+01	StartStim	23	20	 	457	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588880e+03	2.089926e+01	StartStim	24	21	 	422	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.588961e+03	2.098058e+01	StartStim	25	22	 	326	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.589304e+03	2.132318e+01	StartStim	26	23	 	334	481	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.589445e+03	2.146476e+01	StartStim	27	24	 	400	472	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.589707e+03	2.172697e+01	StartStim	28	25	 	392	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590120e+03	2.214006e+01	StartStim	29	26	 	326	420	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590202e+03	2.222141e+01	StartStim	30	27	 	403	405	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590544e+03	2.256404e+01	StartStim	31	28	 	424	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590586e+03	2.260510e+01	StartStim	32	29	 	381	471	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590647e+03	2.266623e+01	StartStim	33	30	 	359	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.590959e+03	2.297875e+01	StartStim	34	31	 	261	421	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591161e+03	2.318074e+01	StartStim	35	32	 	250	412	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591222e+03	2.324196e+01	StartStim	36	33	 	251	399	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591344e+03	2.336363e+01	StartStim	37	34	 	446	450	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591546e+03	2.356561e+01	StartStim	38	35	 	457	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591607e+03	2.362679e+01	StartStim	39	36	 	465	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591729e+03	2.374825e+01	StartStim	40	37	 	538	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:3	1	10	Vert	 	3.591921e+03	2.394010e+01	StartStim	41	38	 	529	547	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.593218e+03	2.523768e+01	StartStim	42	39	 	522	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.598506e+03	3.052572e+01	StartStim	43	40	 	403	424	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.598819e+03	3.083832e+01	StartStim	44	41	 	424	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.599865e+03	3.188477e+01	StartStim	45	42	 	569	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.610320e+03	4.233948e+01	StartStim	46	43	 	428	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.610723e+03	4.274254e+01	StartStim	47	44	 	435	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.610814e+03	4.283389e+01	StartStim	48	45	 	435	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.610875e+03	4.289502e+01	StartStim	49	46	 	376	565	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.611278e+03	4.329807e+01	StartStim	50	47	 	340	496	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.611621e+03	4.364078e+01	StartStim	51	48	 	334	504	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.612054e+03	4.407387e+01	StartStim	52	49	 	370	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.612437e+03	4.445671e+01	StartStim	53	50	 	313	444	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.612921e+03	4.494012e+01	StartStim	54	51	 	339	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613173e+03	4.519236e+01	StartStim	55	52	 	261	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613254e+03	4.527359e+01	StartStim	56	53	 	305	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613436e+03	4.545530e+01	StartStim	57	54	 	305	387	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613537e+03	4.555660e+01	StartStim	58	55	 	424	381	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613900e+03	4.591932e+01	StartStim	59	56	 	424	393	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.613941e+03	4.596044e+01	StartStim	60	57	 	435	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.614273e+03	4.629306e+01	StartStim	61	58	 	413	475	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.614677e+03	4.669613e+01	StartStim	62	59	 	504	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.614718e+03	4.673721e+01	StartStim	63	60	 	572	556	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.615442e+03	4.746173e+01	StartStim	64	61	 	501	537	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.615473e+03	4.749277e+01	StartStim	65	62	 	494	558	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.616278e+03	4.829770e+01	StartStim	66	63	 	464	516	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.616520e+03	4.853986e+01	StartStim	67	64	 	468	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.616581e+03	4.860099e+01	StartStim	68	65	 	492	492	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.616632e+03	4.865208e+01	StartStim	69	66	 	544	459	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.617719e+03	4.973864e+01	StartStim	70	67	 	370	463	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618022e+03	5.004119e+01	StartStim	71	68	 	315	426	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618133e+03	5.015263e+01	StartStim	72	69	 	468	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618355e+03	5.037457e+01	StartStim	73	70	 	479	415	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618416e+03	5.043571e+01	StartStim	74	71	 	557	438	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618678e+03	5.069790e+01	StartStim	75	72	 	575	448	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	 	3.618780e+03	5.079928e+01	StartStim	76	73	 	508	514	Stim	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.618935e+03	1.212640e-01	StimUp	77	1	e3.jpg 	501	514	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.619741e+03	9.270049e-01	StimUp	78	2	e3.jpg 	461	601	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.620798e+03	1.983987e+00	StimUp	79	3	e3.jpg 	457	570	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.621061e+03	2.246681e+00	StimUp	80	4	e3.jpg 	474	603	Stim	1	1	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.629251e+03	1.043665e+01	StimUp	81	5	e3.jpg 	439	516	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.629775e+03	1.096058e+01	StimUp	82	6	e3.jpg 	305	562	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.629957e+03	1.114252e+01	StimUp	83	7	e3.jpg 	305	562	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.631537e+03	1.272235e+01	StimUp	84	8	e3.jpg 	397	591	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.631869e+03	1.305520e+01	StimUp	85	9	e3.jpg 	433	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.633811e+03	1.499690e+01	StimUp	86	10	e3.jpg 	413	582	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.635612e+03	1.679797e+01	StimUp	87	11	e3.jpg 	442	537	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.636971e+03	1.815656e+01	StimUp	88	12	e3.jpg 	481	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.641467e+03	2.265288e+01	StimUp	89	13	e3.jpg 	455	636	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.642373e+03	2.355890e+01	StimUp	90	14	e3.jpg 	461	613	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.642686e+03	2.387158e+01	StimUp	91	15	e3.jpg 	477	600	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.643873e+03	2.505910e+01	StimUp	92	16	e3.jpg 	479	547	Stim	1	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.645433e+03	2.661875e+01	StimUp	93	17	e3.jpg 	479	624	Screen	0	0	P014C Vert	
+Jubilee	September5	05-Sep-2017	17:4	1	10	Vert	V Correct	3.647707e+03	2.889239e+01	StimUp	94	18	e3.jpg 	477	624	Screen	0	0	P014C Vert	

@@ -1,0 +1,15 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	July18	18-Jul-2016	17:48	1	2	 	 	5.480791e+01	1.907960e+00	Stim	1	1	 	544	576	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:48	1	2	 	 	5.498260e+01	2.082657e+00	Stim	2	2	 	530	531	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:48	1	2	 	 	5.514637e+01	2.246424e+00	Stim	3	3	 	497	525	Stim	1	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:48	1	2	 	 	5.530052e+01	2.400578e+00	Stim	4	4	 	519	504	Stim	1	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:48	1	2	 	 	5.544428e+01	2.544337e+00	Stim	5	5	 	526	514	Stim	1	1	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.762315e+02	3.271867e+00	Stim	1	1	 	516	498	Stim	1	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.764350e+02	3.475345e+00	Stim	2	2	 	505	531	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.765988e+02	3.639202e+00	Stim	3	3	 	511	531	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.767715e+02	3.811828e+00	Stim	4	4	 	497	541	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.769339e+02	3.974248e+00	Stim	5	5	 	508	537	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.770961e+02	4.136497e+00	Stim	6	6	 	508	531	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.772583e+02	4.298700e+00	Stim	7	7	 	501	531	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:50	1	5	 	 	1.774405e+02	4.480865e+00	Stim	8	8	 	493	525	Screen	0	0	Autoshaping	
+Mary	July18	18-Jul-2016	17:51	1	5	 	 	1.776126e+02	4.652975e+00	Stim	9	9	 	511	519	Stim	1	1	Autoshaping	
+Mary	July18	18-Jul-2016	17:51	1	5	 	 	1.900934e+02	1.713374e+01	Stim	10	10	 	216	656	Screen	0	0	Autoshaping	

@@ -1,0 +1,5 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Mary	Januray3	03-Jan-2017	15:16	1	1	Vert	FollowedV	4.571299e+00	3.008697e+00	3.585760e+00	3.005484e+00	a12.jpg	0	1	0	0	0	NaN	1	0	P019A Super Remdial Vert	
+Mary	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.418206e+01	3.008688e+00	1.431678e+00	3.006562e+00	a1.jpg 	1	1	0	4	1	8.000000e-01	1	0	P019A Super Remdial Vert	
+Mary	

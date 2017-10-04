@@ -1,0 +1,15 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	raName	
+Mary	January1	03-Jan-2017	15:31	1	1	Vert	FollowedV	5.874553e+00	3.008656e+00	3.143589e+00	3.009638e+00	a43.jpg	0	1	0	8	1	8.888889e-01	1	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:31	1	2	Vert	IncorrectMinorV	1.504618e+01	3.007526e+00	1.733642e+00	3.011971e+00	e4.jpg 	1	1	0	0	7	0	0	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:31	1	3	Vert	IncorrectMinorV	2.280600e+01	3.004755e+00	1.007571e+00	3.006105e+00	e10.jpg	2	1	0	12	0	1	0	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:31	1	4	Vert	IncorrectMinorV	2.984279e+01	3.012536e+00	5.209739e+00	3.006736e+00	e1.jpg 	0	1	0	0	4	0	0	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:31	1	5	Vert	IncorrectMinorV	4.108363e+01	3.012825e+00	2.095035e+01	3.012026e+00	e20.jpg	0	1	0	0	0	NaN	0	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:32	1	6	Vert	FollowedV	6.807678e+01	3.011978e+00	1.021368e+01	3.011717e+00	a50.jpg	0	1	0	0	0	NaN	1	0	P019A Super Remdial Vert	
+MaryRA	
+Mary	January1	03-Jan-2017	15:32	1	7	Vert	IncorrectMinorV	8.432271e+01	3.011895e+00	2.209878e+00	3.012800e+00	e17.jpg	0	1	0	0	0	NaN	0	0	P019A Super Remdial Vert	
+MaryRA	

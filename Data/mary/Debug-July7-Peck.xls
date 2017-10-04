@@ -1,0 +1,72 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Debug	July7	07-Jul-2016	15:27	1	1	Vert	 	7.127935e+00	1.140300e+00	StartStim	1	1	 	501	494	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	1	Vert	 	7.722998e+00	1.735363e+00	StartStim	2	2	 	504	520	Stim	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.149056e+01	6.425428e-01	StartStim	1	1	 	484	527	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.232384e+01	1.475820e+00	StartStim	2	2	 	484	527	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.338938e+01	2.541367e+00	StartStim	3	3	 	492	528	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.430975e+01	3.461739e+00	StartStim	4	4	 	492	549	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.472651e+01	3.878497e+00	StartStim	5	5	 	510	542	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.512347e+01	4.275454e+00	StartStim	6	6	 	484	534	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.566124e+01	4.813224e+00	StartStim	7	7	 	518	543	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.597665e+01	5.128637e+00	StartStim	8	8	 	512	535	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.617081e+01	5.322794e+00	StartStim	9	9	 	493	529	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.654691e+01	5.698892e+00	StartStim	10	10	 	507	548	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.672052e+01	5.872509e+00	StartStim	11	11	 	537	549	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.690419e+01	6.056176e+00	StartStim	12	12	 	529	536	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.707777e+01	6.229755e+00	StartStim	13	13	 	492	567	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.725135e+01	6.403335e+00	StartStim	14	14	 	469	595	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.742493e+01	6.576917e+00	StartStim	15	15	 	509	664	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.774018e+01	6.892163e+00	StartStim	16	16	 	593	569	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.787326e+01	7.025247e+00	StartStim	17	17	 	564	573	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.801650e+01	7.168487e+00	StartStim	18	18	 	555	636	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.901823e+01	8.170218e+00	StartStim	19	19	 	494	481	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.925237e+01	8.404351e+00	StartStim	20	20	 	550	444	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.944599e+01	8.597973e+00	StartStim	21	21	 	450	481	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.960932e+01	8.761305e+00	StartStim	22	22	 	555	510	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.975235e+01	8.904339e+00	StartStim	23	23	 	493	519	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	4.991560e+01	9.067586e+00	StartStim	24	24	 	449	553	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.004858e+01	9.200568e+00	StartStim	25	25	 	551	508	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.019159e+01	9.343578e+00	StartStim	26	26	 	475	475	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.035481e+01	9.506797e+00	StartStim	27	27	 	501	411	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.050793e+01	9.659910e+00	StartStim	28	28	 	577	387	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.067121e+01	9.823196e+00	StartStim	29	29	 	450	459	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.083442e+01	9.986404e+00	StartStim	30	30	 	549	475	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.098764e+01	1.013962e+01	StartStim	31	31	 	446	537	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.115094e+01	1.030293e+01	StartStim	32	32	 	515	531	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.129397e+01	1.044595e+01	StartStim	33	33	 	613	525	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.142699e+01	1.057898e+01	StartStim	34	34	 	533	510	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.159028e+01	1.074227e+01	StartStim	35	35	 	479	471	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.175351e+01	1.090550e+01	StartStim	36	36	 	494	492	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.189652e+01	1.104850e+01	StartStim	37	37	 	544	504	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.202952e+01	1.118151e+01	StartStim	38	38	 	479	487	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.219284e+01	1.134482e+01	StartStim	39	39	 	522	465	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.233587e+01	1.148785e+01	StartStim	40	40	 	501	465	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.246891e+01	1.162090e+01	StartStim	41	41	 	464	487	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.265235e+01	1.180434e+01	StartStim	42	42	 	493	537	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.281553e+01	1.196752e+01	StartStim	43	43	 	522	564	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.296872e+01	1.212071e+01	StartStim	44	44	 	603	487	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.311169e+01	1.226367e+01	StartStim	45	45	 	494	465	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.329502e+01	1.244701e+01	StartStim	46	46	 	501	459	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.342821e+01	1.258020e+01	StartStim	47	47	 	540	465	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.359154e+01	1.274353e+01	StartStim	48	48	 	468	471	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.373451e+01	1.288650e+01	StartStim	49	49	 	555	459	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.389771e+01	1.304970e+01	StartStim	50	50	 	490	453	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.405082e+01	1.320281e+01	StartStim	51	51	 	511	444	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.421398e+01	1.336596e+01	StartStim	52	52	 	501	459	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.439739e+01	1.354938e+01	StartStim	53	53	 	457	475	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	 	5.455072e+01	1.370270e+01	StartStim	54	54	 	522	504	Stim	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	FollowedV	5.470986e+01	1.247910e-01	StimUp	55	1	a13.jpg	486	498	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	FollowedV	5.487677e+01	2.917026e-01	StimUp	56	2	a13.jpg	516	471	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:27	1	2	Vert	FollowedV	5.565752e+01	1.072447e+00	StimUp	57	3	a13.jpg	555	444	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	5.597326e+01	1.388193e+00	StimUp	58	4	a13.jpg	478	426	Stim	1	1	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.383142e+01	1.924635e+01	StimUp	59	5	a13.jpg	648	409	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.414792e+01	1.956284e+01	StimUp	60	6	a13.jpg	572	366	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.433152e+01	1.974645e+01	StimUp	61	7	a13.jpg	550	360	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.448486e+01	1.989979e+01	StimUp	62	8	a13.jpg	529	471	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.463214e+01	2.004706e+01	StimUp	63	9	a13.jpg	568	657	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.478560e+01	2.020053e+01	StimUp	64	10	a13.jpg	588	762	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.494904e+01	2.036397e+01	StimUp	65	11	a13.jpg	599	711	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.509220e+01	2.050713e+01	StimUp	66	12	a13.jpg	603	597	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.518517e+01	2.060009e+01	StimUp	67	13	a13.jpg	620	519	Screen	0	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.647047e+01	2.188540e+01	StimUp	68	14	a13.jpg	591	498	Stim	1	0	P019A 1	
+Debug	July7	07-Jul-2016	15:28	1	2	Vert	FollowedV	7.662408e+01	2.203901e+01	StimUp	69	15	a13.jpg	604	585	Stim	1	1	P019A 1	
+Debug	July7	

@@ -1,0 +1,66 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	 	8.606131e+00	2.633844e+00	StartStim	1	1	 	533	552	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	 	8.864283e+00	2.891996e+00	StartStim	2	2	 	522	547	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	 	9.301488e+00	3.329201e+00	StartStim	3	3	 	529	498	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	 	9.681136e+00	3.708849e+00	StartStim	4	4	 	501	519	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	9.943026e+00	1.347926e-01	StimUp	5	1	a11.jpg	537	514	Stim	1	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	1.006105e+01	2.528126e-01	StimUp	6	2	a11.jpg	483	541	Stim	1	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	1.058984e+01	7.816088e-01	StimUp	7	3	a11.jpg	540	541	Stim	1	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	1.072437e+01	9.161320e-01	StimUp	8	4	a11.jpg	462	553	Stim	1	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	1.086881e+01	1.060574e+00	StimUp	9	5	a11.jpg	551	519	Stim	1	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:5	1	1	Vert	FollowedV	1.098610e+01	1.177867e+00	StimUp	10	6	a11.jpg	508	498	Stim	1	1	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	 	7.916506e+01	3.632235e+01	StartStim	1	1	 	493	531	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	 	7.968451e+01	3.684180e+01	StartStim	2	2	 	515	531	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	 	8.019125e+01	3.734854e+01	StartStim	3	3	 	504	498	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.059171e+01	3.166701e-01	StimUp	4	1	d5.jpg 	518	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.088752e+01	6.124840e-01	StimUp	5	2	d5.jpg 	566	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.105107e+01	7.760293e-01	StimUp	6	3	d5.jpg 	479	564	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.118417e+01	9.091320e-01	StimUp	7	4	d5.jpg 	573	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.134759e+01	1.072549e+00	StimUp	8	5	d5.jpg 	501	514	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.151100e+01	1.235959e+00	StimUp	9	6	d5.jpg 	537	519	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.164407e+01	1.369030e+00	StimUp	10	7	d5.jpg 	566	510	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.178725e+01	1.512209e+00	StimUp	11	8	d5.jpg 	461	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.195064e+01	1.675599e+00	StimUp	12	9	d5.jpg 	501	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.208370e+01	1.808659e+00	StimUp	13	10	d5.jpg 	515	552	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.222682e+01	1.951787e+00	StimUp	14	11	d5.jpg 	421	547	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:6	1	2	Vert	IncorrectMajorV	8.236999e+01	2.094952e+00	StimUp	15	12	d5.jpg 	595	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	2	Vert	IncorrectMajorV	8.251309e+01	2.238051e+00	StimUp	16	13	d5.jpg 	442	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	2	Vert	IncorrectMajorV	8.268664e+01	2.411600e+00	StimUp	17	14	d5.jpg 	529	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	 	1.232061e+02	9.897518e+00	StartStim	1	1	 	518	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.239980e+02	7.387089e-01	StimUp	2	1	d2.jpg 	577	543	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.241817e+02	9.223903e-01	StimUp	3	2	d2.jpg 	483	558	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.243248e+02	1.065483e+00	StimUp	4	3	d2.jpg 	614	531	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.244795e+02	1.220151e+00	StimUp	5	4	d2.jpg 	511	492	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.246428e+02	1.383531e+00	StimUp	6	5	d2.jpg 	530	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.247862e+02	1.526860e+00	StimUp	7	6	d2.jpg 	566	564	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.249596e+02	1.700315e+00	StimUp	8	7	d2.jpg 	465	541	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.251230e+02	1.863686e+00	StimUp	9	8	d2.jpg 	558	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.252863e+02	2.027031e+00	StimUp	10	9	d2.jpg 	472	498	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.254598e+02	2.200469e+00	StimUp	11	10	d2.jpg 	580	547	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.256432e+02	2.383932e+00	StimUp	12	11	d2.jpg 	468	585	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.258066e+02	2.547335e+00	StimUp	13	12	d2.jpg 	574	597	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.259599e+02	2.700620e+00	StimUp	14	13	d2.jpg 	533	574	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.261434e+02	2.884134e+00	StimUp	15	14	d2.jpg 	471	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.263269e+02	3.067637e+00	StimUp	16	15	d2.jpg 	591	519	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.264801e+02	3.220790e+00	StimUp	17	16	d2.jpg 	486	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.266838e+02	3.424516e+00	StimUp	18	17	d2.jpg 	580	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.268674e+02	3.608064e+00	StimUp	19	18	d2.jpg 	471	547	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.270409e+02	3.781590e+00	StimUp	20	19	d2.jpg 	566	576	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.272042e+02	3.944918e+00	StimUp	21	20	d2.jpg 	506	585	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.273877e+02	4.128427e+00	StimUp	22	21	d2.jpg 	453	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.275409e+02	4.281628e+00	StimUp	23	22	d2.jpg 	537	487	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.277447e+02	4.485370e+00	StimUp	24	23	d2.jpg 	566	492	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:7	1	3	Vert	IncorrectMajorV	1.279384e+02	4.679040e+00	StimUp	25	24	d2.jpg 	462	547	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	 	1.706941e+02	1.440949e+01	StartStim	1	1	 	501	541	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	 	1.712613e+02	1.497669e+01	StartStim	2	2	 	505	537	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	 	1.717174e+02	1.543282e+01	StartStim	3	3	 	508	541	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	 	1.721029e+02	1.581825e+01	StartStim	4	4	 	508	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.724189e+02	2.836832e-01	StimUp	5	1	e26.jpg	533	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.728553e+02	7.200268e-01	StimUp	6	2	e26.jpg	563	525	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.730187e+02	8.834352e-01	StimUp	7	3	e26.jpg	501	541	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.731821e+02	1.046810e+00	StimUp	8	4	e26.jpg	617	531	Screen	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.733151e+02	1.179806e+00	StimUp	9	5	e26.jpg	486	531	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.734783e+02	1.343060e+00	StimUp	10	6	e26.jpg	566	481	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.736415e+02	1.506278e+00	StimUp	11	7	e26.jpg	479	498	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.738149e+02	1.679689e+00	StimUp	12	8	e26.jpg	574	574	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.739581e+02	1.822847e+00	StimUp	13	9	e26.jpg	490	591	Stim	0	0	P019A 1	
+Mary	Jlu26	26-Jul-2016	18:8	1	4	Vert	IncorrectMinorV	1.741618e+02	2.026589e+00	StimUp	14	10	e26.jpg	501	570	Stim	0	0	P019A 1	

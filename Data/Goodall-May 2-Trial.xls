@@ -1,0 +1,23 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Goodall	May 2	02-May-2017	11:15	1	1	Vert	V Correct	5.586789e+00	3.011486e+00	1.090169e+02	3.174719e+01	a44.jpg	0	1	18	33	11	7.500000e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:16	1	2	Vert	V Correct	1.493721e+02	3.012707e+00	2.335283e+00	3.492335e+01	a51.jpg	1	1	6	33	18	6.470588e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:17	1	3	Vert	V Minor	1.896515e+02	3.012559e+00	2.450525e+00	3.000695e+01	e17.jpg	1	1	0	63	19	7.682927e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:17	1	4	Vert	V Minor	2.251246e+02	3.007324e+00	2.426142e+00	3.001320e+01	e18.jpg	6	1	7	50	46	5.208333e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:18	1	5	Vert	V Correct	2.605784e+02	3.006327e+00	9.058140e-01	3.357363e+01	a10.jpg	5	1	4	37	19	6.607143e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:18	1	6	Vert	V Major	2.980708e+02	3.004967e+00	3.393617e-01	3.001139e+01	d52.jpg	3	1	0	20	21	4.878049e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:19	1	7	Vert	V Minor	3.314348e+02	3.005213e+00	8.241920e-01	3.001136e+01	e20.jpg	4	1	3	38	36	5.135135e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:19	1	8	Vert	V Major	3.652846e+02	3.006263e+00	1.636203e+00	3.000914e+01	d55.jpg	5	1	12	10	17	3.703704e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:20	1	9	Vert	V Correct	3.999498e+02	3.011813e+00	1.164041e+00	3.000457e+01	a42.jpg	11	1	1	32	27	5.423729e-01	1	3	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:21	1	10	Vert	V Minor	4.341318e+02	3.005414e+00	1.631170e+01	3.000680e+01	e19.jpg	4	1	33	50	31	6.172840e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:21	1	11	Vert	V Major	4.834645e+02	3.006132e+00	4.999781e-01	3.000461e+01	d46.jpg	5	1	0	1	11	8.333333e-02	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:22	1	12	Vert	V Correct	5.169903e+02	3.013330e+00	6.458552e-01	3.353765e+01	a3.jpg 	2	1	2	33	18	6.470588e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:23	1	13	Vert	V Correct	5.541874e+02	3.004568e+00	2.040707e+00	3.000410e+01	a12.jpg	3	1	3	31	32	4.920635e-01	1	3	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:23	1	14	Vert	V Major	5.892482e+02	3.008009e+00	2.323317e+00	3.000910e+01	d61.jpg	7	1	3	22	17	5.641026e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:24	1	15	Vert	V Minor	6.245989e+02	3.010332e+00	2.523588e+00	3.001259e+01	e2.jpg 	3	1	12	32	40	4.444444e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:24	1	16	Vert	V Correct	6.601517e+02	3.008595e+00	6.041469e-01	3.263956e+01	a4.jpg 	7	1	1	36	10	7.826087e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:25	1	17	Vert	V Minor	6.964067e+02	3.003317e+00	9.726868e+00	3.000829e+01	e25.jpg	2	1	20	30	30	5.000000e-01	0	0	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:26	1	18	Vert	V Correct	7.391543e+02	3.004523e+00	3.918136e+00	3.000588e+01	a2.jpg 	3	1	9	31	33	4.843750e-01	1	3	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:26	1	19	Vert	V Correct	7.760925e+02	3.006174e+00	9.946449e-01	3.000397e+01	a3.jpg 	5	1	0	27	35	4.354839e-01	1	3	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:27	1	20	Vert	V Correct	8.101055e+02	3.006439e+00	1.116370e+00	3.289428e+01	a1.jpg 	5	1	1	33	9	7.857143e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:28	1	21	Vert	V Correct	8.471303e+02	3.006113e+00	6.926666e+00	3.477407e+01	a4.jpg 	5	1	12	37	13	7.400000e-01	1	4	P019A Remdial Vert	
+Goodall	May 2	02-May-2017	11:28	1	22	Vert	V Correct	8.918432e+02	3.004273e+00	5.761782e+00	3.001041e+01	a50.jpg	3	1	5	25	22	5.319149e-01	1	3	P019A Remdial Vert	

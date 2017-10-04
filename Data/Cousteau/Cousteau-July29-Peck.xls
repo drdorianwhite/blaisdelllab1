@@ -1,0 +1,1410 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Cousteau	July29	29-Jul-2016	10:11	1	1	Vert	 	1.585055e+02	1.508253e+02	StartStim	1	1	 	519	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	 	2.891345e+02	9.744446e+01	StartStim	1	1	 	581	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	 	3.057184e+02	1.140283e+02	StartStim	2	2	 	508	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.068194e+02	1.044374e+00	StimUp	3	1	d58.jpg	413	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.079570e+02	2.181936e+00	StimUp	4	2	d58.jpg	431	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.082683e+02	2.493232e+00	StimUp	5	3	d58.jpg	427	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.086818e+02	2.906715e+00	StimUp	6	4	d58.jpg	461	475	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.097767e+02	4.001703e+00	StimUp	7	5	d58.jpg	424	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.100823e+02	4.307218e+00	StimUp	8	6	d58.jpg	405	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.116634e+02	5.888314e+00	StimUp	9	7	d58.jpg	403	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.120800e+02	6.304973e+00	StimUp	10	8	d58.jpg	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.124257e+02	6.650639e+00	StimUp	11	9	d58.jpg	424	429	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.127812e+02	7.006117e+00	StimUp	12	10	d58.jpg	427	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.134600e+02	7.684996e+00	StimUp	13	11	d58.jpg	457	444	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.162610e+02	1.048601e+01	StimUp	14	12	d58.jpg	530	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.167277e+02	1.095268e+01	StimUp	15	13	d58.jpg	544	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.208321e+02	1.505705e+01	StimUp	16	14	d58.jpg	565	678	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.225114e+02	1.673641e+01	StimUp	17	15	d58.jpg	440	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:13	1	2	Vert	IncorrectMajorV	3.291727e+02	2.339762e+01	StimUp	18	16	d58.jpg	20	426	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.398179e+02	1.012941e+00	StartStim	1	1	 	550	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.402549e+02	1.449920e+00	StartStim	2	2	 	544	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.406808e+02	1.875747e+00	StartStim	3	3	 	572	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.413588e+02	2.553837e+00	StartStim	4	4	 	558	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.417947e+02	2.989740e+00	StartStim	5	5	 	544	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.421398e+02	3.334814e+00	StartStim	6	6	 	566	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.422122e+02	3.407194e+00	StartStim	7	7	 	588	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.434355e+02	4.630487e+00	StartStim	8	8	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.442752e+02	5.470186e+00	StartStim	9	9	 	538	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.464780e+02	7.673012e+00	StartStim	10	10	 	566	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.505016e+02	1.169663e+01	StartStim	11	11	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.525027e+02	1.369766e+01	StartStim	12	12	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.529587e+02	1.415375e+01	StartStim	13	13	 	522	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.533240e+02	1.451902e+01	StartStim	14	14	 	551	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.537397e+02	1.493470e+01	StartStim	15	15	 	538	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.542665e+02	1.546149e+01	StartStim	16	16	 	522	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.584079e+02	1.960294e+01	StartStim	17	17	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.588439e+02	2.003886e+01	StartStim	18	18	 	566	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.592191e+02	2.041411e+01	StartStim	19	19	 	569	579	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	 	3.615434e+02	2.273837e+01	StartStim	20	20	 	508	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.623819e+02	7.687347e-01	StimUp	21	1	d2.jpg 	457	553	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.630809e+02	1.467760e+00	StimUp	22	2	d2.jpg 	428	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.631231e+02	1.509934e+00	StimUp	23	3	d2.jpg 	450	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.634480e+02	1.834908e+00	StimUp	24	4	d2.jpg 	450	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.642076e+02	2.594426e+00	StimUp	25	5	d2.jpg 	435	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.645225e+02	2.909379e+00	StimUp	26	6	d2.jpg 	421	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.658277e+02	4.214592e+00	StimUp	27	7	d2.jpg 	435	547	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.679111e+02	6.297984e+00	StimUp	28	8	d2.jpg 	435	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.686707e+02	7.057587e+00	StimUp	29	9	d2.jpg 	413	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.690666e+02	7.453478e+00	StimUp	30	10	d2.jpg 	429	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.695231e+02	7.909926e+00	StimUp	31	11	d2.jpg 	366	654	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.774874e+02	1.587427e+01	StimUp	32	12	d2.jpg 	501	547	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.783683e+02	1.675518e+01	StimUp	33	13	d2.jpg 	438	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.791685e+02	1.755534e+01	StimUp	34	14	d2.jpg 	479	558	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.843943e+02	2.278113e+01	StimUp	35	15	d2.jpg 	440	591	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:14	1	3	Vert	IncorrectMajorV	3.870335e+02	2.542037e+01	StimUp	36	16	d2.jpg 	662	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	 	3.968426e+02	2.194194e+00	StartStim	1	1	 	538	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	 	3.980155e+02	3.367078e+00	StartStim	2	2	 	422	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	 	3.987038e+02	4.055380e+00	StartStim	3	3	 	519	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.005849e+02	1.839889e+00	StimUp	4	1	e20.jpg	435	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.010009e+02	2.255898e+00	StimUp	5	2	e20.jpg	413	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.016796e+02	2.934591e+00	StimUp	6	3	e20.jpg	423	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.021159e+02	3.370943e+00	StimUp	7	4	e20.jpg	486	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.024814e+02	3.736412e+00	StimUp	8	5	e20.jpg	444	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.050193e+02	6.274325e+00	StimUp	9	6	e20.jpg	466	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.063649e+02	7.619937e+00	StimUp	10	7	e20.jpg	429	415	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.067406e+02	7.995606e+00	StimUp	11	8	e20.jpg	468	403	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	4	Vert	IncorrectMinorV	4.255468e+02	2.680178e+01	StimUp	12	9	e20.jpg	1021	174	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	 	4.320556e+02	2.757565e-01	StartStim	1	1	 	751	714	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	 	4.344702e+02	2.690364e+00	StartStim	2	2	 	511	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.372365e+02	2.708859e+00	StimUp	3	1	d17.jpg	442	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.375718e+02	3.044196e+00	StimUp	4	2	d17.jpg	407	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.378970e+02	3.369385e+00	StimUp	5	3	d17.jpg	511	580	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.382727e+02	3.745097e+00	StimUp	6	4	d17.jpg	450	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.386383e+02	4.110674e+00	StimUp	7	5	d17.jpg	446	426	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.393578e+02	4.830152e+00	StimUp	8	6	d17.jpg	501	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.397941e+02	5.266543e+00	StimUp	9	7	d17.jpg	522	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.405538e+02	6.026239e+00	StimUp	10	8	d17.jpg	457	469	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.412731e+02	6.745515e+00	StimUp	11	9	d17.jpg	422	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.414165e+02	6.888858e+00	StimUp	12	10	d17.jpg	451	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.417719e+02	7.244289e+00	StimUp	13	11	d17.jpg	424	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.432591e+02	8.731525e+00	StimUp	14	12	d17.jpg	555	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.466764e+02	1.214879e+01	StimUp	15	13	d17.jpg	830	231	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:15	1	5	Vert	IncorrectMajorV	4.513162e+02	1.678858e+01	StimUp	16	14	d17.jpg	574	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	5	Vert	IncorrectMajorV	4.641008e+02	2.957320e+01	StimUp	17	15	d17.jpg	364	591	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	5	Vert	IncorrectMajorV	4.644665e+02	2.993892e+01	StimUp	18	16	d17.jpg	371	360	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.685077e+02	9.420705e-01	StartStim	1	1	 	516	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.688527e+02	1.287060e+00	StartStim	2	2	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.717522e+02	4.186553e+00	StartStim	3	3	 	457	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.735712e+02	6.005555e+00	StartStim	4	4	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.739265e+02	6.360826e+00	StartStim	5	5	 	603	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.758166e+02	8.250919e+00	StartStim	6	6	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.761717e+02	8.605996e+00	StartStim	7	7	 	555	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.778898e+02	1.032416e+01	StartStim	8	8	 	558	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.783358e+02	1.077011e+01	StartStim	9	9	 	552	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.786907e+02	1.112508e+01	StartStim	10	10	 	566	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.804999e+02	1.293418e+01	StartStim	11	11	 	464	493	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.815213e+02	1.395560e+01	StartStim	12	12	 	560	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	 	4.828355e+02	1.526986e+01	StartStim	13	13	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.835169e+02	6.575121e-01	StimUp	14	1	a43.jpg	413	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.838344e+02	9.749654e-01	StimUp	15	2	a43.jpg	457	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.844935e+02	1.634082e+00	StimUp	16	3	a43.jpg	399	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.845356e+02	1.676142e+00	StimUp	17	4	a43.jpg	457	481	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.929859e+02	1.012650e+01	StimUp	18	5	a43.jpg	421	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.934027e+02	1.054324e+01	StimUp	19	6	a43.jpg	464	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.937822e+02	1.092273e+01	StimUp	20	7	a43.jpg	468	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.941680e+02	1.130854e+01	StimUp	21	8	a43.jpg	483	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	4.945032e+02	1.164374e+01	StimUp	22	9	a43.jpg	427	481	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.015262e+02	1.866680e+01	StimUp	23	10	a43.jpg	441	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.018918e+02	1.903241e+01	StimUp	24	11	a43.jpg	453	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.022271e+02	1.936770e+01	StimUp	25	12	a43.jpg	422	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.034112e+02	2.055175e+01	StimUp	26	13	a43.jpg	420	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.037868e+02	2.092740e+01	StimUp	27	14	a43.jpg	376	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.051934e+02	2.233396e+01	StimUp	28	15	a43.jpg	470	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:16	1	6	Vert	FollowedV	5.055893e+02	2.272984e+01	StimUp	29	16	a43.jpg	468	493	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.129985e+02	1.229079e-01	ITI	1	1	a43.jpg	413	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.164933e+02	6.090397e-01	StartStim	2	1	 	544	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.169191e+02	1.034823e+00	StartStim	3	2	 	566	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.192445e+02	3.360227e+00	StartStim	4	3	 	563	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.255476e+02	9.663291e+00	StartStim	5	4	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.316880e+02	1.580368e+01	StartStim	6	5	 	501	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	 	5.327904e+02	1.690609e+01	StartStim	7	6	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.335051e+02	6.879407e-01	StimUp	8	1	a41.jpg	428	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.338241e+02	1.006984e+00	StimUp	9	2	a41.jpg	497	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.341897e+02	1.372563e+00	StimUp	10	3	a41.jpg	439	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.403964e+02	7.579291e+00	StimUp	11	4	a41.jpg	389	669	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.405901e+02	7.773016e+00	StimUp	12	5	a41.jpg	373	643	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.413092e+02	8.492064e+00	StimUp	13	6	a41.jpg	457	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.416949e+02	8.877807e+00	StimUp	14	7	a41.jpg	468	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.420908e+02	9.273641e+00	StimUp	15	8	a41.jpg	448	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.424562e+02	9.639106e+00	StimUp	16	9	a41.jpg	448	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.428117e+02	9.994589e+00	StimUp	17	10	a41.jpg	457	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.431774e+02	1.036025e+01	StimUp	18	11	a41.jpg	435	426	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.435732e+02	1.075604e+01	StimUp	19	12	a41.jpg	457	459	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.512732e+02	1.845609e+01	StimUp	20	13	a41.jpg	454	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.520228e+02	1.920564e+01	StimUp	21	14	a41.jpg	421	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.520548e+02	1.923771e+01	StimUp	22	15	a41.jpg	428	538	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.527033e+02	1.988621e+01	StimUp	23	16	a41.jpg	420	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.530386e+02	2.022143e+01	StimUp	24	17	a41.jpg	488	471	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	7	Vert	FollowedV	5.626012e+02	2.978403e+01	StimUp	25	18	a41.jpg	435	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:17	1	8	Vert	 	5.678261e+02	1.982108e+00	StartStim	1	1	 	529	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	 	5.719876e+02	6.143557e+00	StartStim	2	2	 	501	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	 	5.759371e+02	1.009308e+01	StartStim	3	3	 	515	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.766569e+02	6.979350e-01	StimUp	4	1	d61.jpg	407	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.773358e+02	1.376852e+00	StimUp	5	2	d61.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.773779e+02	1.418954e+00	StimUp	6	3	d61.jpg	413	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.777332e+02	1.774212e+00	StimUp	7	4	d61.jpg	479	492	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.780986e+02	2.139644e+00	StimUp	8	5	d61.jpg	422	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.784336e+02	2.474703e+00	StimUp	9	6	d61.jpg	468	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.788395e+02	2.880595e+00	StimUp	10	7	d61.jpg	435	495	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.796193e+02	3.660383e+00	StimUp	11	8	d61.jpg	424	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.806518e+02	4.692814e+00	StimUp	12	9	d61.jpg	446	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.810173e+02	5.058312e+00	StimUp	13	10	d61.jpg	457	469	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.813523e+02	5.393403e+00	StimUp	14	11	d61.jpg	457	492	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.817381e+02	5.779123e+00	StimUp	15	12	d61.jpg	463	547	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	5.953017e+02	1.934278e+01	StimUp	16	13	d61.jpg	408	585	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	6.011040e+02	2.514503e+01	StimUp	17	14	d61.jpg	991	393	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	6.013482e+02	2.538927e+01	StimUp	18	15	d61.jpg	1002	393	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	6.025727e+02	2.661373e+01	StimUp	19	16	d61.jpg	936	765	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	6.043530e+02	2.839406e+01	StimUp	20	17	d61.jpg	933	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	8	Vert	IncorrectMajorV	6.050722e+02	2.911322e+01	StimUp	21	18	d61.jpg	533	349	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.108937e+02	1.911447e+00	StartStim	1	1	 	552	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.140756e+02	5.093432e+00	StartStim	2	2	 	492	493	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.148346e+02	5.852400e+00	StartStim	3	3	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.152099e+02	6.227670e+00	StartStim	4	4	 	555	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.156557e+02	6.673504e+00	StartStim	5	5	 	560	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	 	6.180402e+02	9.057962e+00	StartStim	6	6	 	507	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.188005e+02	7.384233e-01	StimUp	7	1	e20.jpg	392	511	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.191357e+02	1.073611e+00	StimUp	8	2	e20.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.191777e+02	1.115659e+00	StimUp	9	3	e20.jpg	407	451	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.195734e+02	1.511333e+00	StimUp	10	4	e20.jpg	413	561	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.223814e+02	4.319292e+00	StimUp	11	5	e20.jpg	413	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.227772e+02	4.715107e+00	StimUp	12	6	e20.jpg	424	402	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:18	1	9	Vert	IncorrectMinorV	6.241229e+02	6.060816e+00	StimUp	13	7	e20.jpg	385	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.334422e+02	1.538012e+01	StimUp	14	8	e20.jpg	947	700	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.336662e+02	1.560414e+01	StimUp	15	9	e20.jpg	991	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.382454e+02	2.018336e+01	StimUp	16	10	e20.jpg	904	765	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.384291e+02	2.036704e+01	StimUp	17	11	e20.jpg	925	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.401286e+02	2.206652e+01	StimUp	18	12	e20.jpg	741	714	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.424847e+02	2.442266e+01	StimUp	19	13	e20.jpg	925	700	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.425673e+02	2.450518e+01	StimUp	20	14	e20.jpg	936	721	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.443878e+02	2.632576e+01	StimUp	21	15	e20.jpg	886	559	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	9	Vert	IncorrectMinorV	6.448040e+02	2.674196e+01	StimUp	22	16	e20.jpg	751	697	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.490737e+02	9.918990e-01	ITI	1	1	e20.jpg	1013	372	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.492270e+02	1.145202e+00	ITI	2	2	e20.jpg	969	526	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.493701e+02	1.288276e+00	ITI	3	3	e20.jpg	268	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.527924e+02	1.699520e+00	StartStim	4	1	 	550	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.577111e+02	6.618303e+00	StartStim	5	2	 	559	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.610750e+02	9.982124e+00	StartStim	6	3	 	560	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.618743e+02	1.078149e+01	StartStim	7	4	 	656	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.631179e+02	1.202504e+01	StartStim	8	5	 	516	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	 	6.639777e+02	1.288488e+01	StartStim	9	6	 	515	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.650966e+02	1.081919e+00	StimUp	10	1	a9.jpg 	435	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.666143e+02	2.599676e+00	StimUp	11	2	a9.jpg 	413	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.672932e+02	3.278523e+00	StimUp	12	3	a9.jpg 	420	424	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.749991e+02	1.098444e+01	StimUp	13	4	a9.jpg 	482	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.753647e+02	1.135005e+01	StimUp	14	5	a9.jpg 	441	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.757201e+02	1.170550e+01	StimUp	15	6	a9.jpg 	479	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.761058e+02	1.209121e+01	StimUp	16	7	a9.jpg 	475	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.768654e+02	1.285072e+01	StimUp	17	8	a9.jpg 	483	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.771804e+02	1.316576e+01	StimUp	18	9	a9.jpg 	427	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.846613e+02	2.064665e+01	StimUp	19	10	a9.jpg 	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.850471e+02	2.103246e+01	StimUp	20	11	a9.jpg 	460	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.854025e+02	2.138784e+01	StimUp	21	12	a9.jpg 	475	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.857882e+02	2.177360e+01	StimUp	22	13	a9.jpg 	468	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:19	1	10	Vert	FollowedV	6.861436e+02	2.212898e+01	StimUp	23	14	a9.jpg 	446	514	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	10	Vert	FollowedV	6.918049e+02	2.779028e+01	StimUp	24	15	a9.jpg 	434	666	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	10	Vert	FollowedV	6.929890e+02	2.897433e+01	StimUp	25	16	a9.jpg 	450	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	10	Vert	FollowedV	6.933949e+02	2.938025e+01	StimUp	26	17	a9.jpg 	446	495	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	10	Vert	FollowedV	6.937705e+02	2.975585e+01	StimUp	27	18	a9.jpg 	435	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	 	6.941094e+02	7.241024e-02	ITI	1	1	a9.jpg 	428	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	 	6.941515e+02	1.145472e-01	ITI	2	2	a9.jpg 	464	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	 	7.025119e+02	5.465551e+00	StartStim	3	1	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	 	7.040179e+02	6.971601e+00	StartStim	4	2	 	511	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	 	7.044739e+02	7.427616e+00	StartStim	5	3	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.059398e+02	1.437312e+00	StimUp	6	1	e1.jpg 	465	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.074169e+02	2.914353e+00	StimUp	7	2	e1.jpg 	435	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.084795e+02	3.977026e+00	StimUp	8	3	e1.jpg 	486	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.103407e+02	5.838180e+00	StimUp	9	4	e1.jpg 	490	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.111610e+02	6.658474e+00	StimUp	10	5	e1.jpg 	479	427	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	11	Vert	IncorrectMinorV	7.327273e+02	2.822480e+01	StimUp	11	6	e1.jpg 	468	192	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.378124e+02	2.858820e-01	StartStim	1	1	 	936	700	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.380565e+02	5.299861e-01	StartStim	2	2	 	980	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.390175e+02	1.490971e+00	StartStim	3	3	 	882	765	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.441181e+02	6.591546e+00	StartStim	4	4	 	528	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.456750e+02	8.148472e+00	StartStim	5	5	 	540	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.461311e+02	8.604587e+00	StartStim	6	6	 	538	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.465569e+02	9.030395e+00	StartStim	7	7	 	566	591	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.473766e+02	9.850025e+00	StartStim	8	8	 	610	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.481759e+02	1.064932e+01	StartStim	9	9	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	 	7.498333e+02	1.230678e+01	StartStim	10	10	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	FollowedV	7.505527e+02	6.979735e-01	StimUp	11	1	a50.jpg	468	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	FollowedV	7.509387e+02	1.083937e+00	StimUp	12	2	a50.jpg	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:20	1	12	Vert	FollowedV	7.512233e+02	1.368591e+00	StimUp	13	3	a50.jpg	435	450	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.516191e+02	1.764374e+00	StimUp	14	4	a50.jpg	446	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.531570e+02	3.302316e+00	StimUp	15	5	a50.jpg	490	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.609776e+02	1.112292e+01	StimUp	16	6	a50.jpg	427	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.614039e+02	1.154914e+01	StimUp	17	7	a50.jpg	448	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.618199e+02	1.196519e+01	StimUp	18	8	a50.jpg	400	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.618620e+02	1.200727e+01	StimUp	19	9	a50.jpg	398	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.625002e+02	1.264552e+01	StimUp	20	10	a50.jpg	431	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.629264e+02	1.307169e+01	StimUp	21	11	a50.jpg	486	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.633020e+02	1.344728e+01	StimUp	22	12	a50.jpg	413	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.639807e+02	1.412597e+01	StimUp	23	13	a50.jpg	486	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:21	1	12	Vert	FollowedV	7.643866e+02	1.453188e+01	StimUp	24	14	a50.jpg	427	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	8.853759e+02	1.024968e+02	StartStim	1	1	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	8.919810e+02	1.091019e+02	StartStim	2	2	 	526	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.018372e+02	1.189581e+02	StartStim	3	3	 	540	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.022227e+02	1.193436e+02	StartStim	4	4	 	531	469	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.035269e+02	1.206478e+02	StartStim	5	5	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.058811e+02	1.230021e+02	StartStim	6	6	 	548	493	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.064079e+02	1.235288e+02	StartStim	7	7	 	540	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.068841e+02	1.240051e+02	StartStim	8	8	 	537	519	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.118414e+02	1.289623e+02	StartStim	9	9	 	547	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.134690e+02	1.305899e+02	StartStim	10	10	 	501	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.195689e+02	1.366899e+02	StartStim	11	11	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.199947e+02	1.371156e+02	StartStim	12	12	 	566	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:23	1	13	Vert	 	9.303757e+02	1.474967e+02	StartStim	13	13	 	540	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.317405e+02	1.488614e+02	StartStim	14	14	 	537	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.326003e+02	1.497213e+02	StartStim	15	15	 	544	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.341569e+02	1.512779e+02	StartStim	16	16	 	552	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.342596e+02	1.513805e+02	StartStim	17	17	 	544	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.347558e+02	1.518768e+02	StartStim	18	18	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.360400e+02	1.531609e+02	StartStim	19	19	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.376171e+02	1.547380e+02	StartStim	20	20	 	544	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.381640e+02	1.552849e+02	StartStim	21	21	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.389633e+02	1.560843e+02	StartStim	22	22	 	530	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.399645e+02	1.570855e+02	StartStim	23	23	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.411778e+02	1.582987e+02	StartStim	24	24	 	563	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.430576e+02	1.601785e+02	StartStim	25	25	 	544	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.473603e+02	1.644812e+02	StartStim	26	26	 	529	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.478264e+02	1.649474e+02	StartStim	27	27	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.486257e+02	1.657467e+02	StartStim	28	28	 	537	519	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.495867e+02	1.667076e+02	StartStim	29	29	 	544	543	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.511230e+02	1.682439e+02	StartStim	30	30	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.524272e+02	1.695481e+02	StartStim	31	31	 	538	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	 	9.534891e+02	1.706100e+02	StartStim	32	32	 	526	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.542465e+02	7.284612e-01	StimUp	33	1	a2.jpg 	413	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.545719e+02	1.053865e+00	StimUp	34	2	a2.jpg 	457	487	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.560692e+02	2.551217e+00	StimUp	35	3	a2.jpg 	453	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.568289e+02	3.310842e+00	StimUp	36	4	a2.jpg 	409	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.582454e+02	4.727423e+00	StimUp	37	5	a2.jpg 	446	447	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.597933e+02	6.275317e+00	StimUp	38	6	a2.jpg 	464	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.601690e+02	6.651024e+00	StimUp	39	7	a2.jpg 	446	469	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.657480e+02	1.222994e+01	StimUp	40	8	a2.jpg 	434	690	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.658911e+02	1.237311e+01	StimUp	41	9	a2.jpg 	433	678	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.691972e+02	1.567917e+01	StimUp	42	10	a2.jpg 	427	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.696334e+02	1.611541e+01	StimUp	43	11	a2.jpg 	451	558	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.700494e+02	1.653141e+01	StimUp	44	12	a2.jpg 	406	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.721732e+02	1.865518e+01	StimUp	45	13	a2.jpg 	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.733170e+02	1.979902e+01	StimUp	46	14	a2.jpg 	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.740160e+02	2.049799e+01	StimUp	47	15	a2.jpg 	457	415	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.747958e+02	2.127782e+01	StimUp	48	16	a2.jpg 	399	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.757979e+02	2.227993e+01	StimUp	49	17	a2.jpg 	409	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.767394e+02	2.322142e+01	StimUp	50	18	a2.jpg 	468	448	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	13	Vert	FollowedV	9.828242e+02	2.930620e+01	StimUp	51	19	a2.jpg 	524	646	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	 	9.875444e+02	1.002790e+00	StartStim	1	1	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.875865e+02	2.079168e-02	StimUp	2	1	e17.jpg	515	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.883663e+02	8.006374e-01	StimUp	3	2	e17.jpg	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.890652e+02	1.499522e+00	StimUp	4	3	e17.jpg	413	468	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.891073e+02	1.541609e+00	StimUp	5	4	e17.jpg	429	547	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.894423e+02	1.876649e+00	StimUp	6	5	e17.jpg	468	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.898281e+02	2.262395e+00	StimUp	7	6	e17.jpg	441	558	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.905271e+02	2.961420e+00	StimUp	8	7	e17.jpg	435	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:24	1	14	Vert	IncorrectMinorV	9.912667e+02	3.701001e+00	StimUp	9	8	e17.jpg	383	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.919050e+02	4.339354e+00	StimUp	10	9	e17.jpg	428	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.923211e+02	4.755368e+00	StimUp	11	10	e17.jpg	479	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.930806e+02	5.514895e+00	StimUp	12	11	e17.jpg	413	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.933856e+02	5.819873e+00	StimUp	13	12	e17.jpg	435	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.937813e+02	6.215615e+00	StimUp	14	13	e17.jpg	457	438	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.949451e+02	7.379372e+00	StimUp	15	14	e17.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.952701e+02	7.704391e+00	StimUp	16	15	e17.jpg	491	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	14	Vert	IncorrectMinorV	9.957063e+02	8.140573e+00	StimUp	17	16	e17.jpg	427	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	 	1.022900e+03	2.305069e+00	StartStim	1	1	 	515	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.023660e+03	7.384450e-01	StimUp	2	1	a11.jpg	413	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.024035e+03	1.114233e+00	StimUp	3	2	a11.jpg	486	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.025159e+03	2.237610e+00	StimUp	4	3	a11.jpg	435	447	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.031386e+03	8.465041e+00	StimUp	5	4	a11.jpg	413	603	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.032138e+03	9.216812e+00	StimUp	6	5	a11.jpg	430	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.032463e+03	9.541874e+00	StimUp	7	6	a11.jpg	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.033162e+03	1.024085e+01	StimUp	8	7	a11.jpg	457	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.033538e+03	1.061644e+01	StimUp	9	8	a11.jpg	406	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.034681e+03	1.175991e+01	StimUp	10	9	a11.jpg	428	538	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.035683e+03	1.276206e+01	StimUp	11	10	a11.jpg	446	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.035725e+03	1.280428e+01	StimUp	12	11	a11.jpg	459	600	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.043823e+03	2.090149e+01	StimUp	13	12	a11.jpg	420	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.044128e+03	2.120644e+01	StimUp	14	13	a11.jpg	427	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.044524e+03	2.160242e+01	StimUp	15	14	a11.jpg	441	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.044829e+03	2.190730e+01	StimUp	16	15	a11.jpg	428	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.044871e+03	2.194946e+01	StimUp	17	16	a11.jpg	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:25	1	15	Vert	FollowedV	1.045186e+03	2.226435e+01	StimUp	18	17	a11.jpg	457	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	15	Vert	FollowedV	1.052789e+03	2.986738e+01	StimUp	19	18	a11.jpg	431	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	 	1.053168e+03	2.340916e-01	ITI	1	1	a11.jpg	438	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	 	1.056015e+03	7.380380e-02	StartStim	2	1	 	642	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	 	1.057693e+03	1.751515e+00	StartStim	3	2	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.058371e+03	6.573991e-01	StimUp	4	1	e11.jpg	413	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.058777e+03	1.063346e+00	StimUp	5	2	e11.jpg	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.059416e+03	1.701665e+00	StimUp	6	3	e11.jpg	413	424	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.060539e+03	2.824951e+00	StimUp	7	4	e11.jpg	443	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.060955e+03	3.240949e+00	StimUp	8	5	e11.jpg	421	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.069415e+03	1.170056e+01	StimUp	9	6	e11.jpg	1002	438	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.069639e+03	1.192461e+01	StimUp	10	7	e11.jpg	1012	393	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.075926e+03	1.821159e+01	StimUp	11	8	e11.jpg	348	168	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.076200e+03	1.848613e+01	StimUp	12	9	e11.jpg	392	27	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.076505e+03	1.879091e+01	StimUp	13	10	e11.jpg	1002	744	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	16	Vert	IncorrectMinorV	1.078083e+03	2.036907e+01	StimUp	14	11	e11.jpg	860	724	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	 	1.094795e+03	4.061762e+00	StartStim	1	1	 	533	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	 	1.095251e+03	4.517789e+00	StartStim	2	2	 	501	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	 	1.095656e+03	4.923319e+00	StartStim	3	3	 	486	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	 	1.096738e+03	6.005345e+00	StartStim	4	4	 	544	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	 	1.097073e+03	6.340194e+00	StartStim	5	5	 	507	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.098156e+03	1.061752e+00	StimUp	6	1	a51.jpg	511	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.098511e+03	1.417280e+00	StimUp	7	2	a51.jpg	435	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.098877e+03	1.782774e+00	StimUp	8	3	a51.jpg	490	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.099637e+03	2.542377e+00	StimUp	9	4	a51.jpg	427	468	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.107014e+03	9.919666e+00	StimUp	10	5	a51.jpg	446	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.107379e+03	1.028526e+01	StimUp	11	6	a51.jpg	420	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.108179e+03	1.108526e+01	StimUp	12	7	a51.jpg	429	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.108595e+03	1.150131e+01	StimUp	13	8	a51.jpg	431	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.109274e+03	1.218001e+01	StimUp	14	9	a51.jpg	454	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:26	1	17	Vert	FollowedV	1.109680e+03	1.258595e+01	StimUp	15	10	a51.jpg	471	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.110076e+03	1.298180e+01	StimUp	16	11	a51.jpg	442	537	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.118103e+03	2.100849e+01	StimUp	17	12	a51.jpg	494	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.119348e+03	2.225337e+01	StimUp	18	13	a51.jpg	429	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.119743e+03	2.264925e+01	StimUp	19	14	a51.jpg	443	493	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.120867e+03	2.377269e+01	StimUp	20	15	a51.jpg	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.121242e+03	2.414834e+01	StimUp	21	16	a51.jpg	443	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	17	Vert	FollowedV	1.121608e+03	2.451380e+01	StimUp	22	17	a51.jpg	438	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.130228e+03	1.143390e-01	StartStim	1	1	 	697	708	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.133148e+03	3.033995e+00	StartStim	2	2	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.136098e+03	5.984063e+00	StartStim	3	3	 	559	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.139553e+03	9.438760e+00	StartStim	4	4	 	571	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.146400e+03	1.628606e+01	StartStim	5	5	 	505	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.146755e+03	1.664111e+01	StartStim	6	6	 	537	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.148403e+03	1.828841e+01	StartStim	7	7	 	563	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	 	1.149505e+03	1.939058e+01	StartStim	8	8	 	511	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.150224e+03	6.978125e-01	StimUp	9	1	d14.jpg	406	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.150660e+03	1.134021e+00	StimUp	10	2	d14.jpg	400	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.151025e+03	1.499422e+00	StimUp	11	3	d14.jpg	427	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.151361e+03	1.834536e+00	StimUp	12	4	d14.jpg	448	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.151746e+03	2.220159e+00	StimUp	13	5	d14.jpg	396	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.153243e+03	3.717327e+00	StimUp	14	6	d14.jpg	405	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.153619e+03	4.092865e+00	StimUp	15	7	d14.jpg	435	426	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.154459e+03	4.933151e+00	StimUp	16	8	d14.jpg	424	579	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.155906e+03	6.379920e+00	StimUp	17	9	d14.jpg	403	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:27	1	18	Vert	IncorrectMajorV	1.156342e+03	6.816121e+00	StimUp	18	10	d14.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	18	Vert	IncorrectMajorV	1.179292e+03	2.976608e+01	StimUp	19	11	d14.jpg	871	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.179995e+03	4.563020e-01	ITI	1	1	d14.jpg	239	462	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.185256e+03	2.709671e+00	StartStim	2	1	 	541	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.185722e+03	3.175849e+00	StartStim	3	2	 	550	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.188106e+03	5.560297e+00	StartStim	4	3	 	548	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.190299e+03	7.752905e+00	StartStim	5	4	 	555	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.190705e+03	8.158436e+00	StartStim	6	5	 	566	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.191524e+03	8.977828e+00	StartStim	7	6	 	537	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.193404e+03	1.085744e+01	StartStim	8	7	 	538	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.197161e+03	1.461513e+01	StartStim	9	8	 	536	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.197890e+03	1.534375e+01	StartStim	10	9	 	569	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	 	1.200910e+03	1.836420e+01	StartStim	11	10	 	515	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.201589e+03	6.574991e-01	StimUp	12	1	d19.jpg	406	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.201964e+03	1.033115e+00	StimUp	13	2	d19.jpg	421	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.203068e+03	2.136248e+00	StimUp	14	3	d19.jpg	418	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.203807e+03	2.875765e+00	StimUp	15	4	d19.jpg	419	429	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.204627e+03	3.695966e+00	StimUp	16	5	d19.jpg	409	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.205033e+03	4.101843e+00	StimUp	17	6	d19.jpg	392	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.206066e+03	5.134269e+00	StimUp	18	7	d19.jpg	446	438	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.206471e+03	5.540185e+00	StimUp	19	8	d19.jpg	468	381	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.206887e+03	5.956152e+00	StimUp	20	9	d19.jpg	413	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.208354e+03	7.422933e+00	StimUp	21	10	d19.jpg	446	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.208750e+03	7.818760e+00	StimUp	22	11	d19.jpg	413	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.209156e+03	8.224758e+00	StimUp	23	12	d19.jpg	446	384	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.209552e+03	8.620543e+00	StimUp	24	13	d19.jpg	413	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.209917e+03	8.985934e+00	StimUp	25	14	d19.jpg	457	415	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.220337e+03	1.940588e+01	StimUp	26	15	d19.jpg	697	444	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.220440e+03	1.950863e+01	StimUp	27	16	d19.jpg	893	441	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.229486e+03	2.855425e+01	StimUp	28	17	d19.jpg	320	153	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:28	1	19	Vert	IncorrectMajorV	1.229841e+03	2.890967e+01	StimUp	29	18	d19.jpg	423	81	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.233383e+03	2.436910e+00	ITI	1	1	d19.jpg	826	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.233465e+03	2.519470e+00	ITI	2	2	d19.jpg	829	600	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.233588e+03	2.642347e+00	ITI	3	3	d19.jpg	695	678	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.233640e+03	2.694422e+00	ITI	4	4	d19.jpg	686	759	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.235325e+03	1.366031e+00	StartStim	5	1	 	540	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.236164e+03	2.205881e+00	StartStim	6	2	 	384	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.237145e+03	3.186935e+00	StartStim	7	3	 	580	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.238288e+03	4.329542e+00	StartStim	8	4	 	515	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.238704e+03	4.745109e+00	StartStim	9	5	 	555	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	 	1.240311e+03	6.352043e+00	StartStim	10	6	 	522	519	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.240989e+03	6.574193e-01	StimUp	11	1	a10.jpg	413	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.241294e+03	9.624192e-01	StimUp	12	2	a10.jpg	413	468	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.241326e+03	9.943852e-01	StimUp	13	3	a10.jpg	471	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.241711e+03	1.379959e+00	StimUp	14	4	a10.jpg	450	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.243067e+03	2.735745e+00	StimUp	15	5	a10.jpg	404	451	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.243493e+03	3.161917e+00	StimUp	16	6	a10.jpg	488	438	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.243909e+03	3.577879e+00	StimUp	17	7	a10.jpg	413	471	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.251376e+03	1.104435e+01	StimUp	18	8	a10.jpg	435	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.252196e+03	1.186464e+01	StimUp	19	9	a10.jpg	453	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.252592e+03	1.226044e+01	StimUp	20	10	a10.jpg	408	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.253200e+03	1.286851e+01	StimUp	21	11	a10.jpg	435	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.253616e+03	1.328450e+01	StimUp	22	12	a10.jpg	446	525	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.261824e+03	2.149294e+01	StimUp	23	13	a10.jpg	484	580	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.262998e+03	2.266702e+01	StimUp	24	14	a10.jpg	421	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.263364e+03	2.303258e+01	StimUp	25	15	a10.jpg	439	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.263740e+03	2.340823e+01	StimUp	26	16	a10.jpg	479	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.264125e+03	2.379395e+01	StimUp	27	17	a10.jpg	450	537	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	20	Vert	FollowedV	1.270221e+03	2.989003e+01	StimUp	28	18	a10.jpg	418	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.274052e+03	6.996501e-01	StartStim	1	1	 	529	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.274488e+03	1.135486e+00	StartStim	2	2	 	544	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.275772e+03	2.419331e+00	StartStim	3	3	 	515	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.279388e+03	6.035692e+00	StartStim	4	4	 	540	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.279794e+03	6.441255e+00	StartStim	5	5	 	569	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.281330e+03	7.977537e+00	StartStim	6	6	 	559	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.281756e+03	8.403297e+00	StartStim	7	7	 	544	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.282252e+03	8.899663e+00	StartStim	8	8	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.282718e+03	9.365739e+00	StartStim	9	9	 	538	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	 	1.287456e+03	1.410310e+01	StartStim	10	10	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.288114e+03	6.372009e-01	StimUp	11	1	a52.jpg	448	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.288540e+03	1.063482e+00	StimUp	12	2	a52.jpg	413	556	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.288835e+03	1.358238e+00	StimUp	13	3	a52.jpg	453	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.289200e+03	1.723674e+00	StimUp	14	4	a52.jpg	479	415	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.289940e+03	2.462980e+00	StimUp	15	5	a52.jpg	399	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:29	1	21	Vert	FollowedV	1.290356e+03	2.878971e+00	StimUp	16	6	a52.jpg	471	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.290741e+03	3.264755e+00	StimUp	17	7	a52.jpg	435	469	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.297519e+03	1.004256e+01	StimUp	18	8	a52.jpg	481	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.299047e+03	1.157016e+01	StimUp	19	9	a52.jpg	464	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.299807e+03	1.232983e+01	StimUp	20	10	a52.jpg	439	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.300202e+03	1.272571e+01	StimUp	21	11	a52.jpg	413	486	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.300861e+03	1.338425e+01	StimUp	22	12	a52.jpg	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.303005e+03	1.552822e+01	StimUp	23	13	a52.jpg	460	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.303391e+03	1.591408e+01	StimUp	24	14	a52.jpg	413	492	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.311850e+03	2.437293e+01	StimUp	25	15	a52.jpg	430	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.312195e+03	2.471828e+01	StimUp	26	16	a52.jpg	440	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.312550e+03	2.507367e+01	StimUp	27	17	a52.jpg	440	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.312896e+03	2.541885e+01	StimUp	28	18	a52.jpg	474	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	21	Vert	FollowedV	1.313291e+03	2.581471e+01	StimUp	29	19	a52.jpg	420	537	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.328000e+03	6.434255e+00	StartStim	1	1	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.330859e+03	9.293156e+00	StartStim	2	2	 	548	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.331719e+03	1.015313e+01	StartStim	3	3	 	551	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.333568e+03	1.200245e+01	StartStim	4	4	 	566	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.333944e+03	1.237769e+01	StartStim	5	5	 	588	591	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	 	1.337610e+03	1.604431e+01	StartStim	6	6	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.338369e+03	7.383428e-01	StimUp	7	1	a52.jpg	406	520	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.338765e+03	1.134185e+00	StimUp	8	2	a52.jpg	413	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.339525e+03	1.893851e+00	StimUp	9	3	a52.jpg	413	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.339850e+03	2.218938e+00	StimUp	10	4	a52.jpg	486	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.340609e+03	2.978505e+00	StimUp	11	5	a52.jpg	413	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.348895e+03	1.126429e+01	StimUp	12	6	a52.jpg	435	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.349251e+03	1.161971e+01	StimUp	13	7	a52.jpg	421	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:30	1	22	Vert	FollowedV	1.349616e+03	1.198517e+01	StimUp	14	8	a52.jpg	439	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.349971e+03	1.234049e+01	StimUp	15	9	a52.jpg	453	495	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.356783e+03	1.915249e+01	StimUp	16	10	a52.jpg	428	538	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.357917e+03	2.028600e+01	StimUp	17	11	a52.jpg	457	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.358282e+03	2.065153e+01	StimUp	18	12	a52.jpg	460	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.358638e+03	2.100684e+01	StimUp	19	13	a52.jpg	446	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.359438e+03	2.180686e+01	StimUp	20	14	a52.jpg	435	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.360157e+03	2.252612e+01	StimUp	21	15	a52.jpg	446	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	22	Vert	FollowedV	1.363160e+03	2.552909e+01	StimUp	22	16	a52.jpg	451	534	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.369522e+03	1.093085e+00	ITI	1	1	a52.jpg	416	666	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.376286e+03	4.849370e+00	StartStim	2	1	 	560	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.377247e+03	5.810332e+00	StartStim	3	2	 	537	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.378733e+03	7.296170e+00	StartStim	4	3	 	529	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.380754e+03	9.317224e+00	StartStim	5	4	 	548	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.381210e+03	9.773237e+00	StartStim	6	5	 	544	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.386078e+03	1.464125e+01	StartStim	7	6	 	493	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	 	1.387513e+03	1.607670e+01	StartStim	8	7	 	505	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.388313e+03	7.786642e-01	StimUp	9	1	a12.jpg	406	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.388760e+03	1.225021e+00	StimUp	10	2	a12.jpg	406	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.389196e+03	1.661254e+00	StimUp	11	3	a12.jpg	370	627	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.390137e+03	2.602664e+00	StimUp	12	4	a12.jpg	409	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.390856e+03	3.321816e+00	StimUp	13	5	a12.jpg	432	561	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.391384e+03	3.849059e+00	StimUp	14	6	a12.jpg	407	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.391800e+03	4.264990e+00	StimUp	15	7	a12.jpg	413	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.392155e+03	4.620610e+00	StimUp	16	8	a12.jpg	413	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.392905e+03	5.370092e+00	StimUp	17	9	a12.jpg	394	646	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.393240e+03	5.705327e+00	StimUp	18	10	a12.jpg	479	535	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.401060e+03	1.352567e+01	StimUp	19	11	a12.jpg	407	561	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.401406e+03	1.387106e+01	StimUp	20	12	a12.jpg	460	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.401781e+03	1.424671e+01	StimUp	21	13	a12.jpg	457	580	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.402106e+03	1.457176e+01	StimUp	22	14	a12.jpg	460	531	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.402442e+03	1.490695e+01	StimUp	23	15	a12.jpg	473	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.402787e+03	1.525220e+01	StimUp	24	16	a12.jpg	449	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.403142e+03	1.560763e+01	StimUp	25	17	a12.jpg	457	516	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.410935e+03	2.340037e+01	StimUp	26	18	a12.jpg	430	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:31	1	23	Vert	FollowedV	1.411513e+03	2.397809e+01	StimUp	27	19	a12.jpg	413	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	23	Vert	FollowedV	1.411575e+03	2.404046e+01	StimUp	28	20	a12.jpg	403	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	23	Vert	FollowedV	1.411951e+03	2.441598e+01	StimUp	29	21	a12.jpg	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	23	Vert	FollowedV	1.412326e+03	2.479157e+01	StimUp	30	22	a12.jpg	413	490	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.418830e+03	1.234432e+00	ITI	1	1	a12.jpg	457	690	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.419034e+03	1.438357e+00	ITI	2	2	a12.jpg	481	667	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.424818e+03	4.213262e+00	StartStim	3	1	 	529	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.426244e+03	5.638527e+00	StartStim	4	2	 	514	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.429143e+03	8.537863e+00	StartStim	5	3	 	566	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.429558e+03	8.953463e+00	StartStim	6	4	 	547	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.429600e+03	8.995412e+00	StartStim	7	5	 	563	591	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.429703e+03	9.097909e+00	StartStim	8	6	 	546	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	 	1.431380e+03	1.077547e+01	StartStim	9	7	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.432126e+03	7.080349e-01	StimUp	10	1	a9.jpg 	413	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.433300e+03	1.882037e+00	StimUp	11	2	a9.jpg 	464	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.433685e+03	2.267737e+00	StimUp	12	3	a9.jpg 	428	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.433828e+03	2.410878e+00	StimUp	13	4	a9.jpg 	407	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.433941e+03	2.523616e+00	StimUp	14	5	a9.jpg 	407	538	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.434024e+03	2.606041e+00	StimUp	15	6	a9.jpg 	501	514	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.439890e+03	8.472337e+00	StimUp	16	7	a9.jpg 	480	690	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.439993e+03	8.575060e+00	StimUp	17	8	a9.jpg 	476	666	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.440085e+03	8.667613e+00	StimUp	18	9	a9.jpg 	476	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.442047e+03	1.062966e+01	StimUp	19	10	a9.jpg 	457	580	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.442372e+03	1.095477e+01	StimUp	20	11	a9.jpg 	482	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.442707e+03	1.128988e+01	StimUp	21	12	a9.jpg 	421	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.443073e+03	1.165533e+01	StimUp	22	13	a9.jpg 	422	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.443469e+03	1.205118e+01	StimUp	23	14	a9.jpg 	464	520	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.444572e+03	1.315433e+01	StimUp	24	15	a9.jpg 	471	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.451254e+03	1.983686e+01	StimUp	25	16	a9.jpg 	460	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.451418e+03	2.000025e+01	StimUp	26	17	a9.jpg 	459	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.452299e+03	2.088105e+01	StimUp	27	18	a9.jpg 	451	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.452715e+03	2.129722e+01	StimUp	28	19	a9.jpg 	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.453121e+03	2.170321e+01	StimUp	29	20	a9.jpg 	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.453415e+03	2.199794e+01	StimUp	30	21	a9.jpg 	413	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.453457e+03	2.203999e+01	StimUp	31	22	a9.jpg 	454	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.453793e+03	2.237505e+01	StimUp	32	23	a9.jpg 	460	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.454532e+03	2.311437e+01	StimUp	33	24	a9.jpg 	446	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.461365e+03	2.994730e+01	StimUp	34	25	a9.jpg 	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:32	1	24	Vert	FollowedV	1.461397e+03	2.997936e+01	StimUp	35	26	a9.jpg 	442	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	 	1.472245e+03	7.808049e+00	StartStim	1	1	 	511	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.472923e+03	6.574683e-01	StimUp	2	1	a51.jpg	413	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.473289e+03	1.023111e+00	StimUp	3	2	a51.jpg	457	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.473644e+03	1.378595e+00	StimUp	4	3	a51.jpg	450	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.480471e+03	8.206042e+00	StimUp	5	4	a51.jpg	454	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.480847e+03	8.581651e+00	StimUp	6	5	a51.jpg	457	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.481516e+03	9.250244e+00	StimUp	7	6	a51.jpg	406	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.481548e+03	9.282199e+00	StimUp	8	7	a51.jpg	468	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.481893e+03	9.627602e+00	StimUp	9	8	a51.jpg	446	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.482228e+03	9.962831e+00	StimUp	10	9	a51.jpg	450	513	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.488435e+03	1.616973e+01	StimUp	11	10	a51.jpg	416	630	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.489801e+03	1.753557e+01	StimUp	12	11	a51.jpg	421	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.489853e+03	1.758782e+01	StimUp	13	12	a51.jpg	441	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.490198e+03	1.793298e+01	StimUp	14	13	a51.jpg	440	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.490493e+03	1.822770e+01	StimUp	15	14	a51.jpg	446	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.490859e+03	1.859313e+01	StimUp	16	15	a51.jpg	464	519	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.491214e+03	1.894863e+01	StimUp	17	16	a51.jpg	457	535	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.497026e+03	2.476044e+01	StimUp	18	17	a51.jpg	417	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.498180e+03	2.591417e+01	StimUp	19	18	a51.jpg	435	570	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.498444e+03	2.617859e+01	StimUp	20	19	a51.jpg	407	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.498486e+03	2.622059e+01	StimUp	21	20	a51.jpg	449	495	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.498841e+03	2.657590e+01	StimUp	22	21	a51.jpg	464	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.499187e+03	2.692116e+01	StimUp	23	22	a51.jpg	473	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.499542e+03	2.727646e+01	StimUp	24	23	a51.jpg	457	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.499806e+03	2.754083e+01	StimUp	25	24	a51.jpg	407	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.499858e+03	2.759299e+01	StimUp	26	25	a51.jpg	464	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	25	Vert	FollowedV	1.500244e+03	2.797864e+01	StimUp	27	26	a51.jpg	472	525	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	 	1.506303e+03	7.898284e-01	ITI	1	1	a51.jpg	434	666	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	 	1.513651e+03	5.129732e+00	StartStim	2	1	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	 	1.514915e+03	6.393411e+00	StartStim	3	2	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.515674e+03	7.382462e-01	StimUp	4	1	a49.jpg	409	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.516009e+03	1.073457e+00	StimUp	5	2	a49.jpg	457	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.516769e+03	1.833121e+00	StimUp	6	3	a49.jpg	420	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.517054e+03	2.117749e+00	StimUp	7	4	a49.jpg	435	519	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.517096e+03	2.159799e+00	StimUp	8	5	a49.jpg	511	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.517451e+03	2.515324e+00	StimUp	9	6	a49.jpg	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.517857e+03	2.921283e+00	StimUp	10	7	a49.jpg	428	531	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.525434e+03	1.049770e+01	StimUp	11	8	a49.jpg	428	520	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.525819e+03	1.088346e+01	StimUp	12	9	a49.jpg	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.526195e+03	1.125907e+01	StimUp	13	10	a49.jpg	427	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:33	1	26	Vert	FollowedV	1.527278e+03	1.234198e+01	StimUp	14	11	a49.jpg	420	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.527320e+03	1.238414e+01	StimUp	15	12	a49.jpg	484	558	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.534021e+03	1.908496e+01	StimUp	16	13	a49.jpg	457	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.535326e+03	2.039019e+01	StimUp	17	14	a49.jpg	413	627	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.535681e+03	2.074554e+01	StimUp	18	15	a49.jpg	439	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.536047e+03	2.111124e+01	StimUp	19	16	a49.jpg	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.537585e+03	2.264896e+01	StimUp	20	17	a49.jpg	430	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.538021e+03	2.308530e+01	StimUp	21	18	a49.jpg	413	603	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.539963e+03	2.502710e+01	StimUp	22	19	a49.jpg	413	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	26	Vert	FollowedV	1.540329e+03	2.539261e+01	StimUp	23	20	a49.jpg	464	516	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.546033e+03	4.362848e-01	ITI	1	1	a49.jpg	568	690	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.551010e+03	2.405945e+00	StartStim	2	1	 	537	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.551456e+03	2.851876e+00	StartStim	3	2	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.553376e+03	4.771973e+00	StartStim	4	3	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.554650e+03	6.045961e+00	StartStim	5	4	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.555813e+03	7.208732e+00	StartStim	6	5	 	551	541	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.556996e+03	8.391754e+00	StartStim	7	6	 	541	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.558422e+03	9.817096e+00	StartStim	8	7	 	563	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	 	1.562623e+03	1.401904e+01	StartStim	9	8	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.563322e+03	6.777883e-01	StimUp	10	1	a49.jpg	413	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.564062e+03	1.417229e+00	StimUp	11	2	a49.jpg	413	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.564498e+03	1.853419e+00	StimUp	12	3	a49.jpg	399	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.564883e+03	2.239041e+00	StimUp	13	4	a49.jpg	399	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.565319e+03	2.675176e+00	StimUp	14	5	a49.jpg	420	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.565442e+03	2.798105e+00	StimUp	15	6	a49.jpg	413	595	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.566384e+03	3.739481e+00	StimUp	16	7	a49.jpg	457	493	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.572405e+03	9.760272e+00	StimUp	17	8	a49.jpg	437	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.573811e+03	1.116660e+01	StimUp	18	9	a49.jpg	416	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.574187e+03	1.154224e+01	StimUp	19	10	a49.jpg	435	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.574552e+03	1.190761e+01	StimUp	20	11	a49.jpg	468	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.574927e+03	1.228312e+01	StimUp	21	12	a49.jpg	463	558	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.582873e+03	2.022845e+01	StimUp	22	13	a49.jpg	462	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.583228e+03	2.058393e+01	StimUp	23	14	a49.jpg	482	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.583594e+03	2.094945e+01	StimUp	24	15	a49.jpg	441	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.583949e+03	2.130477e+01	StimUp	25	16	a49.jpg	460	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.584679e+03	2.203424e+01	StimUp	26	17	a49.jpg	416	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.585792e+03	2.314776e+01	StimUp	27	18	a49.jpg	450	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:34	1	27	Vert	FollowedV	1.586238e+03	2.359411e+01	StimUp	28	19	a49.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	27	Vert	FollowedV	1.587018e+03	2.437381e+01	StimUp	29	20	a49.jpg	413	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	 	1.597878e+03	2.214190e+00	StartStim	1	1	 	550	579	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	 	1.597981e+03	2.316823e+00	StartStim	2	2	 	577	603	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	 	1.600739e+03	5.074720e+00	StartStim	3	3	 	504	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.601609e+03	8.494727e-01	StimUp	4	1	d52.jpg	442	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.601903e+03	1.144288e+00	StimUp	5	2	d52.jpg	457	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.602623e+03	1.863422e+00	StimUp	6	3	d52.jpg	442	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.603049e+03	2.289507e+00	StimUp	7	4	d52.jpg	479	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.603444e+03	2.685226e+00	StimUp	8	5	d52.jpg	413	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.604244e+03	3.485087e+00	StimUp	9	6	d52.jpg	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.604610e+03	3.850475e+00	StimUp	10	7	d52.jpg	479	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.605005e+03	4.246162e+00	StimUp	11	8	d52.jpg	413	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.605381e+03	4.621755e+00	StimUp	12	9	d52.jpg	421	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.606787e+03	6.028011e+00	StimUp	13	10	d52.jpg	407	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.607567e+03	6.807698e+00	StimUp	14	11	d52.jpg	418	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.619877e+03	1.911738e+01	StimUp	15	12	d52.jpg	762	444	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.629619e+03	2.886001e+01	StimUp	16	13	d52.jpg	544	234	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	28	Vert	IncorrectMajorV	1.630005e+03	2.924574e+01	StimUp	17	14	d52.jpg	594	234	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	 	1.641126e+03	7.343204e+00	StartStim	1	1	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.641886e+03	7.383803e-01	StimUp	2	1	e28.jpg	421	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.642645e+03	1.497928e+00	StimUp	3	2	e28.jpg	413	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.642970e+03	1.822935e+00	StimUp	4	3	e28.jpg	493	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.643306e+03	2.158090e+00	StimUp	5	4	e28.jpg	424	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.643651e+03	2.503261e+00	StimUp	6	5	e28.jpg	443	492	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.643693e+03	2.545280e+00	StimUp	7	6	e28.jpg	473	559	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.644412e+03	3.264227e+00	StimUp	8	7	e28.jpg	435	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.644767e+03	3.619747e+00	StimUp	9	8	e28.jpg	376	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.645133e+03	3.985210e+00	StimUp	10	9	e28.jpg	385	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.645165e+03	4.017139e+00	StimUp	11	10	e28.jpg	398	561	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.645772e+03	4.625033e+00	StimUp	12	11	e28.jpg	400	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.645815e+03	4.667121e+00	StimUp	13	12	e28.jpg	445	426	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.646635e+03	5.487192e+00	StimUp	14	13	e28.jpg	366	489	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.647667e+03	6.519616e+00	StimUp	15	14	e28.jpg	435	381	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.648507e+03	7.360005e+00	StimUp	16	15	e28.jpg	431	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.648893e+03	7.745717e+00	StimUp	17	16	e28.jpg	421	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.649248e+03	8.101014e+00	StimUp	18	17	e28.jpg	424	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.649634e+03	8.486619e+00	StimUp	19	18	e28.jpg	334	486	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:35	1	29	Vert	IncorrectMinorV	1.650656e+03	9.508878e+00	StimUp	20	19	e28.jpg	479	405	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	29	Vert	IncorrectMinorV	1.667240e+03	2.609253e+01	StimUp	21	20	e28.jpg	913	714	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	29	Vert	IncorrectMinorV	1.667545e+03	2.639740e+01	StimUp	22	21	e28.jpg	925	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	29	Vert	IncorrectMinorV	1.667749e+03	2.660113e+01	StimUp	23	22	e28.jpg	856	639	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	29	Vert	IncorrectMinorV	1.667902e+03	2.675429e+01	StimUp	24	23	e28.jpg	816	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.671625e+03	4.565918e-01	ITI	1	1	e28.jpg	969	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.671991e+03	8.220250e-01	ITI	2	2	e28.jpg	907	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.672245e+03	1.076266e+00	ITI	3	3	e28.jpg	991	207	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.672287e+03	1.118274e+00	ITI	4	4	e28.jpg	964	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.672410e+03	1.241029e+00	ITI	5	5	e28.jpg	521	42	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.678710e+03	4.536591e+00	StartStim	6	1	 	563	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.681649e+03	7.476290e+00	StartStim	7	2	 	540	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.683973e+03	9.800131e+00	StartStim	8	3	 	537	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.684419e+03	1.024604e+01	StartStim	9	4	 	514	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.685440e+03	1.126739e+01	StartStim	10	5	 	581	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.686654e+03	1.248069e+01	StartStim	11	6	 	588	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.688957e+03	1.478419e+01	StartStim	12	7	 	509	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.690958e+03	1.678500e+01	StartStim	13	8	 	555	469	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.693181e+03	1.900795e+01	StartStim	14	9	 	573	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.694101e+03	1.992837e+01	StartStim	15	10	 	550	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.696042e+03	2.186858e+01	StartStim	16	11	 	289	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.696598e+03	2.242553e+01	StartStim	17	12	 	573	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.697065e+03	2.289155e+01	StartStim	18	13	 	555	469	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.698247e+03	2.407446e+01	StartStim	19	14	 	571	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	 	1.699582e+03	2.540885e+01	StartStim	20	15	 	515	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.700321e+03	7.181825e-01	StimUp	21	1	a10.jpg	392	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.700687e+03	1.083649e+00	StimUp	22	2	a10.jpg	392	495	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.701406e+03	1.802677e+00	StimUp	23	3	a10.jpg	405	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.701468e+03	1.865181e+00	StimUp	24	4	a10.jpg	442	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.702188e+03	2.584503e+00	StimUp	25	5	a10.jpg	399	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.703746e+03	4.142469e+00	StimUp	26	6	a10.jpg	418	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.704152e+03	4.548415e+00	StimUp	27	7	a10.jpg	370	489	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.705609e+03	6.005301e+00	StimUp	28	8	a10.jpg	466	450	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.706065e+03	6.461848e+00	StimUp	29	9	a10.jpg	403	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.706552e+03	6.948561e+00	StimUp	30	10	a10.jpg	448	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.707433e+03	7.829336e+00	StimUp	31	11	a10.jpg	381	517	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.708091e+03	8.487854e+00	StimUp	32	12	a10.jpg	457	450	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:36	1	30	Vert	FollowedV	1.708628e+03	9.025126e+00	StimUp	33	13	a10.jpg	369	664	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.717896e+03	1.829315e+01	StimUp	34	14	a10.jpg	937	711	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.718060e+03	1.845661e+01	StimUp	35	15	a10.jpg	969	700	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.718254e+03	1.865033e+01	StimUp	36	16	a10.jpg	938	711	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.718296e+03	1.869233e+01	StimUp	37	17	a10.jpg	796	328	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.718560e+03	1.895677e+01	StimUp	38	18	a10.jpg	893	625	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.721522e+03	2.191922e+01	StimUp	39	19	a10.jpg	708	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.724283e+03	2.467949e+01	StimUp	40	20	a10.jpg	964	120	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.724507e+03	2.490352e+01	StimUp	41	21	a10.jpg	112	294	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.724619e+03	2.501623e+01	StimUp	42	22	a10.jpg	224	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	30	Vert	FollowedV	1.728168e+03	2.856463e+01	StimUp	43	23	a10.jpg	108	340	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.734130e+03	1.507366e+00	StartStim	1	1	 	620	36	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.746874e+03	1.425129e+01	StartStim	2	2	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.748683e+03	1.606046e+01	StartStim	3	3	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.751765e+03	1.914219e+01	StartStim	4	4	 	488	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.752221e+03	1.959833e+01	StartStim	5	5	 	552	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.754404e+03	2.178095e+01	StartStim	6	6	 	487	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.754799e+03	2.217639e+01	StartStim	7	7	 	464	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.756599e+03	2.397637e+01	StartStim	8	8	 	566	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.758166e+03	2.554359e+01	StartStim	9	9	 	453	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.758562e+03	2.593922e+01	StartStim	10	10	 	509	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.759028e+03	2.640545e+01	StartStim	11	11	 	581	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.760807e+03	2.818461e+01	StartStim	12	12	 	551	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.761223e+03	2.860037e+01	StartStim	13	13	 	566	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.762972e+03	3.034882e+01	StartStim	14	14	 	538	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	 	1.765054e+03	3.243078e+01	StartStim	15	15	 	507	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.765774e+03	6.980897e-01	StimUp	16	1	d46.jpg	413	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.766149e+03	1.073728e+00	StimUp	17	2	d46.jpg	431	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.766475e+03	1.398754e+00	StimUp	18	3	d46.jpg	479	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.766830e+03	1.754109e+00	StimUp	19	4	d46.jpg	403	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.767114e+03	2.038653e+00	StimUp	20	5	d46.jpg	446	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.767156e+03	2.080709e+00	StimUp	21	6	d46.jpg	490	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.767512e+03	2.436009e+00	StimUp	22	7	d46.jpg	424	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.767847e+03	2.771145e+00	StimUp	23	8	d46.jpg	492	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.768273e+03	3.197230e+00	StimUp	24	9	d46.jpg	413	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.768608e+03	3.532308e+00	StimUp	25	10	d46.jpg	403	424	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.769509e+03	4.433304e+00	StimUp	26	11	d46.jpg	424	424	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:37	1	31	Vert	IncorrectMajorV	1.769935e+03	4.859376e+00	StimUp	27	12	d46.jpg	413	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	31	Vert	IncorrectMajorV	1.775858e+03	1.078263e+01	StimUp	28	13	d46.jpg	958	744	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	31	Vert	IncorrectMajorV	1.790230e+03	2.515414e+01	StimUp	29	14	d46.jpg	261	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	31	Vert	IncorrectMajorV	1.792212e+03	2.713651e+01	StimUp	30	15	d46.jpg	884	87	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	31	Vert	IncorrectMajorV	1.792386e+03	2.730997e+01	StimUp	31	16	d46.jpg	969	766	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	31	Vert	IncorrectMajorV	1.792488e+03	2.741262e+01	StimUp	32	17	d46.jpg	98	306	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	 	1.799451e+03	1.355936e+00	StartStim	1	1	 	515	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	 	1.799816e+03	1.721055e+00	StartStim	2	2	 	519	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.800530e+03	6.878382e-01	StimUp	3	1	a2.jpg 	428	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.800592e+03	7.502678e-01	StimUp	4	2	a2.jpg 	420	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.801695e+03	1.853345e+00	StimUp	5	3	a2.jpg 	465	481	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.809264e+03	9.422258e+00	StimUp	6	4	a2.jpg 	453	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.810064e+03	1.022227e+01	StimUp	7	5	a2.jpg 	428	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.810501e+03	1.065854e+01	StimUp	8	6	a2.jpg 	424	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.812341e+03	1.249942e+01	StimUp	9	7	a2.jpg 	413	561	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.813061e+03	1.321861e+01	StimUp	10	8	a2.jpg 	482	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.820066e+03	2.022434e+01	StimUp	11	9	a2.jpg 	450	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.820887e+03	2.104459e+01	StimUp	12	10	a2.jpg 	427	489	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.821252e+03	2.141012e+01	StimUp	13	11	a2.jpg 	454	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.821587e+03	2.174532e+01	StimUp	14	12	a2.jpg 	473	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.821933e+03	2.209061e+01	StimUp	15	13	a2.jpg 	463	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.822268e+03	2.242577e+01	StimUp	16	14	a2.jpg 	439	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	32	Vert	FollowedV	1.822926e+03	2.308427e+01	StimUp	17	15	a2.jpg 	428	513	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:38	1	33	Vert	 	1.830036e+03	1.733926e-01	ITI	1	1	a2.jpg 	413	561	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	 	1.852794e+03	1.992321e+01	StartStim	2	1	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	 	1.853926e+03	2.105572e+01	StartStim	3	2	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	 	1.859330e+03	2.645935e+01	StartStim	4	3	 	837	720	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	 	1.861512e+03	2.864184e+01	StartStim	5	4	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.862039e+03	5.058789e-01	StimUp	6	1	a44.jpg	442	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.862395e+03	8.614145e-01	StimUp	7	2	a44.jpg	407	538	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.862720e+03	1.186467e+00	StimUp	8	3	a44.jpg	486	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.863460e+03	1.926074e+00	StimUp	9	4	a44.jpg	446	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.863795e+03	2.261338e+00	StimUp	10	5	a44.jpg	486	519	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.864160e+03	2.626782e+00	StimUp	11	6	a44.jpg	422	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.864192e+03	2.658735e+00	StimUp	12	7	a44.jpg	428	538	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.873985e+03	1.245104e+01	StimUp	13	8	a44.jpg	429	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.874259e+03	1.272558e+01	StimUp	14	9	a44.jpg	428	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.874301e+03	1.276763e+01	StimUp	15	10	a44.jpg	472	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.874687e+03	1.315324e+01	StimUp	16	11	a44.jpg	449	469	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.883472e+03	2.193858e+01	StimUp	17	12	a44.jpg	435	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.883868e+03	2.233440e+01	StimUp	18	13	a44.jpg	475	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.884254e+03	2.272005e+01	StimUp	19	14	a44.jpg	429	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.884589e+03	2.305543e+01	StimUp	20	15	a44.jpg	457	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:39	1	33	Vert	FollowedV	1.886086e+03	2.455273e+01	StimUp	21	16	a44.jpg	484	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:40	1	33	Vert	FollowedV	1.890554e+03	2.902071e+01	StimUp	22	17	a44.jpg	444	471	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:40	1	34	Vert	 	1.909528e+03	1.069525e+01	StartStim	1	1	 	518	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:40	1	35	Vert	 	1.947316e+03	4.738648e+00	StartStim	1	1	 	936	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	 	1.972963e+03	3.038503e+01	StartStim	2	2	 	551	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	 	1.974933e+03	3.235574e+01	StartStim	3	3	 	550	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	 	1.976833e+03	3.425553e+01	StartStim	4	4	 	501	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.978006e+03	1.152641e+00	StimUp	5	1	a52.jpg	399	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.978412e+03	1.558514e+00	StimUp	6	2	a52.jpg	418	450	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.978828e+03	1.974544e+00	StimUp	7	3	a52.jpg	403	511	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.979689e+03	2.835048e+00	StimUp	8	4	a52.jpg	422	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.981226e+03	4.372659e+00	StimUp	9	5	a52.jpg	381	402	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.983391e+03	6.536807e+00	StimUp	10	6	a52.jpg	413	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.983776e+03	6.922599e+00	StimUp	11	7	a52.jpg	444	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.984556e+03	7.702381e+00	StimUp	12	8	a52.jpg	468	415	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.984952e+03	8.098143e+00	StimUp	13	9	a52.jpg	426	438	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.991820e+03	1.496666e+01	StimUp	14	10	a52.jpg	449	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.992236e+03	1.538268e+01	StimUp	15	11	a52.jpg	444	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.992632e+03	1.577849e+01	StimUp	16	12	a52.jpg	468	493	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	1.993018e+03	1.616418e+01	StimUp	17	13	a52.jpg	442	525	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.000862e+03	2.400783e+01	StimUp	18	14	a52.jpg	418	603	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.001187e+03	2.433294e+01	StimUp	19	15	a52.jpg	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.001946e+03	2.509250e+01	StimUp	20	16	a52.jpg	413	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.001999e+03	2.514476e+01	StimUp	21	17	a52.jpg	418	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.002324e+03	2.546972e+01	StimUp	22	18	a52.jpg	473	580	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:41	1	35	Vert	FollowedV	2.002659e+03	2.580483e+01	StimUp	23	19	a52.jpg	465	535	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	 	2.013491e+03	2.557429e+00	StartStim	1	1	 	515	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.014285e+03	7.685597e-01	StimUp	2	1	a2.jpg 	441	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.014630e+03	1.113949e+00	StimUp	3	2	a2.jpg 	486	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.014986e+03	1.469262e+00	StimUp	4	3	a2.jpg 	430	606	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.015371e+03	1.854921e+00	StimUp	5	4	a2.jpg 	486	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.016828e+03	3.311725e+00	StimUp	6	5	a2.jpg 	465	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.017274e+03	3.758066e+00	StimUp	7	6	a2.jpg 	457	481	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.024516e+03	1.099973e+01	StimUp	8	7	a2.jpg 	413	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.024932e+03	1.141579e+01	StimUp	9	8	a2.jpg 	420	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.025277e+03	1.176103e+01	StimUp	10	9	a2.jpg 	435	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.025320e+03	1.180315e+01	StimUp	11	10	a2.jpg 	457	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.025635e+03	1.211809e+01	StimUp	12	11	a2.jpg 	450	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.034762e+03	2.124550e+01	StimUp	13	12	a2.jpg 	454	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.035562e+03	2.204551e+01	StimUp	14	13	a2.jpg 	441	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.035918e+03	2.240112e+01	StimUp	15	14	a2.jpg 	463	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	36	Vert	FollowedV	2.036243e+03	2.272621e+01	StimUp	16	15	a2.jpg 	446	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.048045e+03	1.507592e+00	StartStim	1	1	 	529	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.049511e+03	2.973246e+00	StartStim	2	2	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.050371e+03	3.833066e+00	StartStim	3	3	 	573	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.050807e+03	4.268894e+00	StartStim	4	4	 	538	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.052888e+03	6.350545e+00	StartStim	5	5	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.053354e+03	6.816661e+00	StartStim	6	6	 	558	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.055708e+03	9.170742e+00	StartStim	7	7	 	537	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.056730e+03	1.019218e+01	StartStim	8	8	 	501	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	 	2.058397e+03	1.185976e+01	StartStim	9	9	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.059136e+03	7.181006e-01	StimUp	10	1	d19.jpg	428	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.059431e+03	1.012860e+00	StimUp	11	2	d19.jpg	479	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.059756e+03	1.337821e+00	StimUp	12	3	d19.jpg	413	447	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.059798e+03	1.379869e+00	StimUp	13	4	d19.jpg	432	556	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.060113e+03	1.694657e+00	StimUp	14	5	d19.jpg	448	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.060519e+03	2.100472e+00	StimUp	15	6	d19.jpg	420	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.061672e+03	3.254236e+00	StimUp	16	7	d19.jpg	387	600	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.062301e+03	3.882426e+00	StimUp	17	8	d19.jpg	453	487	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.062676e+03	4.257956e+00	StimUp	18	9	d19.jpg	405	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.063031e+03	4.613210e+00	StimUp	19	10	d19.jpg	466	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.064175e+03	5.756780e+00	StimUp	20	11	d19.jpg	392	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.064217e+03	5.798869e+00	StimUp	21	12	d19.jpg	407	511	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:42	1	37	Vert	IncorrectMajorV	2.064552e+03	6.134114e+00	StimUp	22	13	d19.jpg	405	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	37	Vert	IncorrectMajorV	2.081762e+03	2.334420e+01	StimUp	23	14	d19.jpg	885	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.090276e+03	1.840501e+00	ITI	1	1	d19.jpg	457	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.090409e+03	1.973542e+00	ITI	2	2	d19.jpg	457	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.090633e+03	2.197458e+00	ITI	3	3	d19.jpg	354	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.090827e+03	2.391081e+00	ITI	4	4	d19.jpg	364	532	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.090909e+03	2.473551e+00	ITI	5	5	d19.jpg	370	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.096370e+03	4.930234e+00	StartStim	6	1	 	457	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.096836e+03	5.396400e+00	StartStim	7	2	 	551	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.097272e+03	5.832177e+00	StartStim	8	3	 	595	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.098192e+03	6.752600e+00	StartStim	9	4	 	591	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.098679e+03	7.238861e+00	StartStim	10	5	 	494	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.100861e+03	9.421301e+00	StartStim	11	6	 	475	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.101862e+03	1.042252e+01	StartStim	12	7	 	486	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.103621e+03	1.218096e+01	StartStim	13	8	 	493	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.105238e+03	1.379817e+01	StartStim	14	9	 	540	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.105623e+03	1.418352e+01	StartStim	15	10	 	552	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.108684e+03	1.724438e+01	StartStim	16	11	 	530	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	 	2.111785e+03	2.034536e+01	StartStim	17	12	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.112544e+03	7.383155e-01	StimUp	18	1	d17.jpg	406	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.112960e+03	1.154292e+00	StimUp	19	2	d17.jpg	385	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.113366e+03	1.560210e+00	StimUp	20	3	d17.jpg	446	469	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.113762e+03	1.955954e+00	StimUp	21	4	d17.jpg	407	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.114926e+03	3.119768e+00	StimUp	22	5	d17.jpg	430	591	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.115301e+03	3.495329e+00	StimUp	23	6	d17.jpg	373	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.116121e+03	4.315479e+00	StimUp	24	7	d17.jpg	413	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.116527e+03	4.721335e+00	StimUp	25	8	d17.jpg	386	555	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.116802e+03	4.995815e+00	StimUp	26	9	d17.jpg	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.117187e+03	5.381454e+00	StimUp	27	10	d17.jpg	428	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.117563e+03	5.756935e+00	StimUp	28	11	d17.jpg	457	513	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.117908e+03	6.102088e+00	StimUp	29	12	d17.jpg	446	469	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.118263e+03	6.457390e+00	StimUp	30	13	d17.jpg	427	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.118649e+03	6.842993e+00	StimUp	31	14	d17.jpg	491	438	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.119004e+03	7.198323e+00	StimUp	32	15	d17.jpg	424	424	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.121906e+03	1.010009e+01	StimUp	33	16	d17.jpg	413	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.122393e+03	1.058679e+01	StimUp	34	17	d17.jpg	451	429	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:43	1	38	Vert	IncorrectMajorV	2.122889e+03	1.108367e+01	StimUp	35	18	d17.jpg	399	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	38	Vert	IncorrectMajorV	2.136180e+03	2.437381e+01	StimUp	36	19	d17.jpg	500	355	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	38	Vert	IncorrectMajorV	2.136636e+03	2.483026e+01	StimUp	37	20	d17.jpg	453	207	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.147417e+03	2.587721e+00	StartStim	1	1	 	440	603	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.148479e+03	3.649579e+00	StartStim	2	2	 	526	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.148925e+03	4.095524e+00	StartStim	3	3	 	555	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.150240e+03	5.409900e+00	StartStim	4	4	 	573	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.150766e+03	5.936579e+00	StartStim	5	5	 	569	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.153009e+03	8.179636e+00	StartStim	6	6	 	544	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.153910e+03	9.080004e+00	StartStim	7	7	 	566	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.156264e+03	1.143450e+01	StartStim	8	8	 	511	717	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.159426e+03	1.459640e+01	StartStim	9	9	 	471	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.160367e+03	1.553713e+01	StartStim	10	10	 	551	519	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.161933e+03	1.710379e+01	StartStim	11	11	 	537	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.161976e+03	1.714585e+01	StartStim	12	12	 	522	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.162007e+03	1.717769e+01	StartStim	13	13	 	494	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.162049e+03	1.721960e+01	StartStim	14	14	 	522	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.167059e+03	2.222911e+01	StartStim	15	15	 	457	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.170372e+03	2.554260e+01	StartStim	16	16	 	552	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.171616e+03	2.678610e+01	StartStim	17	17	 	544	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.171981e+03	2.715123e+01	StartStim	18	18	 	509	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.172013e+03	2.718316e+01	StartStim	19	19	 	536	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.174660e+03	2.983003e+01	StartStim	20	20	 	457	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.174702e+03	2.987208e+01	StartStim	21	21	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.174996e+03	3.016640e+01	StartStim	22	22	 	530	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.175361e+03	3.053153e+01	StartStim	23	23	 	558	487	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.177756e+03	3.292613e+01	StartStim	24	24	 	508	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.180161e+03	3.533087e+01	StartStim	25	25	 	490	487	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.180627e+03	3.579698e+01	StartStim	26	26	 	515	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.181123e+03	3.629333e+01	StartStim	27	27	 	457	541	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	 	2.181821e+03	3.699162e+01	StartStim	28	28	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.182904e+03	1.061631e+00	StimUp	29	1	e12.jpg	450	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.183280e+03	1.437318e+00	StimUp	30	2	e12.jpg	424	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.183322e+03	1.479355e+00	StimUp	31	3	e12.jpg	443	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.184819e+03	2.976612e+00	StimUp	32	4	e12.jpg	421	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.185164e+03	3.322067e+00	StimUp	33	5	e12.jpg	457	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.185520e+03	3.677429e+00	StimUp	34	6	e12.jpg	406	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.185886e+03	4.043467e+00	StimUp	35	7	e12.jpg	487	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.186241e+03	4.398870e+00	StimUp	36	8	e12.jpg	435	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.187405e+03	5.562611e+00	StimUp	37	9	e12.jpg	375	591	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.188468e+03	6.625251e+00	StimUp	38	10	e12.jpg	413	468	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.188823e+03	6.980666e+00	StimUp	39	11	e12.jpg	403	451	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:44	1	39	Vert	IncorrectMinorV	2.190169e+03	8.326373e+00	StimUp	40	12	e12.jpg	392	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:45	1	40	Vert	 	2.221964e+03	7.100957e+00	StartStim	1	1	 	773	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:45	1	40	Vert	 	2.222461e+03	7.597427e+00	StartStim	2	2	 	740	741	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:45	1	40	Vert	 	2.233771e+03	1.890731e+01	StartStim	3	3	 	838	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:45	1	40	Vert	 	2.247635e+03	3.277183e+01	StartStim	4	4	 	915	714	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	 	2.251817e+03	3.695337e+01	StartStim	5	5	 	515	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	IncorrectMajorV	2.253142e+03	1.304152e+00	StimUp	6	1	d43.jpg	407	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	IncorrectMajorV	2.253538e+03	1.699984e+00	StimUp	7	2	d43.jpg	420	559	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	IncorrectMajorV	2.254348e+03	2.510061e+00	StimUp	8	3	d43.jpg	435	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	IncorrectMajorV	2.255441e+03	3.603033e+00	StimUp	9	4	d43.jpg	420	537	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	40	Vert	IncorrectMajorV	2.256281e+03	4.443485e+00	StimUp	10	5	d43.jpg	307	597	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	41	Vert	 	2.287582e+03	2.719104e+00	StartStim	1	1	 	773	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	41	Vert	 	2.288847e+03	3.983462e+00	StartStim	2	2	 	577	717	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	41	Vert	 	2.289929e+03	5.065561e+00	StartStim	3	3	 	722	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:46	1	41	Vert	 	2.304571e+03	1.970755e+01	StartStim	4	4	 	493	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.346921e+03	6.205835e+01	StartStim	5	5	 	176	64	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.347115e+03	6.225184e+01	StartStim	6	6	 	933	196	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.347218e+03	6.235439e+01	StartStim	7	7	 	342	174	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.355105e+03	7.024141e+01	StartStim	8	8	 	541	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.355581e+03	7.071767e+01	StartStim	9	9	 	563	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	 	2.357087e+03	7.222372e+01	StartStim	10	10	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	IncorrectMajorV	2.358164e+03	1.051615e+00	StimUp	11	1	d2.jpg 	441	570	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	IncorrectMajorV	2.358479e+03	1.366642e+00	StimUp	12	2	d2.jpg 	457	493	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	IncorrectMajorV	2.358845e+03	1.732116e+00	StimUp	13	3	d2.jpg 	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:47	1	41	Vert	IncorrectMajorV	2.361181e+03	4.067975e+00	StimUp	14	4	d2.jpg 	417	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	41	Vert	IncorrectMajorV	2.378412e+03	2.129895e+01	StimUp	15	5	d2.jpg 	838	726	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	41	Vert	IncorrectMajorV	2.378535e+03	2.142194e+01	StimUp	16	6	d2.jpg 	816	600	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	41	Vert	IncorrectMajorV	2.378597e+03	2.148413e+01	StimUp	17	7	d2.jpg 	967	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	41	Vert	IncorrectMajorV	2.378821e+03	2.170808e+01	StimUp	18	8	d2.jpg 	1023	702	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	 	2.391907e+03	1.769997e+00	StartStim	1	1	 	508	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.391999e+03	7.136315e-02	StimUp	2	1	a52.jpg	529	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.392840e+03	9.120388e-01	StimUp	3	2	a52.jpg	413	561	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.393185e+03	1.257346e+00	StimUp	4	3	a52.jpg	422	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.393581e+03	1.653100e+00	StimUp	5	4	a52.jpg	408	582	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.393946e+03	2.018583e+00	StimUp	6	5	a52.jpg	462	591	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.401809e+03	9.881504e+00	StimUp	7	6	a52.jpg	442	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.402205e+03	1.027737e+01	StimUp	8	7	a52.jpg	406	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.403328e+03	1.140059e+01	StimUp	9	8	a52.jpg	413	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.403805e+03	1.187736e+01	StimUp	10	9	a52.jpg	454	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.405272e+03	1.334423e+01	StimUp	11	10	a52.jpg	485	537	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.417121e+03	2.519272e+01	StimUp	12	11	a52.jpg	429	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.417476e+03	2.554819e+01	StimUp	13	12	a52.jpg	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.417518e+03	2.559034e+01	StimUp	14	13	a52.jpg	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.417975e+03	2.604668e+01	StimUp	15	14	a52.jpg	457	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.418340e+03	2.641218e+01	StimUp	16	15	a52.jpg	443	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:48	1	42	Vert	FollowedV	2.418382e+03	2.645423e+01	StimUp	17	16	a52.jpg	441	582	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	 	2.449277e+03	2.261916e+01	StartStim	1	1	 	774	426	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	 	2.470230e+03	4.357134e+01	StartStim	2	2	 	762	448	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	 	2.478137e+03	5.147859e+01	StartStim	3	3	 	472	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	 	2.478512e+03	5.185382e+01	StartStim	4	4	 	493	520	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	 	2.480513e+03	5.385470e+01	StartStim	5	5	 	501	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	FollowedV	2.481232e+03	6.979280e-01	StimUp	6	1	a41.jpg	413	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	FollowedV	2.481992e+03	1.457662e+00	StimUp	7	2	a41.jpg	403	588	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	FollowedV	2.483560e+03	3.025737e+00	StimUp	8	3	a41.jpg	400	600	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	FollowedV	2.484572e+03	4.038093e+00	StimUp	9	4	a41.jpg	457	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:49	1	43	Vert	FollowedV	2.484938e+03	4.403680e+00	StimUp	10	5	a41.jpg	435	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.492123e+03	1.158872e+01	StimUp	11	6	a41.jpg	413	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.492478e+03	1.194415e+01	StimUp	12	7	a41.jpg	457	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.492823e+03	1.228940e+01	StimUp	13	8	a41.jpg	431	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.493977e+03	1.344327e+01	StimUp	14	9	a41.jpg	431	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.494444e+03	1.390980e+01	StimUp	15	10	a41.jpg	407	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.495547e+03	1.501280e+01	StimUp	16	11	a41.jpg	435	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.496781e+03	1.624736e+01	StimUp	17	12	a41.jpg	435	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.504484e+03	2.394988e+01	StimUp	18	13	a41.jpg	406	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.504526e+03	2.399198e+01	StimUp	19	14	a41.jpg	457	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.505265e+03	2.473120e+01	StimUp	20	15	a41.jpg	435	450	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.505671e+03	2.513713e+01	StimUp	21	16	a41.jpg	439	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.507946e+03	2.741242e+01	StimUp	22	17	a41.jpg	427	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.509535e+03	2.900067e+01	StimUp	23	18	a41.jpg	413	468	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	43	Vert	FollowedV	2.510314e+03	2.978047e+01	StimUp	24	19	a41.jpg	425	415	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	44	Vert	 	2.544690e+03	2.610248e+01	StartStim	1	1	 	341	532	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	44	Vert	 	2.544854e+03	2.626583e+01	StartStim	2	2	 	333	529	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	44	Vert	 	2.545552e+03	2.696420e+01	StartStim	3	3	 	537	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:50	1	44	Vert	 	2.546008e+03	2.742025e+01	StartStim	4	4	 	572	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	 	2.552351e+03	3.376257e+01	StartStim	5	5	 	515	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.553171e+03	7.989519e-01	StimUp	6	1	e17.jpg	399	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.553557e+03	1.184669e+00	StimUp	7	2	e17.jpg	399	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.554377e+03	2.004819e+00	StimUp	8	3	e17.jpg	370	583	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.554712e+03	2.339900e+00	StimUp	9	4	e17.jpg	395	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.555855e+03	3.483392e+00	StimUp	10	5	e17.jpg	399	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.556615e+03	4.242965e+00	StimUp	11	6	e17.jpg	424	495	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.557294e+03	4.921783e+00	StimUp	12	7	e17.jpg	435	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	44	Vert	IncorrectMinorV	2.559256e+03	6.883979e+00	StimUp	13	8	e17.jpg	457	427	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:51	1	45	Vert	 	2.594223e+03	8.827465e+00	StartStim	1	1	 	686	762	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	 	2.618416e+03	3.301981e+01	StartStim	2	2	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.619493e+03	1.051718e+00	StimUp	3	1	d5.jpg 	449	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.619899e+03	1.457629e+00	StimUp	4	2	d5.jpg 	446	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.620375e+03	1.934229e+00	StimUp	5	3	d5.jpg 	488	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.620791e+03	2.350294e+00	StimUp	6	4	d5.jpg 	413	495	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.621116e+03	2.675265e+00	StimUp	7	5	d5.jpg 	444	447	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.621997e+03	3.555931e+00	StimUp	8	6	d5.jpg 	405	495	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.622372e+03	3.931450e+00	StimUp	9	7	d5.jpg 	439	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.627356e+03	8.914700e+00	StimUp	10	8	d5.jpg 	399	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.627560e+03	9.118589e+00	StimUp	11	9	d5.jpg 	413	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	45	Vert	IncorrectMajorV	2.647054e+03	2.861288e+01	StimUp	12	10	d5.jpg 	1002	415	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	 	2.656832e+03	5.364137e+00	StartStim	1	1	 	762	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	 	2.656995e+03	5.527437e+00	StartStim	2	2	 	708	682	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	 	2.659359e+03	7.891519e+00	StartStim	3	3	 	530	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	 	2.659402e+03	7.933567e+00	StartStim	4	4	 	522	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	FollowedV	2.660100e+03	6.776157e-01	StimUp	5	1	a49.jpg	413	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	FollowedV	2.660476e+03	1.053295e+00	StimUp	6	2	a49.jpg	488	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	FollowedV	2.661215e+03	1.792705e+00	StimUp	7	3	a49.jpg	468	444	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:52	1	46	Vert	FollowedV	2.661743e+03	2.320043e+00	StimUp	8	4	a49.jpg	405	468	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.768363e+03	7.591303e+01	StartStim	1	1	 	238	100	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.768455e+03	7.600564e+01	StartStim	2	2	 	882	0	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.768578e+03	7.612835e+01	StartStim	3	3	 	958	678	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.768620e+03	7.617027e+01	StartStim	4	4	 	554	15	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.784282e+03	9.183207e+01	StartStim	5	5	 	924	714	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.785162e+03	9.271251e+01	StartStim	6	6	 	936	678	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.785871e+03	9.342099e+01	StartStim	7	7	 	437	312	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.786629e+03	9.417984e+01	StartStim	8	8	 	936	177	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.786661e+03	9.421173e+01	StartStim	9	9	 	939	174	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.786845e+03	9.439508e+01	StartStim	10	10	 	152	282	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:54	1	47	Vert	 	2.787270e+03	9.482073e+01	StartStim	11	11	 	185	349	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	 	2.792552e+03	1.001029e+02	StartStim	12	12	 	516	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	 	2.792887e+03	1.004378e+02	StartStim	13	13	 	530	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	 	2.793313e+03	1.008635e+02	StartStim	14	14	 	544	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	 	2.794112e+03	1.016628e+02	StartStim	15	15	 	522	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.794907e+03	7.685681e-01	StimUp	16	1	a4.jpg 	413	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.796011e+03	1.871884e+00	StimUp	17	2	a4.jpg 	435	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.796770e+03	2.631563e+00	StimUp	18	3	a4.jpg 	446	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.797156e+03	3.017474e+00	StimUp	19	4	a4.jpg 	446	438	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.803856e+03	9.717418e+00	StimUp	20	5	a4.jpg 	432	538	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.804212e+03	1.007282e+01	StimUp	21	6	a4.jpg 	435	475	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.804658e+03	1.051901e+01	StimUp	22	7	a4.jpg 	422	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.805074e+03	1.093497e+01	StimUp	23	8	a4.jpg 	424	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.806662e+03	1.252336e+01	StimUp	24	9	a4.jpg 	443	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.807038e+03	1.289898e+01	StimUp	25	10	a4.jpg 	424	477	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.815319e+03	2.117989e+01	StimUp	26	11	a4.jpg 	468	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.816099e+03	2.195978e+01	StimUp	27	12	a4.jpg 	457	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.816899e+03	2.275981e+01	StimUp	28	13	a4.jpg 	439	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	47	Vert	FollowedV	2.817284e+03	2.314552e+01	StimUp	29	14	a4.jpg 	426	438	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.836671e+03	9.513688e+00	StartStim	1	1	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.839975e+03	1.281708e+01	StartStim	2	2	 	533	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.845015e+03	1.785742e+01	StartStim	3	3	 	544	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.846562e+03	1.940391e+01	StartStim	4	4	 	544	519	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.847684e+03	2.052632e+01	StartStim	5	5	 	559	520	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:55	1	48	Vert	 	2.848180e+03	2.102270e+01	StartStim	6	6	 	559	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.855290e+03	2.813229e+01	StartStim	7	7	 	313	499	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.855504e+03	2.834607e+01	StartStim	8	8	 	297	507	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.860725e+03	3.356762e+01	StartStim	9	9	 	904	556	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.870116e+03	4.295889e+01	StartStim	10	10	 	666	463	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.870310e+03	4.315245e+01	StartStim	11	11	 	662	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.873391e+03	4.623336e+01	StartStim	12	12	 	509	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	 	2.873433e+03	4.627540e+01	StartStim	13	13	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.874237e+03	7.787016e-01	StimUp	14	1	a1.jpg 	413	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.874572e+03	1.114340e+00	StimUp	15	2	a1.jpg 	461	520	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.874898e+03	1.439488e+00	StimUp	16	3	a1.jpg 	422	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.875334e+03	1.875702e+00	StimUp	17	4	a1.jpg 	468	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.877296e+03	3.837687e+00	StimUp	18	5	a1.jpg 	435	415	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.883701e+03	1.024255e+01	StimUp	19	6	a1.jpg 	443	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.884056e+03	1.059799e+01	StimUp	20	7	a1.jpg 	413	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.884098e+03	1.064010e+01	StimUp	21	8	a1.jpg 	420	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.884464e+03	1.100544e+01	StimUp	22	9	a1.jpg 	490	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.884981e+03	1.152243e+01	StimUp	23	10	a1.jpg 	429	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.885821e+03	1.236288e+01	StimUp	24	11	a1.jpg 	427	475	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.886237e+03	1.277890e+01	StimUp	25	12	a1.jpg 	397	579	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.887603e+03	1.414468e+01	StimUp	26	13	a1.jpg 	453	514	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.894850e+03	2.139231e+01	StimUp	27	14	a1.jpg 	413	561	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.895145e+03	2.168710e+01	StimUp	28	15	a1.jpg 	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.895187e+03	2.172916e+01	StimUp	29	16	a1.jpg 	479	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.895866e+03	2.240787e+01	StimUp	30	17	a1.jpg 	443	493	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	48	Vert	FollowedV	2.898232e+03	2.477405e+01	StimUp	31	18	a1.jpg 	446	516	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	49	Vert	 	2.909178e+03	2.671377e+00	StartStim	1	1	 	519	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	49	Vert	IncorrectMinorV	2.910412e+03	1.213112e+00	StimUp	2	1	e12.jpg	450	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	49	Vert	IncorrectMinorV	2.910798e+03	1.598858e+00	StimUp	3	2	e12.jpg	457	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:56	1	49	Vert	IncorrectMinorV	2.911214e+03	2.014855e+00	StimUp	4	3	e12.jpg	422	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.911933e+03	2.733999e+00	StimUp	5	4	e12.jpg	421	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.912693e+03	3.493491e+00	StimUp	6	5	e12.jpg	435	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.913139e+03	3.939763e+00	StimUp	7	6	e12.jpg	413	582	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.913979e+03	4.780177e+00	StimUp	8	7	e12.jpg	457	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.914799e+03	5.600337e+00	StimUp	9	8	e12.jpg	435	466	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.915296e+03	6.097144e+00	StimUp	10	9	e12.jpg	367	606	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.915975e+03	6.775888e+00	StimUp	11	10	e12.jpg	475	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.917139e+03	7.939705e+00	StimUp	12	11	e12.jpg	406	522	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.917979e+03	8.780252e+00	StimUp	13	12	e12.jpg	389	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	49	Vert	IncorrectMinorV	2.918597e+03	9.398308e+00	StimUp	14	13	e12.jpg	468	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.958560e+03	1.633925e+01	StartStim	1	1	 	588	534	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.960562e+03	1.834032e+01	StartStim	2	2	 	522	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.960967e+03	1.874587e+01	StartStim	3	3	 	558	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.962180e+03	1.995914e+01	StartStim	4	4	 	322	597	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.962869e+03	2.064738e+01	StartStim	5	5	 	574	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.963264e+03	2.104278e+01	StartStim	6	6	 	530	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.963760e+03	2.153911e+01	StartStim	7	7	 	501	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.964600e+03	2.237893e+01	StartStim	8	8	 	569	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.966722e+03	2.450083e+01	StartStim	9	9	 	479	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.967552e+03	2.533047e+01	StartStim	10	10	 	400	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.968250e+03	2.602885e+01	StartStim	11	11	 	544	493	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:57	1	50	Vert	 	2.971270e+03	2.904927e+01	StartStim	12	12	 	526	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.971949e+03	6.575257e-01	StimUp	13	1	a41.jpg	413	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.972345e+03	1.053382e+00	StimUp	14	2	a41.jpg	446	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.972771e+03	1.479454e+00	StimUp	15	3	a41.jpg	410	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.973126e+03	1.834741e+00	StimUp	16	4	a41.jpg	427	495	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.973866e+03	2.574066e+00	StimUp	17	5	a41.jpg	411	570	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.974595e+03	3.303301e+00	StimUp	18	6	a41.jpg	443	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.974970e+03	3.678909e+00	StimUp	19	7	a41.jpg	395	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.975346e+03	4.054404e+00	StimUp	20	8	a41.jpg	472	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.975752e+03	4.460352e+00	StimUp	21	9	a41.jpg	446	450	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.983037e+03	1.174560e+01	StimUp	22	10	a41.jpg	457	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.990335e+03	1.904359e+01	StimUp	23	11	a41.jpg	422	447	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.991175e+03	1.988398e+01	StimUp	24	12	a41.jpg	468	448	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	50	Vert	FollowedV	2.991581e+03	2.028982e+01	StimUp	25	13	a41.jpg	468	415	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.018692e+03	1.438061e+01	StartStim	1	1	 	827	723	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.021016e+03	1.670445e+01	StartStim	2	2	 	522	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.021916e+03	1.760471e+01	StartStim	3	3	 	511	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.023897e+03	1.958528e+01	StartStim	4	4	 	530	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.024020e+03	1.970811e+01	StartStim	5	5	 	529	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.026980e+03	2.266831e+01	StartStim	6	6	 	497	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.028435e+03	2.412405e+01	StartStim	7	7	 	468	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.028861e+03	2.454983e+01	StartStim	8	8	 	530	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.029257e+03	2.494525e+01	StartStim	9	9	 	566	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:58	1	51	Vert	 	3.029743e+03	2.543147e+01	StartStim	10	10	 	463	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.033086e+03	2.877498e+01	StartStim	11	11	 	530	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.034481e+03	3.017001e+01	StartStim	12	12	 	514	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.034523e+03	3.021208e+01	StartStim	13	13	 	540	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.034939e+03	3.062759e+01	StartStim	14	14	 	625	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.036647e+03	3.233550e+01	StartStim	15	15	 	544	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.037668e+03	3.335696e+01	StartStim	16	16	 	566	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	 	3.038064e+03	3.375239e+01	StartStim	17	17	 	522	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.039187e+03	1.101980e+00	StimUp	18	1	a41.jpg	413	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.039644e+03	1.558524e+00	StimUp	19	2	a41.jpg	364	561	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.040262e+03	2.176653e+00	StimUp	20	3	a41.jpg	471	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.040668e+03	2.582617e+00	StimUp	21	4	a41.jpg	443	493	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.041447e+03	3.362327e+00	StimUp	22	5	a41.jpg	424	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.041823e+03	3.737943e+00	StimUp	23	6	a41.jpg	490	444	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.042886e+03	4.800675e+00	StimUp	24	7	a41.jpg	426	450	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.048987e+03	1.090159e+01	StimUp	25	8	a41.jpg	434	657	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.049190e+03	1.110539e+01	StimUp	26	9	a41.jpg	439	646	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.050496e+03	1.241054e+01	StimUp	27	10	a41.jpg	408	555	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.050871e+03	1.278611e+01	StimUp	28	11	a41.jpg	457	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.050913e+03	1.282821e+01	StimUp	29	12	a41.jpg	441	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.051673e+03	1.358766e+01	StimUp	30	13	a41.jpg	422	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.052089e+03	1.400369e+01	StimUp	31	14	a41.jpg	424	561	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.053354e+03	1.526854e+01	StimUp	32	15	a41.jpg	375	577	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.054032e+03	1.594722e+01	StimUp	33	16	a41.jpg	494	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.055954e+03	1.786912e+01	StimUp	34	17	a41.jpg	422	469	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.062980e+03	2.489491e+01	StimUp	35	18	a41.jpg	439	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.064740e+03	2.665492e+01	StimUp	36	19	a41.jpg	443	469	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.065146e+03	2.706090e+01	StimUp	37	20	a41.jpg	457	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	51	Vert	FollowedV	3.065582e+03	2.749701e+01	StimUp	38	21	a41.jpg	413	547	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	 	3.075488e+03	1.638557e+00	StartStim	1	1	 	522	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.076191e+03	6.777599e-01	StimUp	2	1	a9.jpg 	422	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.076567e+03	1.053374e+00	StimUp	3	2	a9.jpg 	479	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.077286e+03	1.772508e+00	StimUp	4	3	a9.jpg 	407	561	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.077611e+03	2.097539e+00	StimUp	5	4	a9.jpg 	464	525	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.085530e+03	1.001710e+01	StimUp	6	5	a9.jpg 	457	514	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.085916e+03	1.040290e+01	StimUp	7	6	a9.jpg 	424	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.086271e+03	1.075830e+01	StimUp	8	7	a9.jpg 	463	535	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.086677e+03	1.116418e+01	StimUp	9	8	a9.jpg 	460	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.087437e+03	1.192371e+01	StimUp	10	9	a9.jpg 	454	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	10:59	1	52	Vert	FollowedV	3.087833e+03	1.231957e+01	StimUp	11	10	a9.jpg 	428	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.089795e+03	1.428165e+01	StimUp	12	11	a9.jpg 	507	558	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.095618e+03	2.010473e+01	StimUp	13	12	a9.jpg 	454	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.095660e+03	2.014692e+01	StimUp	14	13	a9.jpg 	457	600	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.095854e+03	2.034067e+01	StimUp	15	14	a9.jpg 	473	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.096320e+03	2.080730e+01	StimUp	16	15	a9.jpg 	428	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.096716e+03	2.120316e+01	StimUp	17	16	a9.jpg 	453	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.097163e+03	2.164967e+01	StimUp	18	17	a9.jpg 	443	504	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.102562e+03	2.704864e+01	StimUp	19	18	a9.jpg 	475	622	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.102705e+03	2.719179e+01	StimUp	20	19	a9.jpg 	475	622	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.103545e+03	2.803220e+01	StimUp	21	20	a9.jpg 	433	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.103840e+03	2.832691e+01	StimUp	22	21	a9.jpg 	420	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.104286e+03	2.877317e+01	StimUp	23	22	a9.jpg 	440	579	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.104601e+03	2.908827e+01	StimUp	24	23	a9.jpg 	451	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.104906e+03	2.939317e+01	StimUp	25	24	a9.jpg 	413	766	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	52	Vert	FollowedV	3.105262e+03	2.974849e+01	StimUp	26	25	a9.jpg 	454	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	 	3.105661e+03	1.329525e-01	ITI	1	1	a9.jpg 	446	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	 	3.113092e+03	4.556449e+00	StartStim	2	1	 	522	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	 	3.113992e+03	5.456680e+00	StartStim	3	2	 	479	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	 	3.116629e+03	8.093687e+00	StartStim	4	3	 	507	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.117287e+03	6.372643e-01	StimUp	5	1	a10.jpg	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.117612e+03	9.624458e-01	StimUp	6	2	a10.jpg	417	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.118291e+03	1.641181e+00	StimUp	7	3	a10.jpg	451	559	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.119031e+03	2.380571e+00	StimUp	8	4	a10.jpg	413	468	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.120134e+03	3.483658e+00	StimUp	9	5	a10.jpg	479	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.120792e+03	4.142187e+00	StimUp	10	6	a10.jpg	479	514	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.129440e+03	1.279048e+01	StimUp	11	7	a10.jpg	457	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.129836e+03	1.318638e+01	StimUp	12	8	a10.jpg	450	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.130121e+03	1.347102e+01	StimUp	13	9	a10.jpg	428	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.130153e+03	1.350301e+01	StimUp	14	10	a10.jpg	490	580	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.138724e+03	2.207377e+01	StimUp	15	11	a10.jpg	468	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.140059e+03	2.340941e+01	StimUp	16	12	a10.jpg	457	558	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.140486e+03	2.383553e+01	StimUp	17	13	a10.jpg	407	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.141740e+03	2.509021e+01	StimUp	18	14	a10.jpg	457	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.143743e+03	2.709273e+01	StimUp	19	15	a10.jpg	457	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:0	1	53	Vert	FollowedV	3.144523e+03	2.787252e+01	StimUp	20	16	a10.jpg	435	469	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	 	3.162050e+03	9.252015e+00	StartStim	1	1	 	522	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	 	3.163496e+03	1.069756e+01	StartStim	2	2	 	533	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	 	3.165335e+03	1.253672e+01	StartStim	3	3	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.166034e+03	6.777466e-01	StimUp	4	1	a49.jpg	405	474	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.166379e+03	1.023028e+00	StimUp	5	2	a49.jpg	446	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.166735e+03	1.378372e+00	StimUp	6	3	a49.jpg	413	472	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.166777e+03	1.420415e+00	StimUp	7	4	a49.jpg	435	543	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.177307e+03	1.195032e+01	StimUp	8	5	a49.jpg	457	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.177682e+03	1.232593e+01	StimUp	9	6	a49.jpg	457	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.178442e+03	1.308548e+01	StimUp	10	7	a49.jpg	453	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.178868e+03	1.351162e+01	StimUp	11	8	a49.jpg	435	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.179547e+03	1.419034e+01	StimUp	12	9	a49.jpg	359	540	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.180225e+03	1.486897e+01	StimUp	13	10	a49.jpg	487	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.180641e+03	1.528497e+01	StimUp	14	11	a49.jpg	424	472	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.187728e+03	2.237184e+01	StimUp	15	12	a49.jpg	416	603	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.188073e+03	2.271715e+01	StimUp	16	13	a49.jpg	432	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.188449e+03	2.309268e+01	StimUp	17	14	a49.jpg	445	427	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.189208e+03	2.385216e+01	StimUp	18	15	a49.jpg	479	630	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.189554e+03	2.419739e+01	StimUp	19	16	a49.jpg	430	570	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	54	Vert	FollowedV	3.189909e+03	2.455291e+01	StimUp	20	17	a49.jpg	490	558	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	55	Vert	 	3.200640e+03	2.264672e+00	StartStim	1	1	 	537	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	55	Vert	 	3.202177e+03	3.801063e+00	StartStim	2	2	 	548	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	55	Vert	 	3.204198e+03	5.822011e+00	StartStim	3	3	 	558	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	55	Vert	 	3.208723e+03	1.034734e+01	StartStim	4	4	 	515	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:1	1	55	Vert	 	3.211360e+03	1.298425e+01	StartStim	5	5	 	559	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	 	3.211826e+03	1.345044e+01	StartStim	6	6	 	544	498	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	 	3.212302e+03	1.392662e+01	StartStim	7	7	 	566	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	 	3.212859e+03	1.448355e+01	StartStim	8	8	 	583	601	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	 	3.215082e+03	1.670641e+01	StartStim	9	9	 	507	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.216164e+03	1.061717e+00	StimUp	10	1	a49.jpg	439	504	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.216570e+03	1.467699e+00	StimUp	11	2	a49.jpg	471	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.217603e+03	2.500129e+00	StimUp	12	3	a49.jpg	457	444	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.217968e+03	2.865660e+00	StimUp	13	4	a49.jpg	457	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.218687e+03	3.584750e+00	StimUp	14	5	a49.jpg	453	459	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.227074e+03	1.197164e+01	StimUp	15	6	a49.jpg	457	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.227450e+03	1.234729e+01	StimUp	16	7	a49.jpg	435	471	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.227492e+03	1.238943e+01	StimUp	17	8	a49.jpg	473	547	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.228231e+03	1.312877e+01	StimUp	18	9	a49.jpg	451	582	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.228930e+03	1.382772e+01	StimUp	19	10	a49.jpg	471	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.229336e+03	1.423368e+01	StimUp	20	11	a49.jpg	479	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.229752e+03	1.464968e+01	StimUp	21	12	a49.jpg	430	591	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.237699e+03	2.259605e+01	StimUp	22	13	a49.jpg	420	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.238580e+03	2.347697e+01	StimUp	23	14	a49.jpg	385	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.239400e+03	2.429715e+01	StimUp	24	15	a49.jpg	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.239775e+03	2.467282e+01	StimUp	25	16	a49.jpg	457	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.240181e+03	2.507878e+01	StimUp	26	17	a49.jpg	460	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	55	Vert	FollowedV	3.240557e+03	2.545432e+01	StimUp	27	18	a49.jpg	453	490	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.246362e+03	5.371289e-01	ITI	1	1	a49.jpg	416	696	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.251723e+03	2.890494e+00	StartStim	2	1	 	529	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.254108e+03	5.274979e+00	StartStim	3	2	 	544	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.255584e+03	6.751006e+00	StartStim	4	3	 	538	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.257948e+03	9.115365e+00	StartStim	5	4	 	560	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.258566e+03	9.732875e+00	StartStim	6	5	 	550	579	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.263716e+03	1.488361e+01	StartStim	7	6	 	530	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.264213e+03	1.538003e+01	StartStim	8	7	 	566	514	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.264669e+03	1.583622e+01	StartStim	9	8	 	559	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.266872e+03	1.803895e+01	StartStim	10	9	 	566	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.267378e+03	1.854547e+01	StartStim	11	10	 	509	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.267794e+03	1.896113e+01	StartStim	12	11	 	557	471	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.268876e+03	2.004307e+01	StartStim	13	12	 	529	520	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.270554e+03	2.172067e+01	StartStim	14	13	 	544	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.271060e+03	2.222716e+01	StartStim	15	14	 	551	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:2	1	56	Vert	 	3.271536e+03	2.270334e+01	StartStim	16	15	 	560	558	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	 	3.273496e+03	2.466353e+01	StartStim	17	16	 	501	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	 	3.277284e+03	2.845154e+01	StartStim	18	17	 	511	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.278458e+03	1.152582e+00	StimUp	19	1	a12.jpg	405	603	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.279561e+03	2.255744e+00	StimUp	20	2	a12.jpg	457	636	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.279906e+03	2.601013e+00	StimUp	21	3	a12.jpg	457	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.281040e+03	3.734580e+00	StimUp	22	4	a12.jpg	408	555	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.281759e+03	4.453718e+00	StimUp	23	5	a12.jpg	422	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.282226e+03	4.920261e+00	StimUp	24	6	a12.jpg	431	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.282965e+03	5.659585e+00	StimUp	25	7	a12.jpg	413	468	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.290370e+03	1.306508e+01	StimUp	26	8	a12.jpg	435	534	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.290706e+03	1.340028e+01	StimUp	27	9	a12.jpg	421	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.291152e+03	1.384652e+01	StimUp	28	10	a12.jpg	424	591	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.291911e+03	1.460616e+01	StimUp	29	11	a12.jpg	464	525	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.292267e+03	1.496160e+01	StimUp	30	12	a12.jpg	461	493	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.292653e+03	1.534735e+01	StimUp	31	13	a12.jpg	464	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.293766e+03	1.646079e+01	StimUp	32	14	a12.jpg	430	591	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.299751e+03	2.244525e+01	StimUp	33	15	a12.jpg	459	645	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.299874e+03	2.256822e+01	StimUp	34	16	a12.jpg	461	624	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.299996e+03	2.269105e+01	StimUp	35	17	a12.jpg	461	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.301150e+03	2.384465e+01	StimUp	36	18	a12.jpg	443	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.301889e+03	2.458409e+01	StimUp	37	19	a12.jpg	461	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.302235e+03	2.492935e+01	StimUp	38	20	a12.jpg	435	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.302277e+03	2.497143e+01	StimUp	39	21	a12.jpg	472	537	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.302976e+03	2.567027e+01	StimUp	40	22	a12.jpg	450	513	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	56	Vert	FollowedV	3.303695e+03	2.638945e+01	StimUp	41	23	a12.jpg	413	561	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	 	3.315384e+03	3.413921e+00	StartStim	1	1	 	471	516	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	 	3.315840e+03	3.870069e+00	StartStim	2	2	 	515	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	 	3.316367e+03	4.396799e+00	StartStim	3	3	 	515	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.317161e+03	7.688911e-01	StimUp	4	1	e4.jpg 	410	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.317921e+03	1.528484e+00	StimUp	5	2	e4.jpg 	443	493	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.318721e+03	2.328425e+00	StimUp	6	3	e4.jpg 	413	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.319147e+03	2.754527e+00	StimUp	7	4	e4.jpg 	420	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.319522e+03	3.130061e+00	StimUp	8	5	e4.jpg 	428	525	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.319969e+03	3.576268e+00	StimUp	9	6	e4.jpg 	413	582	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.320405e+03	4.012389e+00	StimUp	10	7	e4.jpg 	430	603	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.320821e+03	4.428397e+00	StimUp	11	8	e4.jpg 	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.321247e+03	4.854448e+00	StimUp	12	9	e4.jpg 	430	606	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.321541e+03	5.149129e+00	StimUp	13	10	e4.jpg 	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.322665e+03	6.272361e+00	StimUp	14	11	e4.jpg 	422	469	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.323051e+03	6.658306e+00	StimUp	15	12	e4.jpg 	427	472	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.323083e+03	6.690312e+00	StimUp	16	13	e4.jpg 	457	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.323428e+03	7.035454e+00	StimUp	17	14	e4.jpg 	443	492	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.324167e+03	7.774765e+00	StimUp	18	15	e4.jpg 	471	493	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.324553e+03	8.160565e+00	StimUp	19	16	e4.jpg 	441	547	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.324989e+03	8.596867e+00	StimUp	20	17	e4.jpg 	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:3	1	57	Vert	IncorrectMinorV	3.326951e+03	1.055896e+01	StimUp	21	18	e4.jpg 	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.335734e+03	1.934213e+01	StimUp	22	19	e4.jpg 	427	468	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.336171e+03	1.977834e+01	StimUp	23	20	e4.jpg 	446	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.336637e+03	2.024481e+01	StimUp	24	21	e4.jpg 	468	450	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.337397e+03	2.100444e+01	StimUp	25	22	e4.jpg 	466	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.337853e+03	2.146104e+01	StimUp	26	23	e4.jpg 	509	459	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.338340e+03	2.194782e+01	StimUp	27	24	e4.jpg 	422	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	57	Vert	IncorrectMinorV	3.339312e+03	2.291962e+01	StimUp	28	25	e4.jpg 	453	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	 	3.365129e+03	1.571338e+01	StartStim	1	1	 	522	519	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.365852e+03	6.979416e-01	StimUp	2	1	d5.jpg 	468	493	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.366268e+03	1.113917e+00	StimUp	3	2	d5.jpg 	428	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.366593e+03	1.438881e+00	StimUp	4	3	d5.jpg 	465	492	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.366989e+03	1.834618e+00	StimUp	5	4	d5.jpg 	435	504	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.367334e+03	2.179939e+00	StimUp	6	5	d5.jpg 	431	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.369771e+03	4.616967e+00	StimUp	7	6	d5.jpg 	409	481	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.370177e+03	5.022886e+00	StimUp	8	7	d5.jpg 	406	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.370896e+03	5.742161e+00	StimUp	9	8	d5.jpg 	453	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:4	1	58	Vert	IncorrectMajorV	3.373212e+03	8.058013e+00	StimUp	10	9	d5.jpg 	320	562	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	 	3.400567e+03	2.386196e+00	StartStim	1	1	 	550	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	 	3.401013e+03	2.832155e+00	StartStim	2	2	 	555	531	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	 	3.401530e+03	3.348753e+00	StartStim	3	3	 	526	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.402269e+03	7.181531e-01	StimUp	4	1	a43.jpg	435	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.402654e+03	1.103926e+00	StimUp	5	2	a43.jpg	427	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.402686e+03	1.135861e+00	StimUp	6	3	a43.jpg	427	468	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.403052e+03	1.501332e+00	StimUp	7	4	a43.jpg	469	444	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.403448e+03	1.897195e+00	StimUp	8	5	a43.jpg	448	459	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.403813e+03	2.262673e+00	StimUp	9	6	a43.jpg	479	471	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.411078e+03	9.527688e+00	StimUp	10	7	a43.jpg	464	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.411474e+03	9.923553e+00	StimUp	11	8	a43.jpg	428	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.411860e+03	1.030929e+01	StimUp	12	9	a43.jpg	468	492	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.412276e+03	1.072533e+01	StimUp	13	10	a43.jpg	428	490	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.412682e+03	1.113118e+01	StimUp	14	11	a43.jpg	468	498	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.413138e+03	1.158755e+01	StimUp	15	12	a43.jpg	373	669	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.416202e+03	1.465124e+01	StimUp	16	13	a43.jpg	413	495	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.423439e+03	2.188847e+01	StimUp	17	14	a43.jpg	424	516	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.425007e+03	2.345650e+01	StimUp	18	15	a43.jpg	468	481	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.425383e+03	2.383215e+01	StimUp	19	16	a43.jpg	399	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.426445e+03	2.489479e+01	StimUp	20	17	a43.jpg	428	520	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.426801e+03	2.525026e+01	StimUp	21	18	a43.jpg	427	495	Stim	1	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	59	Vert	FollowedV	3.427621e+03	2.607082e+01	StimUp	22	19	a43.jpg	468	471	Stim	1	1	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.438011e+03	2.113249e+00	StartStim	1	1	 	529	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.439355e+03	3.457786e+00	StartStim	2	2	 	529	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.441356e+03	5.458638e+00	StartStim	3	3	 	537	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.442155e+03	6.258032e+00	StartStim	4	4	 	544	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.444772e+03	8.874737e+00	StartStim	5	5	 	533	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.446016e+03	1.011863e+01	StartStim	6	6	 	555	547	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:5	1	60	Vert	 	3.447552e+03	1.165504e+01	StartStim	7	7	 	605	613	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.451896e+03	1.599822e+01	StartStim	8	8	 	464	504	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.452735e+03	1.683794e+01	StartStim	9	9	 	435	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.453878e+03	1.798052e+01	StartStim	10	10	 	515	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.454263e+03	1.836584e+01	StartStim	11	11	 	537	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.455446e+03	1.954876e+01	StartStim	12	12	 	507	537	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.456983e+03	2.108524e+01	StartStim	13	13	 	515	492	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.457479e+03	2.158181e+01	StartStim	14	14	 	442	525	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.459106e+03	2.320903e+01	StartStim	15	15	 	354	588	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.460602e+03	2.470504e+01	StartStim	16	16	 	555	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.461089e+03	2.519135e+01	StartStim	17	17	 	580	513	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.462787e+03	2.688913e+01	StartStim	18	18	 	559	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	 	3.464101e+03	2.820347e+01	StartStim	19	19	 	501	514	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.464769e+03	6.473652e-01	StimUp	20	1	d19.jpg	399	490	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.465165e+03	1.043168e+00	StimUp	21	2	d19.jpg	413	534	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.465510e+03	1.388331e+00	StimUp	22	3	d19.jpg	445	438	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.465926e+03	1.804326e+00	StimUp	23	4	d19.jpg	463	535	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.466231e+03	2.109221e+00	StimUp	24	5	d19.jpg	457	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.466586e+03	2.464526e+00	StimUp	25	6	d19.jpg	457	493	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.467002e+03	2.880413e+00	StimUp	26	7	d19.jpg	443	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.467368e+03	3.245844e+00	StimUp	27	8	d19.jpg	450	490	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.467733e+03	3.611276e+00	StimUp	28	9	d19.jpg	444	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.468109e+03	3.986815e+00	StimUp	29	10	d19.jpg	448	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.470869e+03	6.747107e+00	StimUp	30	11	d19.jpg	483	471	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.471689e+03	7.567284e+00	StimUp	31	12	d19.jpg	400	459	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.472570e+03	8.448077e+00	StimUp	32	13	d19.jpg	352	600	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.473734e+03	9.611898e+00	StimUp	33	14	d19.jpg	544	448	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.474231e+03	1.010869e+01	StimUp	34	15	d19.jpg	427	475	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.474647e+03	1.052479e+01	StimUp	35	16	d19.jpg	407	465	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.474992e+03	1.087016e+01	StimUp	36	17	d19.jpg	428	516	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:6	1	60	Vert	IncorrectMajorV	3.475297e+03	1.117504e+01	StimUp	37	18	d19.jpg	446	481	Stim	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.582313e+03	8.517111e+01	StartStim	1	1	 	35	196	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.582456e+03	8.531423e+01	StartStim	2	2	 	51	535	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.582569e+03	8.542683e+01	StartStim	3	3	 	370	328	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.582833e+03	8.569089e+01	StartStim	4	4	 	444	174	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.582915e+03	8.577332e+01	StartStim	5	5	 	385	277	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.583018e+03	8.587595e+01	StartStim	6	6	 	449	553	Screen	0	0	P019A 1	
+Cousteau	July29	29-Jul-2016	11:8	1	61	Vert	 	3.619994e+03	1.228523e+02	StartStim	7	7	 	552	72	Screen	0	0	P019A 1	

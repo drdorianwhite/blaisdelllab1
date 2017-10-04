@@ -1,0 +1,51 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	 	7.303329e+00	1.435753e+00	StartStim	1	1	 	501	513	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	8.397508e+00	1.058839e+00	StimUp	2	1	a9.jpg 	277	497	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	8.532378e+00	1.193708e+00	StimUp	3	2	a9.jpg 	277	498	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	8.686852e+00	1.348183e+00	StimUp	4	3	a9.jpg 	277	498	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	8.823014e+00	1.484344e+00	StimUp	5	4	a9.jpg 	277	498	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	8.986328e+00	1.647659e+00	StimUp	6	5	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.171226e+00	1.832556e+00	StimUp	7	6	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.303543e+00	1.964874e+00	StimUp	8	7	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.465865e+00	2.127195e+00	StimUp	9	8	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.628200e+00	2.289530e+00	StimUp	10	9	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.790480e+00	2.451811e+00	StimUp	11	10	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	9.962852e+00	2.624183e+00	StimUp	12	11	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	1.014535e+01	2.806682e+00	StimUp	13	12	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	1	Vert	FollowedV	1.033774e+01	2.999074e+00	StimUp	14	13	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	 	1.051845e+01	1.640268e-01	ITI	1	1	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	 	1.069209e+01	3.376710e-01	ITI	2	2	a9.jpg 	277	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	 	1.432442e+01	9.604667e-01	StartStim	3	1	 	516	510	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	IncorrectMinorV	1.507517e+01	7.265252e-01	StimUp	4	1	e19.jpg	256	505	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	IncorrectMinorV	1.526807e+01	9.194258e-01	StimUp	5	2	e19.jpg	261	506	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:9	1	2	Vert	IncorrectMinorV	1.632606e+01	1.977414e+00	StimUp	6	3	e19.jpg	762	519	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	2	Vert	IncorrectMinorV	1.649089e+01	2.142241e+00	StimUp	7	4	e19.jpg	762	519	Button	1	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	 	2.566926e+01	8.984056e-01	StartStim	1	1	 	513	510	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.629296e+01	6.046449e-01	StimUp	2	1	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.643709e+01	7.487801e-01	StimUp	3	2	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.657896e+01	8.906501e-01	StimUp	4	3	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.672090e+01	1.032587e+00	StimUp	5	4	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.687284e+01	1.184527e+00	StimUp	6	5	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.701473e+01	1.326418e+00	StimUp	7	6	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.717667e+01	1.488358e+00	StimUp	8	7	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.734867e+01	1.660359e+00	StimUp	9	8	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.749050e+01	1.802192e+00	StimUp	10	9	a3.jpg 	294	524	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:10	1	3	Vert	FollowedV	2.761229e+01	1.923980e+00	StimUp	11	10	a3.jpg 	294	524	Screen	0	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	 	1.036752e+02	6.779658e+01	StartStim	1	1	 	515	495	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.046301e+02	9.363518e-01	StimUp	2	1	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.047923e+02	1.098617e+00	StimUp	3	2	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.049242e+02	1.230452e+00	StimUp	4	3	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.050761e+02	1.382324e+00	StimUp	5	4	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.052480e+02	1.554318e+00	StimUp	6	5	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.054300e+02	1.736309e+00	StimUp	7	6	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.055718e+02	1.878110e+00	StimUp	8	7	a1.jpg 	266	499	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	4	Vert	FollowedV	1.057338e+02	2.040120e+00	StimUp	9	8	a1.jpg 	266	499	Screen	0	1	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	 	1.157442e+02	1.753062e+00	StartStim	1	1	 	509	500	Screen	0	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.166889e+02	9.263187e-01	StimUp	2	1	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.168411e+02	1.078515e+00	StimUp	3	2	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.169930e+02	1.230424e+00	StimUp	4	3	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.171449e+02	1.382319e+00	StimUp	5	4	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.173068e+02	1.544224e+00	StimUp	6	5	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.174588e+02	1.696210e+00	StimUp	7	6	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.176309e+02	1.868358e+00	StimUp	8	7	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.178030e+02	2.040473e+00	StimUp	9	8	e9.jpg 	778	517	Button	1	0	P019A Super Remdial Vert	
+MaryBird	January4Test2	04-Jan-2017	14:11	1	5	Vert	IncorrectMinorV	1.179751e+02	2.212555e+00	StimUp	10	9	e9.jpg 	778	517	Button	1	1	P019A Super Remdial Vert	

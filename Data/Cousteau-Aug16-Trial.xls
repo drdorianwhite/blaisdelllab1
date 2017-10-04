@@ -1,0 +1,20 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Cousteau	Aug16	16-Aug-2016	9:59	1	1	Vert	FollowedV	7.679985e+00	3.008700e+00	4.064050e+01	3.001091e+01	a11.jpg	0	1	0	18	7	7.200000e-01	1	3	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:0	1	2	Vert	IncorrectMajorV	8.135772e+01	3.012029e+00	2.135984e+01	3.001035e+01	d5.jpg 	5	1	13	30	15	6.666667e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:0	1	3	Vert	IncorrectMajorV	1.357510e+02	3.011068e+00	3.084097e+00	3.001375e+01	d2.jpg 	9	1	3	27	18	6.000000e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:1	1	4	Vert	IncorrectMinorV	1.718731e+02	3.012793e+00	2.971588e+00	3.001397e+01	e26.jpg	4	1	0	13	9	5.909091e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:2	1	5	Vert	IncorrectMajorV	2.078809e+02	3.006371e+00	4.982593e+00	3.001210e+01	d55.jpg	5	1	3	31	27	5.344828e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:2	1	6	Vert	FollowedV	2.459109e+02	3.007728e+00	9.385458e+00	3.001357e+01	a49.jpg	7	1	5	14	3	8.235294e-01	1	3	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:3	1	7	Vert	FollowedV	2.883255e+02	3.006764e+00	5.028104e+00	3.001421e+01	a11.jpg	0	1	3	11	1	9.166667e-01	1	2	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:4	1	8	Vert	IncorrectMajorV	3.263827e+02	3.006365e+00	8.709973e+00	3.000612e+01	d46.jpg	0	1	1	18	15	5.454545e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:4	1	9	Vert	IncorrectMinorV	3.681135e+02	3.006122e+00	7.619304e+00	3.001405e+01	e10.jpg	0	1	1	13	9	5.909091e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:5	1	10	Vert	FollowedV	4.087648e+02	3.009453e+00	1.669867e+00	3.000545e+01	a9.jpg 	2	1	0	6	2	7.500000e-01	1	1	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:6	1	11	Vert	IncorrectMinorV	4.434596e+02	3.010992e+00	1.984985e+00	3.001341e+01	e10.jpg	9	1	1	13	2	8.666667e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:6	1	12	Vert	FollowedV	4.784729e+02	3.006508e+00	7.200323e+00	3.001175e+01	a4.jpg 	0	1	0	3	1	7.500000e-01	1	1	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:19	1	13	Vert	FollowedV	5.186993e+02	3.005932e+00	7.334529e+02	3.001121e+01	a11.jpg	0	1	2	10	4	7.142857e-01	1	2	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:20	1	14	Vert	IncorrectMinorV	1.285178e+03	3.006084e+00	3.916387e+01	3.000528e+01	e25.jpg	0	1	3	17	8	6.800000e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:33	1	15	Vert	FollowedV	1.357361e+03	3.005810e+00	7.131425e+02	3.001416e+01	a42.jpg	0	1	0	3	3	5.000000e-01	1	1	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:33	1	16	Vert	IncorrectMinorV	2.103538e+03	3.011563e+00	1.660217e+00	3.000541e+01	e20.jpg	3	1	0	9	7	5.625000e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:38	1	17	Vert	FollowedV	2.138221e+03	3.009786e+00	2.334605e+02	3.000998e+01	a4.jpg 	0	1	1	3	11	2.142857e-01	1	1	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:39	1	18	Vert	IncorrectMajorV	2.404711e+03	3.011233e+00	1.650232e+01	3.000720e+01	d19.jpg	3	1	6	14	5	7.368421e-01	0	0	P019A Remdial Vert	
+Cousteau	Aug16	16-Aug-2016	10:39	1	19	Vert	IncorrectMajorV	2.454240e+03	3.011187e+00	1.216928e+00	3.000679e+01	d43.jpg	3	1	1	9	4	6.923077e-01	0	0	P019A Remdial Vert	

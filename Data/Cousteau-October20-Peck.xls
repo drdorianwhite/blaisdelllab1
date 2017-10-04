@@ -1,0 +1,377 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Cousteau	October20	20-Oct-2016	9:43	1	1	Vert	 	4.770313e+01	4.158916e+01	StartStim	1	1	 	577	766	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	 	1.936398e+02	1.875259e+02	StartStim	2	2	 	529	558	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	 	1.956225e+02	1.895085e+02	StartStim	3	3	 	529	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	 	1.960195e+02	1.899055e+02	StartStim	4	4	 	529	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	 	1.963753e+02	1.902613e+02	StartStim	5	5	 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	1.971151e+02	6.412706e-01	StimUp	6	1	a10.jpg	435	525	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	1.975004e+02	1.026657e+00	StimUp	7	2	a10.jpg	421	504	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	1.989792e+02	2.505382e+00	StimUp	8	3	a10.jpg	429	534	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	2.000019e+02	3.528152e+00	StimUp	9	4	a10.jpg	471	492	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	2.014389e+02	4.965064e+00	StimUp	10	5	a10.jpg	529	465	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:45	1	1	Vert	FollowedV	2.018147e+02	5.340917e+00	StimUp	11	6	a10.jpg	392	490	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.021414e+02	5.667623e+00	StimUp	12	7	a10.jpg	454	492	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.090625e+02	1.258875e+01	StimUp	13	8	a10.jpg	433	591	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.093980e+02	1.292418e+01	StimUp	14	9	a10.jpg	443	525	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.097333e+02	1.325949e+01	StimUp	15	10	a10.jpg	473	547	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.103414e+02	1.386761e+01	StimUp	16	11	a10.jpg	450	537	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.107172e+02	1.424337e+01	StimUp	17	12	a10.jpg	463	558	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	1	Vert	FollowedV	2.120023e+02	1.552852e+01	StimUp	18	13	a10.jpg	457	537	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	 	2.531961e+02	2.367966e+01	StartStim	1	1	 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.538589e+02	6.374340e-01	StimUp	2	1	e17.jpg	422	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.541144e+02	8.929437e-01	StimUp	3	2	e17.jpg	421	490	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.545204e+02	1.298921e+00	StimUp	4	3	e17.jpg	435	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.548557e+02	1.634254e+00	StimUp	5	4	e17.jpg	468	471	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.552011e+02	1.979623e+00	StimUp	6	5	e17.jpg	413	447	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.552331e+02	2.011687e+00	StimUp	7	6	e17.jpg	413	468	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.555380e+02	2.316507e+00	StimUp	8	7	e17.jpg	471	492	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.562572e+02	3.035707e+00	StimUp	9	8	e17.jpg	457	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.566328e+02	3.411331e+00	StimUp	10	9	e17.jpg	413	447	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.566750e+02	3.453522e+00	StimUp	11	10	e17.jpg	405	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.573537e+02	4.132275e+00	StimUp	12	11	e17.jpg	404	451	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.576587e+02	4.437218e+00	StimUp	13	12	e17.jpg	463	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.584183e+02	5.196853e+00	StimUp	14	13	e17.jpg	435	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.588142e+02	5.592786e+00	StimUp	15	14	e17.jpg	403	438	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.591191e+02	5.897690e+00	StimUp	16	15	e17.jpg	378	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.591815e+02	5.960003e+00	StimUp	17	16	e17.jpg	448	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.596580e+02	6.436581e+00	StimUp	18	17	e17.jpg	404	451	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.600740e+02	6.852517e+00	StimUp	19	18	e17.jpg	448	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.608942e+02	7.672747e+00	StimUp	20	19	e17.jpg	413	468	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.612800e+02	8.058496e+00	StimUp	21	20	e17.jpg	400	472	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.616960e+02	8.474525e+00	StimUp	22	21	e17.jpg	406	490	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:46	1	2	Vert	IncorrectMinorV	2.659624e+02	1.274098e+01	StimUp	23	22	e17.jpg	441	535	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.688543e+02	1.563282e+01	StimUp	24	23	e17.jpg	392	495	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.702405e+02	1.701901e+01	StimUp	25	24	e17.jpg	583	603	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.710002e+02	1.777871e+01	StimUp	26	25	e17.jpg	494	535	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.728208e+02	1.959931e+01	StimUp	27	26	e17.jpg	446	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.766826e+02	2.346114e+01	StimUp	28	27	e17.jpg	413	495	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.776747e+02	2.445322e+01	StimUp	29	28	e17.jpg	435	472	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:47	1	2	Vert	IncorrectMinorV	2.779189e+02	2.469749e+01	StimUp	30	29	e17.jpg	427	468	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	 	3.299213e+02	4.367622e+01	StartStim	1	1	 	516	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	 	3.303977e+02	4.415262e+01	StartStim	2	2	 	529	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	 	3.307629e+02	4.451784e+01	StartStim	3	3	 	522	492	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	 	3.454144e+02	5.916933e+01	StartStim	4	4	 	494	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	 	3.458604e+02	5.961531e+01	StartStim	5	5	 	508	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.480622e+02	2.143189e+00	StimUp	6	1	e1.jpg 	450	516	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.480943e+02	2.175224e+00	StimUp	7	2	e1.jpg 	484	558	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.487932e+02	2.874190e+00	StimUp	8	3	e1.jpg 	475	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.491588e+02	3.239706e+00	StimUp	9	4	e1.jpg 	396	495	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.499385e+02	4.019437e+00	StimUp	10	5	e1.jpg 	435	447	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.507384e+02	4.819350e+00	StimUp	11	6	e1.jpg 	403	474	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.510534e+02	5.134376e+00	StimUp	12	7	e1.jpg 	443	469	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.518534e+02	5.934351e+00	StimUp	13	8	e1.jpg 	392	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.519359e+02	6.016880e+00	StimUp	14	9	e1.jpg 	429	534	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.604161e+02	1.449707e+01	StimUp	15	10	e1.jpg 	424	516	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.604987e+02	1.457965e+01	StimUp	16	11	e1.jpg 	407	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.610763e+02	1.515726e+01	StimUp	17	12	e1.jpg 	452	535	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.614620e+02	1.554291e+01	StimUp	18	13	e1.jpg 	439	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.618578e+02	1.593870e+01	StimUp	19	14	e1.jpg 	457	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.622738e+02	1.635470e+01	StimUp	20	15	e1.jpg 	422	495	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.629020e+02	1.698296e+01	StimUp	21	16	e1.jpg 	426	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.662990e+02	2.037994e+01	StimUp	22	17	e1.jpg 	442	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.673416e+02	2.142256e+01	StimUp	23	18	e1.jpg 	491	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.678789e+02	2.195987e+01	StimUp	24	19	e1.jpg 	400	468	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.680726e+02	2.215358e+01	StimUp	25	20	e1.jpg 	392	459	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.681147e+02	2.219560e+01	StimUp	26	21	e1.jpg 	392	451	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.681566e+02	2.223759e+01	StimUp	27	22	e1.jpg 	426	424	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.691587e+02	2.323966e+01	StimUp	28	23	e1.jpg 	457	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.740110e+02	2.809193e+01	StimUp	29	24	e1.jpg 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.744170e+02	2.849790e+01	StimUp	30	25	e1.jpg 	482	558	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.751968e+02	2.927773e+01	StimUp	31	26	e1.jpg 	509	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.752995e+02	2.938048e+01	StimUp	32	27	e1.jpg 	552	493	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	3	Vert	IncorrectMinorV	3.755134e+02	2.959432e+01	StimUp	33	28	e1.jpg 	294	487	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	 	3.766310e+02	6.887292e-01	ITI	1	1	e1.jpg 	614	613	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	 	3.767144e+02	7.721993e-01	ITI	2	2	e1.jpg 	590	678	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	 	3.797133e+02	7.607363e-01	StartStim	3	1	 	522	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.803740e+02	6.373573e-01	StimUp	4	1	e20.jpg	385	511	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.807092e+02	9.725478e-01	StimUp	5	2	e20.jpg	395	538	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.810343e+02	1.297588e+00	StimUp	6	3	e20.jpg	388	496	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.821173e+02	2.380611e+00	StimUp	7	4	e20.jpg	405	474	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.825131e+02	2.776425e+00	StimUp	8	5	e20.jpg	400	495	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.837376e+02	4.000870e+00	StimUp	9	6	e20.jpg	427	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.840930e+02	4.356287e+00	StimUp	10	7	e20.jpg	457	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.845496e+02	4.812880e+00	StimUp	11	8	e20.jpg	403	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:48	1	4	Vert	IncorrectMinorV	3.860166e+02	6.279874e+00	StimUp	12	9	e20.jpg	323	642	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.105072e+02	7.494625e-01	ITI	1	1	e20.jpg	625	603	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.107819e+02	1.024170e+00	ITI	2	2	e20.jpg	630	675	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.112485e+02	1.490772e+00	ITI	3	3	e20.jpg	585	652	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.116446e+02	1.886806e+00	ITI	4	4	e20.jpg	562	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.119292e+02	2.171451e+00	ITI	5	5	e20.jpg	479	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.127493e+02	2.991519e+00	ITI	6	6	e20.jpg	568	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	 	4.189030e+02	6.138630e+00	StartStim	7	1	 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.195220e+02	5.970335e-01	StimUp	8	1	e28.jpg	406	516	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.198470e+02	9.221212e-01	StimUp	9	2	e28.jpg	420	534	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.201620e+02	1.237071e+00	StimUp	10	3	e28.jpg	465	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.202041e+02	1.279189e+00	StimUp	11	4	e28.jpg	473	535	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.205392e+02	1.614241e+00	StimUp	12	5	e28.jpg	466	465	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.209451e+02	2.020146e+00	StimUp	13	6	e28.jpg	464	510	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.212600e+02	2.335088e+00	StimUp	14	7	e28.jpg	466	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.216456e+02	2.720715e+00	StimUp	15	8	e28.jpg	392	516	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.230621e+02	4.137130e+00	StimUp	16	9	e28.jpg	448	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.234074e+02	4.482451e+00	StimUp	17	10	e28.jpg	425	415	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.238031e+02	4.878205e+00	StimUp	18	11	e28.jpg	466	453	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.241990e+02	5.274062e+00	StimUp	19	12	e28.jpg	489	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.245846e+02	5.659715e+00	StimUp	20	13	e28.jpg	479	405	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.252633e+02	6.338408e+00	StimUp	21	14	e28.jpg	435	444	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.253054e+02	6.380513e+00	StimUp	22	15	e28.jpg	444	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.256405e+02	6.715572e+00	StimUp	23	16	e28.jpg	474	427	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.263596e+02	7.434714e+00	StimUp	24	17	e28.jpg	468	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.267049e+02	7.779974e+00	StimUp	25	18	e28.jpg	473	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.278787e+02	8.953727e+00	StimUp	26	19	e28.jpg	513	448	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.283452e+02	9.420274e+00	StimUp	27	20	e28.jpg	413	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.286602e+02	9.735268e+00	StimUp	28	21	e28.jpg	435	429	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.383025e+02	1.937755e+01	StimUp	29	22	e28.jpg	464	537	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.405779e+02	2.165296e+01	StimUp	30	23	e28.jpg	407	511	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.406200e+02	2.169506e+01	StimUp	31	24	e28.jpg	405	495	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.406620e+02	2.173703e+01	StimUp	32	25	e28.jpg	413	504	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.410375e+02	2.211255e+01	StimUp	33	26	e28.jpg	413	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.427570e+02	2.383207e+01	StimUp	34	27	e28.jpg	522	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.445778e+02	2.565287e+01	StimUp	35	28	e28.jpg	426	424	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:49	1	5	Vert	IncorrectMinorV	4.452970e+02	2.637208e+01	StimUp	36	29	e28.jpg	421	490	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.469761e+02	2.805122e+01	StimUp	37	30	e28.jpg	405	468	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.470385e+02	2.811353e+01	StimUp	38	31	e28.jpg	488	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.475554e+02	2.863045e+01	StimUp	39	32	e28.jpg	413	472	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.475975e+02	2.867254e+01	StimUp	40	33	e28.jpg	405	471	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.478315e+02	2.890652e+01	StimUp	41	34	e28.jpg	392	438	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.481362e+02	2.921127e+01	StimUp	42	35	e28.jpg	358	402	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	5	Vert	IncorrectMinorV	4.485117e+02	2.958673e+01	StimUp	43	36	e28.jpg	522	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.489718e+02	3.198456e-02	ITI	1	1	e28.jpg	457	471	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.493171e+02	3.772879e-01	ITI	2	2	e28.jpg	544	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.494400e+02	5.001979e-01	ITI	3	3	e28.jpg	521	657	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.495528e+02	6.129922e-01	ITI	4	4	e28.jpg	521	673	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.500192e+02	1.079365e+00	ITI	5	5	e28.jpg	563	690	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.503544e+02	1.414561e+00	ITI	6	6	e28.jpg	525	607	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.504167e+02	1.476842e+00	ITI	7	7	e28.jpg	476	666	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.505193e+02	1.579454e+00	ITI	8	8	e28.jpg	544	678	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.506118e+02	1.671942e+00	ITI	9	9	e28.jpg	568	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.508559e+02	1.916039e+00	ITI	10	10	e28.jpg	633	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.511708e+02	2.231004e+00	ITI	11	11	e28.jpg	608	630	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.512533e+02	2.313491e+00	ITI	12	12	e28.jpg	531	646	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.515379e+02	2.598019e+00	ITI	13	13	e28.jpg	501	636	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.515900e+02	2.650134e+00	ITI	14	14	e28.jpg	517	603	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.536176e+02	1.669096e+00	StartStim	15	1	 	487	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	 	4.547299e+02	2.781410e+00	StartStim	16	2	 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.553182e+02	5.666703e-01	StimUp	17	1	a44.jpg	394	468	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.560375e+02	1.285946e+00	StimUp	18	2	a44.jpg	443	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.563528e+02	1.601249e+00	StimUp	19	3	a44.jpg	413	514	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.566781e+02	1.926557e+00	StimUp	20	4	a44.jpg	468	492	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.569730e+02	2.221432e+00	StimUp	21	5	a44.jpg	479	438	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.623554e+02	7.603819e+00	StimUp	22	6	a44.jpg	479	645	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.648732e+02	1.012160e+01	StimUp	23	7	a44.jpg	610	468	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.655520e+02	1.080045e+01	StimUp	24	8	a44.jpg	382	438	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.656143e+02	1.086274e+01	StimUp	25	9	a44.jpg	359	430	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.657876e+02	1.103608e+01	StimUp	26	10	a44.jpg	359	430	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.658701e+02	1.111853e+01	StimUp	27	11	a44.jpg	314	423	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.661343e+02	1.138278e+01	StimUp	28	12	a44.jpg	315	415	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.661865e+02	1.143489e+01	StimUp	29	13	a44.jpg	359	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.665720e+02	1.182042e+01	StimUp	30	14	a44.jpg	457	459	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.669071e+02	1.215557e+01	StimUp	31	15	a44.jpg	465	492	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.669492e+02	1.219766e+01	StimUp	32	16	a44.jpg	479	547	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.837886e+02	2.903707e+01	StimUp	33	17	a44.jpg	435	514	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	6	Vert	FollowedV	4.842653e+02	2.951378e+01	StimUp	34	18	a44.jpg	427	447	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.851508e+02	3.856867e-01	ITI	1	1	a44.jpg	488	684	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.856679e+02	9.028347e-01	ITI	2	2	a44.jpg	610	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.858617e+02	1.096541e+00	ITI	3	3	a44.jpg	474	600	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.861260e+02	1.360911e+00	ITI	4	4	a44.jpg	503	607	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.864814e+02	1.716256e+00	ITI	5	5	a44.jpg	457	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.865234e+02	1.758257e+00	ITI	6	6	a44.jpg	435	559	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.865855e+02	1.820438e+00	ITI	7	7	a44.jpg	463	570	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.868297e+02	2.064592e+00	ITI	8	8	a44.jpg	485	558	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.873871e+02	2.621943e+00	ITI	9	9	a44.jpg	595	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.877892e+02	1.312363e-02	StartStim	10	1	 	533	613	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.898608e+02	2.084700e+00	StartStim	11	2	 	530	514	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	 	4.910036e+02	3.227509e+00	StartStim	12	3	 	522	504	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	FollowedV	4.916222e+02	5.969884e-01	StimUp	13	1	a42.jpg	418	424	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	FollowedV	4.919880e+02	9.627807e-01	StimUp	14	2	a42.jpg	435	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	FollowedV	4.922626e+02	1.237374e+00	StimUp	15	3	a42.jpg	485	471	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:50	1	7	Vert	FollowedV	5.036374e+02	1.261223e+01	StimUp	16	4	a42.jpg	558	493	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.078246e+02	1.679939e+01	StimUp	17	5	a42.jpg	449	469	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.086013e+02	1.757606e+01	StimUp	18	6	a42.jpg	566	447	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.087142e+02	1.768899e+01	StimUp	19	7	a42.jpg	575	448	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.088371e+02	1.781186e+01	StimUp	20	8	a42.jpg	575	448	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.145583e+02	2.353314e+01	StimUp	21	9	a42.jpg	379	459	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.177532e+02	2.672800e+01	StimUp	22	10	a42.jpg	508	514	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	7	Vert	FollowedV	5.189576e+02	2.793238e+01	StimUp	23	11	a42.jpg	566	415	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.255149e+02	1.285016e+00	ITI	1	1	a42.jpg	568	675	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.258300e+02	1.600108e+00	ITI	2	2	a42.jpg	589	648	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.258923e+02	1.662335e+00	ITI	3	3	a42.jpg	480	657	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.260555e+02	1.825565e+00	ITI	4	4	a42.jpg	461	646	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.261783e+02	1.948381e+00	ITI	5	5	a42.jpg	483	613	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.263517e+02	2.121789e+00	ITI	6	6	a42.jpg	539	580	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.265554e+02	2.325442e+00	ITI	7	7	a42.jpg	539	580	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.296130e+02	2.375737e+00	StartStim	8	1	 	504	492	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.350871e+02	7.849830e+00	StartStim	9	2	 	463	535	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	 	5.369266e+02	9.689354e+00	StartStim	10	3	 	508	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.375350e+02	5.868751e-01	StimUp	11	1	a49.jpg	444	471	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.382544e+02	1.306267e+00	StimUp	12	2	a49.jpg	472	493	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.394688e+02	2.520672e+00	StimUp	13	3	a49.jpg	487	492	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.499274e+02	1.297932e+01	StimUp	14	4	a49.jpg	479	516	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.508285e+02	1.388039e+01	StimUp	15	5	a49.jpg	461	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.545490e+02	1.760087e+01	StimUp	16	6	a49.jpg	441	535	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.574608e+02	2.051276e+01	StimUp	17	7	a49.jpg	615	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.575029e+02	2.055486e+01	StimUp	18	8	a49.jpg	594	538	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:51	1	8	Vert	FollowedV	5.603039e+02	2.335582e+01	StimUp	19	9	a49.jpg	470	471	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.673441e+02	3.754730e-01	ITI	1	1	a49.jpg	501	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.674267e+02	4.581001e-01	ITI	2	2	a49.jpg	561	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.674787e+02	5.101512e-01	ITI	3	3	a49.jpg	560	579	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.676218e+02	6.531886e-01	ITI	4	4	a49.jpg	566	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.677042e+02	7.355893e-01	ITI	5	5	a49.jpg	654	682	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.680392e+02	1.070595e+00	ITI	6	6	a49.jpg	633	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.684652e+02	1.496656e+00	ITI	7	7	a49.jpg	610	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.686993e+02	1.730765e+00	ITI	8	8	a49.jpg	610	579	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.687818e+02	1.813261e+00	ITI	9	9	a49.jpg	501	558	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.688844e+02	1.915860e+00	ITI	10	10	a49.jpg	485	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.690376e+02	2.069004e+00	ITI	11	11	a49.jpg	485	547	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.691200e+02	2.151403e+00	ITI	12	12	a49.jpg	457	537	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.694450e+02	2.476434e+00	ITI	13	13	a49.jpg	386	555	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.694770e+02	2.508371e+00	ITI	14	14	a49.jpg	387	577	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.695795e+02	2.610938e+00	ITI	15	15	a49.jpg	418	579	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.696822e+02	2.713628e+00	ITI	16	16	a49.jpg	419	580	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.704779e+02	4.977954e-01	StartStim	17	1	 	537	514	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.705200e+02	5.398656e-01	StartStim	18	2	 	541	537	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.708850e+02	9.048848e-01	StartStim	19	3	 	552	514	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.716640e+02	1.683883e+00	StartStim	20	4	 	537	514	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.728368e+02	2.856708e+00	StartStim	21	5	 	552	508	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.735856e+02	3.605516e+00	StartStim	22	6	 	537	520	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.743849e+02	4.404735e+00	StartStim	23	7	 	537	525	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.748005e+02	4.820357e+00	StartStim	24	8	 	537	513	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.755593e+02	5.579222e+00	StartStim	25	9	 	537	514	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.763384e+02	6.358302e+00	StartStim	26	10	 	537	504	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.767641e+02	6.783979e+00	StartStim	27	11	 	518	471	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	 	5.782801e+02	8.300005e+00	StartStim	28	12	 	522	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.792222e+02	9.204799e-01	StimUp	29	1	e20.jpg	479	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.795775e+02	1.275860e+00	StimUp	30	2	e20.jpg	473	427	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.799227e+02	1.621033e+00	StimUp	31	3	e20.jpg	446	438	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.809348e+02	2.633131e+00	StimUp	32	4	e20.jpg	445	426	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.817146e+02	3.412903e+00	StimUp	33	5	e20.jpg	426	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.820195e+02	3.717774e+00	StimUp	34	6	e20.jpg	457	415	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.824154e+02	4.113687e+00	StimUp	35	7	e20.jpg	424	447	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.827202e+02	4.418533e+00	StimUp	36	8	e20.jpg	435	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.831159e+02	4.814258e+00	StimUp	37	9	e20.jpg	488	471	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.834612e+02	5.159497e+00	StimUp	38	10	e20.jpg	426	424	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	9	Vert	IncorrectMinorV	5.838569e+02	5.555263e+00	StimUp	39	11	e20.jpg	494	471	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	 	6.134456e+02	2.123548e+00	StartStim	1	1	 	501	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	FollowedV	6.148520e+02	1.385194e+00	StimUp	2	1	a49.jpg	461	516	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	FollowedV	6.151672e+02	1.700389e+00	StimUp	3	2	a49.jpg	465	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	FollowedV	6.183118e+02	4.845014e+00	StimUp	4	3	a49.jpg	435	406	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	FollowedV	6.184448e+02	4.978052e+00	StimUp	5	4	a49.jpg	457	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:52	1	10	Vert	FollowedV	6.188912e+02	5.424381e+00	StimUp	6	5	a49.jpg	431	450	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	10	Vert	FollowedV	6.215303e+02	8.063557e+00	StimUp	7	6	a49.jpg	446	459	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	10	Vert	FollowedV	6.384410e+02	2.497427e+01	StimUp	8	7	a49.jpg	370	402	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	10	Vert	FollowedV	6.396857e+02	2.621897e+01	StimUp	9	8	a49.jpg	457	453	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.442390e+02	7.495455e-01	ITI	1	1	a49.jpg	570	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.446046e+02	1.115060e+00	ITI	2	2	a49.jpg	610	652	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.448589e+02	1.369427e+00	ITI	3	3	a49.jpg	591	627	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.451031e+02	1.613629e+00	ITI	4	4	a49.jpg	461	607	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.452968e+02	1.807275e+00	ITI	5	5	a49.jpg	517	580	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.454196e+02	1.930160e+00	ITI	6	6	a49.jpg	541	558	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.456638e+02	2.174277e+00	ITI	7	7	a49.jpg	546	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.459989e+02	2.509414e+00	ITI	8	8	a49.jpg	649	604	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.460814e+02	2.591876e+00	ITI	9	9	a49.jpg	519	636	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	 	6.513600e+02	4.859450e+00	StartStim	10	1	 	511	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.519983e+02	6.171235e-01	StimUp	11	1	e20.jpg	413	495	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.523436e+02	9.624094e-01	StimUp	12	2	e20.jpg	400	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.526989e+02	1.317722e+00	StimUp	13	3	e20.jpg	421	490	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.530643e+02	1.683099e+00	StimUp	14	4	e20.jpg	479	516	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.533589e+02	1.977751e+00	StimUp	15	5	e20.jpg	457	415	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.537650e+02	2.383867e+00	StimUp	16	6	e20.jpg	392	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.540598e+02	2.678669e+00	StimUp	17	7	e20.jpg	474	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.544355e+02	3.054350e+00	StimUp	18	8	e20.jpg	426	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.551445e+02	3.763378e+00	StimUp	19	9	e20.jpg	413	459	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.561567e+02	4.775552e+00	StimUp	20	10	e20.jpg	413	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.561988e+02	4.817636e+00	StimUp	21	11	e20.jpg	423	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.569179e+02	5.536693e+00	StimUp	22	12	e20.jpg	403	468	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.571823e+02	5.801100e+00	StimUp	23	13	e20.jpg	445	403	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.575578e+02	6.176603e+00	StimUp	24	14	e20.jpg	479	448	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.583173e+02	6.936144e+00	StimUp	25	15	e20.jpg	405	474	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.586019e+02	7.220757e+00	StimUp	26	16	e20.jpg	423	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.589572e+02	7.576073e+00	StimUp	27	17	e20.jpg	413	372	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.593832e+02	8.002069e+00	StimUp	28	18	e20.jpg	428	504	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.604762e+02	9.094990e+00	StimUp	29	19	e20.jpg	392	511	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.613974e+02	1.001622e+01	StimUp	30	20	e20.jpg	457	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.621570e+02	1.077583e+01	StimUp	31	21	e20.jpg	501	481	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.629570e+02	1.157587e+01	StimUp	32	22	e20.jpg	395	490	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.633225e+02	1.194130e+01	StimUp	33	23	e20.jpg	446	450	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.654766e+02	1.409540e+01	StimUp	34	24	e20.jpg	396	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:53	1	11	Vert	IncorrectMinorV	6.661351e+02	1.475389e+01	StimUp	35	25	e20.jpg	457	403	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	 	6.907173e+02	6.313494e+00	StartStim	1	1	 	522	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	6.914216e+02	6.777494e-01	StimUp	2	1	a4.jpg 	424	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	6.918176e+02	1.073746e+00	StimUp	3	2	a4.jpg 	450	490	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	6.921023e+02	1.358370e+00	StimUp	4	3	a4.jpg 	446	447	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.002536e+02	9.509767e+00	StimUp	5	4	a4.jpg 	435	537	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.005990e+02	9.855128e+00	StimUp	6	5	a4.jpg 	451	559	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.008735e+02	1.012966e+01	StimUp	7	6	a4.jpg 	457	537	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.024215e+02	1.167759e+01	StimUp	8	7	a4.jpg 	406	490	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.125789e+02	2.183504e+01	StimUp	9	8	a4.jpg 	464	516	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.150163e+02	2.427240e+01	StimUp	10	9	a4.jpg 	468	450	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	12	Vert	FollowedV	7.197372e+02	2.899333e+01	StimUp	11	10	a4.jpg 	531	471	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.250991e+02	9.260419e-02	ITI	1	1	a4.jpg 	283	465	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.254949e+02	4.884381e-01	ITI	2	2	a4.jpg 	348	529	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.262954e+02	1.288881e+00	ITI	3	3	a4.jpg 	590	687	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.263779e+02	1.371439e+00	ITI	4	4	a4.jpg 	634	675	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.266725e+02	1.666033e+00	ITI	5	5	a4.jpg 	547	648	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.267349e+02	1.728425e+00	ITI	6	6	a4.jpg 	497	636	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.269997e+02	1.993173e+00	ITI	7	7	a4.jpg 	497	657	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.271327e+02	2.126247e+00	ITI	8	8	a4.jpg 	524	646	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.279529e+02	2.946448e+00	ITI	9	9	a4.jpg 	461	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.294554e+02	1.436861e+00	StartStim	10	1	 	530	513	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.298104e+02	1.791929e+00	StartStim	11	2	 	514	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.313972e+02	3.378697e+00	StartStim	12	3	 	501	492	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.317523e+02	3.733827e+00	StartStim	13	4	 	514	492	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	 	7.333594e+02	5.340918e+00	StartStim	14	5	 	522	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	FollowedV	7.343918e+02	1.011363e+00	StimUp	15	1	a49.jpg	445	438	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	FollowedV	7.347171e+02	1.336631e+00	StimUp	16	2	a49.jpg	494	471	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	FollowedV	7.357700e+02	2.389534e+00	StimUp	17	3	a49.jpg	423	426	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	FollowedV	7.443751e+02	1.099464e+01	StimUp	18	4	a49.jpg	461	471	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:54	1	13	Vert	FollowedV	7.448720e+02	1.149158e+01	StimUp	19	5	a49.jpg	424	468	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	 	7.670559e+02	6.492862e-01	StartStim	1	1	 	508	504	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.677952e+02	7.183802e-01	StimUp	2	1	a52.jpg	413	513	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.681912e+02	1.114414e+00	StimUp	3	2	a52.jpg	392	534	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.684758e+02	1.398996e+00	StimUp	4	3	a52.jpg	428	513	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.693364e+02	2.259573e+00	StimUp	5	4	a52.jpg	446	472	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.701162e+02	3.039439e+00	StimUp	6	5	a52.jpg	392	474	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.704716e+02	3.394822e+00	StimUp	7	6	a52.jpg	457	447	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.708371e+02	3.760355e+00	StimUp	8	7	a52.jpg	403	409	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.712329e+02	4.156124e+00	StimUp	9	8	a52.jpg	467	427	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.784724e+02	1.139559e+01	StimUp	10	9	a52.jpg	442	537	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.785145e+02	1.143776e+01	StimUp	11	10	a52.jpg	468	559	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.787890e+02	1.171224e+01	StimUp	12	11	a52.jpg	460	513	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.790939e+02	1.201708e+01	StimUp	13	12	a52.jpg	441	535	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.791562e+02	1.207938e+01	StimUp	14	13	a52.jpg	442	537	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.794509e+02	1.237414e+01	StimUp	15	14	a52.jpg	450	531	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.798265e+02	1.274972e+01	StimUp	16	15	a52.jpg	451	547	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.861337e+02	1.905687e+01	StimUp	17	16	a52.jpg	418	600	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.861758e+02	1.909902e+01	StimUp	18	17	a52.jpg	410	621	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.868544e+02	1.977766e+01	StimUp	19	18	a52.jpg	474	579	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.871493e+02	2.007247e+01	StimUp	20	19	a52.jpg	460	547	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.874945e+02	2.041773e+01	StimUp	21	20	a52.jpg	501	570	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.878297e+02	2.075287e+01	StimUp	22	21	a52.jpg	451	547	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.933705e+02	2.629376e+01	StimUp	23	22	a52.jpg	473	580	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.936350e+02	2.655825e+01	StimUp	24	23	a52.jpg	438	547	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.939905e+02	2.691374e+01	StimUp	25	24	a52.jpg	451	570	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	14	Vert	FollowedV	7.942752e+02	2.719844e+01	StimUp	26	25	a52.jpg	463	547	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:55	1	15	Vert	 	8.042296e+02	1.679123e+00	StartStim	1	1	 	515	525	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	 	8.357532e+02	1.487019e+00	ITI	1	1	e10.jpg	593	579	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	 	8.381047e+02	8.309018e-01	StartStim	2	1	 	522	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.391067e+02	9.809165e-01	StimUp	3	1	a50.jpg	406	490	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.391489e+02	1.023036e+00	StimUp	4	2	a50.jpg	443	493	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.395245e+02	1.398697e+00	StimUp	5	3	a50.jpg	405	481	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.398899e+02	1.764106e+00	StimUp	6	4	a50.jpg	446	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.402049e+02	2.079038e+00	StimUp	7	5	a50.jpg	446	429	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.402470e+02	2.121153e+00	StimUp	8	6	a50.jpg	427	481	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.405517e+02	2.425917e+00	StimUp	9	7	a50.jpg	462	393	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.412910e+02	3.165214e+00	StimUp	10	8	a50.jpg	514	492	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.632645e+02	2.513865e+01	StimUp	11	9	a50.jpg	457	459	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.641454e+02	2.601958e+01	StimUp	12	10	a50.jpg	448	459	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.641875e+02	2.606170e+01	StimUp	13	11	a50.jpg	448	459	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.643916e+02	2.626574e+01	StimUp	14	12	a50.jpg	250	696	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:56	1	16	Vert	FollowedV	8.654645e+02	2.733865e+01	StimUp	15	13	a50.jpg	443	504	Stim	1	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	16	Vert	FollowedV	8.662847e+02	2.815887e+01	StimUp	16	14	a50.jpg	457	471	Stim	1	1	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.732019e+02	1.648929e+00	ITI	1	1	a50.jpg	590	675	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.733855e+02	1.832540e+00	ITI	2	2	a50.jpg	656	672	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.734275e+02	1.874515e+00	ITI	3	3	a50.jpg	698	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.736211e+02	2.068060e+00	ITI	4	4	a50.jpg	715	669	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.737035e+02	2.150476e+00	ITI	5	5	a50.jpg	671	624	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.739679e+02	2.414862e+00	ITI	6	6	a50.jpg	583	591	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.759249e+02	1.366103e+00	StartStim	7	1	 	515	492	Screen	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	9:57	1	17	Vert	 	8.836811e+02	9.122246e+00	StartStim	8	2	 	515	514	Stim	0	0	P019A Super Remdial Vert	
+Cousteau	October20	20-Oct-2016	10:48	1	18	Vert	 	3.976774e+03	3.060050e+03	StartStim	1	1	 	43	21	Screen	0	0	P019A Super Remdial Vert	

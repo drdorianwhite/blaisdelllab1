@@ -1,0 +1,24 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.039046e+01	1.735751e+00	StartStim	1	1	 	486	537	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.054811e+01	1.893400e+00	StartStim	2	2	 	476	553	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.071255e+01	2.057847e+00	StartStim	3	3	 	487	553	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.086599e+01	2.211288e+00	StartStim	4	4	 	505	537	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.105178e+01	2.397076e+00	StartStim	5	5	 	508	547	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.120731e+01	2.552602e+00	StartStim	6	6	 	501	574	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.141105e+01	2.756347e+00	StartStim	7	7	 	496	547	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.159330e+01	2.938594e+00	StartStim	8	8	 	505	537	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.172542e+01	3.070719e+00	StartStim	9	9	 	501	558	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.188863e+01	3.233928e+00	StartStim	10	10	 	501	558	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.205068e+01	3.395971e+00	StartStim	11	11	 	522	558	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.223270e+01	3.577997e+00	StartStim	12	12	 	536	537	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.239490e+01	3.740191e+00	StartStim	13	13	 	533	547	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.256690e+01	3.912190e+00	StartStim	14	14	 	493	547	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.272872e+01	4.074009e+00	StartStim	15	15	 	497	531	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.291056e+01	4.255855e+00	StartStim	16	16	 	570	525	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.307235e+01	4.417646e+00	StartStim	17	17	 	555	531	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	 	1.323432e+01	4.579615e+00	StartStim	18	18	 	526	525	Stim	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	1.385082e+01	5.184849e-02	StimUp	19	1	h14.jpg	522	531	Stim	1	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	1.403425e+01	2.352794e-01	StimUp	20	2	h14.jpg	544	525	Stim	1	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	1.519244e+01	1.393470e+00	StimUp	21	3	h14.jpg	562	487	Stim	1	1	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	3.171018e+01	1.791122e+01	StimUp	22	4	h14.jpg	207	296	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	3.416042e+01	2.036145e+01	StimUp	23	5	h14.jpg	666	78	Screen	0	0	P014C Hort	
+MaryTest1	August28	28-Aug-2017	9:38	1	1	Hort	H Correct	3.620339e+01	2.240442e+01	StimUp	24	6	h14.jpg	401	156	Screen	0	0	P014C Hort	

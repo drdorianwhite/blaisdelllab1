@@ -1,0 +1,5 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest	September13	13-Sep-2017	17:12	1	1	 	 	2.038870e+01	1.525479e+00	Stim	1	1	 	533	531	Stim	1	1	Autoshaping	
+MaryTest	September13	13-Sep-2017	17:12	1	1	 	 	3.416408e+01	1.530086e+01	Stim	2	2	 	551	487	Screen	0	0	Autoshaping	
+MaryTest	September13	13-Sep-2017	17:12	1	1	 	 	3.440441e+01	1.554119e+01	Stim	3	3	 	511	537	Stim	1	1	Autoshaping	
+MaryTest	September13	13-Sep-2017	17:12	1	2	 	 	5.451804e+01	4.089680e-01	ITI	1	1	 	173	282	Screen	0	0	Autoshaping	
+MaryTest	September13	13-Sep-2017	17:12	1	2	 	 	5.669660e+01	2.587529e+00	ITI	2	2	 	468	178	Screen	0	0	Autoshaping	

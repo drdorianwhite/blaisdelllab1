@@ -1,0 +1,6 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Hawthorne	September12	12-Sep-2017	12:14	1	1	Vert	V Correct	7.134099e+00	3.004286e+00	7.037071e+02	3.000878e+01	e11.jpg	0	1	13	4	30	1.176471e-01	1	1	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:15	1	2	Vert	V Major	7.438710e+02	3.011822e+00	2.425981e+01	3.001431e+01	d43.jpg	0	1	10	23	30	4.339623e-01	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:16	1	3	Vert	V Major	8.011655e+02	3.011864e+00	4.944340e+01	3.000822e+01	g50.jpg	0	1	18	20	18	5.263158e-01	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:19	1	4	Vert	V Minor	8.836318e+02	3.006335e+00	1.421271e+02	3.001228e+01	e18.jpg	3	1	80	25	41	3.787879e-01	0	0	P014C Vert	
+Hawthorne	September12	12-Sep-2017	12:20	1	5	Vert	V Major	1.058798e+03	3.014795e+00	4.054549e+01	3.001125e+01	g50.jpg	0	1	31	11	7	6.111111e-01	0	0	P014C Vert	

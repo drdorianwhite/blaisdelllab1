@@ -1,0 +1,11 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Hawthorne	September5	05-Sep-2017	12:41	1	1	Vert	V Major	5.927541e+00	3.008610e+00	3.356720e+02	3.000520e+01	d2.jpg 	0	1	76	15	15	5.000000e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:45	1	2	Vert	V Correct	3.746254e+02	3.011752e+00	2.190046e+02	3.001234e+01	e25.jpg	0	1	180	8	11	4.210526e-01	1	2	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:49	1	3	Vert	V Correct	6.266626e+02	3.011664e+00	1.749409e+02	3.001272e+01	e1.jpg 	0	1	137	5	13	2.777778e-01	1	1	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:51	1	4	Vert	V Minor	8.346372e+02	3.012596e+00	6.625699e+01	3.000771e+01	e25.jpg	0	1	42	6	2	7.500000e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:52	1	5	Vert	V Major	9.339284e+02	3.014935e+00	2.615858e+01	3.000845e+01	g6.jpg 	0	1	26	21	42	3.333333e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:53	1	6	Vert	V Minor	9.931198e+02	3.006257e+00	7.404403e+01	3.000761e+01	f21.jpg	5	1	66	21	20	5.121951e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:54	1	7	Vert	V Minor	1.100183e+03	3.003611e+00	2.181556e-01	3.001258e+01	f6.jpg 	0	1	0	4	10	2.857143e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	12:58	1	8	Vert	V Minor	1.133427e+03	3.004751e+00	1.935109e+02	3.001379e+01	e9.jpg 	4	1	162	28	9	7.567568e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	13:0	1	9	Vert	V Minor	1.359971e+03	3.011435e+00	1.388534e+02	3.000886e+01	e2.jpg 	0	1	83	52	40	5.652174e-01	0	0	P014C Vert	
+Hawthorne	September5	05-Sep-2017	13:8	1	10	Vert	V Major	1.531853e+03	3.011133e+00	3.965981e+02	3.001012e+01	d2.jpg 	0	1	295	36	34	5.142857e-01	0	0	P014C Vert	

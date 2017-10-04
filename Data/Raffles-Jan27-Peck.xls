@@ -1,0 +1,24 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	 	1.456396e+01	8.649899e+00	StartStim	1	1	 	566	558	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	 	1.490804e+01	8.993979e+00	StartStim	2	2	 	507	525	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.544216e+01	4.835823e-01	StimUp	3	1	3h.jpg 	573	513	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.574579e+01	7.872114e-01	StimUp	4	2	3h.jpg 	531	469	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.625005e+01	1.291477e+00	StimUp	5	3	3h.jpg 	610	525	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.644225e+01	1.483671e+00	StimUp	6	4	3h.jpg 	616	532	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.791158e+01	2.953001e+00	StimUp	7	5	3h.jpg 	603	525	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.814396e+01	3.185388e+00	StimUp	8	6	3h.jpg 	558	471	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.840646e+01	3.447885e+00	StimUp	9	7	3h.jpg 	599	513	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.868904e+01	3.730461e+00	StimUp	10	8	3h.jpg 	580	519	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	1.879052e+01	3.831941e+00	StimUp	11	9	3h.jpg 	637	582	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:5	1	1	Hort	IncorrectMinorH	2.221081e+01	7.252235e+00	StimUp	12	10	3h.jpg 	602	495	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	 	4.498733e+01	1.136611e-02	ITI	1	1	3h.jpg 	573	495	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	 	4.516996e+01	1.939946e-01	ITI	2	2	3h.jpg 	601	472	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	 	4.835548e+01	3.750636e-01	StartStim	3	1	 	522	525	Stim	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	4.913263e+01	7.462677e-01	StimUp	4	1	b43.jpg	538	465	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	4.923657e+01	8.502114e-01	StimUp	5	2	b43.jpg	566	447	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	4.947923e+01	1.092871e+00	StimUp	6	3	b43.jpg	566	438	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	4.955065e+01	1.164290e+00	StimUp	7	4	b43.jpg	619	415	Screen	0	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	5.039641e+01	2.010046e+00	StimUp	8	5	b43.jpg	601	472	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	5.109142e+01	2.705058e+00	StimUp	9	6	b43.jpg	507	537	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	5.117291e+01	2.786542e+00	StimUp	10	7	b43.jpg	485	537	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	5.169681e+01	3.310443e+00	StimUp	11	8	b43.jpg	535	448	Stim	1	0	P019A Remedial Hort	
+Raffles	Jan27	27-Jan-2017	19:6	1	2	Hort	FollowedH	5.201965e+01	3.633289e+00	StimUp	12	9	b43.jpg	522	448	Stim	1	0	P019A Remedial Hort	

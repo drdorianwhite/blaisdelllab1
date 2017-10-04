@@ -1,0 +1,55 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	Spet7	07-Sep-2016	15:52	1	1	Vert	 	6.108512e+00	1.578260e-01	StartStim	1	1	 	457	580	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:52	1	1	Vert	 	6.608355e+00	6.576697e-01	StartStim	2	2	 	472	486	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:52	1	1	Vert	 	6.893641e+00	9.429555e-01	StartStim	3	3	 	511	514	Stim	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:52	1	1	Vert	IncorrectMinorV	7.051491e+00	7.405936e-02	StimUp	4	1	e9.jpg 	559	498	Stim	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:52	1	1	Vert	IncorrectMinorV	7.236435e+00	2.590029e-01	StimUp	5	2	e9.jpg 	533	448	Stim	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.434439e+01	1.434240e+01	StartStim	1	1	 	530	519	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.461891e+01	1.461691e+01	StartStim	2	2	 	446	586	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.484282e+01	1.484083e+01	StartStim	3	3	 	475	514	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.501624e+01	1.501425e+01	StartStim	4	4	 	428	514	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.521996e+01	1.521797e+01	StartStim	5	5	 	508	541	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.540346e+01	1.540146e+01	StartStim	6	6	 	435	504	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	 	5.559706e+01	1.559506e+01	StartStim	7	7	 	515	510	Stim	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.584097e+01	2.029900e-01	StimUp	8	1	a52.jpg	443	541	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.650376e+01	8.657807e-01	StimUp	9	2	a52.jpg	530	519	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.665727e+01	1.019291e+00	StimUp	10	3	a52.jpg	479	519	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.680049e+01	1.162512e+00	StimUp	11	4	a52.jpg	450	510	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.696392e+01	1.325946e+00	StimUp	12	5	a52.jpg	450	498	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	5.711732e+01	1.479341e+00	StimUp	13	6	a52.jpg	472	487	Stim	1	1	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	7.194629e+01	1.630831e+01	StimUp	14	7	a52.jpg	428	470	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	7.213011e+01	1.649213e+01	StimUp	15	8	a52.jpg	428	469	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	7.231387e+01	1.667589e+01	StimUp	16	9	a52.jpg	426	467	Stim	1	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	15:53	1	2	Vert	FollowedV	7.254810e+01	1.691012e+01	StimUp	17	10	a52.jpg	427	466	Stim	1	1	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.110027e+02	6.223379e+02	StartStim	1	1	 	496	355	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.111981e+02	6.225333e+02	StartStim	2	2	 	455	453	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.113816e+02	6.227168e+02	StartStim	3	3	 	479	432	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.115448e+02	6.228801e+02	StartStim	4	4	 	479	421	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.116980e+02	6.230332e+02	StartStim	5	5	 	468	426	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.118409e+02	6.231762e+02	StartStim	6	6	 	457	421	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.120244e+02	6.233596e+02	StartStim	7	7	 	457	405	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.121573e+02	6.234925e+02	StartStim	8	8	 	457	387	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.123206e+02	6.236559e+02	StartStim	9	9	 	424	423	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.124637e+02	6.237989e+02	StartStim	10	10	 	463	415	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.126370e+02	6.239723e+02	StartStim	11	11	 	472	459	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.128204e+02	6.241557e+02	StartStim	12	12	 	428	510	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.129835e+02	6.243188e+02	StartStim	13	13	 	544	399	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.131669e+02	6.245022e+02	StartStim	14	14	 	403	415	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.133201e+02	6.246553e+02	StartStim	15	15	 	538	475	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.134833e+02	6.248185e+02	StartStim	16	16	 	558	574	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.136262e+02	6.249615e+02	StartStim	17	17	 	533	510	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.137794e+02	6.251147e+02	StartStim	18	18	 	479	421	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.139225e+02	6.252577e+02	StartStim	19	19	 	398	453	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.140856e+02	6.254209e+02	StartStim	20	20	 	555	432	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.142387e+02	6.255739e+02	StartStim	21	21	 	457	444	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.144019e+02	6.257371e+02	StartStim	22	22	 	484	399	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.145650e+02	6.259002e+02	StartStim	23	23	 	493	498	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.147483e+02	6.260836e+02	StartStim	24	24	 	398	496	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.149014e+02	6.262366e+02	StartStim	25	25	 	522	366	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.150645e+02	6.263998e+02	StartStim	26	26	 	419	400	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.152277e+02	6.265629e+02	StartStim	27	27	 	522	411	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.154009e+02	6.267362e+02	StartStim	28	28	 	442	510	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.155641e+02	6.268993e+02	StartStim	29	29	 	479	409	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.157272e+02	6.270624e+02	StartStim	30	30	 	544	432	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.158802e+02	6.272155e+02	StartStim	31	31	 	485	453	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.160434e+02	6.273786e+02	StartStim	32	32	 	419	378	Screen	0	0	P019A Super Remdial Vert	
+Mary	Spet7	07-Sep-2016	16:4	1	3	Vert	 	7.162066e+02	6.275418e+02	StartStim	33	33	 	511	355	Screen	0	0	P019A Super Remdial Vert	

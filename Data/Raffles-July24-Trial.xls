@@ -1,0 +1,7 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Raffles	July24	24-Jul-2017	13:45	1	1	Vert	V Major	5.875585e+00	3.013238e+00	1.388461e+02	3.001306e+01	d8.jpg 	0	1	7	4	0	1	0	0	P019A Remedial Vert	
+Raffles	July24	24-Jul-2017	13:46	1	2	Vert	V Major	1.777597e+02	3.006363e+00	5.208821e+00	3.000900e+01	d19.jpg	3	1	2	1	0	1	0	0	P019A Remedial Vert	
+Raffles	July24	24-Jul-2017	13:48	1	3	Vert	V Major	2.159988e+02	3.012988e+00	7.646988e+01	3.001441e+01	d14.jpg	0	1	1	0	0	NaN	0	0	P019A Remedial Vert	
+Raffles	July24	24-Jul-2017	13:49	1	4	Vert	V Minor	3.254953e+02	3.003546e+00	2.699671e+01	3.000643e+01	e10.jpg	0	1	2	0	2	0	0	0	P019A Remedial Vert	
+Raffles	July24	24-Jul-2017	13:50	1	5	Vert	V Minor	3.855197e+02	3.012691e+00	1.685192e+01	3.001315e+01	e10.jpg	0	1	2	1	0	1	0	0	P019A Remedial Vert	
+Raffles	July24	24-Jul-2017	13:50	1	6	Vert	V Correct	4.354059e+02	3.012886e+00	1.115087e+01	3.000507e+01	a4.jpg 	0	1	1	9	4	6.923077e-01	1	0	P019A Remedial Vert	

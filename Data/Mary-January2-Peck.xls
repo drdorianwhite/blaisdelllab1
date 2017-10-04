@@ -1,0 +1,43 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	January2	03-Jan-2017	15:26	1	1	Vert	 	6.970526e+00	1.089396e+00	StartStim	1	1	 	508	502	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	8.154833e+00	1.167750e+00	StimUp	2	1	a41.jpg	272	530	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	8.571068e+00	1.583984e+00	StimUp	3	2	a41.jpg	191	492	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	8.804066e+00	1.816983e+00	StimUp	4	3	a41.jpg	207	458	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	9.066893e+00	2.079810e+00	StimUp	5	4	a41.jpg	266	465	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	9.359845e+00	2.372762e+00	StimUp	6	5	a41.jpg	283	533	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	9.713160e+00	2.726077e+00	StimUp	7	6	a41.jpg	249	541	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	1	Vert	FollowedV	9.955908e+00	2.968825e+00	StimUp	8	7	a41.jpg	234	476	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	2	Vert	 	1.016325e+01	1.525246e-01	ITI	1	1	a41.jpg	270	471	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	2	Vert	 	1.386435e+01	8.481095e-01	StartStim	2	1	 	508	515	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	2	Vert	FollowedV	1.495228e+01	1.067366e+00	StimUp	3	1	a51.jpg	331	552	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	2	Vert	FollowedV	1.520521e+01	1.320293e+00	StimUp	4	2	a51.jpg	297	557	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:26	1	2	Vert	FollowedV	1.552844e+01	1.643529e+00	StimUp	5	3	a51.jpg	227	519	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	2	Vert	FollowedV	1.574097e+01	1.856054e+00	StimUp	6	4	a51.jpg	251	469	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	2	Vert	FollowedV	1.597368e+01	2.088765e+00	StimUp	7	5	a51.jpg	281	488	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	2	Vert	FollowedV	1.621649e+01	2.331574e+00	StimUp	8	6	a51.jpg	277	534	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	2	Vert	FollowedV	1.645915e+01	2.574240e+00	StimUp	9	7	a51.jpg	246	555	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	2	Vert	FollowedV	1.686318e+01	2.978264e+00	StimUp	10	8	a51.jpg	239	484	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	 	2.092176e+01	9.984276e-01	StartStim	1	1	 	518	500	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	FollowedV	2.223910e+01	1.288570e+00	StimUp	2	1	a44.jpg	264	493	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	FollowedV	2.254221e+01	1.591679e+00	StimUp	3	2	a44.jpg	247	490	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	FollowedV	2.297602e+01	2.025498e+00	StimUp	4	3	a44.jpg	237	504	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	FollowedV	2.342003e+01	2.469502e+00	StimUp	5	4	a44.jpg	252	478	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	3	Vert	FollowedV	2.384404e+01	2.893517e+00	StimUp	6	5	a44.jpg	301	514	Stim	1	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	 	2.407121e+01	1.020896e-01	ITI	1	1	a44.jpg	278	556	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	 	2.745960e+01	4.856548e-01	StartStim	2	1	 	517	523	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	2.932776e+01	1.852299e+00	StimUp	3	1	e27.jpg	294	502	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	2.951056e+01	2.035105e+00	StimUp	4	2	e27.jpg	298	502	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	2.979341e+01	2.317956e+00	StimUp	5	3	e27.jpg	244	486	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	2.997557e+01	2.500115e+00	StimUp	6	4	e27.jpg	244	486	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	3.020806e+01	2.732604e+00	StimUp	7	5	e27.jpg	248	504	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	4	Vert	IncorrectMinorV	3.041031e+01	2.934853e+00	StimUp	8	6	e27.jpg	269	502	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	 	3.059618e+01	9.178352e-02	ITI	1	1	e27.jpg	268	502	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	 	3.441761e+01	9.083754e-01	StartStim	2	1	 	503	514	Stim	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.630517e+01	1.872397e+00	StimUp	3	1	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.646845e+01	2.035681e+00	StimUp	4	2	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.666073e+01	2.227962e+00	StimUp	5	3	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.687338e+01	2.440609e+00	StimUp	6	4	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.710581e+01	2.673040e+00	StimUp	7	5	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	5	Vert	IncorrectMinorV	3.730798e+01	2.875204e+00	StimUp	8	6	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	6	Vert	 	3.754378e+01	9.196655e-02	ITI	1	1	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	6	Vert	 	3.780642e+01	3.546141e-01	ITI	2	2	e18.jpg	767	516	Screen	0	0	P019A Super Remdial Vert	
+Mary	January2	03-Jan-2017	15:27	1	6	Vert	 	4.118367e+01	7.273571e-01	StartStim	3	1	 	498	510	Stim	0	0	P019A Super Remdial Vert	

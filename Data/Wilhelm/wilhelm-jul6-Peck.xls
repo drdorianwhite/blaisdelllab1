@@ -1,0 +1,329 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	 	5.855126e+02	5.778679e+02	StartStim	1	1	 	536	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	 	5.873669e+02	5.797223e+02	StartStim	2	2	 	516	552	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	 	5.887133e+02	5.810687e+02	StartStim	3	3	 	522	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.895267e+02	6.805173e-01	StimUp	4	1	a16.jpg	435	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.900122e+02	1.165981e+00	StimUp	5	2	a16.jpg	457	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.904326e+02	1.586387e+00	StimUp	6	3	a16.jpg	439	646	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.907915e+02	1.945354e+00	StimUp	7	4	a16.jpg	462	591	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.911888e+02	2.342675e+00	StimUp	8	5	a16.jpg	411	666	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.915955e+02	2.749313e+00	StimUp	9	6	a16.jpg	490	580	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.922957e+02	3.449528e+00	StimUp	10	7	a16.jpg	440	607	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.927163e+02	3.870126e+00	StimUp	11	8	a16.jpg	477	622	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.931530e+02	4.306830e+00	StimUp	12	9	a16.jpg	457	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:54	99	1	Vert	FollowedV	5.935794e+02	4.733194e+00	StimUp	13	10	a16.jpg	483	624	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	1	Vert	FollowedV	6.082447e+02	1.939850e+01	StimUp	14	11	a16.jpg	522	603	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	1	Vert	FollowedV	6.173255e+02	2.847936e+01	StimUp	15	12	a16.jpg	396	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	1	Vert	FollowedV	6.182875e+02	2.944133e+01	StimUp	16	13	a16.jpg	468	471	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	 	6.248530e+02	2.964944e+00	StartStim	1	1	 	435	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	 	6.280669e+02	6.178809e+00	StartStim	2	2	 	515	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.294690e+02	1.347496e+00	StimUp	3	1	d346.jpg	401	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.302087e+02	2.087166e+00	StimUp	4	2	d346.jpg	396	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.305744e+02	2.452845e+00	StimUp	5	3	d346.jpg	457	603	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.309714e+02	2.849832e+00	StimUp	6	4	d346.jpg	544	558	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.313168e+02	3.195274e+00	StimUp	7	5	d346.jpg	420	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.313489e+02	3.227358e+00	StimUp	8	6	d346.jpg	417	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.321085e+02	3.987026e+00	StimUp	9	7	d346.jpg	409	624	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:55	99	2	Vert	IncorrectMajorV	6.328481e+02	4.726607e+00	StimUp	10	8	d346.jpg	403	606	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.842445e+02	3.230970e+02	StartStim	1	1	 	511	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.852582e+02	3.241106e+02	StartStim	2	2	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.901673e+02	3.290198e+02	StartStim	3	3	 	516	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.917244e+02	3.305769e+02	StartStim	4	4	 	529	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.924835e+02	3.313360e+02	StartStim	5	5	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.927680e+02	3.316205e+02	StartStim	6	6	 	516	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	9.937290e+02	3.325814e+02	StartStim	7	7	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:1	99	3	Vert	 	1.014532e+03	3.533845e+02	StartStim	8	8	 	526	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.018815e+03	3.576677e+02	StartStim	9	9	 	501	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.021200e+03	3.600521e+02	StartStim	10	10	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.036227e+03	3.750799e+02	StartStim	11	11	 	494	525	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.037461e+03	3.763135e+02	StartStim	12	12	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.038250e+03	3.771029e+02	StartStim	13	13	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.039131e+03	3.779831e+02	StartStim	14	14	 	479	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.044050e+03	3.829025e+02	StartStim	15	15	 	493	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.046526e+03	3.853783e+02	StartStim	16	16	 	501	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:2	99	3	Vert	 	1.048133e+03	3.869858e+02	StartStim	17	17	 	515	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.097171e+03	1.596833e+01	StartStim	1	1	 	507	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.098273e+03	1.707080e+01	StartStim	2	2	 	501	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.104021e+03	2.281819e+01	StartStim	3	3	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.107496e+03	2.629342e+01	StartStim	4	4	 	522	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.108376e+03	2.717366e+01	StartStim	5	5	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.123181e+03	4.197877e+01	StartStim	6	6	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	4	Vert	 	1.124829e+03	4.362654e+01	StartStim	7	7	 	522	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	 	1.150743e+03	6.954031e+01	StartStim	8	8	 	516	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	 	1.164921e+03	8.371888e+01	StartStim	9	9	 	515	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.165527e+03	5.666633e-01	StimUp	10	1	e38.jpg	428	540	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.165842e+03	8.817235e-01	StimUp	11	2	e38.jpg	464	516	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.166147e+03	1.186556e+00	StimUp	12	3	e38.jpg	479	481	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.166765e+03	1.804755e+00	StimUp	13	4	e38.jpg	377	525	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.167828e+03	2.867547e+00	StimUp	14	5	e38.jpg	403	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.168184e+03	3.223017e+00	StimUp	15	6	e38.jpg	457	513	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.168852e+03	3.891671e+00	StimUp	16	7	e38.jpg	535	427	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.169208e+03	4.247090e+00	StimUp	17	8	e38.jpg	421	516	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.170270e+03	5.309912e+00	StimUp	18	9	e38.jpg	457	535	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.170646e+03	5.685567e+00	StimUp	19	10	e38.jpg	435	547	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:4	99	4	Vert	IncorrectMinorV	1.171406e+03	6.445270e+00	StimUp	20	11	e38.jpg	420	537	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.231329e+03	3.333506e+01	StartStim	1	1	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.233977e+03	3.598224e+01	StartStim	2	2	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.239774e+03	4.177978e+01	StartStim	3	3	 	485	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.240856e+03	4.286205e+01	StartStim	4	4	 	493	516	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.245119e+03	4.712479e+01	StartStim	5	5	 	538	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.246999e+03	4.900498e+01	StartStim	6	6	 	526	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.250848e+03	5.285362e+01	StartStim	7	7	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	5	Vert	 	1.251546e+03	5.355208e+01	StartStim	8	8	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.298027e+03	1.000324e+02	StartStim	9	9	 	507	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.299341e+03	1.013468e+02	StartStim	10	10	 	529	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.300767e+03	1.027725e+02	StartStim	11	11	 	522	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.301930e+03	1.039353e+02	StartStim	12	12	 	511	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.303183e+03	1.051891e+02	StartStim	13	13	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.303488e+03	1.054938e+02	StartStim	14	14	 	526	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.304651e+03	1.066568e+02	StartStim	15	15	 	522	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.305451e+03	1.074562e+02	StartStim	16	16	 	533	531	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.305725e+03	1.077305e+02	StartStim	17	17	 	529	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.307605e+03	1.096103e+02	StartStim	18	18	 	501	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:6	99	5	Vert	 	1.308848e+03	1.108542e+02	StartStim	19	19	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:7	99	5	Vert	 	1.373123e+03	1.751287e+02	StartStim	20	20	 	507	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:7	99	5	Vert	IncorrectMajorV	1.373862e+03	6.374403e-01	StimUp	21	1	d37.jpg 	405	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:7	99	5	Vert	IncorrectMajorV	1.374218e+03	9.929139e-01	StimUp	22	2	d37.jpg 	352	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:7	99	5	Vert	IncorrectMajorV	1.374573e+03	1.348396e+00	StimUp	23	3	d37.jpg 	375	597	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.374881e+03	1.656096e+00	StimUp	24	4	d37.jpg 	398	564	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.375236e+03	2.011600e+00	StimUp	25	5	d37.jpg 	403	570	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.375622e+03	2.397585e+00	StimUp	26	6	d37.jpg 	397	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.375918e+03	2.692995e+00	StimUp	27	7	d37.jpg 	400	570	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.376243e+03	3.018194e+00	StimUp	28	8	d37.jpg 	428	537	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.376599e+03	3.373663e+00	StimUp	29	9	d37.jpg 	348	606	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.377298e+03	4.072728e+00	StimUp	30	10	d37.jpg 	429	534	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.377643e+03	4.418132e+00	StimUp	31	11	d37.jpg 	443	516	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.378019e+03	4.793779e+00	StimUp	32	12	d37.jpg 	413	516	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.378698e+03	5.472730e+00	StimUp	33	13	d37.jpg 	392	538	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.379003e+03	5.777680e+00	StimUp	34	14	d37.jpg 	443	481	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.379439e+03	6.213988e+00	StimUp	35	15	d37.jpg 	457	471	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.379946e+03	6.721163e+00	StimUp	36	16	d37.jpg 	348	606	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.380322e+03	7.096827e+00	StimUp	37	17	d37.jpg 	376	576	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.380677e+03	7.452357e+00	StimUp	38	18	d37.jpg 	345	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.387188e+03	1.396314e+01	StimUp	39	19	d37.jpg 	490	537	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.388585e+03	1.535964e+01	StimUp	40	20	d37.jpg 	440	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.388910e+03	1.568480e+01	StimUp	41	21	d37.jpg 	439	642	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.388942e+03	1.571678e+01	StimUp	42	22	d37.jpg 	412	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.390449e+03	1.722439e+01	StimUp	43	23	d37.jpg 	457	600	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.390866e+03	1.764068e+01	StimUp	44	24	d37.jpg 	413	646	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.391282e+03	1.805684e+01	StimUp	45	25	d37.jpg 	381	669	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.392041e+03	1.881656e+01	StimUp	46	26	d37.jpg 	408	577	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.392872e+03	1.964705e+01	StimUp	47	27	d37.jpg 	432	582	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.393187e+03	1.996214e+01	StimUp	48	28	d37.jpg 	408	555	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.398949e+03	2.572457e+01	StimUp	49	29	d37.jpg 	479	516	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.399285e+03	2.605983e+01	StimUp	50	30	d37.jpg 	441	559	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.399650e+03	2.642556e+01	StimUp	51	31	d37.jpg 	515	519	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.399945e+03	2.672040e+01	StimUp	52	32	d37.jpg 	511	514	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.400250e+03	2.702529e+01	StimUp	53	33	d37.jpg 	461	601	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.400969e+03	2.774450e+01	StimUp	54	34	d37.jpg 	424	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.401335e+03	2.811010e+01	StimUp	55	35	d37.jpg 	431	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.401711e+03	2.848579e+01	StimUp	56	36	d37.jpg 	468	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.402410e+03	2.918487e+01	StimUp	57	37	d37.jpg 	463	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.402816e+03	2.959088e+01	StimUp	58	38	d37.jpg 	541	580	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.403171e+03	2.994630e+01	StimUp	59	39	d37.jpg 	394	711	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	6	Vert	 	1.408970e+03	2.699062e+00	StartStim	1	1	 	441	570	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	6	Vert	 	1.417080e+03	1.080958e+01	StartStim	2	2	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	 	1.450314e+03	4.404360e+01	StartStim	3	3	 	501	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	 	1.451508e+03	4.523707e+01	StartStim	4	4	 	485	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	 	1.453317e+03	4.704652e+01	StartStim	5	5	 	474	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	 	1.454238e+03	4.796715e+01	StartStim	6	6	 	511	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.454912e+03	6.476284e-01	StimUp	7	1	a85.jpg	473	547	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.455191e+03	9.262770e-01	StimUp	8	2	a85.jpg	473	553	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.455233e+03	9.684644e-01	StimUp	9	3	a85.jpg	440	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.455618e+03	1.354168e+00	StimUp	10	4	a85.jpg	477	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.456277e+03	2.012742e+00	StimUp	11	5	a85.jpg	422	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.456693e+03	2.428781e+00	StimUp	12	6	a85.jpg	404	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.457059e+03	2.794400e+00	StimUp	13	7	a85.jpg	381	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.457414e+03	3.149773e+00	StimUp	14	8	a85.jpg	544	547	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.465418e+03	1.115362e+01	StimUp	15	9	a85.jpg	433	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.466077e+03	1.181234e+01	StimUp	16	10	a85.jpg	388	646	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.467079e+03	1.281457e+01	StimUp	17	11	a85.jpg	403	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.467798e+03	1.353386e+01	StimUp	18	12	a85.jpg	457	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.468497e+03	1.423295e+01	StimUp	19	13	a85.jpg	479	525	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.469924e+03	1.565960e+01	StimUp	20	14	a85.jpg	398	606	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.470724e+03	1.645978e+01	StimUp	21	15	a85.jpg	383	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.471140e+03	1.687583e+01	StimUp	22	16	a85.jpg	399	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.471485e+03	1.722111e+01	StimUp	23	17	a85.jpg	453	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.472639e+03	1.837490e+01	StimUp	24	18	a85.jpg	451	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.473338e+03	1.907412e+01	StimUp	25	19	a85.jpg	429	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.474503e+03	2.023821e+01	StimUp	26	20	a85.jpg	413	579	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.481724e+03	2.745972e+01	StimUp	27	21	a85.jpg	435	559	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.482090e+03	2.782534e+01	StimUp	28	22	a85.jpg	410	639	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.482789e+03	2.852429e+01	StimUp	29	23	a85.jpg	392	555	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.483508e+03	2.924359e+01	StimUp	30	24	a85.jpg	410	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.483863e+03	2.959898e+01	StimUp	31	25	a85.jpg	441	559	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	7	Vert	 	1.489826e+03	2.537798e+00	StartStim	1	1	 	786	588	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	7	Vert	 	1.491555e+03	4.266260e+00	StartStim	2	2	 	468	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	 	1.503381e+03	1.609272e+01	StartStim	3	3	 	479	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	 	1.503959e+03	1.667005e+01	StartStim	4	4	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	 	1.506020e+03	1.873157e+01	StartStim	5	5	 	494	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	 	1.506820e+03	1.953103e+01	StartStim	6	6	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	 	1.508639e+03	2.135034e+01	StartStim	7	7	 	515	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.509097e+03	4.353091e-01	StimUp	8	1	a16.jpg	474	580	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.509422e+03	7.607058e-01	StimUp	9	2	a16.jpg	459	624	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.509778e+03	1.116175e+00	StimUp	10	3	a16.jpg	494	558	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.510083e+03	1.421225e+00	StimUp	11	4	a16.jpg	474	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.510459e+03	1.796914e+00	StimUp	12	5	a16.jpg	394	678	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.510844e+03	2.182769e+00	StimUp	13	6	a16.jpg	402	700	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.511159e+03	2.497770e+00	StimUp	14	7	a16.jpg	456	690	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.511586e+03	2.923876e+00	StimUp	15	8	a16.jpg	435	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.512264e+03	3.602675e+00	StimUp	16	9	a16.jpg	459	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.513064e+03	4.402756e+00	StimUp	17	10	a16.jpg	496	591	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.513097e+03	4.434800e+00	StimUp	18	11	a16.jpg	501	591	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.513462e+03	4.800303e+00	StimUp	19	12	a16.jpg	519	624	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.515940e+03	7.277915e+00	StimUp	20	13	a16.jpg	501	591	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.522469e+03	1.380765e+01	StimUp	21	14	a16.jpg	515	514	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.522825e+03	1.416315e+01	StimUp	22	15	a16.jpg	395	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.523190e+03	1.452863e+01	StimUp	23	16	a16.jpg	474	630	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.523930e+03	1.526810e+01	StimUp	24	17	a16.jpg	401	669	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.524993e+03	1.633096e+01	StimUp	25	18	a16.jpg	468	591	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.525368e+03	1.670673e+01	StimUp	26	19	a16.jpg	435	700	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.525411e+03	1.674882e+01	StimUp	27	20	a16.jpg	460	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.525746e+03	1.708396e+01	StimUp	28	21	a16.jpg	435	691	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.526485e+03	1.782332e+01	StimUp	29	22	a16.jpg	463	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.526810e+03	1.814846e+01	StimUp	30	23	a16.jpg	452	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.527550e+03	1.888795e+01	StimUp	31	24	a16.jpg	399	657	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.527885e+03	1.922324e+01	StimUp	32	25	a16.jpg	461	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.528665e+03	2.000334e+01	StimUp	33	26	a16.jpg	413	675	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.529051e+03	2.038913e+01	StimUp	34	27	a16.jpg	550	547	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.538096e+03	2.943399e+01	StimUp	35	28	a16.jpg	431	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.538472e+03	2.980981e+01	StimUp	36	29	a16.jpg	440	603	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	8	Vert	 	1.543758e+03	2.073121e+00	StartStim	1	1	 	473	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	8	Vert	 	1.545738e+03	4.053941e+00	StartStim	2	2	 	468	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:11	99	8	Vert	 	1.559200e+03	1.751571e+01	StartStim	3	3	 	494	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:11	99	8	Vert	 	1.596485e+03	5.480075e+01	StartStim	4	4	 	829	714	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:11	99	8	Vert	 	1.596558e+03	5.487312e+01	StartStim	5	5	 	850	720	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:11	99	8	Vert	 	1.599659e+03	5.797454e+01	StartStim	6	6	 	516	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.623278e+03	8.159357e+01	StartStim	7	7	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.624138e+03	8.245360e+01	StartStim	8	8	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.624453e+03	8.276828e+01	StartStim	9	9	 	522	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.624858e+03	8.317377e+01	StartStim	10	10	 	507	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.625738e+03	8.405386e+01	StartStim	11	11	 	501	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	 	1.627436e+03	8.575190e+01	StartStim	12	12	 	501	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.627899e+03	4.352811e-01	StimUp	13	1	d304.jpg	419	603	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.628355e+03	8.917363e-01	StimUp	14	2	d304.jpg	395	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.628721e+03	1.257226e+00	StimUp	15	3	d304.jpg	446	582	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.629056e+03	1.592330e+00	StimUp	16	4	d304.jpg	441	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.629421e+03	1.957858e+00	StimUp	17	5	d304.jpg	352	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.630100e+03	2.636883e+00	StimUp	18	6	d304.jpg	370	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.630779e+03	3.315891e+00	StimUp	19	7	d304.jpg	352	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.632014e+03	4.550591e+00	StimUp	20	8	d304.jpg	374	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.633795e+03	6.331079e+00	StimUp	21	9	d304.jpg	348	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.634524e+03	7.060486e+00	StimUp	22	10	d304.jpg	376	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.639377e+03	1.191340e+01	StimUp	23	11	d304.jpg	460	580	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.640046e+03	1.258225e+01	StimUp	24	12	d304.jpg	435	591	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.640421e+03	1.295787e+01	StimUp	25	13	d304.jpg	537	514	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.640787e+03	1.332339e+01	StimUp	26	14	d304.jpg	551	493	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.641599e+03	1.413512e+01	StimUp	27	15	d304.jpg	415	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.642348e+03	1.488479e+01	StimUp	28	16	d304.jpg	413	627	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.643623e+03	1.615994e+01	StimUp	29	17	d304.jpg	452	603	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.643666e+03	1.620204e+01	StimUp	30	18	d304.jpg	409	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.645062e+03	1.759853e+01	StimUp	31	19	d304.jpg	418	561	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.648722e+03	2.125881e+01	StimUp	32	20	d304.jpg	435	570	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.648764e+03	2.130093e+01	StimUp	33	21	d304.jpg	387	603	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.649110e+03	2.164612e+01	StimUp	34	22	d304.jpg	413	600	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.649445e+03	2.198129e+01	StimUp	35	23	d304.jpg	420	559	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.650124e+03	2.266016e+01	StimUp	36	24	d304.jpg	374	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.650489e+03	2.302570e+01	StimUp	37	25	d304.jpg	355	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.650824e+03	2.336089e+01	StimUp	38	26	d304.jpg	397	570	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.651170e+03	2.370624e+01	StimUp	39	27	d304.jpg	352	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.651525e+03	2.406160e+01	StimUp	40	28	d304.jpg	450	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.651931e+03	2.446752e+01	StimUp	41	29	d304.jpg	352	636	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.652610e+03	2.514628e+01	StimUp	42	30	d304.jpg	383	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.652965e+03	2.550167e+01	StimUp	43	31	d304.jpg	392	604	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.653685e+03	2.622102e+01	StimUp	44	32	d304.jpg	337	621	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	 	1.663609e+03	3.123866e+00	StartStim	1	1	 	497	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	 	1.664913e+03	4.428202e+00	StartStim	2	2	 	468	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	 	1.667035e+03	6.550287e+00	StartStim	3	3	 	501	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.667674e+03	6.171711e-01	StimUp	4	1	e14.jpg	490	471	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.667979e+03	9.220285e-01	StimUp	5	2	e14.jpg	429	534	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.668719e+03	1.661408e+00	StimUp	6	3	e14.jpg	503	481	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.669074e+03	2.016907e+00	StimUp	7	4	e14.jpg	420	534	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.669440e+03	2.382412e+00	StimUp	8	5	e14.jpg	413	570	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.670179e+03	3.121858e+00	StimUp	9	6	e14.jpg	535	471	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.672879e+03	5.821882e+00	StimUp	10	7	e14.jpg	446	490	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	9	Vert	IncorrectMinorV	1.673639e+03	6.581601e+00	StimUp	11	8	e14.jpg	399	525	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.683424e+03	1.636658e+01	StimUp	12	9	e14.jpg	420	559	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.684426e+03	1.736874e+01	StimUp	13	10	e14.jpg	417	532	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.684802e+03	1.774437e+01	StimUp	14	11	e14.jpg	514	481	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.685460e+03	1.840290e+01	StimUp	15	12	e14.jpg	417	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.686321e+03	1.926357e+01	StimUp	16	13	e14.jpg	385	561	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.689102e+03	2.204445e+01	StimUp	17	14	e14.jpg	450	493	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.710319e+03	1.023207e+01	StartStim	1	1	 	457	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.711178e+03	1.109207e+01	StartStim	2	2	 	486	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.712452e+03	1.236600e+01	StartStim	3	3	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.713181e+03	1.309468e+01	StartStim	4	4	 	438	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.713718e+03	1.363152e+01	StartStim	5	5	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.715638e+03	1.555163e+01	StartStim	6	6	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.716841e+03	1.675489e+01	StartStim	7	7	 	485	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.717681e+03	1.759470e+01	StartStim	8	8	 	493	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.718622e+03	1.853542e+01	StartStim	9	9	 	462	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.719896e+03	1.980931e+01	StartStim	10	10	 	476	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.720776e+03	2.068979e+01	StartStim	11	11	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.725807e+03	2.572021e+01	StartStim	12	12	 	473	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.726667e+03	2.658011e+01	StartStim	13	13	 	483	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.727940e+03	2.785402e+01	StartStim	14	14	 	474	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.730487e+03	3.040034e+01	StartStim	15	15	 	493	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.732407e+03	3.232054e+01	StartStim	16	16	 	486	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	10	Vert	 	1.733328e+03	3.324120e+01	StartStim	17	17	 	490	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.736066e+03	3.597926e+01	StartStim	18	18	 	479	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.742348e+03	4.226177e+01	StartStim	19	19	 	527	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.744309e+03	4.422246e+01	StartStim	20	20	 	487	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.745532e+03	4.544586e+01	StartStim	21	21	 	497	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.746372e+03	4.628569e+01	StartStim	22	22	 	505	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.747232e+03	4.714576e+01	StartStim	23	23	 	490	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.748072e+03	4.798546e+01	StartStim	24	24	 	496	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.749097e+03	4.901086e+01	StartStim	25	25	 	463	570	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.749897e+03	4.981030e+01	StartStim	26	26	 	515	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.751232e+03	5.114507e+01	StartStim	27	27	 	511	541	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.752213e+03	5.212628e+01	StartStim	28	28	 	474	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.752951e+03	5.286503e+01	StartStim	29	29	 	462	582	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	 	1.753377e+03	5.329086e+01	StartStim	30	30	 	501	525	Stim	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.754017e+03	6.172033e-01	StimUp	31	1	a95.jpg	451	556	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.754312e+03	9.122047e-01	StimUp	32	2	a95.jpg	457	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.754374e+03	9.745339e-01	StimUp	33	3	a95.jpg	498	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.754699e+03	1.299612e+00	StimUp	34	4	a95.jpg	403	700	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.755055e+03	1.655059e+00	StimUp	35	5	a95.jpg	403	651	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.755814e+03	2.414736e+00	StimUp	36	6	a95.jpg	422	613	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.756180e+03	2.780335e+00	StimUp	37	7	a95.jpg	431	624	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.756919e+03	3.519818e+00	StimUp	38	8	a95.jpg	396	627	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.757679e+03	4.279501e+00	StimUp	39	9	a95.jpg	366	649	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.758439e+03	5.039187e+00	StimUp	40	10	a95.jpg	541	547	Stim	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.769323e+03	1.592394e+01	StimUp	41	11	a95.jpg	392	561	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.770508e+03	1.710804e+01	StimUp	42	12	a95.jpg	408	555	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.771904e+03	1.850436e+01	StimUp	43	13	a95.jpg	419	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.772704e+03	1.930469e+01	StimUp	44	14	a95.jpg	582	570	Stim	1	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.774050e+03	2.065067e+01	StimUp	45	15	a95.jpg	305	576	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.775730e+03	2.233002e+01	StimUp	46	16	a95.jpg	392	538	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.782129e+03	2.872899e+01	StimUp	47	17	a95.jpg	403	516	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.784853e+03	1.436752e+00	ITI	1	1	a95.jpg	610	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.786250e+03	2.834092e+00	ITI	2	2	a95.jpg	718	606	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.786450e+03	2.331317e-02	StartStim	3	1	 	723	610	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.786634e+03	2.068232e-01	StartStim	4	2	 	735	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.787231e+03	8.041202e-01	StartStim	5	3	 	494	535	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.787950e+03	1.522822e+00	StartStim	6	4	 	638	540	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.788174e+03	1.746549e+00	StartStim	7	5	 	713	562	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.788397e+03	1.970374e+00	StartStim	8	6	 	713	565	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.791933e+03	5.506305e+00	StartStim	9	7	 	544	513	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.792137e+03	5.709938e+00	StartStim	10	8	 	537	514	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	11	Vert	 	1.792230e+03	5.802469e+00	StartStim	11	9	 	473	535	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.798057e+03	1.163001e+01	StartStim	12	10	 	463	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.800755e+03	1.432771e+01	StartStim	13	11	 	457	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.802099e+03	1.567235e+01	StartStim	14	12	 	473	535	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.802980e+03	1.655248e+01	StartStim	15	13	 	507	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.804163e+03	1.773561e+01	StartStim	16	14	 	433	579	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.806164e+03	1.973668e+01	StartStim	17	15	 	471	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.806206e+03	1.977872e+01	StartStim	18	16	 	430	591	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.807399e+03	2.097182e+01	StartStim	19	17	 	441	582	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.808138e+03	2.171054e+01	StartStim	20	18	 	454	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.808947e+03	2.251994e+01	StartStim	21	19	 	507	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.810100e+03	2.367275e+01	StartStim	22	20	 	465	558	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.810798e+03	2.437128e+01	StartStim	23	21	 	451	556	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.811689e+03	2.526153e+01	StartStim	24	22	 	424	579	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.814770e+03	2.834287e+01	StartStim	25	23	 	452	559	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.817831e+03	3.140402e+01	StartStim	26	24	 	497	535	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.819590e+03	3.316264e+01	StartStim	27	25	 	494	547	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:15	99	11	Vert	 	1.822772e+03	3.634492e+01	StartStim	28	26	 	735	576	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:42	99	11	Vert	 	3.461849e+03	1.675422e+03	StartStim	29	27	 	915	655	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:43	99	11	Vert	 	3.483884e+03	1.697457e+03	StartStim	30	28	 	505	487	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:43	99	11	Vert	 	3.486400e+03	1.699973e+03	StartStim	31	29	 	497	537	Screen	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:43	99	11	Vert	 	3.487280e+03	1.700853e+03	StartStim	32	30	 	501	519	Stim	0	0	P019A 1	

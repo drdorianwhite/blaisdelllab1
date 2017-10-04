@@ -1,0 +1,495 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	 	2.457962e+01	1.741264e+01	StartStim	1	1	 	538	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	 	2.493793e+01	1.777094e+01	StartStim	2	2	 	566	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	 	3.514593e+01	2.797894e+01	StartStim	3	3	 	493	516	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	 	3.526938e+01	2.810239e+01	StartStim	4	4	 	501	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.576581e+01	4.053980e-01	StimUp	5	1	a11.jpg	461	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.589183e+01	5.314216e-01	StimUp	6	2	a11.jpg	428	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.606604e+01	7.056300e-01	StimUp	7	3	a11.jpg	446	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.641104e+01	1.050626e+00	StimUp	8	4	a11.jpg	468	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.650413e+01	1.143718e+00	StimUp	9	5	a11.jpg	453	472	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.719256e+01	1.832145e+00	StimUp	10	6	a11.jpg	451	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.861220e+01	3.251784e+00	StimUp	11	7	a11.jpg	462	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.868389e+01	3.323479e+00	StimUp	12	8	a11.jpg	473	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	3.878549e+01	3.425082e+00	StimUp	13	9	a11.jpg	468	535	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.725428e+01	1.189386e+01	StimUp	14	10	a11.jpg	460	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.735630e+01	1.199588e+01	StimUp	15	11	a11.jpg	446	534	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.745795e+01	1.209753e+01	StimUp	16	12	a11.jpg	429	534	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.775067e+01	1.239026e+01	StimUp	17	13	a11.jpg	413	600	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.847582e+01	1.311540e+01	StimUp	18	14	a11.jpg	457	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	1	Vert	V Correct	4.881883e+01	1.345842e+01	StimUp	19	15	a11.jpg	479	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:51	1	2	Vert	 	6.868510e+01	2.949604e-01	StartStim	1	1	 	522	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	2	Vert	V Major	6.898922e+01	2.825532e-01	StimUp	2	1	d14.jpg	457	516	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	2	Vert	V Major	6.910123e+01	3.945639e-01	StimUp	3	2	d14.jpg	443	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	2	Vert	V Major	6.938395e+01	6.772819e-01	StimUp	4	3	d14.jpg	464	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	2	Vert	V Major	6.946555e+01	7.588783e-01	StimUp	5	4	d14.jpg	490	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	2	Vert	V Major	6.972813e+01	1.021459e+00	StimUp	6	5	d14.jpg	468	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.012424e+02	2.515849e+00	ITI	1	1	d14.jpg	698	708	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.021653e+02	4.254209e-01	StartStim	2	1	 	544	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.024793e+02	7.394119e-01	StartStim	3	2	 	507	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.030439e+02	1.303959e+00	StartStim	4	3	 	501	541	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.031454e+02	1.405476e+00	StartStim	5	4	 	507	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	 	1.033876e+02	1.647732e+00	StartStim	6	5	 	522	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	V Major	1.035280e+02	1.214916e-01	StimUp	7	1	d19.jpg	522	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:52	1	3	Vert	V Major	1.038208e+02	4.142679e-01	StimUp	8	2	d19.jpg	464	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.370446e+02	6.169594e-01	StartStim	1	1	 	515	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.370859e+02	6.582915e-01	StartStim	2	2	 	516	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.381028e+02	1.675216e+00	StartStim	3	3	 	522	541	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.383855e+02	1.957908e+00	StartStim	4	4	 	519	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.398451e+02	3.417533e+00	StartStim	5	5	 	507	531	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	 	1.400575e+02	3.629858e+00	StartStim	6	6	 	504	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.404234e+02	3.429268e-01	StimUp	7	1	e4.jpg 	566	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.404647e+02	3.841861e-01	StimUp	8	2	e4.jpg 	552	493	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.406868e+02	6.063009e-01	StimUp	9	3	e4.jpg 	540	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.407984e+02	7.178629e-01	StimUp	10	4	e4.jpg 	552	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.409603e+02	8.797326e-01	StimUp	11	5	e4.jpg 	531	469	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.413634e+02	1.282921e+00	StimUp	12	6	e4.jpg 	566	516	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.414248e+02	1.344259e+00	StimUp	13	7	e4.jpg 	584	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.416872e+02	1.606668e+00	StimUp	14	8	e4.jpg 	537	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.427442e+02	2.663633e+00	StimUp	15	9	e4.jpg 	570	469	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.430670e+02	2.986525e+00	StimUp	16	10	e4.jpg 	570	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.434402e+02	3.359645e+00	StimUp	17	11	e4.jpg 	555	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.434814e+02	3.400877e+00	StimUp	18	12	e4.jpg 	529	537	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.443673e+02	4.286765e+00	StimUp	19	13	e4.jpg 	547	591	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.444286e+02	4.348124e+00	StimUp	20	14	e4.jpg 	550	579	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.448219e+02	4.741356e+00	StimUp	21	15	e4.jpg 	585	648	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.448834e+02	4.802863e+00	StimUp	22	16	e4.jpg 	591	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.449649e+02	4.884335e+00	StimUp	23	17	e4.jpg 	591	627	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	4	Vert	V Minor	1.637322e+02	2.365165e+01	StimUp	24	18	e4.jpg 	528	579	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	5	Vert	 	1.736986e+02	5.778293e-01	StartStim	1	1	 	501	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	5	Vert	 	1.737399e+02	6.190878e-01	StartStim	2	2	 	485	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	5	Vert	 	1.738413e+02	7.205178e-01	StartStim	3	3	 	486	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	5	Vert	 	1.741036e+02	9.828126e-01	StartStim	4	4	 	515	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:53	1	5	Vert	V Major	1.745195e+02	3.743696e-01	StimUp	5	1	d17.jpg	522	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	 	2.087924e+02	1.611363e+00	StartStim	1	1	 	530	504	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	 	2.091955e+02	2.014457e+00	StartStim	2	2	 	507	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	 	2.094378e+02	2.256707e+00	StartStim	3	3	 	508	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.101986e+02	7.448430e-01	StimUp	4	1	a51.jpg	446	556	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.105221e+02	1.068297e+00	StimUp	5	2	a51.jpg	452	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.109354e+02	1.481677e+00	StimUp	6	3	a51.jpg	460	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.114394e+02	1.985601e+00	StimUp	7	4	a51.jpg	483	646	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.115008e+02	2.047043e+00	StimUp	8	5	a51.jpg	526	646	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	6	Vert	V Correct	2.177199e+02	8.266117e+00	StimUp	9	6	a51.jpg	225	465	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	 	2.410698e+02	1.601283e+00	ITI	1	1	a51.jpg	522	405	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	 	2.427918e+02	3.156191e-01	StartStim	2	1	 	522	519	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.434119e+02	6.044384e-01	StimUp	3	1	a10.jpg	463	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.435540e+02	7.465096e-01	StimUp	4	2	a10.jpg	457	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.439774e+02	1.169899e+00	StimUp	5	3	a10.jpg	471	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.441795e+02	1.372079e+00	StimUp	6	4	a10.jpg	441	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.442710e+02	1.463574e+00	StimUp	7	5	a10.jpg	473	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.452376e+02	2.430176e+00	StimUp	8	6	a10.jpg	479	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.453594e+02	2.551961e+00	StimUp	9	7	a10.jpg	485	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.460946e+02	3.287151e+00	StimUp	10	8	a10.jpg	460	513	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.474334e+02	4.625901e+00	StimUp	11	9	a10.jpg	546	630	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.478166e+02	5.009191e+00	StimUp	12	10	a10.jpg	457	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.482200e+02	5.412565e+00	StimUp	13	11	a10.jpg	484	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.484423e+02	5.634887e+00	StimUp	14	12	a10.jpg	479	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.484735e+02	5.666068e+00	StimUp	15	13	a10.jpg	461	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.485750e+02	5.767529e+00	StimUp	16	14	a10.jpg	435	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:54	1	7	Vert	V Correct	2.486765e+02	5.869030e+00	StimUp	17	15	a10.jpg	448	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	 	2.764673e+02	6.262194e-01	StartStim	1	1	 	508	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.765931e+02	1.112611e-01	StimUp	2	1	d5.jpg 	485	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.769159e+02	4.340727e-01	StimUp	3	2	d5.jpg 	501	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.773494e+02	8.674968e-01	StimUp	4	3	d5.jpg 	537	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.776521e+02	1.170190e+00	StimUp	5	4	d5.jpg 	552	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.777738e+02	1.291935e+00	StimUp	6	5	d5.jpg 	602	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:55	1	8	Vert	V Major	2.780564e+02	1.574512e+00	StimUp	7	6	d5.jpg 	602	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	 	3.162518e+02	6.738368e+00	StartStim	1	1	 	501	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	 	3.172480e+02	7.734565e+00	StartStim	2	2	 	507	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	 	3.181537e+02	8.640295e+00	StartStim	3	3	 	507	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.187732e+02	6.041157e-01	StimUp	4	1	e20.jpg	530	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.188345e+02	6.654657e-01	StimUp	5	2	e20.jpg	566	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.190567e+02	8.876397e-01	StimUp	6	3	e20.jpg	549	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.191582e+02	9.891301e-01	StimUp	7	4	e20.jpg	526	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.193904e+02	1.221355e+00	StimUp	8	5	e20.jpg	530	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.194718e+02	1.302772e+00	StimUp	9	6	e20.jpg	575	454	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.195733e+02	1.404291e+00	StimUp	10	7	e20.jpg	558	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.196548e+02	1.485697e+00	StimUp	11	8	e20.jpg	566	498	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.198568e+02	1.687779e+00	StimUp	12	9	e20.jpg	566	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.200791e+02	1.910028e+00	StimUp	13	10	e20.jpg	574	472	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.201706e+02	2.001539e+00	StimUp	14	11	e20.jpg	562	504	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.203727e+02	2.203649e+00	StimUp	15	12	e20.jpg	562	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.204541e+02	2.285059e+00	StimUp	16	13	e20.jpg	572	447	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.205959e+02	2.426833e+00	StimUp	17	14	e20.jpg	551	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.207980e+02	2.628913e+00	StimUp	18	15	e20.jpg	559	465	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.209599e+02	2.790855e+00	StimUp	19	16	e20.jpg	588	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.212927e+02	3.123632e+00	StimUp	20	17	e20.jpg	577	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.213942e+02	3.225132e+00	StimUp	21	18	e20.jpg	610	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:56	1	9	Vert	V Minor	3.214756e+02	3.306499e+00	StimUp	22	19	e20.jpg	599	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	 	4.501417e+02	9.893939e+01	StartStim	1	1	 	507	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.505797e+02	4.231552e-01	StimUp	2	1	a11.jpg	435	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.506815e+02	5.250114e-01	StimUp	3	2	a11.jpg	440	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.508032e+02	6.466849e-01	StimUp	4	3	a11.jpg	460	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.509249e+02	7.683406e-01	StimUp	5	4	a11.jpg	454	556	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.510164e+02	8.598617e-01	StimUp	6	5	a11.jpg	468	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.513593e+02	1.202788e+00	StimUp	7	6	a11.jpg	471	516	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.517023e+02	1.545748e+00	StimUp	8	7	a11.jpg	468	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.517837e+02	1.627215e+00	StimUp	9	8	a11.jpg	471	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.519054e+02	1.748916e+00	StimUp	10	9	a11.jpg	453	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.519869e+02	1.830382e+00	StimUp	11	10	a11.jpg	446	504	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.521186e+02	1.962050e+00	StimUp	12	11	a11.jpg	446	459	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.732355e+02	2.307895e+01	StimUp	13	12	a11.jpg	468	597	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.775915e+02	2.743494e+01	StimUp	14	13	a11.jpg	495	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.776730e+02	2.751645e+01	StimUp	15	14	a11.jpg	522	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	10	Vert	V Correct	4.779757e+02	2.781914e+01	StimUp	16	15	a11.jpg	460	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	11	Vert	 	4.819931e+02	1.821752e+00	ITI	1	1	a11.jpg	712	555	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	11	Vert	 	4.872585e+02	4.074099e+00	StartStim	2	1	 	490	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:58	1	11	Vert	 	4.884764e+02	5.291959e+00	StartStim	3	2	 	501	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.889840e+02	4.933523e-01	StimUp	4	1	e19.jpg	420	534	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.890654e+02	5.748042e-01	StimUp	5	2	e19.jpg	408	555	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.891568e+02	6.662220e-01	StimUp	6	3	e19.jpg	439	510	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.894193e+02	9.286582e-01	StimUp	7	4	e19.jpg	453	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.895208e+02	1.030242e+00	StimUp	8	5	e19.jpg	457	493	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.896022e+02	1.111594e+00	StimUp	9	6	e19.jpg	453	487	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.897037e+02	1.213043e+00	StimUp	10	7	e19.jpg	449	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.897850e+02	1.294378e+00	StimUp	11	8	e19.jpg	471	475	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.899267e+02	1.436075e+00	StimUp	12	9	e19.jpg	446	495	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.899779e+02	1.487265e+00	StimUp	13	10	e19.jpg	448	472	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.901196e+02	1.628974e+00	StimUp	14	11	e19.jpg	457	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.902211e+02	1.730459e+00	StimUp	15	12	e19.jpg	461	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.903226e+02	1.831950e+00	StimUp	16	13	e19.jpg	468	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.906453e+02	2.154653e+00	StimUp	17	14	e19.jpg	486	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.907368e+02	2.246167e+00	StimUp	18	15	e19.jpg	514	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.908181e+02	2.327519e+00	StimUp	19	16	e19.jpg	490	493	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.916237e+02	3.133112e+00	StimUp	20	17	e19.jpg	451	553	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.920672e+02	3.576620e+00	StimUp	21	18	e19.jpg	477	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.925811e+02	4.090500e+00	StimUp	22	19	e19.jpg	453	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.926424e+02	4.151803e+00	StimUp	23	20	e19.jpg	451	582	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.929048e+02	4.414148e+00	StimUp	24	21	e19.jpg	479	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.929660e+02	4.475394e+00	StimUp	25	22	e19.jpg	501	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.931278e+02	4.637153e+00	StimUp	26	23	e19.jpg	501	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.931990e+02	4.708431e+00	StimUp	27	24	e19.jpg	519	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.933206e+02	4.829986e+00	StimUp	28	25	e19.jpg	522	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.934623e+02	4.971716e+00	StimUp	29	26	e19.jpg	519	537	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.935840e+02	5.093344e+00	StimUp	30	27	e19.jpg	530	537	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.937055e+02	5.214917e+00	StimUp	31	28	e19.jpg	529	535	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.944005e+02	5.909906e+00	StimUp	32	29	e19.jpg	484	570	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.944418e+02	5.951184e+00	StimUp	33	30	e19.jpg	522	558	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.957602e+02	7.269608e+00	StimUp	34	31	e19.jpg	431	600	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.958417e+02	7.351068e+00	StimUp	35	32	e19.jpg	440	579	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.967075e+02	8.216864e+00	StimUp	36	33	e19.jpg	451	582	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.971410e+02	8.650359e+00	StimUp	37	34	e19.jpg	479	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.972828e+02	8.792155e+00	StimUp	38	35	e19.jpg	486	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.977867e+02	9.296058e+00	StimUp	39	36	e19.jpg	508	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	11	Vert	V Minor	4.981698e+02	9.679202e+00	StimUp	40	37	e19.jpg	485	537	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	 	5.219757e+02	4.552864e-01	StartStim	1	1	 	507	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.224937e+02	5.034953e-01	StimUp	2	1	a1.jpg 	457	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.225372e+02	5.469327e-01	StimUp	3	2	a1.jpg 	457	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.226789e+02	6.886165e-01	StimUp	4	3	a1.jpg 	450	543	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.229212e+02	9.309575e-01	StimUp	5	4	a1.jpg 	450	520	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.229624e+02	9.721972e-01	StimUp	6	5	a1.jpg 	450	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.230337e+02	1.043503e+00	StimUp	7	6	a1.jpg 	471	504	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.231151e+02	1.124904e+00	StimUp	8	7	a1.jpg 	472	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.232166e+02	1.226405e+00	StimUp	9	8	a1.jpg 	461	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.233383e+02	1.348047e+00	StimUp	10	9	a1.jpg 	444	477	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.234197e+02	1.429429e+00	StimUp	11	10	a1.jpg 	466	453	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.235212e+02	1.530964e+00	StimUp	12	11	a1.jpg 	446	469	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.235623e+02	1.572102e+00	StimUp	13	12	a1.jpg 	421	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	12:59	1	12	Vert	V Correct	5.236638e+02	1.673563e+00	StimUp	14	13	a1.jpg 	413	490	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	 	5.557355e+02	7.166710e-01	StartStim	1	1	 	486	519	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	 	5.573151e+02	2.296261e+00	StartStim	2	2	 	522	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.573600e+02	3.077719e-02	StimUp	3	1	a12.jpg	522	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.579746e+02	6.454188e-01	StimUp	4	2	a12.jpg	566	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.583179e+02	9.886745e-01	StimUp	5	3	a12.jpg	558	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.583793e+02	1.050049e+00	StimUp	6	4	a12.jpg	596	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.584204e+02	1.091199e+00	StimUp	7	5	a12.jpg	570	477	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.585219e+02	1.192718e+00	StimUp	8	6	a12.jpg	553	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.586134e+02	1.284170e+00	StimUp	9	7	a12.jpg	552	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.587350e+02	1.405763e+00	StimUp	10	8	a12.jpg	566	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.588163e+02	1.487123e+00	StimUp	11	9	a12.jpg	588	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.588575e+02	1.528250e+00	StimUp	12	10	a12.jpg	581	516	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.589187e+02	1.589474e+00	StimUp	13	11	a12.jpg	601	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	13	Vert	V Correct	5.590201e+02	1.690921e+00	StimUp	14	12	a12.jpg	603	516	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	 	5.929783e+02	2.617329e+00	StartStim	1	1	 	522	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.932745e+02	2.822984e-01	StimUp	2	1	e1.jpg 	441	559	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.937184e+02	7.261532e-01	StimUp	3	2	e1.jpg 	487	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.938502e+02	8.579663e-01	StimUp	4	3	e1.jpg 	479	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.939517e+02	9.595274e-01	StimUp	5	4	e1.jpg 	464	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.940533e+02	1.061047e+00	StimUp	6	5	e1.jpg 	464	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.941347e+02	1.142459e+00	StimUp	7	6	e1.jpg 	470	465	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.942362e+02	1.243970e+00	StimUp	8	7	e1.jpg 	487	471	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.943176e+02	1.325389e+00	StimUp	9	8	e1.jpg 	464	519	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.944795e+02	1.487299e+00	StimUp	10	9	e1.jpg 	479	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.945710e+02	1.578818e+00	StimUp	11	10	e1.jpg 	492	475	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.946927e+02	1.700469e+00	StimUp	12	11	e1.jpg 	522	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.948948e+02	1.902631e+00	StimUp	13	12	e1.jpg 	522	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.950970e+02	2.104779e+00	StimUp	14	13	e1.jpg 	522	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.952590e+02	2.266748e+00	StimUp	15	14	e1.jpg 	508	504	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.955115e+02	2.519299e+00	StimUp	16	15	e1.jpg 	522	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.956935e+02	2.701326e+00	StimUp	17	16	e1.jpg 	508	510	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.957347e+02	2.742524e+00	StimUp	18	17	e1.jpg 	473	558	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.963795e+02	3.387258e+00	StimUp	19	18	e1.jpg 	508	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.964610e+02	3.468775e+00	StimUp	20	19	e1.jpg 	552	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.969750e+02	3.982777e+00	StimUp	21	20	e1.jpg 	474	618	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.970162e+02	4.023987e+00	StimUp	22	21	e1.jpg 	479	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.975402e+02	4.548001e+00	StimUp	23	22	e1.jpg 	476	603	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.976016e+02	4.609364e+00	StimUp	24	23	e1.jpg 	501	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.977333e+02	4.741052e+00	StimUp	25	24	e1.jpg 	496	591	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.979757e+02	4.983465e+00	StimUp	26	25	e1.jpg 	495	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.983790e+02	5.386825e+00	StimUp	27	26	e1.jpg 	477	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	5.985209e+02	5.528647e+00	StimUp	28	27	e1.jpg 	502	645	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:0	1	14	Vert	V Minor	6.080582e+02	1.506602e+01	StimUp	29	28	e1.jpg 	776	475	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.142863e+02	2.129413e+01	StimUp	30	29	e1.jpg 	496	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.177683e+02	2.477608e+01	StimUp	31	30	e1.jpg 	501	603	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.178297e+02	2.483748e+01	StimUp	32	31	e1.jpg 	511	591	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.218141e+02	2.882189e+01	StimUp	33	32	e1.jpg 	490	477	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.225093e+02	2.951704e+01	StimUp	34	33	e1.jpg 	501	585	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.225907e+02	2.959852e+01	StimUp	35	34	e1.jpg 	498	601	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	14	Vert	V Minor	6.227124e+02	2.972018e+01	StimUp	36	35	e1.jpg 	503	597	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	 	6.267764e+02	7.570466e-01	StartStim	1	1	 	497	531	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	 	6.268076e+02	7.882154e-01	StartStim	2	2	 	501	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	 	6.268889e+02	8.695669e-01	StartStim	3	3	 	515	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.271550e+02	2.520741e-01	StimUp	4	1	a1.jpg 	435	516	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.274479e+02	5.449400e-01	StimUp	5	2	a1.jpg 	461	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.276099e+02	7.069927e-01	StimUp	6	3	a1.jpg 	439	498	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.277518e+02	8.488375e-01	StimUp	7	4	a1.jpg 	435	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.278333e+02	9.303258e-01	StimUp	8	5	a1.jpg 	429	472	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.279349e+02	1.031910e+00	StimUp	9	6	a1.jpg 	444	447	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.567125e+02	2.980955e+01	StimUp	10	7	a1.jpg 	487	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	15	Vert	V Correct	6.568242e+02	2.992122e+01	StimUp	11	8	a1.jpg 	457	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	 	6.581457e+02	1.228412e+00	ITI	1	1	a1.jpg 	757	603	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	 	6.581870e+02	1.269698e+00	ITI	2	2	a1.jpg 	789	573	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	 	6.587517e+02	1.834414e+00	ITI	3	3	a1.jpg 	689	496	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	 	6.589841e+02	2.066873e+00	ITI	4	4	a1.jpg 	675	474	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	 	6.622487e+02	2.325070e+00	StartStim	5	1	 	504	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.623740e+02	1.112404e-01	StimUp	6	1	e11.jpg	493	504	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.628477e+02	5.849559e-01	StimUp	7	2	e11.jpg	451	559	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.629694e+02	7.066095e-01	StimUp	8	3	e11.jpg	441	535	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.630708e+02	8.080566e-01	StimUp	9	4	e11.jpg	441	558	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.631119e+02	8.491598e-01	StimUp	10	5	e11.jpg	430	582	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.632335e+02	9.707217e-01	StimUp	11	6	e11.jpg	464	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.634356e+02	1.172860e+00	StimUp	12	7	e11.jpg	483	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.635472e+02	1.284439e+00	StimUp	13	8	e11.jpg	479	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.636286e+02	1.365777e+00	StimUp	14	9	e11.jpg	479	537	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.638708e+02	1.608023e+00	StimUp	15	10	e11.jpg	464	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.642539e+02	1.991163e+00	StimUp	16	11	e11.jpg	479	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.646471e+02	2.384328e+00	StimUp	17	12	e11.jpg	479	504	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.647889e+02	2.526110e+00	StimUp	18	13	e11.jpg	486	504	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.649106e+02	2.647824e+00	StimUp	19	14	e11.jpg	450	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.650725e+02	2.809720e+00	StimUp	20	15	e11.jpg	457	513	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.651539e+02	2.891081e+00	StimUp	21	16	e11.jpg	472	481	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.653158e+02	3.052986e+00	StimUp	22	17	e11.jpg	487	487	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.653469e+02	3.084129e+00	StimUp	23	18	e11.jpg	479	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.656294e+02	3.366622e+00	StimUp	24	19	e11.jpg	471	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:1	1	16	Vert	V Minor	6.666964e+02	4.433655e+00	StimUp	25	20	e11.jpg	591	570	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	16	Vert	V Minor	6.709518e+02	8.689027e+00	StimUp	26	21	e11.jpg	707	675	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	16	Vert	V Minor	6.710534e+02	8.790616e+00	StimUp	27	22	e11.jpg	644	621	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	16	Vert	V Minor	6.819669e+02	1.970412e+01	StimUp	28	23	e11.jpg	457	547	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	16	Vert	V Minor	6.820484e+02	1.978559e+01	StimUp	29	24	e11.jpg	457	558	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	 	6.973962e+02	2.104167e+00	StartStim	1	1	 	504	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	 	6.982316e+02	2.939543e+00	StartStim	2	2	 	516	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	 	6.983331e+02	3.041071e+00	StartStim	3	3	 	497	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.984283e+02	8.116248e-02	StimUp	4	1	a3.jpg 	501	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.991535e+02	8.063495e-01	StimUp	5	2	a3.jpg 	602	513	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.992551e+02	9.079404e-01	StimUp	6	3	a3.jpg 	566	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.994371e+02	1.089974e+00	StimUp	7	4	a3.jpg 	595	495	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.995487e+02	1.201594e+00	StimUp	8	5	a3.jpg 	566	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	6.997709e+02	1.423761e+00	StimUp	9	6	a3.jpg 	557	453	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.001138e+02	1.766637e+00	StimUp	10	7	a3.jpg 	580	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.001952e+02	1.848044e+00	StimUp	11	8	a3.jpg 	601	469	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.069598e+02	8.612633e+00	StimUp	12	9	a3.jpg 	586	625	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.089821e+02	1.063500e+01	StimUp	13	10	a3.jpg 	671	639	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.090334e+02	1.068631e+01	StimUp	14	11	a3.jpg 	716	621	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.182066e+02	1.985950e+01	StimUp	15	12	a3.jpg 	542	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.182982e+02	1.995105e+01	StimUp	16	13	a3.jpg 	550	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.185204e+02	2.017325e+01	StimUp	17	14	a3.jpg 	561	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.187024e+02	2.035526e+01	StimUp	18	15	a3.jpg 	550	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.191057e+02	2.075855e+01	StimUp	19	16	a3.jpg 	590	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.192676e+02	2.092051e+01	StimUp	20	17	a3.jpg 	635	627	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.193591e+02	2.101197e+01	StimUp	21	18	a3.jpg 	613	630	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.196215e+02	2.127438e+01	StimUp	22	19	a3.jpg 	605	600	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.196627e+02	2.131560e+01	StimUp	23	20	a3.jpg 	592	604	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.197441e+02	2.139696e+01	StimUp	24	21	a3.jpg 	593	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.199461e+02	2.159902e+01	StimUp	25	22	a3.jpg 	592	604	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.200074e+02	2.166031e+01	StimUp	26	23	a3.jpg 	607	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.201996e+02	2.185243e+01	StimUp	27	24	a3.jpg 	610	600	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.203212e+02	2.197407e+01	StimUp	28	25	a3.jpg 	583	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.205032e+02	2.215603e+01	StimUp	29	26	a3.jpg 	588	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.209467e+02	2.259956e+01	StimUp	30	27	a3.jpg 	583	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.209879e+02	2.264077e+01	StimUp	31	28	a3.jpg 	570	622	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.227890e+02	2.444183e+01	StimUp	32	29	a3.jpg 	570	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:2	1	17	Vert	V Correct	7.228403e+02	2.449314e+01	StimUp	33	30	a3.jpg 	566	603	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.296688e+02	1.037408e+00	ITI	1	1	a3.jpg 	718	597	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.307861e+02	2.154727e+00	ITI	2	2	a3.jpg 	718	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.328545e+02	1.219225e+00	StartStim	3	1	 	161	477	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.331269e+02	1.491644e+00	StartStim	4	2	 	204	442	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.334093e+02	1.774043e+00	StartStim	5	3	 	283	465	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.336918e+02	2.056514e+00	StartStim	6	4	 	283	478	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.370705e+02	5.435274e+00	StartStim	7	5	 	507	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	 	7.371117e+02	5.476465e+00	StartStim	8	6	 	501	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.372372e+02	1.112527e-01	StimUp	9	1	d49.jpg	493	510	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.376305e+02	5.045070e-01	StimUp	10	2	d49.jpg	471	492	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.381746e+02	1.048638e+00	StimUp	11	3	d49.jpg	570	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.382561e+02	1.130092e+00	StimUp	12	4	d49.jpg	567	669	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.388101e+02	1.684146e+00	StimUp	13	5	d49.jpg	506	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.392134e+02	2.087448e+00	StimUp	14	6	d49.jpg	507	558	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.393552e+02	2.229267e+00	StimUp	15	7	d49.jpg	495	570	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.395576e+02	2.431588e+00	StimUp	16	8	d49.jpg	468	582	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.396993e+02	2.573372e+00	StimUp	17	9	d49.jpg	479	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.398008e+02	2.674869e+00	StimUp	18	10	d49.jpg	479	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.399124e+02	2.786406e+00	StimUp	19	11	d49.jpg	505	603	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.400340e+02	2.908043e+00	StimUp	20	12	d49.jpg	490	580	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.402965e+02	3.170537e+00	StimUp	21	13	d49.jpg	496	603	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.403578e+02	3.231854e+00	StimUp	22	14	d49.jpg	479	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.404593e+02	3.333341e+00	StimUp	23	15	d49.jpg	497	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.405608e+02	3.434855e+00	StimUp	24	16	d49.jpg	483	646	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.406724e+02	3.546450e+00	StimUp	25	17	d49.jpg	474	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	18	Vert	V Major	7.408946e+02	3.768614e+00	StimUp	26	18	d49.jpg	496	591	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	19	Vert	 	7.728748e+02	2.717128e+00	StartStim	1	1	 	516	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	19	Vert	 	7.731171e+02	2.959434e+00	StartStim	2	2	 	497	516	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	19	Vert	V Major	7.732523e+02	1.212588e-01	StimUp	3	1	d61.jpg	501	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:3	1	19	Vert	V Major	7.736757e+02	5.446716e-01	StimUp	4	2	d61.jpg	459	600	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	 	8.346468e+02	2.849170e+01	StartStim	1	1	 	519	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	 	8.350098e+02	2.885465e+01	StartStim	2	2	 	529	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	 	8.350509e+02	2.889581e+01	StartStim	3	3	 	522	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	 	8.357655e+02	2.961040e+01	StartStim	4	4	 	516	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	 	8.361083e+02	2.995321e+01	StartStim	5	5	 	515	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.364650e+02	3.425548e-01	StimUp	6	1	a50.jpg	569	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.365868e+02	4.643560e-01	StimUp	7	2	a50.jpg	566	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.366682e+02	5.457373e-01	StimUp	8	3	a50.jpg	538	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.369105e+02	7.880268e-01	StimUp	9	4	a50.jpg	544	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.371127e+02	9.902672e-01	StimUp	10	5	a50.jpg	550	570	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.373652e+02	1.242717e+00	StimUp	11	6	a50.jpg	566	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.374064e+02	1.283926e+00	StimUp	12	7	a50.jpg	571	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.375079e+02	1.385446e+00	StimUp	13	8	a50.jpg	606	625	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.376094e+02	1.486917e+00	StimUp	14	9	a50.jpg	586	669	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.378919e+02	1.769487e+00	StimUp	15	10	a50.jpg	606	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.382851e+02	2.162660e+00	StimUp	16	11	a50.jpg	582	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.383867e+02	2.264236e+00	StimUp	17	12	a50.jpg	581	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:4	1	20	Vert	V Correct	8.389756e+02	2.853114e+00	StimUp	18	13	a50.jpg	572	556	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	 	1.054001e+03	1.848506e+02	StartStim	1	1	 	515	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054046e+03	3.072119e-02	StimUp	2	1	a12.jpg	516	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054228e+03	2.128635e-01	StimUp	3	2	a12.jpg	497	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054541e+03	5.256098e-01	StimUp	4	3	a12.jpg	555	475	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054582e+03	5.668170e-01	StimUp	5	4	a12.jpg	580	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054624e+03	6.079331e-01	StimUp	6	5	a12.jpg	552	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.054987e+03	9.709264e-01	StimUp	7	6	a12.jpg	566	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055088e+03	1.072613e+00	StimUp	8	7	a12.jpg	566	508	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055210e+03	1.194329e+00	StimUp	9	8	a12.jpg	538	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055321e+03	1.305900e+00	StimUp	10	9	a12.jpg	550	580	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055383e+03	1.367188e+00	StimUp	11	10	a12.jpg	569	580	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055424e+03	1.408418e+00	StimUp	12	11	a12.jpg	544	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055626e+03	1.610539e+00	StimUp	13	12	a12.jpg	539	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.055748e+03	1.732197e+00	StimUp	14	13	a12.jpg	563	591	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.062751e+03	8.734994e+00	StimUp	15	14	a12.jpg	522	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.063385e+03	9.369628e+00	StimUp	16	15	a12.jpg	520	580	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.063789e+03	9.773066e+00	StimUp	17	16	a12.jpg	588	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.064212e+03	1.019654e+01	StimUp	18	17	a12.jpg	560	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.064334e+03	1.031842e+01	StimUp	19	18	a12.jpg	581	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.064466e+03	1.045026e+01	StimUp	20	19	a12.jpg	581	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.064608e+03	1.059206e+01	StimUp	21	20	a12.jpg	566	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.064890e+03	1.087462e+01	StimUp	22	21	a12.jpg	566	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.065696e+03	1.168018e+01	StimUp	23	22	a12.jpg	588	534	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.065767e+03	1.175160e+01	StimUp	24	23	a12.jpg	624	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.065909e+03	1.189330e+01	StimUp	25	24	a12.jpg	591	534	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	21	Vert	V Correct	1.066272e+03	1.225628e+01	StimUp	26	25	a12.jpg	588	516	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	 	1.087884e+03	8.373429e-01	StartStim	1	1	 	501	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	 	1.088187e+03	1.139922e+00	StartStim	2	2	 	515	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	V Correct	1.088302e+03	1.011510e-01	StimUp	3	1	a52.jpg	508	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	V Correct	1.088665e+03	4.643648e-01	StimUp	4	2	a52.jpg	574	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	V Correct	1.088727e+03	5.257221e-01	StimUp	5	3	a52.jpg	588	469	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:8	1	22	Vert	V Correct	1.088768e+03	5.668442e-01	StimUp	6	4	a52.jpg	580	493	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.088980e+03	7.790569e-01	StimUp	7	5	a52.jpg	552	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089082e+03	8.806677e-01	StimUp	8	6	a52.jpg	566	493	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089183e+03	9.822271e-01	StimUp	9	7	a52.jpg	552	513	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089265e+03	1.063711e+00	StimUp	10	8	a52.jpg	566	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089668e+03	1.467120e+00	StimUp	11	9	a52.jpg	601	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089780e+03	1.578784e+00	StimUp	12	10	a52.jpg	601	475	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.089901e+03	1.700439e+00	StimUp	13	11	a52.jpg	599	481	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.097249e+03	9.048036e+00	StimUp	14	12	a52.jpg	542	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098105e+03	9.903930e+00	StimUp	15	13	a52.jpg	569	648	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098206e+03	1.000548e+01	StimUp	16	14	a52.jpg	606	657	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098449e+03	1.024777e+01	StimUp	17	15	a52.jpg	590	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098550e+03	1.034933e+01	StimUp	18	16	a52.jpg	590	603	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098672e+03	1.047096e+01	StimUp	19	17	a52.jpg	590	600	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098773e+03	1.057246e+01	StimUp	20	18	a52.jpg	614	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098845e+03	1.064376e+01	StimUp	21	19	a52.jpg	614	604	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.098926e+03	1.072507e+01	StimUp	22	20	a52.jpg	592	604	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.099269e+03	1.106794e+01	StimUp	23	21	a52.jpg	631	648	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.099310e+03	1.110912e+01	StimUp	24	22	a52.jpg	628	627	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.099351e+03	1.115022e+01	StimUp	25	23	a52.jpg	628	657	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.099412e+03	1.121144e+01	StimUp	26	24	a52.jpg	606	648	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.099544e+03	1.134310e+01	StimUp	27	25	a52.jpg	591	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.100108e+03	1.190721e+01	StimUp	28	26	a52.jpg	562	624	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.100491e+03	1.229056e+01	StimUp	29	27	a52.jpg	566	625	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.100694e+03	1.249270e+01	StimUp	30	28	a52.jpg	583	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	22	Vert	V Correct	1.102273e+03	1.407256e+01	StimUp	31	29	a52.jpg	570	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	 	1.122378e+03	1.148834e+00	StartStim	1	1	 	507	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	 	1.122480e+03	1.250346e+00	StartStim	2	2	 	504	514	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.122957e+03	4.632078e-01	StimUp	3	1	a43.jpg	435	591	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123018e+03	5.246471e-01	StimUp	4	2	a43.jpg	463	558	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123140e+03	6.462517e-01	StimUp	5	3	a43.jpg	457	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123282e+03	7.880033e-01	StimUp	6	4	a43.jpg	457	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123484e+03	9.900967e-01	StimUp	7	5	a43.jpg	475	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123766e+03	1.272655e+00	StimUp	8	6	a43.jpg	428	516	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123818e+03	1.323982e+00	StimUp	9	7	a43.jpg	453	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.123919e+03	1.425493e+00	StimUp	10	8	a43.jpg	457	469	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.124081e+03	1.587394e+00	StimUp	11	9	a43.jpg	465	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.124243e+03	1.749313e+00	StimUp	12	10	a43.jpg	439	469	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.124345e+03	1.851002e+00	StimUp	13	11	a43.jpg	427	468	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.124467e+03	1.972775e+00	StimUp	14	12	a43.jpg	457	459	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.124568e+03	2.074338e+00	StimUp	15	13	a43.jpg	468	459	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.132962e+03	1.046776e+01	StimUp	16	14	a43.jpg	547	580	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.133345e+03	1.085102e+01	StimUp	17	15	a43.jpg	476	666	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:9	1	23	Vert	V Correct	1.133466e+03	1.097275e+01	StimUp	18	16	a43.jpg	497	657	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	 	1.156819e+03	1.299527e+00	StartStim	1	1	 	507	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	 	1.156941e+03	1.421145e+00	StartStim	2	2	 	507	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.157337e+03	3.828415e-01	StimUp	3	1	a1.jpg 	442	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.157459e+03	5.046676e-01	StimUp	4	2	a1.jpg 	446	504	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.157701e+03	7.470481e-01	StimUp	5	3	a1.jpg 	435	472	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.157944e+03	9.894045e-01	StimUp	6	4	a1.jpg 	413	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158035e+03	1.080916e+00	StimUp	7	5	a1.jpg 	406	490	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158097e+03	1.142143e+00	StimUp	8	6	a1.jpg 	423	450	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158198e+03	1.243606e+00	StimUp	9	7	a1.jpg 	427	471	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158239e+03	1.284743e+00	StimUp	10	8	a1.jpg 	450	490	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158321e+03	1.366123e+00	StimUp	11	9	a1.jpg 	464	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158382e+03	1.427370e+00	StimUp	12	10	a1.jpg 	479	493	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158423e+03	1.468489e+00	StimUp	13	11	a1.jpg 	479	492	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158524e+03	1.570047e+00	StimUp	14	12	a1.jpg 	450	516	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.158596e+03	1.641375e+00	StimUp	15	13	a1.jpg 	392	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.160437e+03	3.482869e+00	StimUp	16	14	a1.jpg 	410	561	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.160478e+03	3.524078e+00	StimUp	17	15	a1.jpg 	365	591	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.160821e+03	3.866904e+00	StimUp	18	16	a1.jpg 	403	591	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.160983e+03	4.028928e+00	StimUp	19	17	a1.jpg 	441	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.161085e+03	4.130528e+00	StimUp	20	18	a1.jpg 	394	577	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.161186e+03	4.232029e+00	StimUp	21	19	a1.jpg 	407	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.161278e+03	4.323444e+00	StimUp	22	20	a1.jpg 	428	538	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.161399e+03	4.445078e+00	StimUp	23	21	a1.jpg 	450	513	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:10	1	24	Vert	V Correct	1.161501e+03	4.546580e+00	StimUp	24	22	a1.jpg 	461	475	Stim	1	1	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	 	2.211158e+03	1.021177e+03	StartStim	1	1	 	729	432	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	 	2.213421e+03	1.023440e+03	StartStim	2	2	 	515	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.213918e+03	4.833773e-01	StimUp	3	1	a41.jpg	428	513	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214040e+03	6.051953e-01	StimUp	4	2	a41.jpg	443	493	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214142e+03	7.067170e-01	StimUp	5	3	a41.jpg	413	481	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214223e+03	7.881097e-01	StimUp	6	4	a41.jpg	406	490	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214254e+03	8.192120e-01	StimUp	7	5	a41.jpg	370	525	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214336e+03	9.005141e-01	StimUp	8	6	a41.jpg	405	481	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214457e+03	1.022077e+00	StimUp	9	7	a41.jpg	449	469	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214539e+03	1.103537e+00	StimUp	10	8	a41.jpg	457	447	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214620e+03	1.184899e+00	StimUp	11	9	a41.jpg	446	438	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.214721e+03	1.286367e+00	StimUp	12	10	a41.jpg	362	489	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.215457e+03	2.021684e+00	StimUp	13	11	a41.jpg	468	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.215518e+03	2.083066e+00	StimUp	14	12	a41.jpg	462	607	Stim	1	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:27	1	25	Vert	V Correct	2.215941e+03	2.506346e+00	StimUp	15	13	a41.jpg	453	646	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:28	1	26	Vert	 	2.262531e+03	1.606759e+01	StartStim	1	1	 	538	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:28	1	26	Vert	 	2.262944e+03	1.648068e+01	StartStim	2	2	 	511	547	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:30	1	26	Vert	 	2.369765e+03	1.233019e+02	StartStim	3	3	 	740	627	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:30	1	26	Vert	 	2.370330e+03	1.238668e+02	StartStim	4	4	 	740	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:34	1	26	Vert	 	2.607858e+03	3.613949e+02	StartStim	5	5	 	784	709	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:34	1	26	Vert	 	2.633052e+03	3.865885e+02	StartStim	6	6	 	708	715	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:37	1	26	Vert	 	2.782831e+03	5.363680e+02	StartStim	7	7	 	522	378	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:37	1	26	Vert	 	2.782892e+03	5.364294e+02	StartStim	8	8	 	681	561	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:38	1	26	Vert	 	2.848420e+03	6.019574e+02	StartStim	9	9	 	664	715	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:39	1	26	Vert	 	2.907209e+03	6.607462e+02	StartStim	10	10	 	773	636	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:45	1	26	Vert	 	3.297044e+03	1.050581e+03	StartStim	11	11	 	829	657	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:45	1	26	Vert	 	3.298885e+03	1.052422e+03	StartStim	12	12	 	866	600	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:45	1	26	Vert	 	3.299258e+03	1.052795e+03	StartStim	13	13	 	867	613	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:48	1	26	Vert	 	3.451806e+03	1.205343e+03	StartStim	14	14	 	816	415	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:52	1	26	Vert	 	3.709983e+03	1.463520e+03	StartStim	15	15	 	707	400	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:52	1	26	Vert	 	3.710085e+03	1.463622e+03	StartStim	16	16	 	718	378	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:52	1	26	Vert	 	3.710307e+03	1.463844e+03	StartStim	17	17	 	838	723	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:52	1	26	Vert	 	3.710981e+03	1.464518e+03	StartStim	18	18	 	473	535	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:53	1	26	Vert	 	3.751102e+03	1.504639e+03	StartStim	19	19	 	871	600	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	13:57	1	26	Vert	 	4.025604e+03	1.779141e+03	StartStim	20	20	 	893	646	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	14:5	1	26	Vert	 	4.458557e+03	2.212094e+03	StartStim	21	21	 	239	283	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	14:5	1	26	Vert	 	4.459695e+03	2.213232e+03	StartStim	22	22	 	204	530	Screen	0	0	P019A Remedial Vert	
+Raffles	July 20	20-Jul-2017	14:5	1	26	Vert	 	4.467946e+03	2.221483e+03	StartStim	23	23	 	750	370	Screen	0	0	P019A Remedial Vert	

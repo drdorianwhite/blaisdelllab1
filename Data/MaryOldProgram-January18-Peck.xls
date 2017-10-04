@@ -1,0 +1,155 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	 	7.038566e+00	1.103531e+00	StartStim	1	1	 	509	507	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.014500e+00	8.875501e-01	StimUp	2	1	d5.jpg 	509	508	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.209226e+00	1.082276e+00	StimUp	3	2	d5.jpg 	473	469	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.373446e+00	1.246497e+00	StimUp	4	3	d5.jpg 	475	453	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.507114e+00	1.380165e+00	StimUp	5	4	d5.jpg 	481	455	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.690792e+00	1.563842e+00	StimUp	6	5	d5.jpg 	502	486	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	8.853438e+00	1.726488e+00	StimUp	7	6	d5.jpg 	503	494	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	9.358027e+00	2.231077e+00	StimUp	8	7	d5.jpg 	498	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	9.520530e+00	2.393580e+00	StimUp	9	8	d5.jpg 	498	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	9.682907e+00	2.555958e+00	StimUp	10	9	d5.jpg 	498	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	9.865341e+00	2.738391e+00	StimUp	11	10	d5.jpg 	498	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:33	1	1	Vert	IncorrectMajorV	1.005834e+01	2.931389e+00	StimUp	12	11	d5.jpg 	498	484	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	 	2.966639e+01	4.510269e+00	StartStim	1	1	 	504	499	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.033866e+01	6.358441e-01	StimUp	2	1	a9.jpg 	504	499	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.056249e+01	8.596664e-01	StimUp	3	2	a9.jpg 	504	478	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.085604e+01	1.153220e+00	StimUp	4	3	a9.jpg 	547	473	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.100885e+01	1.306034e+00	StimUp	5	4	a9.jpg 	547	473	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.117142e+01	1.468602e+00	StimUp	6	5	a9.jpg 	531	470	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.131560e+01	1.612776e+00	StimUp	7	6	a9.jpg 	531	470	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.149808e+01	1.795262e+00	StimUp	8	7	a9.jpg 	506	477	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.165030e+01	1.947480e+00	StimUp	9	8	a9.jpg 	505	496	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.183263e+01	2.129808e+00	StimUp	10	9	a9.jpg 	505	520	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.195475e+01	2.251925e+00	StimUp	11	10	a9.jpg 	505	527	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.214715e+01	2.444331e+00	StimUp	12	11	a9.jpg 	508	547	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.230916e+01	2.606344e+00	StimUp	13	12	a9.jpg 	509	548	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.249155e+01	2.788734e+00	StimUp	14	13	a9.jpg 	516	529	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:34	1	2	Vert	FollowedV	3.265381e+01	2.950989e+00	StimUp	15	14	a9.jpg 	520	490	Stim	1	1	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	 	1.289539e+02	8.122391e+01	StartStim	1	1	 	504	509	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.331303e+02	4.146127e+00	StimUp	2	1	d61.jpg	504	509	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.333023e+02	4.318217e+00	StimUp	3	2	d61.jpg	504	509	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.335146e+02	4.530508e+00	StimUp	4	3	d61.jpg	504	509	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.337069e+02	4.722792e+00	StimUp	5	4	d61.jpg	504	491	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.341307e+02	5.146556e+00	StimUp	6	5	d61.jpg	542	504	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.343028e+02	5.318696e+00	StimUp	7	6	d61.jpg	550	515	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.344552e+02	5.471046e+00	StimUp	8	7	d61.jpg	566	529	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.345971e+02	5.612963e+00	StimUp	9	8	d61.jpg	566	529	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.349301e+02	5.945971e+00	StimUp	10	9	d61.jpg	568	531	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.352530e+02	6.268896e+00	StimUp	11	10	d61.jpg	568	531	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.356868e+02	6.702697e+00	StimUp	12	11	d61.jpg	568	531	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.359193e+02	6.935180e+00	StimUp	13	12	d61.jpg	561	529	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.361323e+02	7.148193e+00	StimUp	14	13	d61.jpg	560	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.363144e+02	7.330320e+00	StimUp	15	14	d61.jpg	560	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:35	1	3	Vert	IncorrectMajorV	1.365066e+02	7.522499e+00	StimUp	16	15	d61.jpg	560	513	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	 	1.715409e+02	2.452115e+01	StartStim	1	1	 	514	498	Stim	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.764190e+02	4.862265e+00	StimUp	2	1	a52.jpg	459	477	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.765933e+02	5.036581e+00	StimUp	3	2	a52.jpg	484	485	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.767655e+02	5.208768e+00	StimUp	4	3	a52.jpg	513	508	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.769376e+02	5.380871e+00	StimUp	5	4	a52.jpg	549	519	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.770594e+02	5.502636e+00	StimUp	6	5	a52.jpg	558	520	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.772013e+02	5.644559e+00	StimUp	7	6	a52.jpg	556	509	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.773533e+02	5.796524e+00	StimUp	8	7	a52.jpg	553	503	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.775156e+02	5.958819e+00	StimUp	9	8	a52.jpg	546	502	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.776777e+02	6.120968e+00	StimUp	10	9	a52.jpg	541	508	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.778498e+02	6.293038e+00	StimUp	11	10	a52.jpg	539	510	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.780425e+02	6.485714e+00	StimUp	12	11	a52.jpg	535	511	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.782149e+02	6.658146e+00	StimUp	13	12	a52.jpg	550	534	Stim	1	1	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.840291e+02	1.247235e+01	StimUp	14	13	a52.jpg	579	517	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.842213e+02	1.266455e+01	StimUp	15	14	a52.jpg	579	517	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.843935e+02	1.283670e+01	StimUp	16	15	a52.jpg	553	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.845152e+02	1.295848e+01	StimUp	17	16	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.846573e+02	1.310054e+01	StimUp	18	17	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.848092e+02	1.325249e+01	StimUp	19	18	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.849711e+02	1.341435e+01	StimUp	20	19	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.851330e+02	1.357626e+01	StimUp	21	20	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.852849e+02	1.372813e+01	StimUp	22	21	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.854473e+02	1.389058e+01	StimUp	23	22	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.856094e+02	1.405264e+01	StimUp	24	23	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.857915e+02	1.423473e+01	StimUp	25	24	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.859534e+02	1.439663e+01	StimUp	26	25	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.861254e+02	1.456863e+01	StimUp	27	26	a52.jpg	551	545	Stim	1	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	4	Vert	FollowedV	1.864585e+02	1.490177e+01	StimUp	28	27	a52.jpg	541	543	Stim	1	1	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	5	Vert	 	1.917370e+02	3.155866e-02	ITI	1	1	a52.jpg	619	295	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:36	1	5	Vert	 	1.919606e+02	2.551409e-01	ITI	2	2	a52.jpg	624	201	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.268253e+02	3.211211e+01	StartStim	3	1	 	211	747	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.289777e+02	3.426449e+01	StartStim	4	2	 	403	181	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.291619e+02	3.444867e+01	StartStim	5	3	 	403	181	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.302294e+02	3.551623e+01	StartStim	6	4	 	681	343	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.315214e+02	3.680815e+01	StartStim	7	5	 	424	431	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.356937e+02	4.098050e+01	StartStim	8	6	 	1023	681	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.381933e+02	4.348013e+01	StartStim	9	7	 	423	754	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.508760e+02	5.616279e+01	StartStim	10	8	 	161	736	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.551670e+02	6.045374e+01	StartStim	11	9	 	853	447	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.558333e+02	6.112014e+01	StartStim	12	10	 	470	765	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:37	1	5	Vert	 	2.587693e+02	6.405610e+01	StartStim	13	11	 	187	196	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.749112e+02	8.019804e+01	StartStim	14	12	 	70	569	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.763231e+02	8.160984e+01	StartStim	15	13	 	62	281	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.809184e+02	8.620518e+01	StartStim	16	14	 	69	289	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.859131e+02	9.119993e+01	StartStim	17	15	 	68	495	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.893202e+02	9.460696e+01	StartStim	18	16	 	69	348	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	2.989522e+02	1.042390e+02	StartStim	19	17	 	65	368	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	3.004745e+02	1.057613e+02	StartStim	20	18	 	68	383	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	3.012311e+02	1.065179e+02	StartStim	21	19	 	68	405	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	3.022085e+02	1.074953e+02	StartStim	22	20	 	68	416	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:38	1	5	Vert	 	3.150401e+02	1.203269e+02	StartStim	23	21	 	68	475	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.024118e+02	2.076986e+02	StartStim	24	22	 	26	197	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.036916e+02	2.089784e+02	StartStim	25	23	 	51	373	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.114758e+02	2.167626e+02	StartStim	26	24	 	277	207	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.152516e+02	2.205384e+02	StartStim	27	25	 	217	654	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.208077e+02	2.260945e+02	StartStim	28	26	 	361	575	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.235252e+02	2.288120e+02	StartStim	29	27	 	324	639	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.254330e+02	2.307198e+02	StartStim	30	28	 	974	627	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.268951e+02	2.321819e+02	StartStim	31	29	 	962	585	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:40	1	5	Vert	 	4.353207e+02	2.406075e+02	StartStim	32	30	 	15	632	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.510071e+02	2.562938e+02	StartStim	33	31	 	224	586	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.540305e+02	2.593173e+02	StartStim	34	32	 	480	222	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.593303e+02	2.646170e+02	StartStim	35	33	 	317	576	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.619516e+02	2.672384e+02	StartStim	36	34	 	518	244	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.669932e+02	2.722800e+02	StartStim	37	35	 	245	581	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.712842e+02	2.765710e+02	StartStim	38	36	 	511	255	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.765952e+02	2.818820e+02	StartStim	39	37	 	407	253	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.855057e+02	2.907925e+02	StartStim	40	38	 	249	576	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.882681e+02	2.935549e+02	StartStim	41	39	 	405	275	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.939514e+02	2.992381e+02	StartStim	42	40	 	266	578	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	4.971356e+02	3.024224e+02	StartStim	43	41	 	478	291	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	5.015601e+02	3.068469e+02	StartStim	44	42	 	296	570	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:41	1	5	Vert	 	5.042507e+02	3.095375e+02	StartStim	45	43	 	488	307	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.121049e+02	3.173917e+02	StartStim	46	44	 	275	584	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.143841e+02	3.196709e+02	StartStim	47	45	 	454	330	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.189591e+02	3.242459e+02	StartStim	48	46	 	323	572	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.211173e+02	3.264041e+02	StartStim	49	47	 	455	348	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.268518e+02	3.321386e+02	StartStim	50	48	 	351	582	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.302072e+02	3.354940e+02	StartStim	51	49	 	765	357	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.386857e+02	3.439725e+02	StartStim	52	50	 	292	570	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.412561e+02	3.465429e+02	StartStim	53	51	 	719	289	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.460435e+02	3.513302e+02	StartStim	54	52	 	432	575	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.482521e+02	3.535389e+02	StartStim	55	53	 	765	311	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.533065e+02	3.585933e+02	StartStim	56	54	 	421	577	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.608470e+02	3.661338e+02	StartStim	57	55	 	766	335	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:42	1	5	Vert	 	5.619253e+02	3.672121e+02	StartStim	58	56	 	768	325	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.754392e+02	3.807260e+02	StartStim	59	57	 	364	576	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.782611e+02	3.835479e+02	StartStim	60	58	 	602	347	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.803671e+02	3.856539e+02	StartStim	61	59	 	478	350	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.880975e+02	3.933843e+02	StartStim	62	60	 	357	569	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.908896e+02	3.961764e+02	StartStim	63	61	 	495	363	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	5.994207e+02	4.047075e+02	StartStim	64	62	 	433	577	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	6.028044e+02	4.080912e+02	StartStim	65	63	 	540	383	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	6.082602e+02	4.135470e+02	StartStim	66	64	 	490	576	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	6.104574e+02	4.157442e+02	StartStim	67	65	 	555	402	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	6.171886e+02	4.224754e+02	StartStim	68	66	 	459	583	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:43	1	5	Vert	 	6.251647e+02	4.304515e+02	StartStim	69	67	 	538	413	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.299910e+02	4.352778e+02	StartStim	70	68	 	466	574	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.318952e+02	4.371820e+02	StartStim	71	69	 	560	443	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.328126e+02	4.380994e+02	StartStim	72	70	 	558	429	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.375974e+02	4.428842e+02	StartStim	73	71	 	453	576	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.398634e+02	4.451502e+02	StartStim	74	72	 	588	454	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.453696e+02	4.506564e+02	StartStim	75	73	 	400	582	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.481204e+02	4.534071e+02	StartStim	76	74	 	982	466	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.539717e+02	4.592585e+02	StartStim	77	75	 	542	611	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.569637e+02	4.622505e+02	StartStim	78	76	 	434	581	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.604887e+02	4.657755e+02	StartStim	79	77	 	501	480	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.686694e+02	4.739562e+02	StartStim	80	78	 	429	579	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.706549e+02	4.759416e+02	StartStim	81	79	 	491	508	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.743096e+02	4.795964e+02	StartStim	82	80	 	391	570	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.777137e+02	4.830005e+02	StartStim	83	81	 	458	584	Screen	0	0	P019A Remdial Vert	
+MaryOldProgram	January18	18-Jan-2017	15:44	1	5	Vert	 	6.799705e+02	4.852573e+02	StartStim	84	82	 	501	524	Stim	0	0	P019A Remdial Vert	

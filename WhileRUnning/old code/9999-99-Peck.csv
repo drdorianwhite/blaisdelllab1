@@ -1,0 +1,9 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	
+CodeRun	9999	99	19-Mar-2016	0:25	99	1	Vert	ITI	7.129998e+00	1.220141e+00	StartStim	1	0	 	683	385	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	ITI	7.807252e+00	1.897395e+00	StartStim	2	0	 	685	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	ITI	8.421213e+00	2.511355e+00	StartStim	3	0	 	683	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	FollowedV	9.237865e+00	7.279682e-01	StimUp	4	0	a48.jpg	683	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	FollowedV	9.976629e+00	1.466733e+00	StimUp	5	0	a48.jpg	683	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	FollowedV	1.077454e+01	2.264646e+00	StimUp	6	0	a48.jpg	683	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	FollowedV	1.152067e+01	3.010778e+00	StimUp	7	0	a48.jpg	683	383	Stim	0	0	P019A V1	
+9999	99	19-Mar-2016	0:25	99	1	Vert	FollowedV	1.235869e+01	3.848789e+00	StimUp	8	0	a48.jpg	683	383	Stim	0	0	P019A V1	

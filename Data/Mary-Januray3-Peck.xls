@@ -1,0 +1,9 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	Januray3	03-Jan-2017	15:16	1	1	Vert	 	8.137192e+00	3.565893e+00	StartStim	1	1	 	509	516	Stim	0	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	 	1.118652e+01	1.314568e-02	ITI	1	1	a12.jpg	381	512	Screen	0	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	 	1.558559e+01	1.403524e+00	StartStim	2	1	 	523	510	Stim	0	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.644101e+01	8.272696e-01	StimUp	3	1	a1.jpg 	381	513	Screen	0	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.738970e+01	1.775962e+00	StimUp	4	2	a1.jpg 	172	503	Stim	1	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.786593e+01	2.252186e+00	StimUp	5	3	a1.jpg 	214	458	Stim	1	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.812974e+01	2.515999e+00	StimUp	6	4	a1.jpg 	278	514	Stim	1	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:16	1	2	Vert	FollowedV	1.847381e+01	2.860064e+00	StimUp	7	5	a1.jpg 	253	577	Stim	1	0	P019A Super Remdial Vert	
+Mary	Januray3	03-Jan-2017	15:17	1	3	Vert	 	2.917642e+01	7.534174e+00	StartStim	1	1	 	507	514	Stim	0	0	P019A Super Remdial Vert	

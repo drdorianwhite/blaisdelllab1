@@ -1,0 +1,13 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Jubilee	August22	22-Aug-2017	15:24	1	1	Vert	V Correct	7.525545e+00	3.008266e+00	4.237154e+02	3.001342e+01	e28.jpg	0	1	123	4	0	1	1	1	P014C Vert	
+Jubilee	August22	22-Aug-2017	15:29	1	2	Vert	V Major	4.642716e+02	3.006176e+00	2.862539e+02	3.000671e+01	d2.jpg 	0	1	185	1	0	1	0	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	15:31	1	3	Vert	V Minor	7.835485e+02	3.006307e+00	6.164300e+01	3.000730e+01	e10.jpg	0	1	127	0	2	0	0	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	15:31	1	4	Vert	V Correct	8.782133e+02	3.004530e+00	1.605353e+01	3.000783e+01	e26.jpg	4	1	4	2	3	4.000000e-01	1	1	P014C Vert	
+Jubilee	August22	22-Aug-2017	15:33	1	5	Vert	V Correct	9.273031e+02	3.013157e+00	4.313575e+01	3.001363e+01	e27.jpg	0	1	84	2	10	1.666667e-01	1	1	P014C Vert	
+Jubilee	August22	22-Aug-2017	15:56	1	6	Vert	V Correct	1.003486e+03	3.005649e+00	1.388750e+03	3.000747e+01	e10.jpg	0	1	276	0	0	NaN	1	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:0	1	7	Vert	V Major	2.425258e+03	3.005763e+00	1.710725e+02	3.000579e+01	d52.jpg	0	1	65	17	8	6.800000e-01	0	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:2	1	8	Vert	V Minor	2.629353e+03	3.008472e+00	8.470484e+01	3.000903e+01	e2.jpg 	7	1	124	17	24	4.146341e-01	0	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:3	1	9	Vert	V Minor	2.747088e+03	3.012561e+00	6.726274e+01	3.001004e+01	f2.jpg 	11	1	117	16	38	2.962963e-01	0	0	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:5	1	10	Vert	V Correct	2.847375e+03	3.006024e+00	5.140897e+01	3.001048e+01	e25.jpg	0	1	102	5	15	2.500000e-01	1	1	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:6	1	11	Vert	V Correct	2.931807e+03	3.003882e+00	3.907882e+01	3.000930e+01	e28.jpg	5	1	62	2	3	4.000000e-01	1	1	P014C Vert	
+Jubilee	August22	22-Aug-2017	16:20	1	12	Vert	V Major	3.003909e+03	3.005508e+00	8.071276e+02	3.001406e+01	g50.jpg	0	1	245	1	0	1	0	0	P014C Vert	

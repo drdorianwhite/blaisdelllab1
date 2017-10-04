@@ -1,0 +1,11 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+wilhelm	jul6	06-Jul-2016	14:55	99	1	Vert	FollowedV	7.644679e+00	3.014505e+00	5.812015e+02	3.001483e+01	a16.jpg	0	1	2	7	6	5.384615e-01	1	1	P019A 1	
+wilhelm	jul6	06-Jul-2016	14:56	99	2	Vert	IncorrectMajorV	6.218881e+02	3.012895e+00	6.233466e+00	3.000723e+01	d346.jpg	0	1	1	2	6	2.500000e-01	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:3	99	3	Vert	IncorrectMajorV	6.611475e+02	3.006787e+00	3.870248e+02	3.001202e+01	d169.jpg	0	1	16	0	0	NaN	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:5	99	4	Vert	IncorrectMinorV	1.081203e+03	3.006463e+00	8.375798e+01	3.000949e+01	e38.jpg	0	1	8	9	2	8.181818e-01	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:8	99	5	Vert	IncorrectMajorV	1.197994e+03	3.008657e+00	1.752306e+02	3.001241e+01	d37.jpg 	0	1	19	19	20	4.871795e-01	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:9	99	6	Vert	FollowedV	1.406271e+03	3.006345e+00	4.799368e+01	3.000886e+01	a85.jpg	0	1	5	12	13	4.800000e-01	1	2	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:10	99	7	Vert	FollowedV	1.487289e+03	3.006731e+00	2.137313e+01	3.000731e+01	a16.jpg	0	1	6	12	17	4.137931e-01	1	2	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:12	99	8	Vert	IncorrectMajorV	1.541685e+03	3.006496e+00	8.577899e+01	3.000642e+01	d304.jpg	0	1	11	13	19	4.062500e-01	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:13	99	9	Vert	IncorrectMinorV	1.660485e+03	3.006575e+00	6.572320e+00	3.001398e+01	e14.jpg	0	1	2	12	2	8.571429e-01	0	0	P019A 1	
+wilhelm	jul6	06-Jul-2016	15:14	99	10	Vert	FollowedV	1.700086e+03	3.006773e+00	5.331309e+01	3.000779e+01	a95.jpg	0	1	29	5	12	2.941176e-01	1	1	P019A 1	

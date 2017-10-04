@@ -1,0 +1,139 @@
+Bird	Session number	Probe	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	 	1.036476e+01	4.357929e+00	StartStim	1	1	 	515	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.124450e+01	8.220541e-01	StimUp	2	1	h6.jpg 	522	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.143210e+01	1.009653e+00	StimUp	3	2	h6.jpg 	443	543	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.156764e+01	1.145201e+00	StimUp	4	3	h6.jpg 	530	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.172450e+01	1.302056e+00	StimUp	5	4	h6.jpg 	457	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.188791e+01	1.465471e+00	StimUp	6	5	h6.jpg 	562	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.206369e+01	1.641252e+00	StimUp	7	6	h6.jpg 	486	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.222743e+01	1.804990e+00	StimUp	8	7	h6.jpg 	511	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.239117e+01	1.968733e+00	StimUp	9	8	h6.jpg 	551	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.254469e+01	2.122251e+00	StimUp	10	9	h6.jpg 	551	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.272856e+01	2.306121e+00	StimUp	11	10	h6.jpg 	540	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.291351e+01	2.491068e+00	StimUp	12	11	h6.jpg 	462	582	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.307041e+01	2.647967e+00	StimUp	13	12	h6.jpg 	574	553	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.322561e+01	2.803170e+00	StimUp	14	13	h6.jpg 	555	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.340983e+01	2.987390e+00	StimUp	15	14	h6.jpg 	501	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.358337e+01	3.160927e+00	StimUp	16	15	h6.jpg 	479	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.376689e+01	3.344446e+00	StimUp	17	16	h6.jpg 	595	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.395052e+01	3.528078e+00	StimUp	18	17	h6.jpg 	522	492	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.412410e+01	3.701656e+00	StimUp	19	18	h6.jpg 	443	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.428753e+01	3.865092e+00	StimUp	20	19	h6.jpg 	533	574	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.447111e+01	4.048667e+00	StimUp	21	20	h6.jpg 	605	537	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.462432e+01	4.201874e+00	StimUp	22	21	h6.jpg 	503	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.478771e+01	4.365266e+00	StimUp	23	22	h6.jpg 	490	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.496120e+01	4.538758e+00	StimUp	24	23	h6.jpg 	583	547	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.514472e+01	4.722273e+00	StimUp	25	24	h6.jpg 	507	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.532817e+01	4.905725e+00	StimUp	26	25	h6.jpg 	449	553	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.550161e+01	5.079166e+00	StimUp	27	26	h6.jpg 	518	552	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.566489e+01	5.242445e+00	StimUp	28	27	h6.jpg 	551	504	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.582815e+01	5.405713e+00	StimUp	29	28	h6.jpg 	468	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	1	Hort	Probe Correct Hort	1.602181e+01	5.599367e+00	StimUp	30	29	h6.jpg 	501	547	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.698169e+01	3.537039e+00	StartStim	1	1	 	530	570	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.730722e+01	3.862568e+00	StartStim	2	2	 	518	537	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.742015e+01	3.975493e+00	StartStim	3	3	 	533	552	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.776518e+01	4.320528e+00	StartStim	4	4	 	505	541	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.836285e+01	4.918201e+00	StartStim	5	5	 	496	558	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	4.910411e+01	5.659457e+00	StartStim	6	6	 	493	531	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	 	5.017695e+01	6.732294e+00	StartStim	7	7	 	501	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.054476e+01	3.142315e-01	StimUp	8	1	h32.jpg	528	580	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.098255e+01	7.520176e-01	StimUp	9	2	h32.jpg	566	525	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.114640e+01	9.158674e-01	StimUp	10	3	h32.jpg	475	541	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.127966e+01	1.049127e+00	StimUp	11	4	h32.jpg	588	519	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.144327e+01	1.212738e+00	StimUp	12	5	h32.jpg	493	498	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.160064e+01	1.370111e+00	StimUp	13	6	h32.jpg	526	541	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.178431e+01	1.553779e+00	StimUp	14	7	h32.jpg	536	580	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.189724e+01	1.666705e+00	StimUp	15	8	h32.jpg	620	576	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:43	1	2	Hort	H Correct	5.206094e+01	1.830412e+00	StimUp	16	9	h32.jpg	493	553	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.222424e+01	1.993708e+00	StimUp	17	10	h32.jpg	493	541	Stim	1	1	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.816065e+01	7.930120e+00	StimUp	18	11	h32.jpg	508	531	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.832405e+01	8.093521e+00	StimUp	19	12	h32.jpg	493	531	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.845706e+01	8.226525e+00	StimUp	20	13	h32.jpg	522	519	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.860008e+01	8.369551e+00	StimUp	21	14	h32.jpg	530	519	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.876364e+01	8.533110e+00	StimUp	22	15	h32.jpg	486	531	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.889674e+01	8.666210e+00	StimUp	23	16	h32.jpg	537	519	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.906003e+01	8.829501e+00	StimUp	24	17	h32.jpg	522	519	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.920316e+01	8.972631e+00	StimUp	25	18	h32.jpg	544	510	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	2	Hort	H Correct	5.935637e+01	9.125837e+00	StimUp	26	19	h32.jpg	552	519	Stim	1	1	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:44	1	3	Hort	 	8.981583e+01	6.554969e+00	StartStim	1	1	 	515	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.437749e+02	2.089858e+01	StartStim	1	1	 	471	580	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.440896e+02	2.121323e+01	StartStim	2	2	 	518	552	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.443738e+02	2.149745e+01	StartStim	3	3	 	505	537	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.449508e+02	2.207450e+01	StartStim	4	4	 	511	547	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.454673e+02	2.259101e+01	StartStim	5	5	 	496	553	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	 	1.459535e+02	2.307720e+01	StartStim	6	6	 	511	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.468699e+02	8.597476e-01	StimUp	7	1	h47.jpg	566	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.470534e+02	1.043261e+00	StimUp	8	2	h47.jpg	453	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.471964e+02	1.186242e+00	StimUp	9	3	h47.jpg	530	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.473293e+02	1.319131e+00	StimUp	10	4	h47.jpg	479	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.474925e+02	1.482308e+00	StimUp	11	5	h47.jpg	493	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.476355e+02	1.625294e+00	StimUp	12	6	h47.jpg	522	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.477886e+02	1.778404e+00	StimUp	13	7	h47.jpg	446	564	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.479316e+02	1.921481e+00	StimUp	14	8	h47.jpg	522	564	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.480949e+02	2.084708e+00	StimUp	15	9	h47.jpg	571	547	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.482479e+02	2.237780e+00	StimUp	16	10	h47.jpg	526	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.484111e+02	2.400978e+00	StimUp	17	11	h47.jpg	442	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.485945e+02	2.584354e+00	StimUp	18	12	h47.jpg	509	580	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.487276e+02	2.717424e+00	StimUp	19	13	h47.jpg	577	547	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.488909e+02	2.880738e+00	StimUp	20	14	h47.jpg	544	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.490541e+02	3.043961e+00	StimUp	21	15	h47.jpg	471	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.492073e+02	3.197130e+00	StimUp	22	16	h47.jpg	501	570	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.493503e+02	3.340170e+00	StimUp	23	17	h47.jpg	541	552	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.494933e+02	3.483148e+00	StimUp	24	18	h47.jpg	515	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.496262e+02	3.616045e+00	StimUp	25	19	h47.jpg	457	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:45	1	4	Hort	Probe Correct Hort	1.498096e+02	3.799466e+00	StimUp	26	20	h47.jpg	471	535	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	 	1.851830e+02	6.133683e+00	StartStim	1	1	 	511	547	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	 	1.859117e+02	6.862369e+00	StartStim	2	2	 	505	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.868478e+02	9.023493e-01	StimUp	3	1	h40.jpg	518	537	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.869909e+02	1.045482e+00	StimUp	4	2	h40.jpg	440	576	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.871238e+02	1.178358e+00	StimUp	5	3	h40.jpg	555	553	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.872870e+02	1.341512e+00	StimUp	6	4	h40.jpg	497	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.874501e+02	1.504659e+00	StimUp	7	5	h40.jpg	605	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.876031e+02	1.657704e+00	StimUp	8	6	h40.jpg	515	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.877664e+02	1.820961e+00	StimUp	9	7	h40.jpg	490	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.879297e+02	1.984234e+00	StimUp	10	8	h40.jpg	540	552	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.880626e+02	2.117139e+00	StimUp	11	9	h40.jpg	487	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.882258e+02	2.280324e+00	StimUp	12	10	h40.jpg	558	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.883890e+02	2.443531e+00	StimUp	13	11	h40.jpg	533	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.885421e+02	2.596621e+00	StimUp	14	12	h40.jpg	465	547	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.887053e+02	2.759887e+00	StimUp	15	13	h40.jpg	537	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.888686e+02	2.923117e+00	StimUp	16	14	h40.jpg	530	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.890318e+02	3.086330e+00	StimUp	17	15	h40.jpg	508	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.892051e+02	3.259642e+00	StimUp	18	16	h40.jpg	508	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	5	Hort	Probe Correct Hort	1.893885e+02	3.443037e+00	StimUp	19	17	h40.jpg	566	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	 	2.314269e+02	1.243892e+01	StartStim	1	1	 	493	531	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	 	2.322059e+02	1.321791e+01	StartStim	2	2	 	508	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.335395e+02	1.294049e+00	StimUp	3	1	2h.jpg 	522	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.337231e+02	1.477655e+00	StimUp	4	2	2h.jpg 	454	520	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.338662e+02	1.620732e+00	StimUp	5	3	2h.jpg 	544	525	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.339991e+02	1.753606e+00	StimUp	6	4	2h.jpg 	519	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.341623e+02	1.916848e+00	StimUp	7	5	2h.jpg 	457	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.343255e+02	2.080047e+00	StimUp	8	6	2h.jpg 	509	574	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.344584e+02	2.212953e+00	StimUp	9	7	2h.jpg 	536	552	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.346015e+02	2.356038e+00	StimUp	10	8	2h.jpg 	486	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.347849e+02	2.539487e+00	StimUp	11	9	2h.jpg 	435	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.349381e+02	2.692660e+00	StimUp	12	10	2h.jpg 	530	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.351013e+02	2.855888e+00	StimUp	13	11	2h.jpg 	544	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.352645e+02	3.019063e+00	StimUp	14	12	2h.jpg 	486	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.354176e+02	3.172140e+00	StimUp	15	13	2h.jpg 	566	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.356010e+02	3.355511e+00	StimUp	16	14	2h.jpg 	493	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.357844e+02	3.538932e+00	StimUp	17	15	2h.jpg 	544	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.359174e+02	3.671975e+00	StimUp	18	16	2h.jpg 	526	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.361009e+02	3.855408e+00	StimUp	19	17	2h.jpg 	450	541	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.362641e+02	4.018678e+00	StimUp	20	18	2h.jpg 	530	514	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:46	1	6	Hort	Minor H	2.364071e+02	4.161640e+00	StimUp	21	19	2h.jpg 	511	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	6	Hort	Minor H	2.365804e+02	4.334927e+00	StimUp	22	20	2h.jpg 	428	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	6	Hort	Minor H	2.367638e+02	4.518373e+00	StimUp	23	21	2h.jpg 	548	531	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	6	Hort	Minor H	2.369170e+02	4.671569e+00	StimUp	24	22	2h.jpg 	544	510	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	6	Hort	Minor H	2.371005e+02	4.855026e+00	StimUp	25	23	2h.jpg 	450	498	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	 	2.708422e+02	5.575532e+00	StartStim	1	1	 	511	541	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	 	2.719140e+02	6.647350e+00	StartStim	2	2	 	508	519	Stim	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.721972e+02	2.534131e-01	StimUp	3	1	h15.jpg	511	547	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.731797e+02	1.235886e+00	StimUp	4	2	h15.jpg	446	541	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.733229e+02	1.379050e+00	StimUp	5	3	h15.jpg	533	541	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.734760e+02	1.532180e+00	StimUp	6	4	h15.jpg	511	514	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.736191e+02	1.675298e+00	StimUp	7	5	h15.jpg	443	541	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.737622e+02	1.818413e+00	StimUp	8	6	h15.jpg	536	552	Stim	1	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.739154e+02	1.971612e+00	StimUp	9	7	h15.jpg	551	519	Stim	1	1	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.861240e+02	1.418019e+01	StimUp	10	8	h15.jpg	176	269	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.882288e+02	1.628501e+01	StimUp	11	9	h15.jpg	545	95	Screen	0	0	P019aHortProbeSet2	
+MaryProbe2	September13	13-Sep-2017	18:47	1	7	Hort	H Correct	2.891725e+02	1.722865e+01	StimUp	12	10	h15.jpg	398	161	Screen	0	0	P019aHortProbeSet2	

@@ -1,0 +1,6 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Cousteau	June6	06-Jun-2016	10:19	1	1	Vert	FollowedV	7.930590e+00	3.023400e+00	1.673195e+02	3.000931e+01	a16.jpg	0	1	4	6	1	8.571429e-01	1	1	P019A V1	
+Cousteau	June6	06-Jun-2016	10:20	1	2	Vert	IncorrectMajorV	2.082763e+02	3.005610e+00	1.758093e+01	3.001293e+01	d346.jpg	0	1	0	12	2	8.571429e-01	0	0	P019A V1	
+Cousteau	June6	06-Jun-2016	10:20	1	3	Vert	IncorrectMajorV	2.588911e+02	3.011740e+00	1.651676e+01	3.000600e+01	d169.jpg	0	1	3	38	2	9.500000e-01	0	0	P019A V1	
+Cousteau	June6	06-Jun-2016	10:26	1	4	Vert	IncorrectMinorV	3.084280e+02	3.004777e+00	3.136955e+02	3.000896e+01	e38.jpg	1	1	2	10	1	9.090909e-01	0	0	P019A V1	
+Cousteau	June6	06-Jun-2016	10:27	1	5	Vert	IncorrectMajorV	6.551500e+02	3.006720e+00	6.369895e+00	3.001119e+01	d37.jpg 	5	1	3	22	0	1	0	0	P019A V1	

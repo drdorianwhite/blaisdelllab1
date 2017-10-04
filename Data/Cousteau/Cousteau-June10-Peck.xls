@@ -1,0 +1,7 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Cousteau	June10	10-Jun-2016	12:24	1	1	Vert	 	1.135232e+02	1.055902e+02	StartStim	1	1	 	701	592	Screen	0	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:27	1	1	Vert	 	3.931054e+03	3.923121e+03	StartStim	2	2	 	38	334	Screen	0	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:27	1	1	Vert	 	3.931128e+03	3.923195e+03	StartStim	3	3	 	244	534	Screen	0	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:28	1	1	Vert	 	3.973582e+03	3.965649e+03	StartStim	4	4	 	517	504	Stim	0	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:28	1	1	Vert	FollowedV	3.973922e+03	2.057390e-01	StimUp	5	1	a16.jpg	491	454	Stim	1	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:28	1	1	Vert	FollowedV	3.983865e+03	1.014793e+01	StimUp	6	2	a16.jpg	615	669	Screen	0	0	P019A 1	
+Cousteau	June10	10-Jun-2016	13:28	1	1	Vert	FollowedV	3.985071e+03	1.135474e+01	StimUp	7	3	a16.jpg	597	652	Screen	0	0	P019A 1	

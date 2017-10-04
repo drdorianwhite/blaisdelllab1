@@ -1,0 +1,94 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.053011e+02	9.812700e+01	StartStim	1	1	 	507	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.054018e+02	9.822767e+01	StartStim	2	2	 	507	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.069084e+02	9.973436e+01	StartStim	3	3	 	516	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.257513e+02	1.185772e+02	StartStim	4	4	 	529	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.258669e+02	1.186928e+02	StartStim	5	5	 	516	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.259309e+02	1.187568e+02	StartStim	6	6	 	516	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.262341e+02	1.190600e+02	StartStim	7	7	 	507	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.263462e+02	1.191721e+02	StartStim	8	8	 	507	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.275336e+02	1.203595e+02	StartStim	9	9	 	516	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	 	1.284096e+02	1.212355e+02	StartStim	10	10	 	515	525	Stim	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.285928e+02	1.027146e-01	StimUp	11	1	a11.jpg	538	537	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.293708e+02	8.807044e-01	StimUp	12	2	a11.jpg	479	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.297747e+02	1.284536e+00	StimUp	13	3	a11.jpg	474	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.298264e+02	1.336328e+00	StimUp	14	4	a11.jpg	453	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.299285e+02	1.438386e+00	StimUp	15	5	a11.jpg	440	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.300927e+02	1.602576e+00	StimUp	16	6	a11.jpg	418	603	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.301944e+02	1.704298e+00	StimUp	17	7	a11.jpg	440	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.302265e+02	1.736342e+00	StimUp	18	8	a11.jpg	479	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.303079e+02	1.817816e+00	StimUp	19	9	a11.jpg	453	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.304095e+02	1.919374e+00	StimUp	20	10	a11.jpg	389	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:5	1	1	Vert	V Correct	1.304507e+02	1.960543e+00	StimUp	21	11	a11.jpg	413	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.305522e+02	2.062074e+00	StimUp	22	12	a11.jpg	484	603	Stim	1	1	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.397153e+02	1.122522e+01	StimUp	23	13	a11.jpg	481	603	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.399883e+02	1.149819e+01	StimUp	24	14	a11.jpg	461	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.400698e+02	1.157967e+01	StimUp	25	15	a11.jpg	474	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.403926e+02	1.190248e+01	StimUp	26	16	a11.jpg	475	622	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.407355e+02	1.224541e+01	StimUp	27	17	a11.jpg	496	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.409680e+02	1.247786e+01	StimUp	28	18	a11.jpg	474	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.410294e+02	1.253931e+01	StimUp	29	19	a11.jpg	461	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.411914e+02	1.270125e+01	StimUp	30	20	a11.jpg	496	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.412729e+02	1.278274e+01	StimUp	31	21	a11.jpg	540	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.413543e+02	1.286414e+01	StimUp	32	22	a11.jpg	455	636	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.414759e+02	1.298579e+01	StimUp	33	23	a11.jpg	459	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.415574e+02	1.306725e+01	StimUp	34	24	a11.jpg	503	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.416086e+02	1.311846e+01	StimUp	35	25	a11.jpg	549	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.417302e+02	1.324005e+01	StimUp	36	26	a11.jpg	457	622	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.419122e+02	1.342206e+01	StimUp	37	27	a11.jpg	409	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.419936e+02	1.350347e+01	StimUp	38	28	a11.jpg	505	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.420549e+02	1.356474e+01	StimUp	39	29	a11.jpg	518	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.421967e+02	1.370655e+01	StimUp	40	30	a11.jpg	418	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.422279e+02	1.373773e+01	StimUp	41	31	a11.jpg	396	600	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.422690e+02	1.377884e+01	StimUp	42	32	a11.jpg	409	600	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.424107e+02	1.392055e+01	StimUp	43	33	a11.jpg	548	636	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.424518e+02	1.396168e+01	StimUp	44	34	a11.jpg	547	607	Stim	1	1	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.493923e+02	2.090219e+01	StimUp	45	35	a11.jpg	483	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.502985e+02	2.180840e+01	StimUp	46	36	a11.jpg	462	591	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.503298e+02	2.183963e+01	StimUp	47	37	a11.jpg	453	600	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.504916e+02	2.200150e+01	StimUp	48	38	a11.jpg	474	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.505529e+02	2.206275e+01	StimUp	49	39	a11.jpg	505	613	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.506745e+02	2.218435e+01	StimUp	50	40	a11.jpg	496	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.507559e+02	2.226576e+01	StimUp	51	41	a11.jpg	479	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.508172e+02	2.232709e+01	StimUp	52	42	a11.jpg	506	603	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.508786e+02	2.238846e+01	StimUp	53	43	a11.jpg	546	603	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.509701e+02	2.247993e+01	StimUp	54	44	a11.jpg	474	591	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.510716e+02	2.258147e+01	StimUp	55	45	a11.jpg	483	601	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.511128e+02	2.262266e+01	StimUp	56	46	a11.jpg	496	601	Stim	1	1	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.579591e+02	2.946895e+01	StimUp	57	47	a11.jpg	462	591	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	1	Vert	V Correct	1.582719e+02	2.978177e+01	StimUp	58	48	a11.jpg	462	591	Stim	1	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.627765e+02	1.261490e+00	StartStim	1	1	 	352	621	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.630189e+02	1.503879e+00	StartStim	2	2	 	352	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.689415e+02	7.426492e+00	StartStim	3	3	 	437	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.701590e+02	8.643954e+00	StartStim	4	4	 	457	591	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.702203e+02	8.705275e+00	StartStim	5	5	 	475	622	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.705228e+02	9.007786e+00	StartStim	6	6	 	504	646	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.708354e+02	9.320389e+00	StartStim	7	7	 	505	624	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.767776e+02	1.526257e+01	StartStim	8	8	 	522	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.771205e+02	1.560542e+01	StartStim	9	9	 	529	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.772824e+02	1.576738e+01	StartStim	10	10	 	516	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.774644e+02	1.594935e+01	StartStim	11	11	 	544	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.775558e+02	1.604075e+01	StartStim	12	12	 	501	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.775969e+02	1.608182e+01	StartStim	13	13	 	485	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	 	1.780401e+02	1.652505e+01	StartStim	14	14	 	501	525	Stim	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:6	1	2	Vert	V Major	1.787984e+02	7.060751e-01	StimUp	15	1	d2.jpg 	479	603	Stim	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.386161e+02	2.749788e+01	StartStim	1	1	 	538	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.389690e+02	2.785077e+01	StartStim	2	2	 	501	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.392313e+02	2.811310e+01	StartStim	3	3	 	507	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.393730e+02	2.825479e+01	StartStim	4	4	 	522	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.394342e+02	2.831600e+01	StartStim	5	5	 	544	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.395758e+02	2.845758e+01	StartStim	6	6	 	494	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.413564e+02	3.023819e+01	StartStim	7	7	 	529	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.419103e+02	3.079210e+01	StartStim	8	8	 	522	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.420520e+02	3.093382e+01	StartStim	9	9	 	529	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.422138e+02	3.109557e+01	StartStim	10	10	 	497	547	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.424559e+02	3.133770e+01	StartStim	11	11	 	541	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.425774e+02	3.145922e+01	StartStim	12	12	 	516	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.438348e+02	3.271666e+01	StartStim	13	13	 	581	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.445697e+02	3.345152e+01	StartStim	14	14	 	522	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.464104e+02	3.529218e+01	StartStim	15	15	 	501	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.468939e+02	3.577572e+01	StartStim	16	16	 	522	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.478399e+02	3.672171e+01	StartStim	17	17	 	522	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.480721e+02	3.695393e+01	StartStim	18	18	 	581	558	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:7	1	3	Vert	 	2.494401e+02	3.832196e+01	StartStim	19	19	 	538	537	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	11:8	1	3	Vert	 	2.886282e+02	7.751006e+01	StartStim	20	20	 	566	625	Screen	0	0	P019A Remdial Vert	
+Goodall	June 13	13-Jun-2017	12:10	1	3	Vert	 	4.020220e+03	3.809102e+03	StartStim	21	21	 	226	570	Screen	0	0	P019A Remdial Vert	

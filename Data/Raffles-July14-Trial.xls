@@ -1,0 +1,23 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Raffles	July14	14-Jul-2017	12:44	1	1	Vert	V Correct	7.559120e+00	3.007884e+00	2.582923e+02	3.000696e+01	a11.jpg	0	1	6	11	0	1	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:45	1	2	Vert	V Major	2.988716e+02	3.004106e+00	3.369697e-01	3.000769e+01	d14.jpg	1	1	0	5	0	1	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:46	1	3	Vert	V Major	3.322291e+02	3.004083e+00	2.075394e+00	3.001115e+01	d19.jpg	1	1	2	0	0	NaN	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:46	1	4	Vert	V Minor	3.673377e+02	3.013562e+00	3.382803e-01	3.001070e+01	e4.jpg 	0	1	0	38	34	5.277778e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:47	1	5	Vert	V Major	4.007081e+02	3.009894e+00	1.756966e+00	3.001180e+01	d17.jpg	3	1	1	4	0	1	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:47	1	6	Vert	V Correct	4.355017e+02	3.006281e+00	3.004625e-01	3.001230e+01	a51.jpg	4	1	0	14	5	7.368421e-01	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:48	1	7	Vert	V Correct	4.688363e+02	3.013532e+00	7.918417e-01	3.000975e+01	a10.jpg	0	1	0	28	1	9.655172e-01	1	2	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:48	1	8	Vert	V Major	5.026498e+02	3.003865e+00	1.686955e+00	3.000740e+01	d5.jpg 	1	1	0	11	10	5.238095e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:49	1	9	Vert	V Minor	5.373560e+02	3.003767e+00	2.948245e+00	3.000727e+01	e20.jpg	1	1	4	23	9	7.187500e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:50	1	10	Vert	V Correct	5.733327e+02	3.013194e+00	4.636127e-01	3.001291e+01	a11.jpg	0	1	0	15	0	1	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:50	1	11	Vert	V Minor	6.068301e+02	3.012801e+00	1.407692e+00	3.000866e+01	e19.jpg	0	1	3	17	6	7.391304e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:51	1	12	Vert	V Correct	6.412638e+02	3.009350e+00	8.531469e-01	3.000780e+01	a1.jpg 	7	1	1	15	1	9.375000e-01	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:51	1	13	Vert	V Correct	6.751463e+02	3.013438e+00	6.408339e-01	3.001402e+01	a12.jpg	1	1	0	20	3	8.695652e-01	1	2	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:52	1	14	Vert	V Minor	7.088225e+02	3.013220e+00	2.345443e+00	3.000658e+01	e1.jpg 	0	1	6	30	5	8.571429e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:52	1	15	Vert	V Correct	7.441885e+02	3.006008e+00	1.344148e+00	3.000701e+01	a1.jpg 	4	1	0	6	3	6.666667e-01	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:53	1	16	Vert	V Minor	7.785600e+02	3.012400e+00	3.600862e+00	3.000915e+01	e11.jpg	0	1	4	31	3	9.117647e-01	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:54	1	17	Vert	V Correct	8.151914e+02	3.013185e+00	3.890450e-01	3.001091e+01	a3.jpg 	1	1	0	10	1	9.090909e-01	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:54	1	18	Vert	V Major	8.486034e+02	3.004140e+00	7.813901e-01	3.001217e+01	d49.jpg	2	1	0	1	0	1	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:55	1	19	Vert	V Major	8.824178e+02	3.012538e+00	1.204126e+00	3.001019e+01	d61.jpg	0	1	1	0	0	NaN	0	0	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	12:55	1	20	Vert	V Correct	9.166523e+02	3.012316e+00	1.167248e+00	3.001005e+01	a50.jpg	0	1	4	10	0	1	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	13:10	1	21	Vert	V Correct	9.508507e+02	3.012818e+00	8.529349e+02	3.000870e+01	a12.jpg	0	1	15	14	6	7.000000e-01	1	1	P019A Remedial Vert	
+Raffles	July14	14-Jul-2017	13:12	1	22	Vert	V Correct	1.836816e+03	3.013489e+00	6.454371e+01	3.000598e+01	a52.jpg	0	1	8	10	6	6.250000e-01	1	0	P019A Remedial Vert	

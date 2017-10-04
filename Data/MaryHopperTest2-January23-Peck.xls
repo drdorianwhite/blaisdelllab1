@@ -1,0 +1,38 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryHopperTest2	January23	23-Jan-2017	11:40	1	1	Hort	 	7.501387e+00	1.585303e+00	StartStim	1	1	 	501	487	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:40	1	1	Hort	 	7.786896e+00	1.870812e+00	StartStim	2	2	 	501	531	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:40	1	1	Hort	 	8.383246e+00	2.467162e+00	StartStim	3	3	 	482	531	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:40	1	1	Hort	 	8.768505e+00	2.852421e+00	StartStim	4	4	 	501	519	Stim	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	1	Hort	IncorrectMinorH	2.779144e+01	1.889413e+01	StimUp	5	1	3h.jpg 	501	519	Stim	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	 	5.304935e+01	1.112594e+01	StartStim	1	1	 	515	514	Stim	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.333347e+01	2.233929e-01	StimUp	2	1	b43.jpg	486	531	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.437197e+01	1.261898e+00	StimUp	3	2	b43.jpg	501	487	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.451465e+01	1.404575e+00	StimUp	4	3	b43.jpg	504	498	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.464703e+01	1.536960e+00	StimUp	5	4	b43.jpg	464	498	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.478949e+01	1.679413e+00	StimUp	6	5	b43.jpg	494	487	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.495392e+01	1.843848e+00	StimUp	7	6	b43.jpg	516	477	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.510607e+01	1.995999e+00	StimUp	8	7	b43.jpg	479	498	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.524806e+01	2.137985e+00	StimUp	9	8	b43.jpg	522	481	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	5.540999e+01	2.299918e+00	StimUp	10	9	b43.jpg	472	510	Stim	1	1	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	6.251891e+01	9.408835e+00	StimUp	11	10	b43.jpg	518	475	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	6.265084e+01	9.540762e+00	StimUp	12	11	b43.jpg	518	475	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	6.281279e+01	9.702713e+00	StimUp	13	12	b43.jpg	518	487	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	6.297476e+01	9.864681e+00	StimUp	14	13	b43.jpg	504	498	Stim	1	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	11:41	1	2	Hort	FollowedH	6.313680e+01	1.002672e+01	StimUp	15	14	b43.jpg	479	519	Stim	1	1	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:21	1	3	Hort	 	6.034794e+03	5.948661e+03	StartStim	1	1	 	226	767	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:21	1	3	Hort	 	6.036897e+03	5.950764e+03	StartStim	2	2	 	358	114	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:21	1	3	Hort	 	6.038001e+03	5.951868e+03	StartStim	3	3	 	389	225	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:21	1	3	Hort	 	6.038155e+03	5.952022e+03	StartStim	4	4	 	389	225	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.105550e+03	6.019418e+03	StartStim	5	5	 	411	346	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.107745e+03	6.021612e+03	StartStim	6	6	 	435	354	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.108299e+03	6.022167e+03	StartStim	7	7	 	434	351	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.108503e+03	6.022370e+03	StartStim	8	8	 	434	351	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.112426e+03	6.026293e+03	StartStim	9	9	 	454	423	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.115957e+03	6.029825e+03	StartStim	10	10	 	892	714	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.136565e+03	6.050433e+03	StartStim	11	11	 	1008	4	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.138344e+03	6.052211e+03	StartStim	12	12	 	994	71	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.141137e+03	6.055004e+03	StartStim	13	13	 	602	194	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:22	1	3	Hort	 	6.143150e+03	6.057017e+03	StartStim	14	14	 	190	197	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:23	1	3	Hort	 	6.145278e+03	6.059145e+03	StartStim	15	15	 	412	197	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:23	1	3	Hort	 	6.147990e+03	6.061857e+03	StartStim	16	16	 	281	199	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:23	1	3	Hort	 	6.149504e+03	6.063372e+03	StartStim	17	17	 	198	197	Screen	0	0	P019A Remedial Hort	
+MaryHopperTest2	January23	23-Jan-2017	13:23	1	3	Hort	 	6.155856e+03	6.069724e+03	StartStim	18	18	 	622	195	Screen	0	0	P019A Remedial Hort	

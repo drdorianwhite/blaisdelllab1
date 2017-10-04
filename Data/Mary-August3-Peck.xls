@@ -1,0 +1,11 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	9.841607e+00	2.159651e+00	StartStim	1	1	 	522	552	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.053424e+01	2.852279e+00	StartStim	2	2	 	515	541	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.093217e+01	3.250213e+00	StartStim	3	3	 	518	547	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.133242e+01	3.650468e+00	StartStim	4	4	 	508	531	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.159352e+01	3.911562e+00	StartStim	5	5	 	518	558	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.177941e+01	4.097455e+00	StartStim	6	6	 	544	541	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.195373e+01	4.271774e+00	StartStim	7	7	 	501	541	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.209765e+01	4.415690e+00	StartStim	8	8	 	552	531	Screen	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	 	1.225159e+01	4.569638e+00	StartStim	9	9	 	508	525	Stim	0	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	FollowedV	1.240074e+01	2.203335e-02	StimUp	10	1	a11.jpg	515	519	Stim	1	0	P019A Remdial Vert	
+Mary	August3	03-Aug-2016	11:35	1	1	Vert	FollowedV	1.258013e+01	2.014197e-01	StimUp	11	2	a11.jpg	530	547	Stim	1	0	P019A Remdial Vert	

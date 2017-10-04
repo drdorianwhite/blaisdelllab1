@@ -1,0 +1,628 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	1.918655e+02	1.839707e+02	StartStim	1	1	 	904	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	1.962223e+02	1.883276e+02	StartStim	2	2	 	860	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	1.962658e+02	1.883710e+02	StartStim	3	3	 	860	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	1.965441e+02	1.886494e+02	StartStim	4	4	 	860	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	1.979251e+02	1.900303e+02	StartStim	5	5	 	860	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.310237e+02	2.231289e+02	StartStim	6	6	 	827	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.322882e+02	2.243935e+02	StartStim	7	7	 	718	726	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.334415e+02	2.255467e+02	StartStim	8	8	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.356240e+02	2.277293e+02	StartStim	9	9	 	529	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.359694e+02	2.280747e+02	StartStim	10	10	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.370631e+02	2.291684e+02	StartStim	11	11	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.384089e+02	2.305141e+02	StartStim	12	12	 	530	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.388044e+02	2.309096e+02	StartStim	13	13	 	522	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.399872e+02	2.320924e+02	StartStim	14	14	 	530	552	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:34	vert	1	Vert	 	2.403322e+02	2.324374e+02	StartStim	15	15	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:35	vert	1	Vert	 	2.562634e+02	2.483686e+02	StartStim	16	16	 	915	765	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:35	vert	1	Vert	 	2.566388e+02	2.487440e+02	StartStim	17	17	 	904	765	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:35	vert	1	Vert	 	2.571152e+02	2.492204e+02	StartStim	18	18	 	827	762	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:35	vert	1	Vert	 	2.587022e+02	2.508074e+02	StartStim	19	19	 	860	765	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:35	vert	1	Vert	 	2.602788e+02	2.523840e+02	StartStim	20	20	 	915	765	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.513795e+02	3.434847e+02	StartStim	21	21	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.544404e+02	3.465456e+02	StartStim	22	22	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.545229e+02	3.466281e+02	StartStim	23	23	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.545548e+02	3.466600e+02	StartStim	24	24	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.605032e+02	3.526084e+02	StartStim	25	25	 	882	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.636248e+02	3.557300e+02	StartStim	26	26	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.645856e+02	3.566908e+02	StartStim	27	27	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.671520e+02	3.592572e+02	StartStim	28	28	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:36	vert	1	Vert	 	3.672244e+02	3.593296e+02	StartStim	29	29	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.700529e+02	3.621581e+02	StartStim	30	30	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.717908e+02	3.638960e+02	StartStim	31	31	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.735496e+02	3.656548e+02	StartStim	32	32	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.750956e+02	3.672008e+02	StartStim	33	33	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.754104e+02	3.675156e+02	StartStim	34	34	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.755736e+02	3.676788e+02	StartStim	35	35	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.770492e+02	3.691545e+02	StartStim	36	36	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.791912e+02	3.712965e+02	StartStim	37	37	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.793545e+02	3.714597e+02	StartStim	38	38	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.796791e+02	3.717843e+02	StartStim	39	39	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.800139e+02	3.721191e+02	StartStim	40	40	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.800559e+02	3.721611e+02	StartStim	41	41	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.800977e+02	3.722030e+02	StartStim	42	42	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.806950e+02	3.728002e+02	StartStim	43	43	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.824530e+02	3.745582e+02	StartStim	44	44	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.830401e+02	3.751453e+02	StartStim	45	45	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.832638e+02	3.753690e+02	StartStim	46	46	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.833563e+02	3.754615e+02	StartStim	47	47	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.834184e+02	3.755237e+02	StartStim	48	48	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.836219e+02	3.757271e+02	StartStim	49	49	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.839365e+02	3.760417e+02	StartStim	50	50	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.839987e+02	3.761039e+02	StartStim	51	51	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.858173e+02	3.779225e+02	StartStim	52	52	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.858998e+02	3.780050e+02	StartStim	53	53	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.875774e+02	3.796826e+02	StartStim	54	54	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.880234e+02	3.801286e+02	StartStim	55	55	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.888426e+02	3.809478e+02	StartStim	56	56	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.909039e+02	3.830091e+02	StartStim	57	57	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.911276e+02	3.832328e+02	StartStim	58	58	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:37	vert	1	Vert	 	3.952476e+02	3.873528e+02	StartStim	59	59	 	871	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	8.987194e+02	8.908246e+02	StartStim	60	60	 	925	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.003166e+02	8.924218e+02	StartStim	61	61	 	936	765	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.016408e+02	8.937460e+02	StartStim	62	62	 	893	766	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.031969e+02	8.953021e+02	StartStim	63	63	 	495	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.034410e+02	8.955462e+02	StartStim	64	64	 	494	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.040384e+02	8.961436e+02	StartStim	65	65	 	484	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.046457e+02	8.967510e+02	StartStim	66	66	 	501	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.049604e+02	8.970656e+02	StartStim	67	67	 	487	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.053052e+02	8.974104e+02	StartStim	68	68	 	516	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.068009e+02	8.989062e+02	StartStim	69	69	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.071257e+02	8.992310e+02	StartStim	70	70	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.074605e+02	8.995657e+02	StartStim	71	71	 	506	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:45	vert	1	Vert	 	9.079669e+02	9.000721e+02	StartStim	72	72	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.089275e+02	9.010327e+02	StartStim	73	73	 	485	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.099285e+02	9.020338e+02	StartStim	74	74	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.102634e+02	9.023686e+02	StartStim	75	75	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.105275e+02	9.026327e+02	StartStim	76	76	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.109834e+02	9.030886e+02	StartStim	77	77	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.122102e+02	9.043154e+02	StartStim	78	78	 	515	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.129892e+02	9.050945e+02	StartStim	79	79	 	511	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.131120e+02	9.052172e+02	StartStim	80	80	 	508	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.143855e+02	9.064907e+02	StartStim	81	81	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.150937e+02	9.071989e+02	StartStim	82	82	 	518	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.154688e+02	9.075741e+02	StartStim	83	83	 	508	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.158541e+02	9.079593e+02	StartStim	84	84	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.174909e+02	9.095961e+02	StartStim	85	85	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.177954e+02	9.099006e+02	StartStim	86	86	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.178879e+02	9.099931e+02	StartStim	87	87	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.182932e+02	9.103985e+02	StartStim	88	88	 	526	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.191328e+02	9.112380e+02	StartStim	89	89	 	544	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.210522e+02	9.131574e+02	StartStim	90	90	 	529	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	 	9.224771e+02	9.145823e+02	StartStim	91	91	 	522	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.227361e+02	6.395058e-02	StimUp	92	1	a11.jpg	515	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.237927e+02	1.120508e+00	StimUp	93	2	a11.jpg	424	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.247146e+02	2.042396e+00	StimUp	94	3	a11.jpg	429	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.250301e+02	2.357957e+00	StimUp	95	4	a11.jpg	413	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.253557e+02	2.683506e+00	StimUp	96	5	a11.jpg	451	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.256745e+02	3.002341e+00	StimUp	97	6	a11.jpg	432	556	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.322954e+02	9.623191e+00	StimUp	98	7	a11.jpg	353	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.326015e+02	9.929316e+00	StimUp	99	8	a11.jpg	441	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.332401e+02	1.056797e+01	StimUp	100	9	a11.jpg	452	579	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.348179e+02	1.214575e+01	StimUp	101	10	a11.jpg	457	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.354966e+02	1.282442e+01	StimUp	102	11	a11.jpg	438	570	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.358420e+02	1.316981e+01	StimUp	103	12	a11.jpg	441	559	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.418837e+02	1.921156e+01	StimUp	104	13	a11.jpg	441	559	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.428452e+02	2.017304e+01	StimUp	105	14	a11.jpg	416	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.431601e+02	2.048797e+01	StimUp	106	15	a11.jpg	454	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.435256e+02	2.085338e+01	StimUp	107	16	a11.jpg	386	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.445072e+02	2.183507e+01	StimUp	108	17	a11.jpg	435	559	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.451859e+02	2.251374e+01	StimUp	109	18	a11.jpg	460	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.455211e+02	2.284889e+01	StimUp	110	19	a11.jpg	386	583	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.485437e+02	2.587156e+01	StimUp	111	20	a11.jpg	365	598	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.493234e+02	2.665118e+01	StimUp	112	21	a11.jpg	389	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:46	vert	1	Vert	FollowedV	9.496483e+02	2.697613e+01	StimUp	113	22	a11.jpg	430	570	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.042740e+03	8.480008e+01	StartStim	1	1	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.042823e+03	8.488264e+01	StartStim	2	2	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.043127e+03	8.518702e+01	StartStim	3	3	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.043825e+03	8.588515e+01	StartStim	4	4	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.075301e+03	1.173604e+02	StartStim	5	5	 	485	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.075736e+03	1.177962e+02	StartStim	6	6	 	533	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.075778e+03	1.178382e+02	StartStim	7	7	 	544	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.078061e+03	1.201209e+02	StartStim	8	8	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.078840e+03	1.208999e+02	StartStim	9	9	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.079175e+03	1.212346e+02	StartStim	10	10	 	501	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.079641e+03	1.217005e+02	StartStim	11	11	 	533	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.079733e+03	1.217930e+02	StartStim	12	12	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.080098e+03	1.221580e+02	StartStim	13	13	 	526	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.081675e+03	1.237344e+02	StartStim	14	14	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.082201e+03	1.242609e+02	StartStim	15	15	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.082819e+03	1.248782e+02	StartStim	16	16	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.082941e+03	1.250010e+02	StartStim	17	17	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.085900e+03	1.279602e+02	StartStim	18	18	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.085983e+03	1.280426e+02	StartStim	19	19	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.086540e+03	1.285993e+02	StartStim	20	20	 	533	541	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.087056e+03	1.291158e+02	StartStim	21	21	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.087159e+03	1.292184e+02	StartStim	22	22	 	519	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.087806e+03	1.298660e+02	StartStim	23	23	 	511	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.088141e+03	1.302008e+02	StartStim	24	24	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:48	vert	2	Vert	 	1.088637e+03	1.306972e+02	StartStim	25	25	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.088962e+03	1.310219e+02	StartStim	26	26	 	519	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.089862e+03	1.319219e+02	StartStim	27	27	 	522	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.090439e+03	1.324990e+02	StartStim	28	28	 	526	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.090744e+03	1.328034e+02	StartStim	29	29	 	493	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.091906e+03	1.339658e+02	StartStim	30	30	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.094260e+03	1.363194e+02	StartStim	31	31	 	519	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.097007e+03	1.390666e+02	StartStim	32	32	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.097109e+03	1.391691e+02	StartStim	33	33	 	504	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.098141e+03	1.402003e+02	StartStim	34	34	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.098506e+03	1.405654e+02	StartStim	35	35	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.098588e+03	1.406478e+02	StartStim	36	36	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.098943e+03	1.410026e+02	StartStim	37	37	 	526	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.099247e+03	1.413070e+02	StartStim	38	38	 	490	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.101086e+03	1.431456e+02	StartStim	39	39	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.101390e+03	1.434502e+02	StartStim	40	40	 	490	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.102129e+03	1.441887e+02	StartStim	41	41	 	529	535	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.102444e+03	1.445033e+02	StartStim	42	42	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.102546e+03	1.446058e+02	StartStim	43	43	 	504	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.103688e+03	1.457480e+02	StartStim	44	44	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.104033e+03	1.460929e+02	StartStim	45	45	 	494	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.104408e+03	1.464680e+02	StartStim	46	46	 	529	535	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.107630e+03	1.496901e+02	StartStim	47	47	 	529	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.107985e+03	1.500452e+02	StartStim	48	48	 	493	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.108926e+03	1.509856e+02	StartStim	49	49	 	494	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.109967e+03	1.520269e+02	StartStim	50	50	 	519	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.110373e+03	1.524323e+02	StartStim	51	51	 	533	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.110849e+03	1.529084e+02	StartStim	52	52	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.112112e+03	1.541718e+02	StartStim	53	53	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.112406e+03	1.544662e+02	StartStim	54	54	 	516	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.113407e+03	1.554671e+02	StartStim	55	55	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.113833e+03	1.558928e+02	StartStim	56	56	 	538	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.114168e+03	1.562276e+02	StartStim	57	57	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.114493e+03	1.565527e+02	StartStim	58	58	 	511	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.114596e+03	1.566553e+02	StartStim	59	59	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.115637e+03	1.576964e+02	StartStim	60	60	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.115931e+03	1.579910e+02	StartStim	61	61	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.116932e+03	1.589919e+02	StartStim	62	62	 	494	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.117277e+03	1.593368e+02	StartStim	63	63	 	526	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.118934e+03	1.609939e+02	StartStim	64	64	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.119329e+03	1.613892e+02	StartStim	65	65	 	530	531	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.119614e+03	1.616735e+02	StartStim	66	66	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.120837e+03	1.628968e+02	StartStim	67	67	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.121152e+03	1.632113e+02	StartStim	68	68	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.121618e+03	1.636772e+02	StartStim	69	69	 	541	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.122518e+03	1.645772e+02	StartStim	70	70	 	519	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.122953e+03	1.650129e+02	StartStim	71	71	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.124015e+03	1.660743e+02	StartStim	72	72	 	516	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.124359e+03	1.664192e+02	StartStim	73	73	 	515	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.124472e+03	1.665318e+02	StartStim	74	74	 	529	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.125473e+03	1.675327e+02	StartStim	75	75	 	487	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.126201e+03	1.682611e+02	StartStim	76	76	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.126940e+03	1.689996e+02	StartStim	77	77	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.127355e+03	1.694150e+02	StartStim	78	78	 	490	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.130436e+03	1.724953e+02	StartStim	79	79	 	485	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.130801e+03	1.728603e+02	StartStim	80	80	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.131085e+03	1.731445e+02	StartStim	81	81	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.131500e+03	1.735600e+02	StartStim	82	82	 	519	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.131936e+03	1.739957e+02	StartStim	83	83	 	494	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.132997e+03	1.750572e+02	StartStim	84	84	 	501	552	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.133776e+03	1.758360e+02	StartStim	85	85	 	493	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	 	1.134626e+03	1.766856e+02	StartStim	86	86	 	519	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	IncorrectMajorV	1.135640e+03	8.822012e-01	StimUp	87	1	d5.jpg 	472	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	IncorrectMajorV	1.136127e+03	1.368846e+00	StimUp	88	2	d5.jpg 	468	690	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:49	vert	2	Vert	IncorrectMajorV	1.137523e+03	2.764810e+00	StimUp	89	3	d5.jpg 	514	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.173259e+03	5.474273e+00	StartStim	1	1	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.182598e+03	1.481356e+01	StartStim	2	2	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.187859e+03	2.007442e+01	StartStim	3	3	 	497	535	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.189224e+03	2.143882e+01	StartStim	4	4	 	529	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.191204e+03	2.341887e+01	StartStim	5	5	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.193144e+03	2.535869e+01	StartStim	6	6	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.193569e+03	2.578433e+01	StartStim	7	7	 	497	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.195650e+03	2.786536e+01	StartStim	8	8	 	494	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.196843e+03	2.905818e+01	StartStim	9	9	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.197551e+03	2.976642e+01	StartStim	10	10	 	460	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.199854e+03	3.206955e+01	StartStim	11	11	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.202652e+03	3.486734e+01	StartStim	12	12	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	 	1.203633e+03	3.584819e+01	StartStim	13	13	 	507	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.204550e+03	8.698034e-01	StimUp	14	1	d2.jpg 	356	664	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.205036e+03	1.356373e+00	StimUp	15	2	d2.jpg 	346	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.205452e+03	1.772263e+00	StimUp	16	3	d2.jpg 	357	639	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.208434e+03	4.754492e+00	StimUp	17	4	d2.jpg 	897	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.208658e+03	4.978454e+00	StimUp	18	5	d2.jpg 	911	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:50	vert	3	Vert	IncorrectMajorV	1.208852e+03	5.172013e+00	StimUp	19	6	d2.jpg 	897	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.213451e+03	9.770793e+00	StimUp	20	7	d2.jpg 	614	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.214574e+03	1.089403e+01	StimUp	21	8	d2.jpg 	577	762	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.214879e+03	1.119886e+01	StimUp	22	9	d2.jpg 	687	720	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.215072e+03	1.139248e+01	StimUp	23	10	d2.jpg 	608	678	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.215215e+03	1.153562e+01	StimUp	24	11	d2.jpg 	610	708	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.230360e+03	2.668008e+01	StimUp	25	12	d2.jpg 	527	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	3	Vert	IncorrectMajorV	1.230443e+03	2.676268e+01	StimUp	26	13	d2.jpg 	563	603	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.237803e+03	1.093414e+00	StartStim	1	1	 	501	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.238642e+03	1.932984e+00	StartStim	2	2	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.239270e+03	2.560515e+00	StartStim	3	3	 	529	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.239302e+03	2.592422e+00	StartStim	4	4	 	529	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.239647e+03	2.937180e+00	StartStim	5	5	 	519	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.240769e+03	4.059276e+00	StartStim	6	6	 	473	559	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.241184e+03	4.474782e+00	StartStim	7	7	 	529	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.242427e+03	5.717904e+00	StartStim	8	8	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.242530e+03	5.820543e+00	StartStim	9	9	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.242966e+03	6.256228e+00	StartStim	10	10	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	 	1.244805e+03	8.095034e+00	StartStim	11	11	 	515	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.245351e+03	5.059454e-01	StimUp	12	1	e26.jpg	548	513	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.245393e+03	5.481146e-01	StimUp	13	2	e26.jpg	544	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.256669e+03	1.182482e+01	StimUp	14	3	e26.jpg	560	547	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.257095e+03	1.225086e+01	StimUp	15	4	e26.jpg	550	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.257198e+03	1.235353e+01	StimUp	16	5	e26.jpg	544	579	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.260938e+03	1.609328e+01	StimUp	17	6	e26.jpg	533	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.260990e+03	1.614549e+01	StimUp	18	7	e26.jpg	544	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:51	vert	4	Vert	IncorrectMinorV	1.261295e+03	1.645018e+01	StimUp	19	8	e26.jpg	542	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.279479e+03	1.597996e+00	StartStim	1	1	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.280389e+03	2.508140e+00	StartStim	2	2	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.280461e+03	2.580518e+00	StartStim	3	3	 	529	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.285086e+03	7.205256e+00	StartStim	4	4	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.285390e+03	7.509804e+00	StartStim	5	5	 	490	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.285846e+03	7.965673e+00	StartStim	6	6	 	529	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.286585e+03	8.704150e+00	StartStim	7	7	 	519	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.287364e+03	9.482981e+00	StartStim	8	8	 	494	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.288910e+03	1.102904e+01	StartStim	9	9	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.289204e+03	1.132339e+01	StartStim	10	10	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.289488e+03	1.160758e+01	StartStim	11	11	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	 	1.291488e+03	1.360777e+01	StartStim	12	12	 	504	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.292649e+03	1.101834e+00	StimUp	13	1	d55.jpg	381	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.297410e+03	5.862030e+00	StimUp	14	2	d55.jpg	697	555	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.301452e+03	9.904707e+00	StimUp	15	3	d55.jpg	439	490	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.302656e+03	1.110860e+01	StimUp	16	4	d55.jpg	427	471	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.302991e+03	1.144364e+01	StimUp	17	5	d55.jpg	405	474	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.303356e+03	1.180899e+01	StimUp	18	6	d55.jpg	403	481	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.303651e+03	1.210380e+01	StimUp	19	7	d55.jpg	435	481	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.303693e+03	1.214589e+01	StimUp	20	8	d55.jpg	427	472	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.304018e+03	1.247073e+01	StimUp	21	9	d55.jpg	427	481	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.304313e+03	1.276532e+01	StimUp	22	10	d55.jpg	451	450	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.304658e+03	1.311044e+01	StimUp	23	11	d55.jpg	426	450	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.305357e+03	1.380908e+01	StimUp	24	12	d55.jpg	427	472	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.305671e+03	1.412394e+01	StimUp	25	13	d55.jpg	424	471	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.305996e+03	1.444886e+01	StimUp	26	14	d55.jpg	413	466	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:52	vert	5	Vert	IncorrectMajorV	1.309695e+03	1.814794e+01	StimUp	27	15	d55.jpg	409	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.345634e+03	2.104084e+01	StartStim	1	1	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.347553e+03	2.296041e+01	StartStim	2	2	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.350735e+03	2.614181e+01	StartStim	3	3	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.351292e+03	2.669881e+01	StartStim	4	4	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.353918e+03	2.932496e+01	StartStim	5	5	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.353960e+03	2.936698e+01	StartStim	6	6	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.354234e+03	2.964108e+01	StartStim	7	7	 	494	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.360898e+03	3.630497e+01	StartStim	8	8	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.361505e+03	3.691231e+01	StartStim	9	9	 	517	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.362466e+03	3.787288e+01	StartStim	10	10	 	494	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.363437e+03	3.884354e+01	StartStim	11	11	 	529	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.365346e+03	4.075303e+01	StartStim	12	12	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.366842e+03	4.224870e+01	StartStim	13	13	 	501	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.371022e+03	4.642922e+01	StartStim	14	14	 	516	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.371367e+03	4.677409e+01	StartStim	15	15	 	501	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.373186e+03	4.859265e+01	StartStim	16	16	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	 	1.375449e+03	5.085573e+01	StartStim	17	17	 	511	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.376150e+03	6.776196e-01	StimUp	18	1	a49.jpg	370	588	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.376849e+03	1.376501e+00	StimUp	19	2	a49.jpg	353	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.377629e+03	2.156099e+00	StimUp	20	3	a49.jpg	357	616	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.378388e+03	2.915515e+00	StimUp	21	4	a49.jpg	387	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.378430e+03	2.957588e+00	StimUp	22	5	a49.jpg	397	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.378765e+03	3.292535e+00	StimUp	23	6	a49.jpg	522	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.380308e+03	4.835365e+00	StimUp	24	7	a49.jpg	397	579	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.380986e+03	5.513967e+00	StimUp	25	8	a49.jpg	413	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.382029e+03	6.556286e+00	StimUp	26	9	a49.jpg	367	576	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.382455e+03	6.982302e+00	StimUp	27	10	a49.jpg	392	582	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.383588e+03	8.115459e+00	StimUp	28	11	a49.jpg	430	570	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.383913e+03	8.440621e+00	StimUp	29	12	a49.jpg	408	582	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:53	vert	6	Vert	FollowedV	1.384612e+03	9.139401e+00	StimUp	30	13	a49.jpg	387	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.385311e+03	9.838194e+00	StimUp	31	14	a49.jpg	413	582	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.392778e+03	1.730602e+01	StimUp	32	15	a49.jpg	397	582	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.393114e+03	1.764108e+01	StimUp	33	16	a49.jpg	441	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.393459e+03	1.798634e+01	StimUp	34	17	a49.jpg	408	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.394097e+03	1.862452e+01	StimUp	35	18	a49.jpg	397	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.395139e+03	1.966669e+01	StimUp	36	19	a49.jpg	411	582	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.395838e+03	2.036548e+01	StimUp	37	20	a49.jpg	392	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.397880e+03	2.240787e+01	StimUp	38	21	a49.jpg	397	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.398599e+03	2.312687e+01	StimUp	39	22	a49.jpg	432	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.398955e+03	2.348222e+01	StimUp	40	23	a49.jpg	394	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.401280e+03	2.580738e+01	StimUp	41	24	a49.jpg	375	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.403797e+03	2.832456e+01	StimUp	42	25	a49.jpg	459	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	6	Vert	FollowedV	1.405203e+03	2.973053e+01	StimUp	43	26	a49.jpg	403	561	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.411224e+03	2.728728e+00	StartStim	1	1	 	507	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.411640e+03	3.144278e+00	StartStim	2	2	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.413610e+03	5.114479e+00	StartStim	3	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.414551e+03	6.054897e+00	StartStim	4	4	 	504	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.414906e+03	6.409809e+00	StartStim	5	5	 	486	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.417290e+03	8.793912e+00	StartStim	6	6	 	468	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	 	1.419007e+03	1.051153e+01	StartStim	7	7	 	501	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.420071e+03	1.041457e+00	StimUp	8	1	a11.jpg	387	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.420446e+03	1.416984e+00	StimUp	9	2	a11.jpg	435	556	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.422166e+03	3.136394e+00	StimUp	10	3	a11.jpg	367	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.422855e+03	3.825144e+00	StimUp	11	4	a11.jpg	435	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.423190e+03	4.160280e+00	StimUp	12	5	a11.jpg	410	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.424989e+03	5.960065e+00	StimUp	13	6	a11.jpg	387	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.427416e+03	8.386327e+00	StimUp	14	7	a11.jpg	387	606	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.428316e+03	9.287078e+00	StimUp	15	8	a11.jpg	409	600	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.429237e+03	1.020811e+01	StimUp	16	9	a11.jpg	429	534	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.429714e+03	1.068468e+01	StimUp	17	10	a11.jpg	408	582	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.430494e+03	1.146421e+01	StimUp	18	11	a11.jpg	372	600	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.431778e+03	1.274884e+01	StimUp	19	12	a11.jpg	441	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.434972e+03	1.594302e+01	StimUp	20	13	a11.jpg	435	595	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.437737e+03	1.870785e+01	StimUp	21	14	a11.jpg	359	606	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.438618e+03	1.958851e+01	StimUp	22	15	a11.jpg	420	534	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.444099e+03	2.506981e+01	StimUp	23	16	a11.jpg	321	576	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.445596e+03	2.656660e+01	StimUp	24	17	a11.jpg	413	582	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.446305e+03	2.727574e+01	StimUp	25	18	a11.jpg	418	579	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:54	vert	7	Vert	FollowedV	1.448560e+03	2.953050e+01	StimUp	26	19	a11.jpg	348	561	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	7	Vert	FollowedV	1.448945e+03	2.991606e+01	StimUp	27	20	a11.jpg	441	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.453109e+03	1.053133e+00	StartStim	1	1	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.453262e+03	1.206225e+00	StartStim	2	2	 	538	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.453405e+03	1.349161e+00	StartStim	3	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.454588e+03	2.532002e+00	StartStim	4	4	 	608	678	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.454943e+03	2.887128e+00	StartStim	5	5	 	609	691	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.455601e+03	3.545042e+00	StartStim	6	6	 	632	700	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.455825e+03	3.768795e+00	StartStim	7	7	 	654	672	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.456482e+03	4.426548e+00	StartStim	8	8	 	504	531	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.456847e+03	4.791619e+00	StartStim	9	9	 	529	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.457828e+03	5.772547e+00	StartStim	10	10	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	 	1.458628e+03	6.571706e+00	StartStim	11	11	 	519	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.458751e+03	1.018278e-01	StimUp	12	1	d46.jpg	522	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.459389e+03	7.400828e-01	StimUp	13	2	d46.jpg	544	493	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.459684e+03	1.034751e+00	StimUp	14	3	d46.jpg	531	471	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.460049e+03	1.400050e+00	StimUp	15	4	d46.jpg	544	471	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.460364e+03	1.714835e+00	StimUp	16	5	d46.jpg	558	493	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.460689e+03	2.039724e+00	StimUp	17	6	d46.jpg	522	492	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.461044e+03	2.394974e+00	StimUp	18	7	d46.jpg	509	481	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.461430e+03	2.780501e+00	StimUp	19	8	d46.jpg	522	492	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.462108e+03	3.459091e+00	StimUp	20	9	d46.jpg	537	492	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.463009e+03	4.359968e+00	StimUp	21	10	d46.jpg	508	514	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	8	Vert	IncorrectMajorV	1.463051e+03	4.402039e+00	StimUp	22	11	d46.jpg	479	535	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	 	1.489507e+03	8.402392e-01	ITI	1	1	d46.jpg	681	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	 	1.492365e+03	6.895596e-01	StartStim	2	1	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	 	1.492507e+03	8.325145e-01	StartStim	3	2	 	515	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.492540e+03	1.080232e-02	StimUp	4	1	e10.jpg	522	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.492642e+03	1.135124e-01	StimUp	5	2	e10.jpg	526	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.493866e+03	1.337662e+00	StimUp	6	3	e10.jpg	517	603	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.494222e+03	1.692960e+00	StimUp	7	4	e10.jpg	550	579	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.494547e+03	2.017855e+00	StimUp	8	5	e10.jpg	522	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.495185e+03	2.655988e+00	StimUp	9	6	e10.jpg	527	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.496227e+03	3.698253e+00	StimUp	10	7	e10.jpg	522	570	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.503412e+03	1.088314e+01	StimUp	11	8	e10.jpg	460	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:55	vert	9	Vert	IncorrectMinorV	1.508668e+03	1.613883e+01	StimUp	12	9	e10.jpg	522	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.512054e+03	1.952496e+01	StimUp	13	10	e10.jpg	472	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.512732e+03	2.020367e+01	StimUp	14	11	e10.jpg	429	547	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.513179e+03	2.065004e+01	StimUp	15	12	e10.jpg	420	559	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.514393e+03	2.186399e+01	StimUp	16	13	e10.jpg	239	636	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.514516e+03	2.198694e+01	StimUp	17	14	e10.jpg	332	588	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.514719e+03	2.219058e+01	StimUp	18	15	e10.jpg	397	579	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.514771e+03	2.224265e+01	StimUp	19	16	e10.jpg	408	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	9	Vert	IncorrectMinorV	1.514894e+03	2.236544e+01	StimUp	20	17	e10.jpg	420	559	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.523740e+03	1.193804e+00	ITI	1	1	e10.jpg	712	555	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.523823e+03	1.276353e+00	ITI	2	2	e10.jpg	718	576	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.523915e+03	1.368919e+00	ITI	3	3	e10.jpg	745	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.524200e+03	1.653468e+00	ITI	4	4	e10.jpg	766	609	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.526118e+03	5.583279e-01	StartStim	5	1	 	486	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.526422e+03	8.628385e-01	StartStim	6	2	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.526797e+03	1.237963e+00	StartStim	7	3	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.527324e+03	1.764531e+00	StartStim	8	4	 	544	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.528284e+03	2.725224e+00	StartStim	9	5	 	537	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.528983e+03	3.423429e+00	StartStim	10	6	 	516	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.529782e+03	4.222639e+00	StartStim	11	7	 	494	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	 	1.530086e+03	4.527078e+00	StartStim	12	8	 	508	514	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.530199e+03	8.157894e-02	StimUp	13	1	a9.jpg 	479	535	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.531585e+03	1.467692e+00	StimUp	14	2	a9.jpg 	522	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.531920e+03	1.802800e+00	StimUp	15	3	a9.jpg 	495	558	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.537529e+03	7.411078e+00	StimUp	16	4	a9.jpg 	449	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.538187e+03	8.069558e+00	StimUp	17	5	a9.jpg 	479	580	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.538522e+03	8.404770e+00	StimUp	18	6	a9.jpg 	560	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.538807e+03	8.689337e+00	StimUp	19	7	a9.jpg 	484	580	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.539192e+03	9.074939e+00	StimUp	20	8	a9.jpg 	555	547	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.544975e+03	1.485752e+01	StimUp	21	9	a9.jpg 	517	580	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.545189e+03	1.507142e+01	StimUp	22	10	a9.jpg 	526	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.545574e+03	1.545699e+01	StimUp	23	11	a9.jpg 	544	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.545930e+03	1.581233e+01	StimUp	24	12	a9.jpg 	468	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.546952e+03	1.683485e+01	StimUp	25	13	a9.jpg 	536	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.547733e+03	1.761588e+01	StimUp	26	14	a9.jpg 	555	547	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.557478e+03	2.736024e+01	StimUp	27	15	a9.jpg 	501	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.558156e+03	2.803894e+01	StimUp	28	16	a9.jpg 	516	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	10	Vert	FollowedV	1.558876e+03	2.875805e+01	StimUp	29	17	a9.jpg 	533	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	11	Vert	 	1.563726e+03	5.885686e-01	StartStim	1	1	 	501	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	11	Vert	IncorrectMinorV	1.565485e+03	1.738485e+00	StimUp	2	1	e10.jpg	522	558	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	11	Vert	IncorrectMinorV	1.566204e+03	2.457642e+00	StimUp	3	2	e10.jpg	544	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:56	vert	11	Vert	IncorrectMinorV	1.566540e+03	2.792747e+00	StimUp	4	3	e10.jpg	517	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.576533e+03	1.278646e+01	StimUp	5	4	e10.jpg	468	600	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.577556e+03	1.380865e+01	StimUp	6	5	e10.jpg	541	570	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.577810e+03	1.406289e+01	StimUp	7	6	e10.jpg	520	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.578195e+03	1.444850e+01	StimUp	8	7	e10.jpg	562	603	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.588199e+03	2.445242e+01	StimUp	9	8	e10.jpg	479	580	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	11	Vert	IncorrectMinorV	1.593202e+03	2.945526e+01	StimUp	10	9	e10.jpg	501	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595056e+03	1.294853e+00	ITI	1	1	e10.jpg	648	595	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595119e+03	1.357160e+00	ITI	2	2	e10.jpg	626	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595302e+03	1.540599e+00	ITI	3	3	e10.jpg	517	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595678e+03	1.916269e+00	ITI	4	4	e10.jpg	544	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595780e+03	2.019008e+00	ITI	5	5	e10.jpg	648	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.595903e+03	2.141976e+00	ITI	6	6	e10.jpg	658	583	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.596441e+03	2.679305e+00	ITI	7	7	e10.jpg	675	583	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.597701e+03	9.318061e-01	StartStim	8	1	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.598066e+03	1.296973e+00	StartStim	9	2	 	544	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.598381e+03	1.611585e+00	StartStim	10	3	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.598766e+03	1.996799e+00	StartStim	11	4	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.599767e+03	2.997832e+00	StartStim	12	5	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.601404e+03	4.634777e+00	StartStim	13	6	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.602748e+03	5.979108e+00	StartStim	14	7	 	490	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.603063e+03	6.293715e+00	StartStim	15	8	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.603610e+03	6.840494e+00	StartStim	16	9	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.603944e+03	7.175424e+00	StartStim	17	10	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.604764e+03	7.994718e+00	StartStim	18	11	 	537	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.605068e+03	8.299205e+00	StartStim	19	12	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.605888e+03	9.118463e+00	StartStim	20	13	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.606283e+03	9.513795e+00	StartStim	21	14	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.606547e+03	9.777868e+00	StartStim	22	15	 	504	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.606589e+03	9.819863e+00	StartStim	23	16	 	490	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	 	1.606843e+03	1.007372e+01	StartStim	24	17	 	504	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.607922e+03	1.051359e+00	StimUp	25	1	a4.jpg 	479	535	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.608227e+03	1.356334e+00	StimUp	26	2	a4.jpg 	392	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.608582e+03	1.711532e+00	StimUp	27	3	a4.jpg 	464	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.608928e+03	2.056783e+00	StimUp	28	4	a4.jpg 	494	535	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.616393e+03	9.522030e+00	StimUp	29	5	a4.jpg 	377	540	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.616789e+03	9.917751e+00	StimUp	30	6	a4.jpg 	392	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.618407e+03	1.153606e+01	StimUp	31	7	a4.jpg 	370	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.618772e+03	1.190144e+01	StimUp	32	8	a4.jpg 	501	537	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.619128e+03	1.225670e+01	StimUp	33	9	a4.jpg 	311	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.619493e+03	1.262202e+01	StimUp	34	10	a4.jpg 	544	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.619868e+03	1.299753e+01	StimUp	35	11	a4.jpg 	457	547	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.620891e+03	1.401964e+01	StimUp	36	12	a4.jpg 	362	583	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.621610e+03	1.473872e+01	StimUp	37	13	a4.jpg 	315	606	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.622389e+03	1.551842e+01	StimUp	38	14	a4.jpg 	343	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.623149e+03	1.627786e+01	StimUp	39	15	a4.jpg 	340	585	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.623969e+03	1.709790e+01	StimUp	40	16	a4.jpg 	407	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.624658e+03	1.778667e+01	StimUp	41	17	a4.jpg 	362	522	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.625033e+03	1.816216e+01	StimUp	42	18	a4.jpg 	507	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.625813e+03	1.894182e+01	StimUp	43	19	a4.jpg 	482	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:57	vert	12	Vert	FollowedV	1.626199e+03	1.932762e+01	StimUp	44	20	a4.jpg 	399	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.626958e+03	2.008712e+01	StimUp	45	21	a4.jpg 	420	525	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.632417e+03	2.554658e+01	StimUp	46	22	a4.jpg 	407	538	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.633136e+03	2.626545e+01	StimUp	47	23	a4.jpg 	381	534	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.634017e+03	2.714609e+01	StimUp	48	24	a4.jpg 	348	576	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.634837e+03	2.796615e+01	StimUp	49	25	a4.jpg 	342	585	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	12	Vert	FollowedV	1.636455e+03	2.958430e+01	StimUp	50	26	a4.jpg 	365	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	 	1.645221e+03	5.322957e+00	StartStim	1	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.646021e+03	7.787622e-01	StimUp	2	1	a11.jpg	374	600	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.646740e+03	1.497846e+00	StimUp	3	2	a11.jpg	413	600	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.647682e+03	2.439302e+00	StimUp	4	3	a11.jpg	420	534	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.649280e+03	4.037330e+00	StimUp	5	4	a11.jpg	419	580	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.649827e+03	4.584661e+00	StimUp	6	5	a11.jpg	375	604	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.651324e+03	6.081532e+00	StimUp	7	6	a11.jpg	372	600	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.651790e+03	6.548006e+00	StimUp	8	7	a11.jpg	441	570	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.660947e+03	1.570446e+01	StimUp	9	8	a11.jpg	525	591	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.670930e+03	2.568717e+01	StimUp	10	9	a11.jpg	353	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.671750e+03	2.650723e+01	StimUp	11	10	a11.jpg	387	603	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.672438e+03	2.719605e+01	StimUp	12	11	a11.jpg	378	561	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.672794e+03	2.755134e+01	StimUp	13	12	a11.jpg	463	558	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.673139e+03	2.789651e+01	StimUp	14	13	a11.jpg	370	600	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	13	Vert	FollowedV	1.674050e+03	2.880747e+01	StimUp	15	14	a11.jpg	348	603	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	14	Vert	 	1.675359e+03	1.027167e-01	ITI	1	1	a11.jpg	344	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:58	vert	14	Vert	 	1.686978e+03	8.714974e+00	StartStim	2	1	 	538	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	 	1.692179e+03	1.391547e+01	StartStim	3	2	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	 	1.695199e+03	1.693545e+01	StartStim	4	3	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	 	1.696482e+03	1.821920e+01	StartStim	5	4	 	482	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	 	1.697100e+03	1.883667e+01	StartStim	6	5	 	507	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.697207e+03	7.158363e-02	StimUp	7	1	e25.jpg	494	535	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.697845e+03	7.097742e-01	StimUp	8	2	e25.jpg	460	559	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.698160e+03	1.024600e+00	StimUp	9	3	e25.jpg	471	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.698566e+03	1.430378e+00	StimUp	10	4	e25.jpg	374	627	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.698941e+03	1.805937e+00	StimUp	11	5	e25.jpg	348	616	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.700448e+03	3.312843e+00	StimUp	12	6	e25.jpg	350	657	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.702561e+03	5.425973e+00	StimUp	13	7	e25.jpg	494	558	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.702927e+03	5.791359e+00	StimUp	14	8	e25.jpg	372	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.706444e+03	9.308749e+00	StimUp	15	9	e25.jpg	377	516	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.717428e+03	2.029306e+01	StimUp	16	10	e25.jpg	441	559	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.717895e+03	2.075951e+01	StimUp	17	11	e25.jpg	365	627	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.721534e+03	2.439816e+01	StimUp	18	12	e25.jpg	392	561	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.724940e+03	2.780434e+01	StimUp	19	13	e25.jpg	399	504	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.725376e+03	2.824046e+01	StimUp	20	14	e25.jpg	385	555	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	14	Vert	IncorrectMinorV	1.726832e+03	2.969692e+01	StimUp	21	15	e25.jpg	387	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.727211e+03	6.226725e-02	ITI	1	1	e25.jpg	430	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.728062e+03	9.125833e-01	ITI	2	2	e25.jpg	463	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.728154e+03	1.005170e+00	ITI	3	3	e25.jpg	463	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.728418e+03	1.269454e+00	ITI	4	4	e25.jpg	482	580	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.728541e+03	1.392326e+00	ITI	5	5	e25.jpg	590	591	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.729078e+03	1.929505e+00	ITI	6	6	e25.jpg	637	577	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.729121e+03	1.971543e+00	ITI	7	7	e25.jpg	634	570	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.729557e+03	2.407543e+00	ITI	8	8	e25.jpg	637	561	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	 	1.730756e+03	5.986713e-01	StartStim	9	1	 	501	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.731758e+03	9.807230e-01	StimUp	10	1	a42.jpg	547	579	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.731800e+03	1.022958e+00	StimUp	11	2	a42.jpg	560	579	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.732479e+03	1.701590e+00	StimUp	12	3	a42.jpg	588	556	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.738478e+03	7.701082e+00	StimUp	13	4	a42.jpg	525	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.738844e+03	8.066523e+00	StimUp	14	5	a42.jpg	522	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.739522e+03	8.745070e+00	StimUp	15	6	a42.jpg	484	591	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.740625e+03	9.847934e+00	StimUp	16	7	a42.jpg	483	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.740960e+03	1.018307e+01	StimUp	17	8	a42.jpg	569	657	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.741427e+03	1.064951e+01	StimUp	18	9	a42.jpg	462	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.741822e+03	1.104523e+01	StimUp	19	10	a42.jpg	568	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.742218e+03	1.144089e+01	StimUp	20	11	a42.jpg	503	601	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.742604e+03	1.182650e+01	StimUp	21	12	a42.jpg	517	591	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	12:59	vert	15	Vert	FollowedV	1.743222e+03	1.244447e+01	StimUp	22	13	a42.jpg	555	591	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.743647e+03	1.287045e+01	StimUp	23	14	a42.jpg	505	603	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.750847e+03	2.006982e+01	StimUp	24	15	a42.jpg	517	591	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.751970e+03	2.119299e+01	StimUp	25	16	a42.jpg	525	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.752164e+03	2.138669e+01	StimUp	26	17	a42.jpg	535	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.753246e+03	2.246944e+01	StimUp	27	18	a42.jpg	468	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.753602e+03	2.282496e+01	StimUp	28	19	a42.jpg	517	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.753967e+03	2.319038e+01	StimUp	29	20	a42.jpg	605	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.754282e+03	2.350522e+01	StimUp	30	21	a42.jpg	474	619	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	15	Vert	FollowedV	1.755092e+03	2.431502e+01	StimUp	31	22	a42.jpg	610	591	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.766393e+03	2.597305e+00	StartStim	1	1	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.767828e+03	4.032510e+00	StartStim	2	2	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.768092e+03	4.296629e+00	StartStim	3	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.769033e+03	5.236980e+00	StartStim	4	4	 	463	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.770872e+03	7.075824e+00	StartStim	5	5	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.772378e+03	8.581669e+00	StartStim	6	6	 	460	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.773379e+03	9.582655e+00	StartStim	7	7	 	516	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	 	1.773410e+03	9.614585e+00	StartStim	8	8	 	511	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.774139e+03	7.080094e-01	StimUp	9	1	e20.jpg	573	513	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.774475e+03	1.043123e+00	StimUp	10	2	e20.jpg	501	514	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.775194e+03	1.762064e+00	StimUp	11	3	e20.jpg	599	534	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.775579e+03	2.147569e+00	StimUp	12	4	e20.jpg	501	537	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.777036e+03	3.604177e+00	StimUp	13	5	e20.jpg	613	627	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.777452e+03	4.020167e+00	StimUp	14	6	e20.jpg	483	601	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.778312e+03	4.880590e+00	StimUp	15	7	e20.jpg	527	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.778778e+03	5.346987e+00	StimUp	16	8	e20.jpg	496	607	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.779134e+03	5.702244e+00	StimUp	17	9	e20.jpg	570	603	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.779540e+03	6.108034e+00	StimUp	18	10	e20.jpg	484	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.781420e+03	7.988880e+00	StimUp	19	11	e20.jpg	544	579	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.781755e+03	8.323908e+00	StimUp	20	12	e20.jpg	525	591	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.782181e+03	8.749847e+00	StimUp	21	13	e20.jpg	505	603	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.785265e+03	1.183309e+01	StimUp	22	14	e20.jpg	501	601	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	16	Vert	IncorrectMinorV	1.785842e+03	1.241083e+01	StimUp	23	15	e20.jpg	367	657	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	17	Vert	 	1.805468e+03	2.022299e+00	ITI	1	1	e20.jpg	718	628	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:0	vert	17	Vert	 	1.808485e+03	2.032023e+00	StartStim	2	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.809806e+03	1.283790e+00	StimUp	3	1	a4.jpg 	429	534	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.809848e+03	1.326032e+00	StimUp	4	2	a4.jpg 	420	537	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.810910e+03	2.388457e+00	StimUp	5	3	a4.jpg 	529	537	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.817407e+03	8.885388e+00	StimUp	6	4	a4.jpg 	418	603	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.817874e+03	9.351894e+00	StimUp	7	5	a4.jpg 	430	591	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.818391e+03	9.868886e+00	StimUp	8	6	a4.jpg 	372	624	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.819575e+03	1.105262e+01	StimUp	9	7	a4.jpg 	511	525	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.820354e+03	1.183230e+01	StimUp	10	8	a4.jpg 	367	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.821114e+03	1.259189e+01	StimUp	11	9	a4.jpg 	388	517	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.821873e+03	1.335136e+01	StimUp	12	10	a4.jpg 	429	534	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.821915e+03	1.339348e+01	StimUp	13	11	a4.jpg 	435	534	Stim	1	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	17	Vert	FollowedV	1.834080e+03	2.555750e+01	StimUp	14	12	a4.jpg 	494	525	Stim	1	1	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.843187e+03	8.307801e-01	StartStim	1	1	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.843986e+03	1.629991e+00	StartStim	2	2	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.845159e+03	2.802567e+00	StartStim	3	3	 	538	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.845827e+03	3.470487e+00	StartStim	4	4	 	538	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.845939e+03	3.583142e+00	StartStim	5	5	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.846365e+03	4.008690e+00	StartStim	6	6	 	529	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.847063e+03	4.706818e+00	StartStim	7	7	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.847388e+03	5.031483e+00	StartStim	8	8	 	526	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.848146e+03	5.790197e+00	StartStim	9	9	 	519	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.849026e+03	6.670093e+00	StartStim	10	10	 	522	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.849149e+03	6.792905e+00	StartStim	11	11	 	515	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	 	1.850281e+03	7.925083e+00	StartStim	12	12	 	522	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	IncorrectMajorV	1.850404e+03	1.016952e-01	StimUp	13	1	d19.jpg	507	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	IncorrectMajorV	1.861246e+03	1.094366e+01	StimUp	14	2	d19.jpg	584	642	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:1	vert	18	Vert	IncorrectMajorV	1.861672e+03	1.136979e+01	StimUp	15	3	d19.jpg	631	613	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	18	Vert	IncorrectMajorV	1.875039e+03	2.473722e+01	StimUp	16	4	d19.jpg	566	727	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	18	Vert	IncorrectMajorV	1.875092e+03	2.478943e+01	StimUp	17	5	d19.jpg	566	714	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	19	Vert	 	1.885501e+03	2.173405e+00	StartStim	1	1	 	479	535	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	19	Vert	 	1.886220e+03	2.891756e+00	StartStim	2	2	 	519	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	19	Vert	 	1.887544e+03	4.215755e+00	StartStim	3	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:2	vert	19	Vert	 	1.887656e+03	4.328461e+00	StartStim	4	4	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.928873e+03	4.554486e+01	StartStim	5	5	 	544	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.929359e+03	4.603116e+01	StartStim	6	6	 	555	541	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.929451e+03	4.612369e+01	StartStim	7	7	 	541	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.930281e+03	4.695303e+01	StartStim	8	8	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.930414e+03	4.708591e+01	StartStim	9	9	 	522	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.931193e+03	4.786482e+01	StartStim	10	10	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.932436e+03	4.910809e+01	StartStim	11	11	 	519	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.932861e+03	4.953373e+01	StartStim	12	12	 	495	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.934155e+03	5.082765e+01	StartStim	13	13	 	479	558	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.934844e+03	5.151581e+01	StartStim	14	14	 	507	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.935340e+03	5.201208e+01	StartStim	15	15	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.936280e+03	5.295255e+01	StartStim	16	16	 	533	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.936595e+03	5.326732e+01	StartStim	17	17	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.936758e+03	5.343045e+01	StartStim	18	18	 	507	537	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.937416e+03	5.408817e+01	StartStim	19	19	 	511	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.938780e+03	5.545260e+01	StartStim	20	20	 	516	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.939458e+03	5.613063e+01	StartStim	21	21	 	526	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.939581e+03	5.625343e+01	StartStim	22	22	 	533	525	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.939916e+03	5.658815e+01	StartStim	23	23	 	479	553	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.940685e+03	5.735715e+01	StartStim	24	24	 	522	547	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:3	vert	19	Vert	 	1.942322e+03	5.899417e+01	StartStim	25	25	 	522	525	Stim	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:33	vert	20	Vert	 	3.736416e+03	1.761049e+03	StartStim	1	1	 	708	763	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:33	vert	20	Vert	 	3.783527e+03	1.808161e+03	StartStim	2	2	 	664	678	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:33	vert	20	Vert	 	3.784831e+03	1.809465e+03	StartStim	3	3	 	620	669	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:34	vert	20	Vert	 	3.795180e+03	1.819814e+03	StartStim	4	4	 	610	708	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:34	vert	20	Vert	 	3.795273e+03	1.819906e+03	StartStim	5	5	 	623	678	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:43	vert	20	Vert	 	4.387564e+03	2.412198e+03	StartStim	6	6	 	1023	12	Screen	0	0	P019A Remdial Vert	
+wilhelm	aug17	17-Aug-2016	13:44	vert	20	Vert	 	4.389823e+03	2.414457e+03	StartStim	7	7	 	491	677	Screen	0	0	P019A Remdial Vert	

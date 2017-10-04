@@ -1,0 +1,2 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+9999	99	08-Apr-2016	14:28	99	1	Vert	FollowedV	6.440863e+00	3.011891e+00	6.456783e+00	3.011543e+00	a92.jpg	0	3	0	0	0	NaN	1	0	P019A V1	

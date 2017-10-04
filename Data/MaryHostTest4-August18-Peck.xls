@@ -1,0 +1,14 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	 	6.837626e+00	8.751993e-01	StartStim	1	1	 	512	505	Stim	0	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	7.577657e+00	6.804925e-01	StimUp	2	1	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	7.715848e+00	8.186832e-01	StimUp	3	2	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	7.872178e+00	9.750130e-01	StimUp	4	3	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	8.039494e+00	1.142329e+00	StimUp	5	4	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	8.203182e+00	1.306017e+00	StimUp	6	5	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	8.372189e+00	1.475024e+00	StimUp	7	6	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	8.515906e+00	1.618741e+00	StimUp	8	7	h16.jpg	512	505	Stim	1	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:42	1	1	Hort	H Correct	8.699913e+00	1.802748e+00	StimUp	9	8	h16.jpg	512	505	Stim	1	1	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:43	1	2	Hort	 	4.071947e+01	7.913039e-01	StartStim	1	1	 	512	505	Stim	0	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:43	1	3	Hort	 	7.483852e+01	1.053509e+00	StartStim	1	1	 	509	503	Stim	0	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:43	1	3	Hort	H Correct	8.372455e+01	8.863744e+00	StimUp	2	1	h31.jpg	188	335	Screen	0	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:43	1	3	Hort	H Correct	8.443496e+01	9.574153e+00	StimUp	3	2	h31.jpg	192	528	Screen	0	0	P014C Vert	
+MaryHostTest4	August18	18-Aug-2017	16:43	1	3	Hort	H Correct	8.620423e+01	1.134342e+01	StimUp	4	3	h31.jpg	394	156	Screen	0	0	P014C Vert	

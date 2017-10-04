@@ -1,0 +1,7 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Morty	July27	27-Jul-2016	15:6	1	1	 	 	5.988094e+00	3.020102e+00	0	3.000667e+01	 	0	0	0	0	0	NaN	1	Autoshaping	
+Morty	July27	27-Jul-2016	15:6	1	2	 	 	4.435989e+01	3.014263e+00	0	3.000752e+01	 	0	0	0	0	0	NaN	1	Autoshaping	
+Morty	July27	27-Jul-2016	15:7	1	3	 	 	8.264814e+01	3.008901e+00	0	3.000476e+01	 	0	0	0	0	0	NaN	1	Autoshaping	
+Morty	July27	27-Jul-2016	15:8	1	4	 	 	1.209330e+02	3.008569e+00	0	3.000947e+01	 	0	0	0	0	0	NaN	1	Autoshaping	
+Morty	July27	27-Jul-2016	15:8	1	5	 	 	1.592323e+02	3.017081e+00	0	3.000569e+01	 	0	0	0	0	0	NaN	1	Autoshaping	
+Morty	July27	27-Jul-2016	15:9	1	6	 	 	1.975386e+02	3.008036e+00	0	3.001147e+01	 	0	0	0	0	0	NaN	1	Autoshaping	

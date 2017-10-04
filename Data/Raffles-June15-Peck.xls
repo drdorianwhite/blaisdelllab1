@@ -1,0 +1,1243 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.753795e+02	1.694215e+02	StartStim	1	1	 	544	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.754797e+02	1.695217e+02	StartStim	2	2	 	550	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.755520e+02	1.695940e+02	StartStim	3	3	 	544	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.760161e+02	1.700581e+02	StartStim	4	4	 	501	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.773355e+02	1.713775e+02	StartStim	5	5	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.776787e+02	1.717207e+02	StartStim	6	6	 	547	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.778710e+02	1.719130e+02	StartStim	7	7	 	537	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:37	1	1	Vert	 	1.783949e+02	1.724369e+02	StartStim	8	8	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	1.921186e+02	1.367148e+01	StimUp	9	1	d49.jpg	695	675	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.053572e+02	2.691006e+01	StimUp	10	2	d49.jpg	554	444	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.057924e+02	2.734523e+01	StimUp	11	3	d49.jpg	470	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.060148e+02	2.756762e+01	StimUp	12	4	d49.jpg	435	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.060761e+02	2.762896e+01	StimUp	13	5	d49.jpg	444	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.061374e+02	2.769026e+01	StimUp	14	6	d49.jpg	466	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.061987e+02	2.775154e+01	StimUp	15	7	d49.jpg	468	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.062801e+02	2.783293e+01	StimUp	16	8	d49.jpg	446	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.063413e+02	2.789421e+01	StimUp	17	9	d49.jpg	439	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.064529e+02	2.800579e+01	StimUp	18	10	d49.jpg	466	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.067155e+02	2.826831e+01	StimUp	19	11	d49.jpg	465	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.069378e+02	2.849071e+01	StimUp	20	12	d49.jpg	471	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	1	Vert	V Major	2.069791e+02	2.853196e+01	StimUp	21	13	d49.jpg	490	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	 	2.105752e+02	2.103632e+00	ITI	1	1	d49.jpg	580	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	 	2.119615e+02	4.856590e-01	StartStim	2	1	 	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.120591e+02	8.105084e-02	StimUp	3	1	a49.jpg	494	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.121549e+02	1.768012e-01	StimUp	4	2	a49.jpg	479	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.124380e+02	4.599735e-01	StimUp	5	3	a49.jpg	433	579	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.125196e+02	5.415342e-01	StimUp	6	4	a49.jpg	412	643	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.126413e+02	6.632200e-01	StimUp	7	5	a49.jpg	452	591	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.127429e+02	7.648130e-01	StimUp	8	6	a49.jpg	451	582	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.246622e+02	1.268413e+01	StimUp	9	7	a49.jpg	479	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.250154e+02	1.303737e+01	StimUp	10	8	a49.jpg	421	516	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.341765e+02	2.219844e+01	StimUp	11	9	a49.jpg	362	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.342983e+02	2.232024e+01	StimUp	12	10	a49.jpg	427	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.351241e+02	2.314605e+01	StimUp	13	11	a49.jpg	385	511	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.352559e+02	2.327787e+01	StimUp	14	12	a49.jpg	392	511	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.353373e+02	2.335926e+01	StimUp	15	13	a49.jpg	424	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.355394e+02	2.356135e+01	StimUp	16	14	a49.jpg	422	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.356208e+02	2.364276e+01	StimUp	17	15	a49.jpg	359	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.357224e+02	2.374429e+01	StimUp	18	16	a49.jpg	407	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.364776e+02	2.449952e+01	StimUp	19	17	a49.jpg	435	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.366799e+02	2.470178e+01	StimUp	20	18	a49.jpg	381	486	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.368619e+02	2.488385e+01	StimUp	21	19	a49.jpg	422	495	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.369434e+02	2.496532e+01	StimUp	22	20	a49.jpg	359	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.373365e+02	2.535846e+01	StimUp	23	21	a49.jpg	443	504	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.374180e+02	2.543991e+01	StimUp	24	22	a49.jpg	413	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.374792e+02	2.550116e+01	StimUp	25	23	a49.jpg	417	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	2	Vert	V Correct	2.377618e+02	2.578376e+01	StimUp	26	24	a49.jpg	451	556	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	3	Vert	 	2.496014e+02	3.612196e+00	StartStim	1	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	3	Vert	V Major	2.496377e+02	2.085257e-02	StimUp	2	1	d22.jpg	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:38	1	3	Vert	V Major	2.497393e+02	1.224652e-01	StimUp	3	2	d22.jpg	490	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.502029e+02	5.860737e-01	StimUp	4	3	d22.jpg	510	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.503850e+02	7.681215e-01	StimUp	5	4	d22.jpg	509	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.505570e+02	9.401202e-01	StimUp	6	5	d22.jpg	457	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.510809e+02	1.464078e+00	StimUp	7	6	d22.jpg	573	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.609996e+02	1.138278e+01	StimUp	8	7	d22.jpg	697	453	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.611817e+02	1.156484e+01	StimUp	9	8	d22.jpg	653	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.612429e+02	1.162608e+01	StimUp	10	9	d22.jpg	573	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.615858e+02	1.196895e+01	StimUp	11	10	d22.jpg	531	475	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.618986e+02	1.228180e+01	StimUp	12	11	d22.jpg	535	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.621008e+02	1.248394e+01	StimUp	13	12	d22.jpg	544	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.621822e+02	1.256535e+01	StimUp	14	13	d22.jpg	577	450	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.625855e+02	1.296863e+01	StimUp	15	14	d22.jpg	566	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.626266e+02	1.300980e+01	StimUp	16	15	d22.jpg	566	454	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.629395e+02	1.332263e+01	StimUp	17	16	d22.jpg	577	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.636647e+02	1.404786e+01	StimUp	18	17	d22.jpg	530	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.667636e+02	1.714672e+01	StimUp	19	18	d22.jpg	509	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.671468e+02	1.752994e+01	StimUp	20	19	d22.jpg	488	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.671779e+02	1.756102e+01	StimUp	21	20	d22.jpg	501	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.672391e+02	1.762224e+01	StimUp	22	21	d22.jpg	471	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.676222e+02	1.800533e+01	StimUp	23	22	d22.jpg	509	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.679852e+02	1.836836e+01	StimUp	24	23	d22.jpg	537	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.680666e+02	1.844979e+01	StimUp	25	24	d22.jpg	555	486	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.691236e+02	1.950677e+01	StimUp	26	25	d22.jpg	483	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.714581e+02	2.184124e+01	StimUp	27	26	d22.jpg	501	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.715396e+02	2.192272e+01	StimUp	28	27	d22.jpg	531	465	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.719026e+02	2.228572e+01	StimUp	29	28	d22.jpg	544	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.719639e+02	2.234705e+01	StimUp	30	29	d22.jpg	531	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.723470e+02	2.273011e+01	StimUp	31	30	d22.jpg	588	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.724384e+02	2.282153e+01	StimUp	32	31	d22.jpg	584	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.729824e+02	2.336558e+01	StimUp	33	32	d22.jpg	590	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.779420e+02	2.832512e+01	StimUp	34	33	d22.jpg	605	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	3	Vert	V Major	2.783051e+02	2.868822e+01	StimUp	35	34	d22.jpg	566	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.839879e+02	1.340107e+00	StartStim	1	1	 	501	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.841397e+02	1.491945e+00	StartStim	2	2	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.843015e+02	1.653668e+00	StartStim	3	3	 	516	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.843827e+02	1.734962e+00	StartStim	4	4	 	529	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.844841e+02	1.836353e+00	StartStim	5	5	 	501	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.846660e+02	2.018213e+00	StartStim	6	6	 	494	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.847676e+02	2.119857e+00	StartStim	7	7	 	457	559	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.848390e+02	2.191237e+00	StartStim	8	8	 	494	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	 	2.849605e+02	2.312744e+00	StartStim	9	9	 	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.854793e+02	5.034393e-01	StimUp	10	1	a52.jpg	531	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.856011e+02	6.253298e-01	StimUp	11	2	a52.jpg	531	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.856826e+02	7.067467e-01	StimUp	12	3	a52.jpg	553	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.858042e+02	8.283818e-01	StimUp	13	4	a52.jpg	580	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.859057e+02	9.299345e-01	StimUp	14	5	a52.jpg	580	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.860073e+02	1.031457e+00	StimUp	15	6	a52.jpg	588	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.861088e+02	1.132993e+00	StimUp	16	7	a52.jpg	588	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.862404e+02	1.264635e+00	StimUp	17	8	a52.jpg	601	481	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.915673e+02	6.591472e+00	StimUp	18	9	a52.jpg	403	486	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.919605e+02	6.984713e+00	StimUp	19	10	a52.jpg	443	492	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.920219e+02	7.046109e+00	StimUp	20	11	a52.jpg	427	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.920832e+02	7.107417e+00	StimUp	21	12	a52.jpg	348	511	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.924864e+02	7.510629e+00	StimUp	22	13	a52.jpg	409	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.926081e+02	7.632262e+00	StimUp	23	14	a52.jpg	356	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.927096e+02	7.733741e+00	StimUp	24	15	a52.jpg	427	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.928412e+02	7.865429e+00	StimUp	25	16	a52.jpg	536	492	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.929026e+02	7.926737e+00	StimUp	26	17	a52.jpg	424	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.930042e+02	8.028378e+00	StimUp	27	18	a52.jpg	443	492	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.930455e+02	8.069653e+00	StimUp	28	19	a52.jpg	449	495	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.931469e+02	8.171129e+00	StimUp	29	20	a52.jpg	388	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.933289e+02	8.353060e+00	StimUp	30	21	a52.jpg	395	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.942854e+02	9.309556e+00	StimUp	31	22	a52.jpg	389	534	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.943668e+02	9.391033e+00	StimUp	32	23	a52.jpg	439	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.944684e+02	9.492571e+00	StimUp	33	24	a52.jpg	424	475	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	2.945800e+02	9.604145e+00	StimUp	34	25	a52.jpg	457	481	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.006899e+02	1.571406e+01	StimUp	35	26	a52.jpg	451	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.007412e+02	1.576539e+01	StimUp	36	27	a52.jpg	392	538	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.008427e+02	1.586685e+01	StimUp	37	28	a52.jpg	421	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.010247e+02	1.604889e+01	StimUp	38	29	a52.jpg	451	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.010860e+02	1.611018e+01	StimUp	39	30	a52.jpg	398	534	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.013484e+02	1.637255e+01	StimUp	40	31	a52.jpg	379	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.014700e+02	1.649421e+01	StimUp	41	32	a52.jpg	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.015615e+02	1.658567e+01	StimUp	42	33	a52.jpg	362	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.017032e+02	1.672738e+01	StimUp	43	34	a52.jpg	443	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.017846e+02	1.680880e+01	StimUp	44	35	a52.jpg	400	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.019666e+02	1.699076e+01	StimUp	45	36	a52.jpg	501	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.020681e+02	1.709224e+01	StimUp	46	37	a52.jpg	511	471	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.079244e+02	2.294857e+01	StimUp	47	38	a52.jpg	395	561	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.080059e+02	2.303005e+01	StimUp	48	39	a52.jpg	417	495	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.081074e+02	2.313154e+01	StimUp	49	40	a52.jpg	428	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.081485e+02	2.317267e+01	StimUp	50	41	a52.jpg	420	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.082298e+02	2.325400e+01	StimUp	51	42	a52.jpg	435	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.083715e+02	2.339570e+01	StimUp	52	43	a52.jpg	374	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.084629e+02	2.348710e+01	StimUp	53	44	a52.jpg	431	489	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.085845e+02	2.360869e+01	StimUp	54	45	a52.jpg	403	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.086860e+02	2.371016e+01	StimUp	55	46	a52.jpg	446	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.087673e+02	2.379153e+01	StimUp	56	47	a52.jpg	387	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:39	1	4	Vert	V Correct	3.090901e+02	2.411428e+01	StimUp	57	48	a52.jpg	443	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	4	Vert	V Correct	3.091715e+02	2.419566e+01	StimUp	58	49	a52.jpg	446	469	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	 	3.243706e+02	6.366882e+00	StartStim	1	1	 	482	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	 	3.244922e+02	6.488495e+00	StartStim	2	2	 	501	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.254032e+02	8.957760e-01	StimUp	3	1	a52.jpg	544	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.254647e+02	9.572835e-01	StimUp	4	2	a52.jpg	557	453	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.256064e+02	1.098988e+00	StimUp	5	3	a52.jpg	558	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.257884e+02	1.280964e+00	StimUp	6	4	a52.jpg	553	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.258900e+02	1.382526e+00	StimUp	7	5	a52.jpg	558	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.262228e+02	1.715350e+00	StimUp	8	6	a52.jpg	566	465	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.267668e+02	2.259383e+00	StimUp	9	7	a52.jpg	614	450	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.269891e+02	2.481630e+00	StimUp	10	8	a52.jpg	599	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.381039e+02	1.359647e+01	StimUp	11	9	a52.jpg	610	670	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.381452e+02	1.363772e+01	StimUp	12	10	a52.jpg	501	585	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.382668e+02	1.375934e+01	StimUp	13	11	a52.jpg	461	487	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.442095e+02	1.970207e+01	StimUp	14	12	a52.jpg	432	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.448542e+02	2.034679e+01	StimUp	15	13	a52.jpg	405	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.449055e+02	2.039805e+01	StimUp	16	14	a52.jpg	422	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.449668e+02	2.045930e+01	StimUp	17	15	a52.jpg	370	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.451285e+02	2.062109e+01	StimUp	18	16	a52.jpg	405	447	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.451696e+02	2.066219e+01	StimUp	19	17	a52.jpg	435	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.453315e+02	2.082404e+01	StimUp	20	18	a52.jpg	370	463	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.453927e+02	2.088529e+01	StimUp	21	19	a52.jpg	384	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.454338e+02	2.092638e+01	StimUp	22	20	a52.jpg	403	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.454850e+02	2.097753e+01	StimUp	23	21	a52.jpg	435	426	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.456066e+02	2.109911e+01	StimUp	24	22	a52.jpg	413	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.456879e+02	2.118049e+01	StimUp	25	23	a52.jpg	457	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.474490e+02	2.294151e+01	StimUp	26	24	a52.jpg	420	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.476512e+02	2.314371e+01	StimUp	27	25	a52.jpg	464	492	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.539307e+02	2.942328e+01	StimUp	28	26	a52.jpg	417	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.539921e+02	2.948466e+01	StimUp	29	27	a52.jpg	385	534	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.541338e+02	2.962633e+01	StimUp	30	28	a52.jpg	429	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.542554e+02	2.974791e+01	StimUp	31	29	a52.jpg	424	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	5	Vert	V Correct	3.543569e+02	2.984941e+01	StimUp	32	30	a52.jpg	435	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.545524e+02	3.172034e-02	ITI	1	1	a52.jpg	409	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.547344e+02	2.138046e-01	ITI	2	2	a52.jpg	404	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.590958e+02	1.571225e+00	StartStim	3	1	 	516	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.593783e+02	1.853780e+00	StartStim	4	2	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.594496e+02	1.925031e+00	StartStim	5	3	 	472	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	 	3.598526e+02	2.328044e+00	StartStim	6	4	 	501	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.600999e+02	2.319131e-01	StimUp	7	1	e26.jpg	531	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.603121e+02	4.441383e-01	StimUp	8	2	e26.jpg	508	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.603935e+02	5.255216e-01	StimUp	9	3	e26.jpg	544	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.604749e+02	6.068734e-01	StimUp	10	4	e26.jpg	562	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.607777e+02	9.096478e-01	StimUp	11	5	e26.jpg	558	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.608793e+02	1.011247e+00	StimUp	12	6	e26.jpg	566	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.609706e+02	1.102640e+00	StimUp	13	7	e26.jpg	603	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.617158e+02	1.847806e+00	StimUp	14	8	e26.jpg	583	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.631350e+02	3.266944e+00	StimUp	15	9	e26.jpg	563	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.631963e+02	3.328273e+00	StimUp	16	10	e26.jpg	569	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.638610e+02	3.993014e+00	StimUp	17	11	e26.jpg	450	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.639324e+02	4.064420e+00	StimUp	18	12	e26.jpg	409	486	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.640339e+02	4.165890e+00	StimUp	19	13	e26.jpg	403	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.646383e+02	4.770282e+00	StimUp	20	14	e26.jpg	429	534	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.646996e+02	4.831577e+00	StimUp	21	15	e26.jpg	450	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.659577e+02	6.089729e+00	StimUp	22	16	e26.jpg	507	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.661800e+02	6.311981e+00	StimUp	23	17	e26.jpg	550	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.671968e+02	7.328799e+00	StimUp	24	18	e26.jpg	472	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.672581e+02	7.390129e+00	StimUp	25	19	e26.jpg	471	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.674602e+02	7.592151e+00	StimUp	26	20	e26.jpg	488	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.675616e+02	7.693624e+00	StimUp	27	21	e26.jpg	457	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.676530e+02	7.785041e+00	StimUp	28	22	e26.jpg	457	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.677143e+02	7.846248e+00	StimUp	29	23	e26.jpg	457	450	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.685801e+02	8.712085e+00	StimUp	30	24	e26.jpg	457	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.687420e+02	8.873977e+00	StimUp	31	25	e26.jpg	479	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.688334e+02	8.965385e+00	StimUp	32	26	e26.jpg	486	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.689148e+02	9.046767e+00	StimUp	33	27	e26.jpg	407	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.690162e+02	9.148218e+00	StimUp	34	28	e26.jpg	407	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.691176e+02	9.249638e+00	StimUp	35	29	e26.jpg	450	520	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.696015e+02	9.733480e+00	StimUp	36	30	e26.jpg	413	600	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:40	1	6	Vert	V Minor	3.696427e+02	9.774705e+00	StimUp	37	31	e26.jpg	409	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.700962e+02	1.022822e+01	StimUp	38	32	e26.jpg	446	534	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.701978e+02	1.032978e+01	StimUp	39	33	e26.jpg	486	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.707418e+02	1.087383e+01	StimUp	40	34	e26.jpg	611	648	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.708333e+02	1.096531e+01	StimUp	41	35	e26.jpg	613	648	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.716992e+02	1.183120e+01	StimUp	42	36	e26.jpg	479	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.718410e+02	1.197296e+01	StimUp	43	37	e26.jpg	552	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.722343e+02	1.236625e+01	StimUp	44	38	e26.jpg	511	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.723156e+02	1.244762e+01	StimUp	45	39	e26.jpg	501	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.724573e+02	1.258931e+01	StimUp	46	40	e26.jpg	530	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.725387e+02	1.267069e+01	StimUp	47	41	e26.jpg	562	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.726603e+02	1.279229e+01	StimUp	48	42	e26.jpg	566	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.727014e+02	1.283340e+01	StimUp	49	43	e26.jpg	573	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.727827e+02	1.291474e+01	StimUp	50	44	e26.jpg	588	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.730553e+02	1.318725e+01	StimUp	51	45	e26.jpg	580	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.732373e+02	1.336925e+01	StimUp	52	46	e26.jpg	588	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	6	Vert	V Minor	3.849256e+02	2.505756e+01	StimUp	53	47	e26.jpg	228	457	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.911659e+02	1.278842e+00	ITI	1	1	e26.jpg	405	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.913882e+02	1.501141e+00	ITI	2	2	e26.jpg	403	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.914495e+02	1.562387e+00	ITI	3	3	e26.jpg	531	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.915107e+02	1.623583e+00	ITI	4	4	e26.jpg	575	469	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.933079e+02	4.151855e-01	StartStim	5	1	 	459	712	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.936105e+02	7.178412e-01	StartStim	6	2	 	497	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.938628e+02	9.701716e-01	StartStim	7	3	 	490	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.946881e+02	1.795473e+00	StartStim	8	4	 	515	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	 	3.947896e+02	1.896981e+00	StartStim	9	5	 	515	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.952275e+02	4.230499e-01	StimUp	10	1	a52.jpg	553	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.952688e+02	4.644001e-01	StimUp	11	2	a52.jpg	566	427	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.954910e+02	6.865699e-01	StimUp	12	3	a52.jpg	536	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.956528e+02	8.484046e-01	StimUp	13	4	a52.jpg	509	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.957644e+02	9.599750e-01	StimUp	14	5	a52.jpg	544	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.958458e+02	1.041377e+00	StimUp	15	6	a52.jpg	544	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.959473e+02	1.142843e+00	StimUp	16	7	a52.jpg	536	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.960890e+02	1.284544e+00	StimUp	17	8	a52.jpg	536	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	3.961905e+02	1.386075e+00	StimUp	18	9	a52.jpg	558	471	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.022134e+02	7.408947e+00	StimUp	19	10	a52.jpg	359	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.024457e+02	7.641288e+00	StimUp	20	11	a52.jpg	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.025473e+02	7.742863e+00	StimUp	21	12	a52.jpg	405	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.026487e+02	7.844324e+00	StimUp	22	13	a52.jpg	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.027100e+02	7.905579e+00	StimUp	23	14	a52.jpg	357	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.030730e+02	8.268561e+00	StimUp	24	15	a52.jpg	403	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.031544e+02	8.349993e+00	StimUp	25	16	a52.jpg	435	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.032660e+02	8.461543e+00	StimUp	26	17	a52.jpg	413	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.033674e+02	8.563023e+00	StimUp	27	18	a52.jpg	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.041931e+02	9.388720e+00	StimUp	28	19	a52.jpg	400	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.042947e+02	9.490276e+00	StimUp	29	20	a52.jpg	492	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.043459e+02	9.541476e+00	StimUp	30	21	a52.jpg	413	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.045681e+02	9.763662e+00	StimUp	31	22	a52.jpg	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.055145e+02	1.071009e+01	StimUp	32	23	a52.jpg	420	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.056865e+02	1.088211e+01	StimUp	33	24	a52.jpg	450	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.057679e+02	1.096352e+01	StimUp	34	25	a52.jpg	446	472	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.126473e+02	1.784292e+01	StimUp	35	26	a52.jpg	405	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.126886e+02	1.788416e+01	StimUp	36	27	a52.jpg	413	504	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.130316e+02	1.822722e+01	StimUp	37	28	a52.jpg	427	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.132137e+02	1.840930e+01	StimUp	38	29	a52.jpg	405	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.132549e+02	1.845044e+01	StimUp	39	30	a52.jpg	348	448	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.133764e+02	1.857200e+01	StimUp	40	31	a52.jpg	413	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.134075e+02	1.860312e+01	StimUp	41	32	a52.jpg	400	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.135493e+02	1.874487e+01	StimUp	42	33	a52.jpg	448	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.136308e+02	1.882642e+01	StimUp	43	34	a52.jpg	322	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.138530e+02	1.904862e+01	StimUp	44	35	a52.jpg	424	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.139546e+02	1.915016e+01	StimUp	45	36	a52.jpg	413	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.140560e+02	1.925161e+01	StimUp	46	37	a52.jpg	400	472	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.142078e+02	1.940336e+01	StimUp	47	38	a52.jpg	424	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.154963e+02	2.069191e+01	StimUp	48	39	a52.jpg	544	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.157891e+02	2.098466e+01	StimUp	49	40	a52.jpg	555	471	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.211133e+02	2.630886e+01	StimUp	50	41	a52.jpg	413	486	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.212350e+02	2.643053e+01	StimUp	51	42	a52.jpg	422	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.212761e+02	2.647166e+01	StimUp	52	43	a52.jpg	413	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.214781e+02	2.667369e+01	StimUp	53	44	a52.jpg	427	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.215896e+02	2.678523e+01	StimUp	54	45	a52.jpg	427	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.216912e+02	2.688674e+01	StimUp	55	46	a52.jpg	377	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.217926e+02	2.698822e+01	StimUp	56	47	a52.jpg	435	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	7	Vert	V Correct	4.220149e+02	2.721046e+01	StimUp	57	48	a52.jpg	427	472	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	8	Vert	 	4.292335e+02	2.003131e+00	ITI	1	1	a52.jpg	840	463	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:41	1	8	Vert	 	4.293753e+02	2.144980e+00	ITI	2	2	a52.jpg	827	463	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.319567e+02	1.722296e+00	StartStim	3	1	 	748	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.383414e+02	8.106992e+00	StartStim	4	2	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.384328e+02	8.198464e+00	StartStim	5	3	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.385343e+02	8.299875e+00	StartStim	6	4	 	471	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.386960e+02	8.461589e+00	StartStim	7	5	 	464	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.390990e+02	8.864647e+00	StartStim	8	6	 	468	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	 	4.398741e+02	9.639687e+00	StartStim	9	7	 	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.403363e+02	4.331442e-01	StimUp	10	1	a9.jpg 	575	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.403978e+02	4.946072e-01	StimUp	11	2	a9.jpg 	574	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.404590e+02	5.558473e-01	StimUp	12	3	a9.jpg 	540	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.406611e+02	7.579058e-01	StimUp	13	4	a9.jpg 	537	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.410744e+02	1.171244e+00	StimUp	14	5	a9.jpg 	580	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.411760e+02	1.272797e+00	StimUp	15	6	a9.jpg 	588	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.415189e+02	1.615698e+00	StimUp	16	7	a9.jpg 	560	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.418819e+02	1.978766e+00	StimUp	17	8	a9.jpg 	601	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.419634e+02	2.060217e+00	StimUp	18	9	a9.jpg 	620	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.434229e+02	3.519720e+00	StimUp	19	10	a9.jpg 	457	547	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.505758e+02	1.067262e+01	StimUp	20	11	a9.jpg 	424	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.506573e+02	1.075411e+01	StimUp	21	12	a9.jpg 	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.506984e+02	1.079522e+01	StimUp	22	13	a9.jpg 	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.507999e+02	1.089669e+01	StimUp	23	14	a9.jpg 	413	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.508813e+02	1.097811e+01	StimUp	24	15	a9.jpg 	435	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.515359e+02	1.163276e+01	StimUp	25	16	a9.jpg 	428	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.525025e+02	1.259933e+01	StimUp	26	17	a9.jpg 	453	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.526041e+02	1.270095e+01	StimUp	27	18	a9.jpg 	492	481	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.596460e+02	1.974279e+01	StimUp	28	19	a9.jpg 	457	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.596872e+02	1.978405e+01	StimUp	29	20	a9.jpg 	403	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.597384e+02	1.983521e+01	StimUp	30	21	a9.jpg 	413	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.597996e+02	1.989647e+01	StimUp	31	22	a9.jpg 	435	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.599012e+02	1.999801e+01	StimUp	32	23	a9.jpg 	341	519	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.600026e+02	2.009947e+01	StimUp	33	24	a9.jpg 	422	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.600840e+02	2.018085e+01	StimUp	34	25	a9.jpg 	413	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.605979e+02	2.069477e+01	StimUp	35	26	a9.jpg 	417	486	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.607196e+02	2.081641e+01	StimUp	36	27	a9.jpg 	466	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.607808e+02	2.087767e+01	StimUp	37	28	a9.jpg 	457	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.611036e+02	2.120045e+01	StimUp	38	29	a9.jpg 	580	513	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.676018e+02	2.769864e+01	StimUp	39	30	a9.jpg 	479	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.677437e+02	2.784049e+01	StimUp	40	31	a9.jpg 	427	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.678049e+02	2.790178e+01	StimUp	41	32	a9.jpg 	362	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.681478e+02	2.824466e+01	StimUp	42	33	a9.jpg 	403	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.683599e+02	2.845675e+01	StimUp	43	34	a9.jpg 	400	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.684815e+02	2.857834e+01	StimUp	44	35	a9.jpg 	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.689249e+02	2.902178e+01	StimUp	45	36	a9.jpg 	443	492	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.693886e+02	2.948548e+01	StimUp	46	37	a9.jpg 	482	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.695003e+02	2.959709e+01	StimUp	47	38	a9.jpg 	538	558	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	8	Vert	V Correct	4.697225e+02	2.981929e+01	StimUp	48	39	a9.jpg 	588	603	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	 	4.743690e+02	1.440628e+00	StartStim	1	1	 	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.748874e+02	5.035030e-01	StimUp	2	1	d64.jpg	555	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.749688e+02	5.849587e-01	StimUp	3	2	d64.jpg	579	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.751307e+02	7.467818e-01	StimUp	4	3	d64.jpg	540	465	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.752422e+02	8.583498e-01	StimUp	5	4	d64.jpg	555	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.753437e+02	9.598147e-01	StimUp	6	5	d64.jpg	580	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.754049e+02	1.021059e+00	StimUp	7	6	d64.jpg	566	453	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.756271e+02	1.243199e+00	StimUp	8	7	d64.jpg	549	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.757286e+02	1.344687e+00	StimUp	9	8	d64.jpg	544	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.758099e+02	1.426018e+00	StimUp	10	9	d64.jpg	557	465	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.758510e+02	1.467153e+00	StimUp	11	10	d64.jpg	566	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.759022e+02	1.518289e+00	StimUp	12	11	d64.jpg	588	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.862324e+02	1.184853e+01	StimUp	13	12	d64.jpg	816	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.862736e+02	1.188977e+01	StimUp	14	13	d64.jpg	762	411	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.864858e+02	1.210189e+01	StimUp	15	14	d64.jpg	718	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.866275e+02	1.224363e+01	StimUp	16	15	d64.jpg	708	400	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:42	1	9	Vert	V Major	4.875537e+02	1.316985e+01	StimUp	17	16	d64.jpg	479	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	9	Vert	V Major	4.899686e+02	1.558477e+01	StimUp	18	17	d64.jpg	207	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	9	Vert	V Major	4.901911e+02	1.580723e+01	StimUp	19	18	d64.jpg	283	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	 	5.059561e+02	1.550335e+00	ITI	1	1	d64.jpg	601	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	 	5.079144e+02	4.956120e-01	StartStim	2	1	 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.080302e+02	1.011863e-01	StimUp	3	1	d64.jpg	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.200808e+02	1.215178e+01	StimUp	4	2	d64.jpg	1004	570	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.285617e+02	2.063271e+01	StimUp	5	3	d64.jpg	204	442	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.303431e+02	2.241414e+01	StimUp	6	4	d64.jpg	537	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.304246e+02	2.249562e+01	StimUp	7	5	d64.jpg	566	535	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	10	Vert	V Major	5.344403e+02	2.651131e+01	StimUp	8	6	d64.jpg	204	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.386088e+02	6.654041e-01	ITI	1	1	d64.jpg	544	553	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.392234e+02	1.279976e+00	ITI	2	2	d64.jpg	566	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.393250e+02	1.381529e+00	ITI	3	3	d64.jpg	566	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.394465e+02	1.503102e+00	ITI	4	4	d64.jpg	579	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.401213e+02	2.177866e+00	ITI	5	5	d64.jpg	577	427	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.401625e+02	2.219062e+00	ITI	6	6	d64.jpg	631	447	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.412053e+02	2.542807e-01	StartStim	7	1	 	493	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.412868e+02	3.356976e-01	StartStim	8	2	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.414686e+02	5.175554e-01	StartStim	9	3	 	493	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.415600e+02	6.089246e-01	StartStim	10	4	 	472	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.416413e+02	6.902473e-01	StartStim	11	5	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.417025e+02	7.514041e-01	StartStim	12	6	 	464	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.417837e+02	8.326923e-01	StartStim	13	7	 	479	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.418852e+02	9.341187e-01	StartStim	14	8	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.419664e+02	1.015391e+00	StartStim	15	9	 	472	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.423292e+02	1.378134e+00	StartStim	16	10	 	522	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	 	5.426417e+02	1.690668e+00	StartStim	17	11	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	V Major	5.430895e+02	4.330739e-01	StimUp	18	1	d49.jpg	450	519	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	V Major	5.431810e+02	5.246278e-01	StimUp	19	2	d49.jpg	420	559	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	V Major	5.432423e+02	5.858721e-01	StimUp	20	3	d49.jpg	443	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	V Major	5.437462e+02	1.089782e+00	StimUp	21	4	d49.jpg	518	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:43	1	11	Vert	V Major	5.441697e+02	1.513262e+00	StimUp	22	5	d49.jpg	487	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.559287e+02	1.327233e+01	StimUp	23	6	d49.jpg	621	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.560304e+02	1.337395e+01	StimUp	24	7	d49.jpg	610	424	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.560916e+02	1.343520e+01	StimUp	25	8	d49.jpg	555	438	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.614140e+02	1.875756e+01	StimUp	26	9	d49.jpg	566	438	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.653683e+02	2.271189e+01	StimUp	27	10	d49.jpg	469	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.673307e+02	2.467424e+01	StimUp	28	11	d49.jpg	305	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	11	Vert	V Major	5.700574e+02	2.740102e+01	StimUp	29	12	d49.jpg	217	439	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	 	5.742558e+02	1.580597e+00	ITI	1	1	d49.jpg	544	469	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	 	5.764152e+02	7.268014e-01	StartStim	2	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.765138e+02	8.106869e-02	StimUp	3	1	d5.jpg 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.766154e+02	1.826543e-01	StimUp	4	2	d5.jpg 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.770186e+02	5.858749e-01	StimUp	5	3	d5.jpg 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.770699e+02	6.371019e-01	StimUp	6	4	d5.jpg 	490	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.773121e+02	8.793756e-01	StimUp	7	5	d5.jpg 	544	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.779166e+02	1.483835e+00	StimUp	8	6	d5.jpg 	548	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.780182e+02	1.585404e+00	StimUp	9	7	d5.jpg 	558	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.781196e+02	1.686854e+00	StimUp	10	8	d5.jpg 	573	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.783920e+02	1.959274e+00	StimUp	11	9	d5.jpg 	595	534	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.787349e+02	2.302114e+00	StimUp	12	10	d5.jpg 	563	657	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.836140e+02	7.181214e+00	StimUp	13	11	d5.jpg 	740	453	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.850332e+02	8.600482e+00	StimUp	14	12	d5.jpg 	270	453	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.853360e+02	8.903200e+00	StimUp	15	13	d5.jpg 	272	444	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.860008e+02	9.567988e+00	StimUp	16	14	d5.jpg 	314	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.863940e+02	9.961273e+00	StimUp	17	15	d5.jpg 	296	444	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.869583e+02	1.052554e+01	StimUp	18	16	d5.jpg 	305	475	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.870196e+02	1.058687e+01	StimUp	19	17	d5.jpg 	333	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.871613e+02	1.072856e+01	StimUp	20	18	d5.jpg 	419	556	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.875143e+02	1.108155e+01	StimUp	21	19	d5.jpg 	435	559	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.877366e+02	1.130383e+01	StimUp	22	20	d5.jpg 	435	570	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.884418e+02	1.200901e+01	StimUp	23	21	d5.jpg 	435	582	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.891569e+02	1.272413e+01	StimUp	24	22	d5.jpg 	457	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:44	1	12	Vert	V Major	5.936943e+02	1.726157e+01	StimUp	25	23	d5.jpg 	163	412	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	 	6.104011e+02	9.380428e-01	StartStim	1	1	 	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.108991e+02	4.834766e-01	StimUp	2	1	a11.jpg	435	558	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.109405e+02	5.248164e-01	StimUp	3	2	a11.jpg	429	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.110218e+02	6.061651e-01	StimUp	4	3	a11.jpg	417	538	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.111233e+02	7.076227e-01	StimUp	5	4	a11.jpg	439	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.112046e+02	7.889675e-01	StimUp	6	5	a11.jpg	453	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.114570e+02	1.041291e+00	StimUp	7	6	a11.jpg	466	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.115786e+02	1.162894e+00	StimUp	8	7	a11.jpg	471	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.118410e+02	1.425369e+00	StimUp	9	8	a11.jpg	435	547	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.185047e+02	8.089058e+00	StimUp	10	9	a11.jpg	348	430	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.186264e+02	8.210757e+00	StimUp	11	10	a11.jpg	424	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.186978e+02	8.282100e+00	StimUp	12	11	a11.jpg	381	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.189401e+02	8.524384e+00	StimUp	13	12	a11.jpg	384	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.191421e+02	8.726480e+00	StimUp	14	13	a11.jpg	427	495	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.192236e+02	8.807919e+00	StimUp	15	14	a11.jpg	381	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.196268e+02	9.211137e+00	StimUp	16	15	a11.jpg	428	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.197284e+02	9.312713e+00	StimUp	17	16	a11.jpg	397	591	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.197796e+02	9.363917e+00	StimUp	18	17	a11.jpg	441	535	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.201627e+02	9.747074e+00	StimUp	19	18	a11.jpg	403	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.229196e+02	1.250389e+01	StimUp	20	19	a11.jpg	370	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.230012e+02	1.258557e+01	StimUp	21	20	a11.jpg	338	430	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.231833e+02	1.276764e+01	StimUp	22	21	a11.jpg	381	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.233251e+02	1.290940e+01	StimUp	23	22	a11.jpg	359	453	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.233863e+02	1.297065e+01	StimUp	24	23	a11.jpg	400	475	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.236387e+02	1.322303e+01	StimUp	25	24	a11.jpg	443	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.237202e+02	1.330450e+01	StimUp	26	25	a11.jpg	470	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.238217e+02	1.340599e+01	StimUp	27	26	a11.jpg	431	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.239433e+02	1.352761e+01	StimUp	28	27	a11.jpg	457	471	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.314427e+02	2.102701e+01	StimUp	29	28	a11.jpg	424	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.315443e+02	2.112865e+01	StimUp	30	29	a11.jpg	348	477	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.316861e+02	2.127042e+01	StimUp	31	30	a11.jpg	392	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.317876e+02	2.137196e+01	StimUp	32	31	a11.jpg	370	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.319294e+02	2.151372e+01	StimUp	33	32	a11.jpg	443	504	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.320209e+02	2.160523e+01	StimUp	34	33	a11.jpg	381	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.321425e+02	2.172679e+01	StimUp	35	34	a11.jpg	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.323445e+02	2.192887e+01	StimUp	36	35	a11.jpg	417	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.324461e+02	2.203042e+01	StimUp	37	36	a11.jpg	448	466	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.327287e+02	2.231299e+01	StimUp	38	37	a11.jpg	416	556	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.328302e+02	2.241453e+01	StimUp	39	38	a11.jpg	399	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.329015e+02	2.248585e+01	StimUp	40	39	a11.jpg	424	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.332041e+02	2.278848e+01	StimUp	41	40	a11.jpg	485	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.332654e+02	2.284974e+01	StimUp	42	41	a11.jpg	511	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.336084e+02	2.319269e+01	StimUp	43	42	a11.jpg	430	579	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	13	Vert	V Correct	6.340018e+02	2.358613e+01	StimUp	44	43	a11.jpg	429	547	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	 	6.453681e+02	1.923108e+00	StartStim	1	1	 	313	496	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	 	6.456104e+02	2.165426e+00	StartStim	2	2	 	305	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	 	6.490295e+02	5.584500e+00	StartStim	3	3	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.491882e+02	1.414451e-01	StimUp	4	1	e4.jpg 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.495714e+02	5.246796e-01	StimUp	5	2	e4.jpg 	577	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.496729e+02	6.262044e-01	StimUp	6	3	e4.jpg 	558	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.498247e+02	7.779496e-01	StimUp	7	4	e4.jpg 	555	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.499463e+02	8.995776e-01	StimUp	8	5	e4.jpg 	544	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.500480e+02	1.001221e+00	StimUp	9	6	e4.jpg 	566	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.504513e+02	1.404540e+00	StimUp	10	7	e4.jpg 	588	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.527655e+02	3.718797e+00	StimUp	11	8	e4.jpg 	608	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.528470e+02	3.800255e+00	StimUp	12	9	e4.jpg 	610	604	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.532303e+02	4.183604e+00	StimUp	13	10	e4.jpg 	590	622	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.533118e+02	4.265093e+00	StimUp	14	11	e4.jpg 	588	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.534133e+02	4.366602e+00	StimUp	15	12	e4.jpg 	527	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.535249e+02	4.478164e+00	StimUp	16	13	e4.jpg 	527	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.537068e+02	4.660073e+00	StimUp	17	14	e4.jpg 	566	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.541101e+02	5.063326e+00	StimUp	18	15	e4.jpg 	608	648	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.542116e+02	5.164845e+00	StimUp	19	16	e4.jpg 	585	669	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.547455e+02	5.698804e+00	StimUp	20	17	e4.jpg 	455	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.556719e+02	6.625116e+00	StimUp	21	18	e4.jpg 	405	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.558740e+02	6.827285e+00	StimUp	22	19	e4.jpg 	466	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.565488e+02	7.502099e+00	StimUp	23	20	e4.jpg 	588	622	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.571532e+02	8.106505e+00	StimUp	24	21	e4.jpg 	586	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.575867e+02	8.539978e+00	StimUp	25	22	e4.jpg 	583	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.576681e+02	8.621399e+00	StimUp	26	23	e4.jpg 	588	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.577696e+02	8.722867e+00	StimUp	27	24	e4.jpg 	588	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.578711e+02	8.824375e+00	StimUp	28	25	e4.jpg 	592	622	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.580329e+02	8.986197e+00	StimUp	29	26	e4.jpg 	570	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.594721e+02	1.042539e+01	StimUp	30	27	e4.jpg 	586	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.664937e+02	1.744695e+01	StimUp	31	28	e4.jpg 	165	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:45	1	14	Vert	V Minor	6.686169e+02	1.957016e+01	StimUp	32	29	e4.jpg 	588	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.745724e+02	2.552569e+01	StimUp	33	30	e4.jpg 	443	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.746339e+02	2.558713e+01	StimUp	34	31	e4.jpg 	516	558	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.748963e+02	2.584954e+01	StimUp	35	32	e4.jpg 	570	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.750984e+02	2.605165e+01	StimUp	36	33	e4.jpg 	579	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.751596e+02	2.611289e+01	StimUp	37	34	e4.jpg 	570	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.752912e+02	2.624449e+01	StimUp	38	35	e4.jpg 	594	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	14	Vert	V Minor	6.770322e+02	2.798543e+01	StimUp	39	36	e4.jpg 	588	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	 	6.827559e+02	6.764941e-01	StartStim	1	1	 	479	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	 	6.829381e+02	8.586088e-01	StartStim	2	2	 	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.834360e+02	4.833808e-01	StimUp	3	1	e17.jpg	450	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.835376e+02	5.849671e-01	StimUp	4	2	e17.jpg	464	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.836190e+02	6.663179e-01	StimUp	5	3	e17.jpg	470	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.837204e+02	7.678062e-01	StimUp	6	4	e17.jpg	509	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.838219e+02	8.692792e-01	StimUp	7	5	e17.jpg	518	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.842553e+02	1.302662e+00	StimUp	8	6	e17.jpg	529	454	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.863786e+02	3.425915e+00	StimUp	9	7	e17.jpg	428	538	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.864198e+02	3.467174e+00	StimUp	10	8	e17.jpg	420	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.868029e+02	3.850302e+00	StimUp	11	9	e17.jpg	395	534	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.869950e+02	4.042363e+00	StimUp	12	10	e17.jpg	406	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.884543e+02	5.501659e+00	StimUp	13	11	e17.jpg	449	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.932833e+02	1.033062e+01	StimUp	14	12	e17.jpg	261	498	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.936162e+02	1.066358e+01	StimUp	15	13	e17.jpg	140	439	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.948845e+02	1.193183e+01	StimUp	16	14	e17.jpg	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.949760e+02	1.202334e+01	StimUp	17	15	e17.jpg	515	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.951579e+02	1.220527e+01	StimUp	18	16	e17.jpg	487	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.954203e+02	1.246765e+01	StimUp	19	17	e17.jpg	470	477	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.955017e+02	1.254902e+01	StimUp	20	18	e17.jpg	464	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.955629e+02	1.261022e+01	StimUp	21	19	e17.jpg	457	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.958957e+02	1.294303e+01	StimUp	22	20	e17.jpg	479	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.960978e+02	1.314516e+01	StimUp	23	21	e17.jpg	479	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	6.980802e+02	1.512757e+01	StimUp	24	22	e17.jpg	315	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.020642e+02	1.911160e+01	StimUp	25	23	e17.jpg	56	480	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.021658e+02	1.921319e+01	StimUp	26	24	e17.jpg	56	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.025791e+02	1.962645e+01	StimUp	27	25	e17.jpg	185	390	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.037267e+02	2.077403e+01	StimUp	28	26	e17.jpg	479	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.041602e+02	2.120755e+01	StimUp	29	27	e17.jpg	471	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.042416e+02	2.128900e+01	StimUp	30	28	e17.jpg	457	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.113433e+02	2.839068e+01	StimUp	31	29	e17.jpg	228	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.117668e+02	2.881416e+01	StimUp	32	30	e17.jpg	424	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	15	Vert	V Minor	7.118080e+02	2.885537e+01	StimUp	33	31	e17.jpg	472	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.164857e+02	5.055194e-01	StartStim	1	1	 	494	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.166475e+02	6.673590e-01	StartStim	2	2	 	486	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.168294e+02	8.492284e-01	StartStim	3	3	 	486	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.169208e+02	9.406185e-01	StartStim	4	4	 	485	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.170222e+02	1.042001e+00	StartStim	5	5	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.171034e+02	1.123263e+00	StartStim	6	6	 	494	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.174260e+02	1.445798e+00	StartStim	7	7	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.177084e+02	1.728197e+00	StartStim	8	8	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.177998e+02	1.819612e+00	StartStim	9	9	 	516	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	 	7.178811e+02	1.900939e+00	StartStim	10	10	 	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.179865e+02	9.105560e-02	StimUp	11	1	a44.jpg	501	514	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.183800e+02	4.845479e-01	StimUp	12	2	a44.jpg	573	495	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.185419e+02	6.464406e-01	StimUp	13	3	a44.jpg	562	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.186434e+02	7.479154e-01	StimUp	14	4	a44.jpg	574	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.188857e+02	9.902486e-01	StimUp	15	5	a44.jpg	541	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.190073e+02	1.111910e+00	StimUp	16	6	a44.jpg	573	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.190887e+02	1.193252e+00	StimUp	17	7	a44.jpg	562	492	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.252422e+02	7.346730e+00	StimUp	18	8	a44.jpg	413	561	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.253840e+02	7.488579e+00	StimUp	19	9	a44.jpg	451	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.261091e+02	8.213663e+00	StimUp	20	10	a44.jpg	396	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.263112e+02	8.415772e+00	StimUp	21	11	a44.jpg	427	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.264228e+02	8.527326e+00	StimUp	22	12	a44.jpg	427	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.274094e+02	9.513964e+00	StimUp	23	13	a44.jpg	428	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.275915e+02	9.696058e+00	StimUp	24	14	a44.jpg	366	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.277030e+02	9.807593e+00	StimUp	25	15	a44.jpg	407	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.292025e+02	1.130709e+01	StimUp	26	16	a44.jpg	568	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:46	1	16	Vert	V Correct	7.296260e+02	1.173053e+01	StimUp	27	17	a44.jpg	413	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.309044e+02	1.300896e+01	StimUp	28	18	a44.jpg	566	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.310261e+02	1.313065e+01	StimUp	29	19	a44.jpg	577	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.321635e+02	1.426809e+01	StimUp	30	20	a44.jpg	572	556	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.326473e+02	1.475191e+01	StimUp	31	21	a44.jpg	595	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.329903e+02	1.509491e+01	StimUp	32	22	a44.jpg	555	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.332428e+02	1.534736e+01	StimUp	33	23	a44.jpg	570	469	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.406886e+02	2.279320e+01	StimUp	34	24	a44.jpg	527	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.407299e+02	2.283444e+01	StimUp	35	25	a44.jpg	504	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.412538e+02	2.335833e+01	StimUp	36	26	a44.jpg	428	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.413252e+02	2.342974e+01	StimUp	37	27	a44.jpg	400	465	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.414266e+02	2.353120e+01	StimUp	38	28	a44.jpg	422	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.415281e+02	2.363267e+01	StimUp	39	29	a44.jpg	424	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.421527e+02	2.425723e+01	StimUp	40	30	a44.jpg	585	648	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.430894e+02	2.519394e+01	StimUp	41	31	a44.jpg	570	619	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.435330e+02	2.563755e+01	StimUp	42	32	a44.jpg	570	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.439866e+02	2.609116e+01	StimUp	43	33	a44.jpg	570	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.443296e+02	2.643412e+01	StimUp	44	34	a44.jpg	582	579	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.444311e+02	2.653563e+01	StimUp	45	35	a44.jpg	599	603	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.445527e+02	2.665724e+01	StimUp	46	36	a44.jpg	583	603	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.446542e+02	2.675876e+01	StimUp	47	37	a44.jpg	563	591	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.448462e+02	2.695079e+01	StimUp	48	38	a44.jpg	571	591	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	16	Vert	V Correct	7.449276e+02	2.703219e+01	StimUp	49	39	a44.jpg	585	579	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	 	7.553748e+02	2.224786e+00	StartStim	1	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.559157e+02	5.235580e-01	StimUp	2	1	d2.jpg 	433	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.559771e+02	5.849136e-01	StimUp	3	2	d2.jpg 	433	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.561088e+02	7.165992e-01	StimUp	4	3	d2.jpg 	460	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.564718e+02	1.079603e+00	StimUp	5	4	d2.jpg 	440	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.568750e+02	1.482870e+00	StimUp	6	5	d2.jpg 	435	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.695591e+02	1.416688e+01	StimUp	7	6	d2.jpg 	319	540	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.754541e+02	2.006196e+01	StimUp	8	7	d2.jpg 	206	397	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.762598e+02	2.086766e+01	StimUp	9	8	d2.jpg 	337	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.763614e+02	2.096920e+01	StimUp	10	9	d2.jpg 	337	393	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	17	Vert	V Major	7.768752e+02	2.148302e+01	StimUp	11	10	d2.jpg 	252	442	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	18	Vert	 	7.865953e+02	1.188359e+00	ITI	1	1	d2.jpg 	509	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	18	Vert	 	7.888652e+02	4.452053e-01	StartStim	2	1	 	501	519	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	18	Vert	V Major	7.889407e+02	6.086460e-02	StimUp	3	1	d64.jpg	486	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	18	Vert	V Major	7.897062e+02	8.263058e-01	StimUp	4	2	d64.jpg	570	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:47	1	18	Vert	V Major	7.897977e+02	9.178069e-01	StimUp	5	3	d64.jpg	570	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.902009e+02	1.321063e+00	StimUp	6	4	d64.jpg	570	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.903024e+02	1.422593e+00	StimUp	7	5	d64.jpg	596	468	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.903838e+02	1.503941e+00	StimUp	8	6	d64.jpg	601	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.905054e+02	1.625526e+00	StimUp	9	7	d64.jpg	574	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.907577e+02	1.877862e+00	StimUp	10	8	d64.jpg	580	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.908190e+02	1.939175e+00	StimUp	11	9	d64.jpg	588	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	7.999636e+02	1.108377e+01	StimUp	12	10	d64.jpg	751	465	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.119438e+02	2.306395e+01	StimUp	13	11	d64.jpg	97	436	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.124075e+02	2.352763e+01	StimUp	14	12	d64.jpg	174	372	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.125090e+02	2.362915e+01	StimUp	15	13	d64.jpg	174	370	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.128317e+02	2.395189e+01	StimUp	16	14	d64.jpg	206	376	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.132250e+02	2.434514e+01	StimUp	17	15	d64.jpg	272	399	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	18	Vert	V Major	8.132862e+02	2.440638e+01	StimUp	18	16	d64.jpg	339	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.190136e+02	1.120821e-01	ITI	1	1	d64.jpg	204	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.198293e+02	9.278050e-01	ITI	2	2	d64.jpg	566	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.200518e+02	1.150276e+00	ITI	3	3	d64.jpg	566	513	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.200930e+02	1.191512e+00	ITI	4	4	d64.jpg	566	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.201643e+02	1.262781e+00	ITI	5	5	d64.jpg	544	426	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.204066e+02	1.505054e+00	ITI	6	6	d64.jpg	544	426	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.204477e+02	1.546204e+00	ITI	7	7	d64.jpg	557	427	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.209716e+02	2.070099e+00	ITI	8	8	d64.jpg	457	450	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.213246e+02	2.423069e+00	ITI	9	9	d64.jpg	435	426	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.223673e+02	4.552454e-01	StartStim	10	1	 	486	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.226096e+02	6.975514e-01	StartStim	11	2	 	522	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	 	8.226910e+02	7.789246e-01	StartStim	12	3	 	501	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.232091e+02	5.033983e-01	StimUp	13	1	a51.jpg	429	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.232706e+02	5.648432e-01	StimUp	14	2	a51.jpg	431	520	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.233922e+02	6.864453e-01	StimUp	15	3	a51.jpg	457	492	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.235138e+02	8.080860e-01	StimUp	16	4	a51.jpg	446	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.235852e+02	8.794985e-01	StimUp	17	5	a51.jpg	413	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.236666e+02	9.608940e-01	StimUp	18	6	a51.jpg	457	492	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.298757e+02	7.169992e+00	StimUp	19	7	a51.jpg	427	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.300679e+02	7.362122e+00	StimUp	20	8	a51.jpg	370	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.301894e+02	7.483702e+00	StimUp	21	9	a51.jpg	413	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.302909e+02	7.585193e+00	StimUp	22	10	a51.jpg	381	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.307746e+02	8.068876e+00	StimUp	23	11	a51.jpg	392	538	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.310070e+02	8.301236e+00	StimUp	24	12	a51.jpg	421	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.313298e+02	8.624041e+00	StimUp	25	13	a51.jpg	453	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.315118e+02	8.806043e+00	StimUp	26	14	a51.jpg	443	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.317139e+02	9.008152e+00	StimUp	27	15	a51.jpg	465	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.317953e+02	9.089572e+00	StimUp	28	16	a51.jpg	479	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.319873e+02	9.281598e+00	StimUp	29	17	a51.jpg	501	481	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.400160e+02	1.731030e+01	StimUp	30	18	a51.jpg	318	475	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.401377e+02	1.743200e+01	StimUp	31	19	a51.jpg	435	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.403197e+02	1.761397e+01	StimUp	32	20	a51.jpg	424	477	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.403709e+02	1.766518e+01	StimUp	33	21	a51.jpg	339	478	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.404925e+02	1.778677e+01	StimUp	34	22	a51.jpg	392	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.405739e+02	1.786815e+01	StimUp	35	23	a51.jpg	403	486	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.406150e+02	1.790929e+01	StimUp	36	24	a51.jpg	356	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.406964e+02	1.799062e+01	StimUp	37	25	a51.jpg	421	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.408180e+02	1.811222e+01	StimUp	38	26	a51.jpg	417	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.409597e+02	1.825395e+01	StimUp	39	27	a51.jpg	435	477	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.412523e+02	1.854653e+01	StimUp	40	28	a51.jpg	413	552	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.413540e+02	1.864824e+01	StimUp	41	29	a51.jpg	396	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.414757e+02	1.876992e+01	StimUp	42	30	a51.jpg	460	559	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.417784e+02	1.907267e+01	StimUp	43	31	a51.jpg	420	534	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.421717e+02	1.946595e+01	StimUp	44	32	a51.jpg	486	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.422531e+02	1.954733e+01	StimUp	45	33	a51.jpg	501	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.423747e+02	1.966891e+01	StimUp	46	34	a51.jpg	485	537	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.495199e+02	2.681412e+01	StimUp	47	35	a51.jpg	405	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:48	1	19	Vert	V Correct	8.496214e+02	2.691571e+01	StimUp	48	36	a51.jpg	383	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.501554e+02	2.744969e+01	StimUp	49	37	a51.jpg	443	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.511824e+02	2.847669e+01	StimUp	50	38	a51.jpg	421	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.512539e+02	2.854815e+01	StimUp	51	39	a51.jpg	387	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.513553e+02	2.864959e+01	StimUp	52	40	a51.jpg	392	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.515171e+02	2.881137e+01	StimUp	53	41	a51.jpg	422	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.518198e+02	2.911401e+01	StimUp	54	42	a51.jpg	435	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.519213e+02	2.921557e+01	StimUp	55	43	a51.jpg	446	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.521234e+02	2.941765e+01	StimUp	56	44	a51.jpg	443	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.521947e+02	2.948895e+01	StimUp	57	45	a51.jpg	443	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.522962e+02	2.959042e+01	StimUp	58	46	a51.jpg	421	514	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	19	Vert	V Correct	8.523976e+02	2.969188e+01	StimUp	59	47	a51.jpg	461	486	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	 	8.585964e+02	9.870451e-01	ITI	1	1	a51.jpg	544	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	 	8.614399e+02	8.172722e-01	StartStim	2	1	 	617	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	 	8.648592e+02	4.236535e+00	StartStim	3	2	 	529	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	 	8.661068e+02	5.484127e+00	StartStim	4	3	 	522	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.662024e+02	8.105224e-02	StimUp	5	1	e25.jpg	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.667666e+02	6.453190e-01	StimUp	6	2	e25.jpg	440	591	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.668481e+02	7.267828e-01	StimUp	7	3	e25.jpg	429	561	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.669194e+02	7.980980e-01	StimUp	8	4	e25.jpg	435	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.670209e+02	8.995783e-01	StimUp	9	5	e25.jpg	442	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.673034e+02	1.182077e+00	StimUp	10	6	e25.jpg	438	534	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.674049e+02	1.283557e+00	StimUp	11	7	e25.jpg	413	538	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.675667e+02	1.445357e+00	StimUp	12	8	e25.jpg	460	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.678593e+02	1.737962e+00	StimUp	13	9	e25.jpg	486	519	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	20	Vert	V Minor	8.889118e+02	2.279052e+01	StimUp	14	10	e25.jpg	835	507	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	 	8.995137e+02	3.647872e-01	StartStim	1	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	8.996396e+02	1.111862e-01	StimUp	2	1	d22.jpg	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.000932e+02	5.648533e-01	StimUp	3	2	d22.jpg	513	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.001747e+02	6.462926e-01	StimUp	4	3	d22.jpg	527	432	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.002761e+02	7.477442e-01	StimUp	5	4	d22.jpg	535	438	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.005788e+02	1.050359e+00	StimUp	6	5	d22.jpg	532	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.009117e+02	1.383312e+00	StimUp	7	6	d22.jpg	552	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.010334e+02	1.504994e+00	StimUp	8	7	d22.jpg	588	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.013360e+02	1.807644e+00	StimUp	9	8	d22.jpg	599	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.014376e+02	1.909202e+00	StimUp	10	9	d22.jpg	601	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.017000e+02	2.171649e+00	StimUp	11	10	d22.jpg	601	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.017814e+02	2.253034e+00	StimUp	12	11	d22.jpg	610	450	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.019131e+02	2.384714e+00	StimUp	13	12	d22.jpg	601	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.019743e+02	2.445952e+00	StimUp	14	13	d22.jpg	600	447	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.022166e+02	2.688206e+00	StimUp	15	14	d22.jpg	588	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:49	1	21	Vert	V Major	9.023785e+02	2.850062e+00	StimUp	16	15	d22.jpg	618	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.163403e+02	1.681187e+01	StimUp	17	16	d22.jpg	583	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.167235e+02	1.719510e+01	StimUp	18	17	d22.jpg	605	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.168049e+02	1.727653e+01	StimUp	19	18	d22.jpg	593	600	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.168964e+02	1.736802e+01	StimUp	20	19	d22.jpg	583	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.169979e+02	1.746949e+01	StimUp	21	20	d22.jpg	583	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.172602e+02	1.773185e+01	StimUp	22	21	d22.jpg	586	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.173416e+02	1.781319e+01	StimUp	23	22	d22.jpg	588	622	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.176643e+02	1.813591e+01	StimUp	24	23	d22.jpg	588	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.177658e+02	1.823745e+01	StimUp	25	24	d22.jpg	566	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.178170e+02	1.828865e+01	StimUp	26	25	d22.jpg	561	603	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.180794e+02	1.855102e+01	StimUp	27	26	d22.jpg	583	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.181809e+02	1.865250e+01	StimUp	28	27	d22.jpg	606	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.202236e+02	2.069518e+01	StimUp	29	28	d22.jpg	225	484	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.203050e+02	2.077664e+01	StimUp	30	29	d22.jpg	217	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	21	Vert	V Major	9.210603e+02	2.153190e+01	StimUp	31	30	d22.jpg	326	400	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.303883e+02	8.462743e-01	ITI	1	1	d22.jpg	464	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.307414e+02	1.199346e+00	ITI	2	2	d22.jpg	488	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.308027e+02	1.260639e+00	ITI	3	3	d22.jpg	514	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.309041e+02	1.362119e+00	ITI	4	4	d22.jpg	514	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.310257e+02	1.483728e+00	ITI	5	5	d22.jpg	509	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.313083e+02	1.766245e+00	ITI	6	6	d22.jpg	457	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.315104e+02	1.968334e+00	ITI	7	7	d22.jpg	553	469	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.316621e+02	2.120068e+00	ITI	8	8	d22.jpg	555	448	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.332078e+02	6.564216e-01	StartStim	9	1	 	522	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.332490e+02	6.976284e-01	StartStim	10	2	 	538	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.332900e+02	7.386868e-01	StartStim	11	3	 	537	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.335626e+02	1.011232e+00	StartStim	12	4	 	494	535	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	 	9.336440e+02	1.092657e+00	StartStim	13	5	 	515	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.342248e+02	5.638139e-01	StimUp	14	1	e2.jpg 	486	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.343465e+02	6.855137e-01	StimUp	15	2	e2.jpg 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.344278e+02	7.668554e-01	StimUp	16	3	e2.jpg 	552	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.347304e+02	1.069473e+00	StimUp	17	4	e2.jpg 	562	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.348119e+02	1.150901e+00	StimUp	18	5	e2.jpg 	566	475	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.348430e+02	1.182009e+00	StimUp	19	6	e2.jpg 	558	493	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.349444e+02	1.283441e+00	StimUp	20	7	e2.jpg 	574	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.350257e+02	1.364767e+00	StimUp	21	8	e2.jpg 	595	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.354289e+02	1.767925e+00	StimUp	22	9	e2.jpg 	566	648	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.358825e+02	2.221573e+00	StimUp	23	10	e2.jpg 	591	636	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.359640e+02	2.303009e+00	StimUp	24	11	e2.jpg 	611	627	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.374836e+02	3.822665e+00	StimUp	25	12	e2.jpg 	585	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.381284e+02	4.467423e+00	StimUp	26	13	e2.jpg 	588	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.382903e+02	4.629324e+00	StimUp	27	14	e2.jpg 	555	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.383917e+02	4.730782e+00	StimUp	28	15	e2.jpg 	574	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.386239e+02	4.962975e+00	StimUp	29	16	e2.jpg 	618	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.392283e+02	5.567346e+00	StimUp	30	17	e2.jpg 	601	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.393097e+02	5.648754e+00	StimUp	31	18	e2.jpg 	601	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.394313e+02	5.770326e+00	StimUp	32	19	e2.jpg 	596	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.395328e+02	5.871797e+00	StimUp	33	20	e2.jpg 	588	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.397248e+02	6.063832e+00	StimUp	34	21	e2.jpg 	558	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.402488e+02	6.587801e+00	StimUp	35	22	e2.jpg 	590	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.527123e+02	1.905139e+01	StimUp	36	23	e2.jpg 	614	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.570587e+02	2.339774e+01	StimUp	37	24	e2.jpg 	566	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.573514e+02	2.369043e+01	StimUp	38	25	e2.jpg 	555	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.574126e+02	2.375168e+01	StimUp	39	26	e2.jpg 	558	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.574939e+02	2.383299e+01	StimUp	40	27	e2.jpg 	573	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.580178e+02	2.435688e+01	StimUp	41	28	e2.jpg 	577	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.592358e+02	2.557489e+01	StimUp	42	29	e2.jpg 	283	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.594380e+02	2.577707e+01	StimUp	43	30	e2.jpg 	283	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.594792e+02	2.581824e+01	StimUp	44	31	e2.jpg 	283	409	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	22	Vert	V Minor	9.629803e+02	2.931937e+01	StimUp	45	32	e2.jpg 	174	501	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.646139e+02	9.367987e-01	ITI	1	1	e2.jpg 	588	513	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.647960e+02	1.118877e+00	ITI	2	2	e2.jpg 	558	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.650182e+02	1.341110e+00	ITI	3	3	e2.jpg 	558	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.650593e+02	1.382215e+00	ITI	4	4	e2.jpg 	566	469	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.653821e+02	1.705001e+00	ITI	5	5	e2.jpg 	552	471	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.657752e+02	2.098128e+00	ITI	6	6	e2.jpg 	465	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.658164e+02	2.139297e+00	ITI	7	7	e2.jpg 	427	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.670000e+02	3.145286e-01	StartStim	8	1	 	529	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.671417e+02	4.562656e-01	StartStim	9	2	 	537	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.673537e+02	6.682973e-01	StartStim	10	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.679579e+02	1.272447e+00	StartStim	11	4	 	544	558	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.680393e+02	1.353848e+00	StartStim	12	5	 	529	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.683417e+02	1.656287e+00	StartStim	13	6	 	457	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.685336e+02	1.848147e+00	StartStim	14	7	 	516	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.691377e+02	2.452226e+00	StartStim	15	8	 	515	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.695206e+02	2.835200e+00	StartStim	16	9	 	544	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.697025e+02	3.017080e+00	StartStim	17	10	 	529	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.697738e+02	3.088371e+00	StartStim	18	11	 	529	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:50	1	23	Vert	 	9.698752e+02	3.189782e+00	StartStim	19	12	 	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.700612e+02	1.715213e-01	StimUp	20	1	d55.jpg	559	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.704143e+02	5.246653e-01	StimUp	21	2	d55.jpg	435	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.706567e+02	7.670325e-01	StimUp	22	3	d55.jpg	493	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.708588e+02	9.691157e-01	StimUp	23	4	d55.jpg	507	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.709200e+02	1.030394e+00	StimUp	24	5	d55.jpg	487	535	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.710617e+02	1.172070e+00	StimUp	25	6	d55.jpg	479	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	23	Vert	V Major	9.711833e+02	1.293661e+00	StimUp	26	7	d55.jpg	516	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	 	1.002126e+03	2.214082e+00	ITI	1	1	d55.jpg	348	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	 	1.002227e+03	2.315664e+00	ITI	2	2	d55.jpg	355	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	 	1.002369e+03	2.457372e+00	ITI	3	3	d55.jpg	370	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	 	1.003733e+03	8.172214e-01	StartStim	4	1	 	501	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.004171e+03	4.229886e-01	StimUp	5	1	d64.jpg	573	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.004212e+03	4.642213e-01	StimUp	6	2	d64.jpg	588	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.004726e+03	9.780800e-01	StimUp	7	3	d64.jpg	507	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.004807e+03	1.059482e+00	StimUp	8	4	d64.jpg	529	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005009e+03	1.261562e+00	StimUp	9	5	d64.jpg	551	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005372e+03	1.624579e+00	StimUp	10	6	d64.jpg	558	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005474e+03	1.726056e+00	StimUp	11	7	d64.jpg	588	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005807e+03	2.058832e+00	StimUp	12	8	d64.jpg	588	495	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005868e+03	2.120162e+00	StimUp	13	9	d64.jpg	614	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.005989e+03	2.241740e+00	StimUp	14	10	d64.jpg	605	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.006151e+03	2.403531e+00	StimUp	15	11	d64.jpg	601	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.006212e+03	2.464749e+00	StimUp	16	12	d64.jpg	620	466	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.006334e+03	2.586318e+00	StimUp	17	13	d64.jpg	620	472	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.015719e+03	1.197155e+01	StimUp	18	14	d64.jpg	217	442	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.016538e+03	1.279046e+01	StimUp	19	15	d64.jpg	226	442	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.016690e+03	1.294248e+01	StimUp	20	16	d64.jpg	226	442	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.016852e+03	1.310442e+01	StimUp	21	17	d64.jpg	283	432	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.017094e+03	1.334675e+01	StimUp	22	18	d64.jpg	283	421	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.017196e+03	1.344823e+01	StimUp	23	19	d64.jpg	313	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.017318e+03	1.356981e+01	StimUp	24	20	d64.jpg	441	570	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.017590e+03	1.384237e+01	StimUp	25	21	d64.jpg	450	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.018195e+03	1.444686e+01	StimUp	26	22	d64.jpg	392	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.018357e+03	1.460882e+01	StimUp	27	23	d64.jpg	401	450	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.020299e+03	1.655096e+01	StimUp	28	24	d64.jpg	827	456	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.020420e+03	1.667264e+01	StimUp	29	25	d64.jpg	827	456	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.020572e+03	1.682457e+01	StimUp	30	26	d64.jpg	816	454	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.023118e+03	1.937018e+01	StimUp	31	27	d64.jpg	1002	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.023541e+03	1.979366e+01	StimUp	32	28	d64.jpg	997	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.025494e+03	2.174584e+01	StimUp	33	29	d64.jpg	531	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.025615e+03	2.186755e+01	StimUp	34	30	d64.jpg	557	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.025797e+03	2.204951e+01	StimUp	35	31	d64.jpg	544	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.025879e+03	2.213088e+01	StimUp	36	32	d64.jpg	544	438	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026000e+03	2.225242e+01	StimUp	37	33	d64.jpg	532	438	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026212e+03	2.246451e+01	StimUp	38	34	d64.jpg	501	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026475e+03	2.272690e+01	StimUp	39	35	d64.jpg	555	444	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026596e+03	2.284857e+01	StimUp	40	36	d64.jpg	588	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026678e+03	2.293001e+01	StimUp	41	37	d64.jpg	599	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026779e+03	2.303149e+01	StimUp	42	38	d64.jpg	588	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.026861e+03	2.311287e+01	StimUp	43	39	d64.jpg	580	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.027234e+03	2.348591e+01	StimUp	44	40	d64.jpg	559	535	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.027335e+03	2.358742e+01	StimUp	45	41	d64.jpg	573	537	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:51	1	24	Vert	V Major	1.027678e+03	2.393032e+01	StimUp	46	42	d64.jpg	550	543	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.037334e+03	5.557879e-01	StartStim	1	1	 	501	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.037395e+03	6.170990e-01	StartStim	2	2	 	494	535	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.037516e+03	7.385773e-01	StartStim	3	3	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.037618e+03	8.399509e-01	StartStim	4	4	 	479	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.037820e+03	1.041917e+00	StartStim	5	5	 	486	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.038343e+03	1.565583e+00	StartStim	6	6	 	501	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.038374e+03	1.596625e+00	StartStim	7	7	 	483	519	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.038456e+03	1.677886e+00	StartStim	8	8	 	457	531	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.038497e+03	1.718916e+00	StartStim	9	9	 	457	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	 	1.038558e+03	1.780061e+00	StartStim	10	10	 	501	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.038996e+03	4.229932e-01	StimUp	11	1	a49.jpg	446	559	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039097e+03	5.246555e-01	StimUp	12	2	a49.jpg	429	558	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039340e+03	7.669485e-01	StimUp	13	3	a49.jpg	430	570	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039401e+03	8.282715e-01	StimUp	14	4	a49.jpg	453	600	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039462e+03	8.895459e-01	StimUp	15	5	a49.jpg	397	603	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039554e+03	9.809560e-01	StimUp	16	6	a49.jpg	464	537	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.039776e+03	1.203174e+00	StimUp	17	7	a49.jpg	486	504	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.048382e+03	9.809684e+00	StimUp	18	8	a49.jpg	356	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.048484e+03	9.911269e+00	StimUp	19	9	a49.jpg	357	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.048555e+03	9.982527e+00	StimUp	20	10	a49.jpg	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.048677e+03	1.010407e+01	StimUp	21	11	a49.jpg	435	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.048819e+03	1.024603e+01	StimUp	22	12	a49.jpg	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049021e+03	1.044823e+01	StimUp	23	13	a49.jpg	435	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049062e+03	1.048938e+01	StimUp	24	14	a49.jpg	392	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049163e+03	1.059084e+01	StimUp	25	15	a49.jpg	435	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049255e+03	1.068225e+01	StimUp	26	16	a49.jpg	413	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049336e+03	1.076362e+01	StimUp	27	17	a49.jpg	413	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049740e+03	1.116698e+01	StimUp	28	18	a49.jpg	372	613	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.049841e+03	1.126851e+01	StimUp	29	19	a49.jpg	429	561	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.050164e+03	1.159129e+01	StimUp	30	20	a49.jpg	457	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.050255e+03	1.168275e+01	StimUp	31	21	a49.jpg	428	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.050518e+03	1.194513e+01	StimUp	32	22	a49.jpg	457	504	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.050599e+03	1.202656e+01	StimUp	33	23	a49.jpg	407	547	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.050721e+03	1.214820e+01	StimUp	34	24	a49.jpg	429	547	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.059605e+03	2.103188e+01	StimUp	35	25	a49.jpg	413	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.059636e+03	2.106308e+01	StimUp	36	26	a49.jpg	392	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.059818e+03	2.124498e+01	StimUp	37	27	a49.jpg	413	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.059859e+03	2.128615e+01	StimUp	38	28	a49.jpg	392	447	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060081e+03	2.150830e+01	StimUp	39	29	a49.jpg	405	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060203e+03	2.162989e+01	StimUp	40	30	a49.jpg	449	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060364e+03	2.179175e+01	StimUp	41	31	a49.jpg	427	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060657e+03	2.208436e+01	StimUp	42	32	a49.jpg	442	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060698e+03	2.212552e+01	StimUp	43	33	a49.jpg	429	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.060800e+03	2.222701e+01	StimUp	44	34	a49.jpg	435	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.061042e+03	2.246933e+01	StimUp	45	35	a49.jpg	454	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.061083e+03	2.251045e+01	StimUp	46	36	a49.jpg	451	559	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.061144e+03	2.257166e+01	StimUp	47	37	a49.jpg	418	600	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.068238e+03	2.966558e+01	StimUp	48	38	a49.jpg	413	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	25	Vert	V Correct	1.068320e+03	2.974708e+01	StimUp	49	39	a49.jpg	401	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	 	1.068666e+03	7.184470e-02	ITI	1	1	a49.jpg	413	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	 	1.068697e+03	1.030156e-01	ITI	2	2	a49.jpg	422	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	 	1.073622e+03	2.023781e+00	StartStim	3	1	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074203e+03	5.638048e-01	StimUp	4	1	e3.jpg 	419	582	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074264e+03	6.251762e-01	StimUp	5	2	e3.jpg 	428	516	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074426e+03	7.869534e-01	StimUp	6	3	e3.jpg 	450	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074538e+03	8.984465e-01	StimUp	7	4	e3.jpg 	465	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074619e+03	9.797963e-01	StimUp	8	5	e3.jpg 	488	465	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.074741e+03	1.101425e+00	StimUp	9	6	e3.jpg 	471	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.075043e+03	1.404074e+00	StimUp	10	7	e3.jpg 	487	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.075125e+03	1.485481e+00	StimUp	11	8	e3.jpg 	501	487	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.075407e+03	1.767979e+00	StimUp	12	9	e3.jpg 	515	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.076625e+03	2.985986e+00	StimUp	13	10	e3.jpg 	451	534	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.076857e+03	3.218341e+00	StimUp	14	11	e3.jpg 	449	487	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.076939e+03	3.299729e+00	StimUp	15	12	e3.jpg 	465	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.077060e+03	3.421283e+00	StimUp	16	13	e3.jpg 	426	450	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.077222e+03	3.583068e+00	StimUp	17	14	e3.jpg 	479	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.077344e+03	3.704632e+00	StimUp	18	15	e3.jpg 	435	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.077445e+03	3.806062e+00	StimUp	19	16	e3.jpg 	446	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.077567e+03	3.927645e+00	StimUp	20	17	e3.jpg 	479	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079107e+03	5.467469e+00	StimUp	21	18	e3.jpg 	377	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079168e+03	5.528809e+00	StimUp	22	19	e3.jpg 	403	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079239e+03	5.600090e+00	StimUp	23	20	e3.jpg 	421	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079361e+03	5.721688e+00	StimUp	24	21	e3.jpg 	403	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079482e+03	5.843263e+00	StimUp	25	22	e3.jpg 	444	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079684e+03	6.045328e+00	StimUp	26	23	e3.jpg 	471	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079766e+03	6.126718e+00	StimUp	27	24	e3.jpg 	424	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.079847e+03	6.208080e+00	StimUp	28	25	e3.jpg 	446	472	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.081679e+03	8.039732e+00	StimUp	29	26	e3.jpg 	342	562	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.081760e+03	8.121219e+00	StimUp	30	27	e3.jpg 	359	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.081902e+03	8.262971e+00	StimUp	31	28	e3.jpg 	370	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.081983e+03	8.344316e+00	StimUp	32	29	e3.jpg 	392	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.082105e+03	8.465868e+00	StimUp	33	30	e3.jpg 	443	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.082186e+03	8.547201e+00	StimUp	34	31	e3.jpg 	444	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.082378e+03	8.739145e+00	StimUp	35	32	e3.jpg 	468	469	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.082560e+03	8.921081e+00	StimUp	36	33	e3.jpg 	457	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.088385e+03	1.474560e+01	StimUp	37	34	e3.jpg 	252	420	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.088607e+03	1.496788e+01	StimUp	38	35	e3.jpg 	272	411	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.088668e+03	1.502911e+01	StimUp	39	36	e3.jpg 	271	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:52	1	26	Vert	V Minor	1.088820e+03	1.518085e+01	StimUp	40	37	e3.jpg 	272	409	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	26	Vert	V Minor	1.094464e+03	2.082486e+01	StimUp	41	38	e3.jpg 	753	432	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	26	Vert	V Minor	1.095924e+03	2.228438e+01	StimUp	42	39	e3.jpg 	196	528	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	26	Vert	V Minor	1.101064e+03	2.742499e+01	StimUp	43	40	e3.jpg 	217	354	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	26	Vert	V Minor	1.101467e+03	2.782832e+01	StimUp	44	41	e3.jpg 	370	429	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	 	1.104912e+03	1.258640e+00	ITI	1	1	e3.jpg 	435	472	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	 	1.105084e+03	1.430620e+00	ITI	2	2	e3.jpg 	443	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	 	1.107162e+03	5.054894e-01	StartStim	3	1	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	 	1.107445e+03	7.879659e-01	StartStim	4	2	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.107885e+03	4.229953e-01	StimUp	5	1	a3.jpg 	558	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.108067e+03	6.051177e-01	StimUp	6	2	a3.jpg 	558	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.108168e+03	7.066281e-01	StimUp	7	3	a3.jpg 	566	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.108632e+03	1.170193e+00	StimUp	8	4	a3.jpg 	566	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.109066e+03	1.603690e+00	StimUp	9	5	a3.jpg 	566	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.109187e+03	1.725384e+00	StimUp	10	6	a3.jpg 	580	493	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.115952e+03	8.490051e+00	StimUp	11	7	a3.jpg 	427	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.116033e+03	8.571587e+00	StimUp	12	8	a3.jpg 	381	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.116326e+03	8.864201e+00	StimUp	13	9	a3.jpg 	427	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.116367e+03	8.905378e+00	StimUp	14	10	a3.jpg 	405	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.116489e+03	9.027071e+00	StimUp	15	11	a3.jpg 	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.117134e+03	9.671858e+00	StimUp	16	12	a3.jpg 	580	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.117406e+03	9.944440e+00	StimUp	17	13	a3.jpg 	522	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.117629e+03	1.016668e+01	StimUp	18	14	a3.jpg 	566	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119551e+03	1.208867e+01	StimUp	19	15	a3.jpg 	377	538	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119632e+03	1.217012e+01	StimUp	20	16	a3.jpg 	396	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119733e+03	1.227162e+01	StimUp	21	17	a3.jpg 	399	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119765e+03	1.230267e+01	StimUp	22	18	a3.jpg 	384	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119866e+03	1.240414e+01	StimUp	23	19	a3.jpg 	413	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.119947e+03	1.248549e+01	StimUp	24	20	a3.jpg 	446	454	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.126053e+03	1.859132e+01	StimUp	25	21	a3.jpg 	435	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.126275e+03	1.881363e+01	StimUp	26	22	a3.jpg 	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.126488e+03	1.902574e+01	StimUp	27	23	a3.jpg 	457	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.126549e+03	1.908707e+01	StimUp	28	24	a3.jpg 	466	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.127113e+03	1.965126e+01	StimUp	29	25	a3.jpg 	607	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.127848e+03	2.038649e+01	StimUp	30	26	a3.jpg 	588	600	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.129167e+03	2.170508e+01	StimUp	31	27	a3.jpg 	423	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.129228e+03	2.176644e+01	StimUp	32	28	a3.jpg 	402	429	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.129330e+03	2.186789e+01	StimUp	33	29	a3.jpg 	423	426	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.129934e+03	2.247236e+01	StimUp	34	30	a3.jpg 	610	624	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.130016e+03	2.255381e+01	StimUp	35	31	a3.jpg 	610	627	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.131374e+03	2.391248e+01	StimUp	36	32	a3.jpg 	581	558	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.131456e+03	2.399394e+01	StimUp	37	33	a3.jpg 	559	535	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	27	Vert	V Correct	1.131487e+03	2.402498e+01	StimUp	38	34	a3.jpg 	566	537	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	 	1.145072e+03	4.577327e+00	StartStim	1	1	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	V Correct	1.145130e+03	4.075150e-02	StimUp	2	1	a4.jpg 	530	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	V Correct	1.145654e+03	5.648530e-01	StimUp	3	2	a4.jpg 	466	465	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	V Correct	1.145977e+03	8.876869e-01	StimUp	4	3	a4.jpg 	474	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	V Correct	1.146270e+03	1.180313e+00	StimUp	5	4	a4.jpg 	494	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:53	1	28	Vert	V Correct	1.146411e+03	1.322034e+00	StimUp	6	5	a4.jpg 	487	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.146976e+03	1.886413e+00	StimUp	7	6	a4.jpg 	486	537	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.154492e+03	9.402728e+00	StimUp	8	7	a4.jpg 	392	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157158e+03	1.206914e+01	StimUp	9	8	a4.jpg 	392	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157240e+03	1.215061e+01	StimUp	10	9	a4.jpg 	370	444	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157351e+03	1.226212e+01	StimUp	11	10	a4.jpg 	337	456	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157413e+03	1.232333e+01	StimUp	12	11	a4.jpg 	370	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157474e+03	1.238453e+01	StimUp	13	12	a4.jpg 	379	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157555e+03	1.246586e+01	StimUp	14	13	a4.jpg 	370	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157616e+03	1.252709e+01	StimUp	15	14	a4.jpg 	426	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157738e+03	1.264871e+01	StimUp	16	15	a4.jpg 	443	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.157819e+03	1.273008e+01	StimUp	17	16	a4.jpg 	479	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.158394e+03	1.330430e+01	StimUp	18	17	a4.jpg 	457	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.160175e+03	1.508547e+01	StimUp	19	18	a4.jpg 	428	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.160297e+03	1.520733e+01	StimUp	20	19	a4.jpg 	427	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.160358e+03	1.526860e+01	StimUp	21	20	a4.jpg 	413	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.160459e+03	1.537008e+01	StimUp	22	21	a4.jpg 	413	438	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167078e+03	2.198889e+01	StimUp	23	22	a4.jpg 	403	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167220e+03	2.213070e+01	StimUp	24	23	a4.jpg 	435	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167321e+03	2.223222e+01	StimUp	25	24	a4.jpg 	370	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167513e+03	2.242418e+01	StimUp	26	25	a4.jpg 	403	448	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167575e+03	2.248537e+01	StimUp	27	26	a4.jpg 	413	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167616e+03	2.252652e+01	StimUp	28	27	a4.jpg 	435	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.167798e+03	2.270849e+01	StimUp	29	28	a4.jpg 	444	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.168100e+03	2.301118e+01	StimUp	30	29	a4.jpg 	435	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.168292e+03	2.320317e+01	StimUp	31	30	a4.jpg 	427	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.168394e+03	2.330470e+01	StimUp	32	31	a4.jpg 	446	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.169582e+03	2.449247e+01	StimUp	33	32	a4.jpg 	413	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.169633e+03	2.454379e+01	StimUp	34	33	a4.jpg 	370	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	28	Vert	V Correct	1.169714e+03	2.462512e+01	StimUp	35	34	a4.jpg 	413	459	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	 	1.180556e+03	2.435932e+00	StartStim	1	1	 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.180654e+03	8.100465e-02	StimUp	2	1	a4.jpg 	508	514	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.180997e+03	4.240703e-01	StimUp	3	2	a4.jpg 	439	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181139e+03	5.658616e-01	StimUp	4	3	a4.jpg 	465	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181220e+03	6.472242e-01	StimUp	5	4	a4.jpg 	457	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181342e+03	7.688103e-01	StimUp	6	5	a4.jpg 	468	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181403e+03	8.300633e-01	StimUp	7	6	a4.jpg 	479	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181515e+03	9.415757e-01	StimUp	8	7	a4.jpg 	479	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.181576e+03	1.002802e+00	StimUp	9	8	a4.jpg 	457	477	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.187755e+03	7.181979e+00	StimUp	10	9	a4.jpg 	421	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.187917e+03	7.343979e+00	StimUp	11	10	a4.jpg 	348	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188039e+03	7.465610e+00	StimUp	12	11	a4.jpg 	400	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188120e+03	7.546930e+00	StimUp	13	12	a4.jpg 	427	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188262e+03	7.688656e+00	StimUp	14	13	a4.jpg 	396	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188454e+03	7.880840e+00	StimUp	15	14	a4.jpg 	387	451	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188596e+03	8.022683e+00	StimUp	16	15	a4.jpg 	443	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188778e+03	8.204713e+00	StimUp	17	16	a4.jpg 	413	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188859e+03	8.286141e+00	StimUp	18	17	a4.jpg 	435	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.188981e+03	8.407714e+00	StimUp	19	18	a4.jpg 	479	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.189082e+03	8.509186e+00	StimUp	20	19	a4.jpg 	457	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.189204e+03	8.630777e+00	StimUp	21	20	a4.jpg 	428	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.189376e+03	8.802682e+00	StimUp	22	21	a4.jpg 	492	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.191398e+03	1.082524e+01	StimUp	23	22	a4.jpg 	355	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.191480e+03	1.090669e+01	StimUp	24	23	a4.jpg 	384	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.191622e+03	1.104838e+01	StimUp	25	24	a4.jpg 	370	474	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.191723e+03	1.114988e+01	StimUp	26	25	a4.jpg 	400	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.191764e+03	1.119100e+01	StimUp	27	26	a4.jpg 	427	459	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.197841e+03	1.726823e+01	StimUp	28	27	a4.jpg 	395	490	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.197923e+03	1.734968e+01	StimUp	29	28	a4.jpg 	379	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198044e+03	1.747126e+01	StimUp	30	29	a4.jpg 	413	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198156e+03	1.758282e+01	StimUp	31	30	a4.jpg 	396	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198217e+03	1.764402e+01	StimUp	32	31	a4.jpg 	466	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198258e+03	1.768513e+01	StimUp	33	32	a4.jpg 	392	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198440e+03	1.786705e+01	StimUp	34	33	a4.jpg 	457	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198522e+03	1.794848e+01	StimUp	35	34	a4.jpg 	359	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198643e+03	1.807006e+01	StimUp	36	35	a4.jpg 	424	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198745e+03	1.817154e+01	StimUp	37	36	a4.jpg 	418	442	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198856e+03	1.828308e+01	StimUp	38	37	a4.jpg 	444	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.198938e+03	1.836449e+01	StimUp	39	38	a4.jpg 	435	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.199019e+03	1.844584e+01	StimUp	40	39	a4.jpg 	409	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.199623e+03	1.905020e+01	StimUp	41	40	a4.jpg 	413	600	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.206083e+03	2.550946e+01	StimUp	42	41	a4.jpg 	413	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.206617e+03	2.604366e+01	StimUp	43	42	a4.jpg 	348	423	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.206819e+03	2.624581e+01	StimUp	44	43	a4.jpg 	470	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.206860e+03	2.628701e+01	StimUp	45	44	a4.jpg 	479	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.206962e+03	2.638848e+01	StimUp	46	45	a4.jpg 	400	472	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207184e+03	2.661062e+01	StimUp	47	46	a4.jpg 	352	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207305e+03	2.673220e+01	StimUp	48	47	a4.jpg 	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207477e+03	2.690414e+01	StimUp	49	48	a4.jpg 	427	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207700e+03	2.712630e+01	StimUp	50	49	a4.jpg 	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207801e+03	2.722784e+01	StimUp	51	50	a4.jpg 	370	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.207903e+03	2.732935e+01	StimUp	52	51	a4.jpg 	435	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.208064e+03	2.749116e+01	StimUp	53	52	a4.jpg 	457	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.208196e+03	2.762278e+01	StimUp	54	53	a4.jpg 	449	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:54	1	29	Vert	V Correct	1.208257e+03	2.768402e+01	StimUp	55	54	a4.jpg 	413	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	29	Vert	V Correct	1.208359e+03	2.778547e+01	StimUp	56	55	a4.jpg 	424	468	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.214841e+03	1.268734e+00	ITI	1	1	a4.jpg 	502	636	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.221665e+03	5.079679e+00	StartStim	2	1	 	507	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.221746e+03	5.161080e+00	StartStim	3	2	 	482	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.221938e+03	5.352968e+00	StartStim	4	3	 	479	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.222422e+03	5.836437e+00	StartStim	5	4	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.222784e+03	6.199349e+00	StartStim	6	5	 	479	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.222967e+03	6.381416e+00	StartStim	7	6	 	486	519	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.222998e+03	6.412545e+00	StartStim	8	7	 	486	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.223079e+03	6.493823e+00	StartStim	9	8	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.223180e+03	6.595203e+00	StartStim	10	9	 	485	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.223483e+03	6.897686e+00	StartStim	11	10	 	515	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.223705e+03	7.119848e+00	StartStim	12	11	 	515	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.223997e+03	7.412341e+00	StartStim	13	12	 	522	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.224079e+03	7.493680e+00	StartStim	14	13	 	541	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.224301e+03	7.715711e+00	StartStim	15	14	 	522	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.227424e+03	1.083923e+01	StartStim	16	15	 	493	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.227667e+03	1.108153e+01	StartStim	17	16	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.227768e+03	1.118316e+01	StartStim	18	17	 	501	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.227940e+03	1.135508e+01	StartStim	19	18	 	468	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.228082e+03	1.149671e+01	StartStim	20	19	 	493	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.228163e+03	1.157798e+01	StartStim	21	20	 	487	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.228365e+03	1.177992e+01	StartStim	22	21	 	493	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.228567e+03	1.198192e+01	StartStim	23	22	 	493	504	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	 	1.228658e+03	1.207331e+01	StartStim	24	23	 	501	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.228766e+03	9.105630e-02	StimUp	25	1	a3.jpg 	508	514	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229119e+03	4.441649e-01	StimUp	26	2	a3.jpg 	566	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229221e+03	5.456729e-01	StimUp	27	3	a3.jpg 	596	468	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229302e+03	6.270233e-01	StimUp	28	4	a3.jpg 	574	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229364e+03	6.882532e-01	StimUp	29	5	a3.jpg 	566	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229686e+03	1.011001e+00	StimUp	30	6	a3.jpg 	552	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.229768e+03	1.092454e+00	StimUp	31	7	a3.jpg 	557	469	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.235627e+03	6.951626e+00	StimUp	32	8	a3.jpg 	450	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.235688e+03	7.012982e+00	StimUp	33	9	a3.jpg 	428	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.235780e+03	7.104426e+00	StimUp	34	10	a3.jpg 	356	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.235861e+03	7.185813e+00	StimUp	35	11	a3.jpg 	400	477	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.236385e+03	7.709725e+00	StimUp	36	12	a3.jpg 	428	490	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.236426e+03	7.750939e+00	StimUp	37	13	a3.jpg 	359	496	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.236568e+03	7.892646e+00	StimUp	38	14	a3.jpg 	442	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.236639e+03	7.964068e+00	StimUp	39	15	a3.jpg 	370	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.238310e+03	9.634611e+00	StimUp	40	16	a3.jpg 	406	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.238381e+03	9.706003e+00	StimUp	41	17	a3.jpg 	448	472	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.238604e+03	9.928211e+00	StimUp	42	18	a3.jpg 	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.239288e+03	1.061312e+01	StimUp	43	19	a3.jpg 	479	535	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.239863e+03	1.118746e+01	StimUp	44	20	a3.jpg 	413	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.239944e+03	1.126894e+01	StimUp	45	21	a3.jpg 	435	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.240026e+03	1.135028e+01	StimUp	46	22	a3.jpg 	465	469	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247048e+03	1.837258e+01	StimUp	47	23	a3.jpg 	446	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247250e+03	1.857481e+01	StimUp	48	24	a3.jpg 	402	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247342e+03	1.866625e+01	StimUp	49	25	a3.jpg 	413	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247423e+03	1.874760e+01	StimUp	50	26	a3.jpg 	424	424	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247605e+03	1.892956e+01	StimUp	51	27	a3.jpg 	422	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.247807e+03	1.913167e+01	StimUp	52	28	a3.jpg 	435	447	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.248351e+03	1.967575e+01	StimUp	53	29	a3.jpg 	588	625	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.248805e+03	2.012929e+01	StimUp	54	30	a3.jpg 	442	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.250385e+03	2.170936e+01	StimUp	55	31	a3.jpg 	613	630	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.251864e+03	2.318888e+01	StimUp	56	32	a3.jpg 	610	622	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.252630e+03	2.395437e+01	StimUp	57	33	a3.jpg 	569	547	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.252882e+03	2.420685e+01	StimUp	58	34	a3.jpg 	468	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.253064e+03	2.438905e+01	StimUp	59	35	a3.jpg 	479	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.253186e+03	2.451091e+01	StimUp	60	36	a3.jpg 	514	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	30	Vert	V Correct	1.253288e+03	2.461255e+01	StimUp	61	37	a3.jpg 	552	481	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	 	1.267114e+03	5.411519e+00	StartStim	1	1	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.267873e+03	7.448458e-01	StimUp	2	1	a44.jpg	490	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268025e+03	8.968150e-01	StimUp	3	2	a44.jpg	510	438	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268207e+03	1.078800e+00	StimUp	4	3	a44.jpg	509	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268289e+03	1.160303e+00	StimUp	5	4	a44.jpg	511	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268411e+03	1.282017e+00	StimUp	6	5	a44.jpg	531	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268492e+03	1.363365e+00	StimUp	7	6	a44.jpg	531	459	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268865e+03	1.736473e+00	StimUp	8	7	a44.jpg	577	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.268967e+03	1.838068e+00	StimUp	9	8	a44.jpg	620	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:55	1	31	Vert	V Correct	1.269491e+03	2.361949e+00	StimUp	10	9	a44.jpg	537	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.270286e+03	3.157483e+00	StimUp	11	10	a44.jpg	566	493	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.270388e+03	3.259103e+00	StimUp	12	11	a44.jpg	566	493	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.276790e+03	9.661308e+00	StimUp	13	12	a44.jpg	435	516	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.276851e+03	9.722683e+00	StimUp	14	13	a44.jpg	388	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.276892e+03	9.763791e+00	StimUp	15	14	a44.jpg	385	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.276933e+03	9.804863e+00	StimUp	16	15	a44.jpg	392	495	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.276975e+03	9.845921e+00	StimUp	17	16	a44.jpg	384	489	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.277076e+03	9.947342e+00	StimUp	18	17	a44.jpg	422	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.277610e+03	1.048132e+01	StimUp	19	18	a44.jpg	449	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.277752e+03	1.062308e+01	StimUp	20	19	a44.jpg	488	471	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.277813e+03	1.068432e+01	StimUp	21	20	a44.jpg	552	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.277894e+03	1.076573e+01	StimUp	22	21	a44.jpg	530	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.278086e+03	1.095786e+01	StimUp	23	22	a44.jpg	531	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.278208e+03	1.107958e+01	StimUp	24	23	a44.jpg	588	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.280694e+03	1.356517e+01	StimUp	25	24	a44.jpg	356	517	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.280775e+03	1.364666e+01	StimUp	26	25	a44.jpg	381	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.281309e+03	1.418065e+01	StimUp	27	26	a44.jpg	592	604	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.288755e+03	2.162610e+01	StimUp	28	27	a44.jpg	448	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.288876e+03	2.174786e+01	StimUp	29	28	a44.jpg	396	456	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.288958e+03	2.182924e+01	StimUp	30	29	a44.jpg	404	438	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.289069e+03	2.194074e+01	StimUp	31	30	a44.jpg	392	459	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.289171e+03	2.204218e+01	StimUp	32	31	a44.jpg	465	469	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.289312e+03	2.218389e+01	StimUp	33	32	a44.jpg	378	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.290219e+03	2.309004e+01	StimUp	34	33	a44.jpg	392	477	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.290270e+03	2.314132e+01	StimUp	35	34	a44.jpg	423	450	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.290412e+03	2.328306e+01	StimUp	36	35	a44.jpg	413	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.290574e+03	2.344508e+01	StimUp	37	36	a44.jpg	445	426	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.291279e+03	2.415020e+01	StimUp	38	37	a44.jpg	442	531	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	31	Vert	V Correct	1.291350e+03	2.422161e+01	StimUp	39	38	a44.jpg	457	525	Stim	1	1	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.297893e+03	7.458968e-01	ITI	1	1	a44.jpg	536	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.298175e+03	1.028544e+00	ITI	2	2	a44.jpg	544	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.303572e+03	3.421313e+00	StartStim	3	1	 	479	486	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.303855e+03	3.703828e+00	StartStim	4	2	 	487	492	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.303956e+03	3.805295e+00	StartStim	5	3	 	492	493	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	 	1.304078e+03	3.926787e+00	StartStim	6	4	 	507	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.304153e+03	6.088875e-02	StimUp	7	1	d49.jpg	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.304234e+03	1.423637e-01	StimUp	8	2	d49.jpg	472	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.304557e+03	4.651109e-01	StimUp	9	3	d49.jpg	441	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.304880e+03	7.878801e-01	StimUp	10	4	d49.jpg	416	579	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.304951e+03	8.592884e-01	StimUp	11	5	d49.jpg	392	600	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.315915e+03	1.182344e+01	StimUp	12	6	d49.jpg	261	444	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:56	1	32	Vert	V Major	1.316037e+03	1.194514e+01	StimUp	13	7	d49.jpg	250	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	 	1.338287e+03	1.169009e+00	StartStim	1	1	 	494	525	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	 	1.338479e+03	1.361006e+00	StartStim	2	2	 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.339000e+03	5.034253e-01	StimUp	3	1	a3.jpg 	618	468	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.339483e+03	9.872585e-01	StimUp	4	2	a3.jpg 	533	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.339947e+03	1.451180e+00	StimUp	5	3	a3.jpg 	540	481	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.340039e+03	1.542736e+00	StimUp	6	4	a3.jpg 	558	513	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.340140e+03	1.644209e+00	StimUp	7	5	a3.jpg 	544	525	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.341720e+03	3.224189e+00	StimUp	8	6	a3.jpg 	568	603	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.342305e+03	3.808550e+00	StimUp	9	7	a3.jpg 	457	535	Stim	1	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.347687e+03	9.190729e+00	StimUp	10	8	a3.jpg 	185	397	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.347980e+03	9.483427e+00	StimUp	11	9	a3.jpg 	337	408	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.348282e+03	9.786128e+00	StimUp	12	10	a3.jpg 	338	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.348444e+03	9.947960e+00	StimUp	13	11	a3.jpg 	348	408	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.348968e+03	1.047196e+01	StimUp	14	12	a3.jpg 	359	412	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353023e+03	1.452654e+01	StimUp	15	13	a3.jpg 	183	456	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353064e+03	1.456779e+01	StimUp	16	14	a3.jpg 	163	441	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353105e+03	1.460889e+01	StimUp	17	15	a3.jpg 	152	435	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353267e+03	1.477068e+01	StimUp	18	16	a3.jpg 	152	412	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353720e+03	1.522422e+01	StimUp	19	17	a3.jpg 	315	432	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.353882e+03	1.538615e+01	StimUp	20	18	a3.jpg 	370	445	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.366566e+03	2.806990e+01	StimUp	21	19	a3.jpg 	261	465	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.367030e+03	2.853359e+01	StimUp	22	20	a3.jpg 	217	415	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.367564e+03	2.906760e+01	StimUp	23	21	a3.jpg 	272	378	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	33	Vert	V Correct	1.367766e+03	2.926970e+01	StimUp	24	22	a3.jpg 	272	378	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	34	Vert	 	1.371869e+03	3.446878e-01	StartStim	1	1	 	522	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	34	Vert	V Major	1.383773e+03	1.188949e+01	StimUp	2	1	d43.jpg	242	663	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:57	1	34	Vert	V Major	1.384489e+03	1.260469e+01	StimUp	3	2	d43.jpg	258	663	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	 	1.405651e+03	7.367473e-01	StartStim	1	1	 	479	513	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	 	1.405873e+03	9.589409e-01	StartStim	2	2	 	486	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	 	1.405954e+03	1.040301e+00	StartStim	3	3	 	468	516	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	 	1.406036e+03	1.121573e+00	StartStim	4	4	 	468	514	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	 	1.406157e+03	1.243054e+00	StartStim	5	5	 	515	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.406315e+03	1.413244e-01	StimUp	6	1	e3.jpg 	479	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.406759e+03	5.849010e-01	StimUp	7	2	e3.jpg 	464	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.406931e+03	7.568667e-01	StimUp	8	3	e3.jpg 	435	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407133e+03	9.589549e-01	StimUp	9	4	e3.jpg 	413	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407214e+03	1.040299e+00	StimUp	10	5	e3.jpg 	403	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407275e+03	1.101508e+00	StimUp	11	6	e3.jpg 	431	456	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407638e+03	1.464453e+00	StimUp	12	7	e3.jpg 	486	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407770e+03	1.596140e+00	StimUp	13	8	e3.jpg 	494	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.407952e+03	1.778121e+00	StimUp	14	9	e3.jpg 	488	475	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.409934e+03	3.760383e+00	StimUp	15	10	e3.jpg 	366	511	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410016e+03	3.841841e+00	StimUp	16	11	e3.jpg 	400	481	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410057e+03	3.882945e+00	StimUp	17	12	e3.jpg 	403	477	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410158e+03	3.984416e+00	StimUp	18	13	e3.jpg 	421	490	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410632e+03	4.458061e+00	StimUp	19	14	e3.jpg 	435	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410693e+03	4.519370e+00	StimUp	20	15	e3.jpg 	435	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410795e+03	4.620868e+00	StimUp	21	16	e3.jpg 	457	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410916e+03	4.742669e+00	StimUp	22	17	e3.jpg 	479	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.410978e+03	4.804027e+00	StimUp	23	18	e3.jpg 	468	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.411160e+03	4.986068e+00	StimUp	24	19	e3.jpg 	453	487	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:58	1	35	Vert	V Minor	1.411271e+03	5.097705e+00	StimUp	25	20	e3.jpg 	457	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	 	1.450884e+03	1.168476e+01	StartStim	1	1	 	538	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	 	1.451177e+03	1.197732e+01	StartStim	2	2	 	501	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	 	1.452143e+03	1.294345e+01	StartStim	3	3	 	507	537	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	 	1.452204e+03	1.300476e+01	StartStim	4	4	 	508	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.452702e+03	4.833475e-01	StimUp	5	1	e19.jpg	420	513	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.452804e+03	5.849528e-01	StimUp	6	2	e19.jpg	428	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.452905e+03	6.864670e-01	StimUp	7	3	e19.jpg	446	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453007e+03	7.879298e-01	StimUp	8	4	e19.jpg	457	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453098e+03	8.793410e-01	StimUp	9	5	e19.jpg	443	504	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453179e+03	9.606652e-01	StimUp	10	6	e19.jpg	470	475	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453321e+03	1.102337e+00	StimUp	11	7	e19.jpg	472	492	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453423e+03	1.203854e+00	StimUp	12	8	e19.jpg	441	547	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453524e+03	1.305421e+00	StimUp	13	9	e19.jpg	479	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.453626e+03	1.406894e+00	StimUp	14	10	e19.jpg	494	525	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.454260e+03	2.041463e+00	StimUp	15	11	e19.jpg	522	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.454422e+03	2.203367e+00	StimUp	16	12	e19.jpg	533	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.454524e+03	2.304816e+00	StimUp	17	13	e19.jpg	533	448	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.454645e+03	2.426369e+00	StimUp	18	14	e19.jpg	553	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.454958e+03	2.739077e+00	StimUp	19	15	e19.jpg	601	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.455341e+03	3.122202e+00	StimUp	20	16	e19.jpg	515	514	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.455785e+03	3.565805e+00	StimUp	21	17	e19.jpg	514	481	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.455846e+03	3.627157e+00	StimUp	22	18	e19.jpg	531	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.455988e+03	3.768855e+00	StimUp	23	19	e19.jpg	535	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.456059e+03	3.840141e+00	StimUp	24	20	e19.jpg	533	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.456623e+03	4.404273e+00	StimUp	25	21	e19.jpg	522	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.456705e+03	4.485728e+00	StimUp	26	22	e19.jpg	535	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.456786e+03	4.567090e+00	StimUp	27	23	e19.jpg	527	459	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	12:59	1	36	Vert	V Minor	1.456908e+03	4.688728e+00	StimUp	28	24	e19.jpg	509	471	Stim	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	13:46	1	37	Vert	 	4.312199e+03	2.826951e+03	StartStim	1	1	 	1021	570	Screen	0	0	P019A Remdial Vert	
+Raffles	June15	15-Jun-2017	13:46	1	37	Vert	 	4.324263e+03	2.839015e+03	StartStim	2	2	 	261	0	Screen	0	0	P019A Remdial Vert	

@@ -1,0 +1,56 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	mary	6	08-Apr-2016	11:38	1	1	Vert	 	1.875995e+01	3.674178e+00	StartStim	1	1	 	519	507	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	1.908099e+01	3.995219e+00	StartStim	2	2	 	530	483	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	1.939451e+01	4.308740e+00	StartStim	3	3	 	537	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	1.996970e+01	4.883928e+00	StartStim	4	4	 	522	486	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.028914e+01	5.203367e+00	StartStim	5	5	 	518	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.058735e+01	5.501580e+00	StartStim	6	6	 	526	486	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.130586e+01	6.220093e+00	StartStim	7	7	 	532	495	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.182154e+01	6.735769e+00	StartStim	8	8	 	523	504	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.209916e+01	7.013385e+00	StartStim	9	9	 	525	474	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	 	2.238712e+01	7.301346e+00	StartStim	10	10	 	521	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	IncorrectMajorV	2.269107e+01	1.533613e-02	StimUp	11	1	d119.jpg	510	489	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:38	1	1	Vert	IncorrectMajorV	2.296300e+01	2.872705e-01	StimUp	12	2	d119.jpg	520	489	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.752243e+01	1.781117e+00	StartStim	1	1	 	515	495	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.780074e+01	2.059431e+00	StartStim	2	2	 	522	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.809918e+01	2.357868e+00	StartStim	3	3	 	511	487	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.839759e+01	2.656272e+00	StartStim	4	4	 	507	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.867688e+01	2.935567e+00	StartStim	5	5	 	515	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	 	5.898556e+01	3.244249e+00	StartStim	6	6	 	511	498	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	2	Vert	IncorrectMajorV	5.927830e+01	2.270640e-01	StimUp	7	1	d112.jpg	513	499	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	 	9.391492e+01	1.797874e+00	StartStim	1	1	 	522	504	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	 	9.411247e+01	1.995430e+00	StartStim	2	2	 	513	516	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	 	9.437193e+01	2.254883e+00	StartStim	3	3	 	503	514	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	IncorrectMinorV	9.460146e+01	1.772713e-01	StimUp	4	1	e32.jpg	516	495	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	IncorrectMinorV	9.535569e+01	9.315024e-01	StimUp	5	2	e32.jpg	504	504	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:39	1	3	Vert	IncorrectMinorV	9.558575e+01	1.161560e+00	StimUp	6	3	e32.jpg	502	514	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.286363e+02	1.179972e+00	StartStim	1	1	 	533	513	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.288734e+02	1.417099e+00	StartStim	2	2	 	526	501	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.290620e+02	1.605743e+00	StartStim	3	3	 	512	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.292488e+02	1.792509e+00	StartStim	4	4	 	517	493	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.294765e+02	2.020171e+00	StartStim	5	5	 	507	492	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.296740e+02	2.217738e+00	StartStim	6	6	 	514	498	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	 	1.298924e+02	2.436091e+00	StartStim	7	7	 	511	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	IncorrectMajorV	1.301255e+02	1.081374e-02	StimUp	8	1	d40.jpg 	521	492	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	4	Vert	IncorrectMajorV	1.303231e+02	2.084571e-01	StimUp	9	2	d40.jpg 	526	483	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.645917e+02	1.444701e+00	StartStim	1	1	 	514	486	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.647578e+02	1.610832e+00	StartStim	2	2	 	517	493	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.649133e+02	1.766329e+00	StartStim	3	3	 	519	492	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.651196e+02	1.972685e+00	StartStim	4	4	 	516	513	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.652954e+02	2.148439e+00	StartStim	5	5	 	525	514	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	 	1.654817e+02	2.334686e+00	StartStim	6	6	 	526	502	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	IncorrectMajorV	1.656754e+02	1.041036e-01	StimUp	7	1	d81.jpg 	507	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:40	1	5	Vert	IncorrectMajorV	1.658209e+02	2.496049e-01	StimUp	8	2	d81.jpg 	514	495	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	 	2.003926e+02	1.789240e+00	StartStim	1	1	 	522	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	 	2.007526e+02	2.149267e+00	StartStim	2	2	 	514	498	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	 	2.009389e+02	2.335577e+00	StartStim	3	3	 	512	507	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	 	2.011149e+02	2.511514e+00	StartStim	4	4	 	514	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	IncorrectMinorV	2.013158e+02	1.543014e-01	StimUp	5	1	e15.jpg	521	492	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:41	1	6	Vert	IncorrectMinorV	2.025464e+02	1.384886e+00	StimUp	6	2	e15.jpg	549	525	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	 	2.349380e+02	7.278879e-01	StartStim	1	1	 	505	489	Screen	0	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	 	2.351259e+02	9.157931e-01	StartStim	2	2	 	510	498	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	 	2.353142e+02	1.104084e+00	StartStim	3	3	 	515	510	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	 	2.355331e+02	1.322938e+00	StartStim	4	4	 	510	507	Stim	0	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	FollowedV	2.357317e+02	1.337618e-01	StimUp	5	1	a56.jpg	523	492	Stim	1	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	FollowedV	2.365920e+02	9.941110e-01	StimUp	6	2	a56.jpg	546	487	Stim	1	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	FollowedV	2.367694e+02	1.171484e+00	StimUp	7	3	a56.jpg	513	517	Stim	1	0	P019A V1	
+mary	6	08-Apr-2016	11:42	1	7	Vert	FollowedV	2.369762e+02	1.378263e+00	StimUp	8	4	a56.jpg	487	532	Stim	1	1	P019A V1	

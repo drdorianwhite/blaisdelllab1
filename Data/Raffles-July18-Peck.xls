@@ -1,0 +1,16 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Raffles	July18	18-Jul-2017	11:10	1	1	Vert	 	6.653077e+02	6.581568e+02	StartStim	1	1	 	566	766	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	 	7.794232e+02	7.722723e+02	StartStim	2	2	 	522	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	 	7.807043e+02	7.735534e+02	StartStim	3	3	 	522	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	 	7.813511e+02	7.742002e+02	StartStim	4	4	 	529	537	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	 	7.880913e+02	7.809404e+02	StartStim	5	5	 	515	525	Stim	0	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.887083e+02	5.148645e-01	StimUp	6	1	a11.jpg	428	525	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.894555e+02	1.262143e+00	StimUp	7	2	a11.jpg	486	537	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.907354e+02	2.542010e+00	StimUp	8	3	a11.jpg	438	579	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.909685e+02	2.775068e+00	StimUp	9	4	a11.jpg	457	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.910114e+02	2.818013e+00	StimUp	10	5	a11.jpg	441	582	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.927556e+02	4.562236e+00	StimUp	11	6	a11.jpg	479	535	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.929581e+02	4.764714e+00	StimUp	12	7	a11.jpg	451	547	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	18-Jul-2017	11:12	1	1	Vert	V Correct	7.933917e+02	5.198302e+00	StimUp	13	8	a11.jpg	486	514	Stim	1	0	P019A Remedial Vert	
+Raffles	July18	19-Jul-2017	9:12	1	2	Vert	 	7.996062e+04	7.913940e+04	StartStim	1	1	 	1020	539	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	19-Jul-2017	9:12	1	2	Vert	 	7.996749e+04	7.914626e+04	StartStim	2	2	 	128	282	Screen	0	0	P019A Remedial Vert	
+Raffles	July18	19-Jul-2017	9:12	1	2	Vert	 	7.996952e+04	7.914830e+04	StartStim	3	3	 	204	527	Screen	0	0	P019A Remedial Vert	

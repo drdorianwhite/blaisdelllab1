@@ -1,0 +1,12 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	September29	29-Sep-2017	9:24	1	1	Vert	 	1.049435e+01	2.833432e+00	StartStim	1	1	 	504	519	Stim	0	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.382676e+01	3.176292e+00	StimUp	2	1	e11.jpg	525	498	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.400687e+01	3.356401e+00	StimUp	3	2	e11.jpg	479	541	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.414403e+01	3.493567e+00	StimUp	4	3	e11.jpg	544	475	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.429414e+01	3.643673e+00	StimUp	5	4	e11.jpg	493	498	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.442994e+01	3.779476e+00	StimUp	6	5	e11.jpg	518	492	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.454849e+01	3.898026e+00	StimUp	7	6	e11.jpg	603	447	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.467191e+01	4.021445e+00	StimUp	8	7	e11.jpg	511	471	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.481615e+01	4.165685e+00	StimUp	9	8	e11.jpg	486	487	Stim	1	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:24	1	1	Vert	V Correct	1.493186e+01	4.281400e+00	StimUp	10	9	e11.jpg	566	487	Stim	1	1	P014C Vert	
+Mary	September29	29-Sep-2017	9:25	1	2	Vert	 	4.825194e+01	4.577589e+00	StartStim	1	1	 	136	281	Screen	0	0	P014C Vert	
+Mary	September29	29-Sep-2017	9:25	1	2	Vert	 	5.214223e+01	8.467878e+00	StartStim	2	2	 	720	58	Screen	0	0	P014C Vert	

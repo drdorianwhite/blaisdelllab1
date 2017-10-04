@@ -1,0 +1,73 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	 	6.630462e+00	6.609781e-01	StartStim	1	1	 	512	511	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	7.373889e+00	6.867683e-01	StimUp	2	1	b10.jpg	498	525	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	7.539048e+00	8.519277e-01	StimUp	3	2	b10.jpg	498	525	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	7.844627e+00	1.157506e+00	StimUp	4	3	b10.jpg	517	531	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	7.989102e+00	1.301981e+00	StimUp	5	4	b10.jpg	517	531	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	8.112354e+00	1.425233e+00	StimUp	6	5	b10.jpg	517	531	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:13	1	1	Hort	FollowedH	8.418604e+00	1.731484e+00	StimUp	7	6	b10.jpg	518	496	Stim	1	1	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	 	6.527760e+01	2.556588e+01	StartStim	1	1	 	507	515	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	FollowedH	6.588649e+01	5.857584e-01	StimUp	2	1	b44.jpg	500	511	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	FollowedH	6.604103e+01	7.402942e-01	StimUp	3	2	b44.jpg	500	511	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	FollowedH	6.620335e+01	9.026146e-01	StimUp	4	3	b44.jpg	500	511	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	FollowedH	6.636565e+01	1.064921e+00	StimUp	5	4	b44.jpg	500	511	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	2	Hort	FollowedH	6.651778e+01	1.217047e+00	StimUp	6	5	b44.jpg	500	511	Stim	1	1	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	 	1.076604e+02	9.325011e+00	StartStim	1	1	 	504	512	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.127727e+02	5.081025e+00	StimUp	2	1	c20.jpg 	504	512	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.129355e+02	5.243769e+00	StimUp	3	2	c20.jpg 	504	512	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.130975e+02	5.405802e+00	StimUp	4	3	c20.jpg 	504	512	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.132395e+02	5.547832e+00	StimUp	5	4	c20.jpg 	504	512	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.133916e+02	5.699878e+00	StimUp	6	5	c20.jpg 	510	507	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.135336e+02	5.841891e+00	StimUp	7	6	c20.jpg 	525	465	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.136755e+02	5.983798e+00	StimUp	8	7	c20.jpg 	525	452	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.138376e+02	6.145901e+00	StimUp	9	8	c20.jpg 	536	494	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.139795e+02	6.287813e+00	StimUp	10	9	c20.jpg 	555	530	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.141417e+02	6.449969e+00	StimUp	11	10	c20.jpg 	530	540	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.142737e+02	6.582009e+00	StimUp	12	11	c20.jpg 	511	536	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.144661e+02	6.774420e+00	StimUp	13	12	c20.jpg 	500	514	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.146080e+02	6.916333e+00	StimUp	14	13	c20.jpg 	500	505	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.147902e+02	7.098488e+00	StimUp	15	14	c20.jpg 	582	525	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.149222e+02	7.230511e+00	StimUp	16	15	c20.jpg 	546	566	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.150743e+02	7.382576e+00	StimUp	17	16	c20.jpg 	484	501	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.152162e+02	7.524464e+00	StimUp	18	17	c20.jpg 	463	490	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.154085e+02	7.716822e+00	StimUp	19	18	c20.jpg 	636	474	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.155622e+02	7.870552e+00	StimUp	20	19	c20.jpg 	575	449	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.157244e+02	8.032729e+00	StimUp	21	20	c20.jpg 	550	491	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.158866e+02	8.194921e+00	StimUp	22	21	c20.jpg 	448	545	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.160487e+02	8.357050e+00	StimUp	23	22	c20.jpg 	365	469	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.162008e+02	8.509142e+00	StimUp	24	23	c20.jpg 	421	466	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.163831e+02	8.691404e+00	StimUp	25	24	c20.jpg 	533	528	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.165653e+02	8.873628e+00	StimUp	26	25	c20.jpg 	508	494	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.167273e+02	9.035642e+00	StimUp	27	26	c20.jpg 	489	492	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.169094e+02	9.217734e+00	StimUp	28	27	c20.jpg 	492	497	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.170614e+02	9.369680e+00	StimUp	29	28	c20.jpg 	570	523	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.172535e+02	9.561808e+00	StimUp	30	29	c20.jpg 	570	523	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.174256e+02	9.733923e+00	StimUp	31	30	c20.jpg 	570	523	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.176178e+02	9.926107e+00	StimUp	32	31	c20.jpg 	567	522	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.177697e+02	1.007799e+01	StimUp	33	32	c20.jpg 	564	522	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.179719e+02	1.028020e+01	StimUp	34	33	c20.jpg 	541	516	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.181339e+02	1.044220e+01	StimUp	35	34	c20.jpg 	512	502	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.183363e+02	1.064457e+01	StimUp	36	35	c20.jpg 	491	494	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.184983e+02	1.080663e+01	StimUp	37	36	c20.jpg 	493	494	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.187008e+02	1.100908e+01	StimUp	38	37	c20.jpg 	529	526	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:14	1	3	Hort	IncorrectMajorH	1.188628e+02	1.117109e+01	StimUp	39	38	c20.jpg 	546	527	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:15	1	4	Hort	 	1.607555e+02	2.003365e+01	StartStim	1	1	 	517	506	Stim	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:15	1	4	Hort	FollowedH	1.616711e+02	8.964294e-01	StimUp	2	1	1h.jpg 	479	510	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:15	1	4	Hort	FollowedH	1.618838e+02	1.109104e+00	StimUp	3	2	1h.jpg 	526	490	Stim	1	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:15	1	4	Hort	FollowedH	1.620259e+02	1.251175e+00	StimUp	4	3	1h.jpg 	555	497	Stim	1	1	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.012437e+02	7.435354e+00	StartStim	1	1	 	220	753	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.029655e+02	9.157128e+00	StartStim	2	2	 	493	214	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.031494e+02	9.341065e+00	StartStim	3	3	 	493	214	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.044291e+02	1.062076e+01	StartStim	4	4	 	677	332	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.054994e+02	1.169106e+01	StartStim	5	5	 	449	416	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.246615e+02	3.085307e+01	StartStim	6	6	 	927	694	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.259208e+02	3.211242e+01	StartStim	7	7	 	1009	1	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.276128e+02	3.380437e+01	StartStim	8	8	 	1002	12	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.288535e+02	3.504516e+01	StartStim	9	9	 	1008	13	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.297603e+02	3.595189e+01	StartStim	10	10	 	1008	13	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.307578e+02	3.694941e+01	StartStim	11	11	 	1008	13	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.325013e+02	3.869294e+01	StartStim	12	12	 	529	422	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.339329e+02	4.012451e+01	StartStim	13	13	 	1016	6	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.350011e+02	4.119269e+01	StartStim	14	14	 	512	418	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.363431e+02	4.253476e+01	StartStim	15	15	 	1004	9	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.377323e+02	4.392395e+01	StartStim	16	16	 	155	665	Screen	0	0	P019A Remedial Hort	
+MaryRemHort	January23	23-Jan-2017	10:16	1	5	Hort	 	2.388631e+02	4.505472e+01	StartStim	17	17	 	801	192	Screen	0	0	P019A Remedial Hort	

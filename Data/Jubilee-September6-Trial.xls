@@ -1,0 +1,11 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Jubilee	September6	06-Sep-2017	13:28	1	1	Vert	V Correct	1.123326e+01	3.013694e+00	8.979721e+02	3.001137e+01	e11.jpg	0	1	42	10	0	1	1	2	P014C Vert	
+Jubilee	September6	06-Sep-2017	13:29	1	2	Vert	V Major	9.422302e+02	3.004382e+00	3.709823e+01	3.000538e+01	d43.jpg	2	1	58	15	28	3.488372e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	13:35	1	3	Vert	V Major	1.012350e+03	3.007162e+00	3.327528e+02	3.000433e+01	g50.jpg	5	1	158	25	9	7.352941e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	13:47	1	4	Vert	V Minor	1.378120e+03	3.005165e+00	6.757181e+02	3.000403e+01	e18.jpg	1	1	97	15	20	4.285714e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:8	1	5	Vert	V Major	2.086861e+03	3.006699e+00	1.198872e+03	3.000822e+01	g50.jpg	2	1	142	23	11	6.764706e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:8	1	6	Vert	V Correct	3.318771e+03	3.011343e+00	1.375792e+01	3.000945e+01	e27.jpg	0	1	17	7	14	3.333333e-01	1	1	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:10	1	7	Vert	V Correct	3.365560e+03	3.013316e+00	7.925864e+01	3.000603e+01	e12.jpg	2	1	127	10	6	6.250000e-01	1	2	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:11	1	8	Vert	V Major	3.477844e+03	3.011268e+00	3.637272e+01	3.001008e+01	g5.jpg 	0	1	31	15	15	5.000000e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:12	1	9	Vert	V Minor	3.547246e+03	3.011586e+00	1.805727e+01	3.001076e+01	f6.jpg 	0	1	19	26	4	8.666667e-01	0	0	P014C Vert	
+Jubilee	September6	06-Sep-2017	14:14	1	10	Vert	V Correct	3.598327e+03	3.004263e+00	7.164940e+01	3.001029e+01	e10.jpg	3	1	67	4	1	8.000000e-01	1	1	P014C Vert	

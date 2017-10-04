@@ -1,0 +1,3 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	V Correct	7.093387e+00	3.005529e+00	2.537107e+02	3.001225e+01	e11.jpg	0	1	2	4	0	1	1	1	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	2.938373e+02	3.011714e+00	3.849121e+00	3.001026e+01	d43.jpg	0	1	3	10	0	1	0	0	P014C Vert	

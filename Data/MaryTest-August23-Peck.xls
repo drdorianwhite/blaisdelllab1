@@ -1,0 +1,7 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest	August23	23-Aug-2017	9:8	1	1	Hort	 	2.101500e+01	2.207845e+00	StartStim	1	1	 	508	519	Stim	0	0	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	1	Hort	H Correct	2.377544e+01	2.358229e+00	StimUp	2	1	h14.jpg	566	564	Stim	1	0	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	1	Hort	H Correct	2.391512e+01	2.497903e+00	StimUp	3	2	h14.jpg	522	514	Stim	1	0	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	1	Hort	H Correct	2.403135e+01	2.614131e+00	StimUp	4	3	h14.jpg	501	510	Stim	1	1	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	1	Hort	H Correct	5.040162e+01	2.898441e+01	StimUp	5	4	h14.jpg	179	284	Screen	0	0	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	2	Hort	 	5.284816e+01	1.408698e+00	ITI	1	1	h14.jpg	508	167	Screen	0	0	P014C Hort	
+MaryTest	August23	23-Aug-2017	9:8	1	2	Hort	 	5.386810e+01	2.428633e+00	ITI	2	2	h14.jpg	405	162	Screen	0	0	P014C Hort	

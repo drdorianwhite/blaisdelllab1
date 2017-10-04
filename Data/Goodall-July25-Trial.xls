@@ -1,0 +1,4 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	sessionTime	ITI	ReadyStimTrialTimeOn	TrialStimTotalSecs	ImageShown	ITIPecks	PecksToStartStim	PecksonStartScreenTotal	TotalPecksOnExStim	PecksOnExScreen	%OnStim	1Go/0NoGo	Reward#	CodeRun	
+Goodall	July25	25-Jul-2017	11:3	1	1	Vert	V Correct	5.986233e+00	3.013443e+00	2.513834e+02	3.001341e+01	a43.jpg	0	1	48	8	16	3.333333e-01	1	1	P019A Remedial Vert	
+Goodall	July25	25-Jul-2017	11:39	1	2	Vert	V Minor	2.904141e+02	3.012352e+00	2.138603e+03	3.001149e+01	e1.jpg 	0	1	13	34	45	4.303797e-01	0	0	P019A Remedial Vert	
+Goodall	July25	25-Jul-2017	11:40	1	3	Vert	V Minor	2.462042e+03	3.004838e+00	1.222819e+01	3.001238e+01	e25.jpg	1	1	17	20	27	4.255319e-01	0	0	P019A Remedial Vert	

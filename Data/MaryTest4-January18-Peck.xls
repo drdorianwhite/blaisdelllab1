@@ -1,0 +1,458 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	 	1.705436e+01	1.106939e+01	StartStim	1	1	 	518	511	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.871488e+01	1.602911e+00	StimUp	2	1	e27.jpg	760	508	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.889015e+01	1.778185e+00	StimUp	3	2	e27.jpg	760	508	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.906499e+01	1.953023e+00	StimUp	4	3	e27.jpg	770	521	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.922939e+01	2.117425e+00	StimUp	5	4	e27.jpg	773	523	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.938510e+01	2.273137e+00	StimUp	6	5	e27.jpg	773	523	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.954010e+01	2.428133e+00	StimUp	7	6	e27.jpg	771	523	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.974307e+01	2.631102e+00	StimUp	8	7	e27.jpg	769	515	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	1.990575e+01	2.793787e+00	StimUp	9	8	e27.jpg	767	512	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.005819e+01	2.946220e+00	StimUp	10	9	e27.jpg	761	511	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.026090e+01	3.148932e+00	StimUp	11	10	e27.jpg	765	515	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.045349e+01	3.341524e+00	StimUp	12	11	e27.jpg	801	509	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.064759e+01	3.535624e+00	StimUp	13	12	e27.jpg	803	509	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.106148e+01	3.949510e+00	StimUp	14	13	e27.jpg	834	518	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.201852e+01	4.906553e+00	StimUp	15	14	e27.jpg	834	518	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.218066e+01	5.068694e+00	StimUp	16	15	e27.jpg	834	518	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.237298e+01	5.261014e+00	StimUp	17	16	e27.jpg	804	510	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.274652e+01	5.634552e+00	StimUp	18	17	e27.jpg	763	498	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.294906e+01	5.837089e+00	StimUp	19	18	e27.jpg	761	520	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	1	Vert	IncorrectMinorV	2.310114e+01	5.989171e+00	StimUp	20	19	e27.jpg	770	523	Button	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	 	3.961551e+01	8.211373e+00	StartStim	1	1	 	496	511	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	 	3.989896e+01	8.494817e+00	StartStim	2	2	 	518	519	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.072095e+01	7.975780e-01	StimUp	3	1	a52.jpg	244	514	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.084618e+01	9.228033e-01	StimUp	4	2	a52.jpg	290	528	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.108884e+01	1.165462e+00	StimUp	5	3	a52.jpg	290	503	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.128109e+01	1.357716e+00	StimUp	6	4	a52.jpg	288	507	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.143329e+01	1.509918e+00	StimUp	7	5	a52.jpg	277	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.158543e+01	1.662059e+00	StimUp	8	6	a52.jpg	275	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	2	Vert	FollowedV	4.189860e+01	1.975225e+00	StimUp	9	7	a52.jpg	259	530	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	 	5.230532e+01	2.365582e+00	ITI	1	1	a52.jpg	237	556	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	 	5.844856e+01	5.504021e+00	StartStim	2	1	 	505	504	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	5.931188e+01	8.461039e-01	StimUp	3	1	e19.jpg	354	506	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	5.950512e+01	1.039340e+00	StimUp	4	2	e19.jpg	454	508	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	5.970764e+01	1.241864e+00	StimUp	5	3	e19.jpg	263	522	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	5.990006e+01	1.434281e+00	StimUp	6	4	e19.jpg	249	494	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	6.003198e+01	1.566200e+00	StimUp	7	5	e19.jpg	268	497	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	6.020416e+01	1.738378e+00	StimUp	8	6	e19.jpg	330	586	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:9	1	3	Vert	IncorrectMinorV	6.037642e+01	1.910638e+00	StimUp	9	7	e19.jpg	282	565	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.052855e+01	2.062768e+00	StimUp	10	8	e19.jpg	270	538	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.068122e+01	2.215446e+00	StimUp	11	9	e19.jpg	239	524	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.083330e+01	2.367525e+00	StimUp	12	10	e19.jpg	216	520	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.111624e+01	2.650465e+00	StimUp	13	11	e19.jpg	257	469	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.128844e+01	2.822663e+00	StimUp	14	12	e19.jpg	250	485	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.145068e+01	2.984904e+00	StimUp	15	13	e19.jpg	199	476	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.162288e+01	3.157100e+00	StimUp	16	14	e19.jpg	190	469	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.178495e+01	3.319177e+00	StimUp	17	15	e19.jpg	238	468	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.194701e+01	3.481234e+00	StimUp	18	16	e19.jpg	247	492	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.216955e+01	3.703776e+00	StimUp	19	17	e19.jpg	215	504	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.232155e+01	3.855769e+00	StimUp	20	18	e19.jpg	238	513	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.250384e+01	4.038067e+00	StimUp	21	19	e19.jpg	269	406	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.264590e+01	4.180119e+00	StimUp	22	20	e19.jpg	266	429	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.282820e+01	4.362424e+00	StimUp	23	21	e19.jpg	282	486	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.297019e+01	4.504409e+00	StimUp	24	22	e19.jpg	257	544	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.316246e+01	4.696685e+00	StimUp	25	23	e19.jpg	199	571	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.332459e+01	4.858811e+00	StimUp	26	24	e19.jpg	207	528	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.349675e+01	5.030972e+00	StimUp	27	25	e19.jpg	302	506	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.365889e+01	5.193114e+00	StimUp	28	26	e19.jpg	268	486	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.384116e+01	5.375381e+00	StimUp	29	27	e19.jpg	254	616	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.399326e+01	5.527479e+00	StimUp	30	28	e19.jpg	184	548	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.417550e+01	5.709726e+00	StimUp	31	29	e19.jpg	161	498	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.433770e+01	5.871921e+00	StimUp	32	30	e19.jpg	213	501	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.449982e+01	6.034037e+00	StimUp	33	31	e19.jpg	238	508	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.466205e+01	6.196268e+00	StimUp	34	32	e19.jpg	229	467	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.486442e+01	6.398647e+00	StimUp	35	33	e19.jpg	193	488	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.501645e+01	6.550668e+00	StimUp	36	34	e19.jpg	235	493	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.518869e+01	6.722910e+00	StimUp	37	35	e19.jpg	247	451	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.536084e+01	6.895063e+00	StimUp	38	36	e19.jpg	291	495	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.554308e+01	7.077301e+00	StimUp	39	37	e19.jpg	260	520	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.571532e+01	7.249543e+00	StimUp	40	38	e19.jpg	254	507	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.587744e+01	7.411664e+00	StimUp	41	39	e19.jpg	226	483	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.605965e+01	7.593867e+00	StimUp	42	40	e19.jpg	214	519	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.618137e+01	7.715595e+00	StimUp	43	41	e19.jpg	259	532	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.637360e+01	7.907825e+00	StimUp	44	42	e19.jpg	267	472	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.656588e+01	8.100098e+00	StimUp	45	43	e19.jpg	293	504	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.675819e+01	8.292408e+00	StimUp	46	44	e19.jpg	427	511	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.738364e+01	8.917865e+00	StimUp	47	45	e19.jpg	749	508	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.754587e+01	9.080088e+00	StimUp	48	46	e19.jpg	762	511	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.770798e+01	9.242204e+00	StimUp	49	47	e19.jpg	772	512	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.787007e+01	9.404296e+00	StimUp	50	48	e19.jpg	767	509	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.799187e+01	9.526088e+00	StimUp	51	49	e19.jpg	763	509	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.818413e+01	9.718351e+00	StimUp	52	50	e19.jpg	739	494	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	3	Vert	IncorrectMinorV	6.837644e+01	9.910660e+00	StimUp	53	51	e19.jpg	757	507	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	 	6.855319e+01	7.179641e-02	ITI	1	1	e19.jpg	764	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	 	7.611450e+01	4.629052e+00	StartStim	2	1	 	511	518	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.627153e+01	1.314172e-01	StimUp	3	1	a50.jpg	511	518	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.688686e+01	7.467472e-01	StimUp	4	2	a50.jpg	296	517	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.706933e+01	9.292213e-01	StimUp	5	3	a50.jpg	263	508	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.721117e+01	1.071058e+00	StimUp	6	4	a50.jpg	263	507	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.739345e+01	1.253340e+00	StimUp	7	5	a50.jpg	282	484	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.757591e+01	1.435800e+00	StimUp	8	6	a50.jpg	303	508	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.772803e+01	1.587923e+00	StimUp	9	7	a50.jpg	225	507	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.789009e+01	1.749984e+00	StimUp	10	8	a50.jpg	222	507	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.825349e+01	2.113384e+00	StimUp	11	9	a50.jpg	228	511	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.835512e+01	2.215012e+00	StimUp	12	10	a50.jpg	228	511	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	7.853743e+01	2.397319e+00	StimUp	13	11	a50.jpg	241	497	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	8.384969e+01	7.709581e+00	StimUp	14	12	a50.jpg	772	499	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	4	Vert	FollowedV	8.403282e+01	7.892710e+00	StimUp	15	13	a50.jpg	770	502	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	 	9.153266e+01	2.357143e+00	StartStim	1	1	 	514	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	 	9.260004e+01	3.424522e+00	StartStim	2	2	 	501	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	 	9.303361e+01	3.858095e+00	StartStim	3	3	 	502	504	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.387181e+01	8.060607e-01	StimUp	4	1	a11.jpg	286	544	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.402401e+01	9.582567e-01	StimUp	5	2	a11.jpg	267	539	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.418610e+01	1.120352e+00	StimUp	6	3	a11.jpg	212	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.436821e+01	1.302459e+00	StimUp	7	4	a11.jpg	217	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.460063e+01	1.534877e+00	StimUp	8	5	a11.jpg	217	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.479291e+01	1.727164e+00	StimUp	9	6	a11.jpg	219	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.498514e+01	1.919393e+00	StimUp	10	7	a11.jpg	214	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.514713e+01	2.081378e+00	StimUp	11	8	a11.jpg	215	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.533927e+01	2.273522e+00	StimUp	12	9	a11.jpg	216	535	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	9.552157e+01	2.455821e+00	StimUp	13	10	a11.jpg	216	535	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.010401e+02	7.974328e+00	StimUp	14	11	a11.jpg	776	507	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.013128e+02	8.247059e+00	StimUp	15	12	a11.jpg	760	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.014853e+02	8.419556e+00	StimUp	16	13	a11.jpg	771	518	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.016575e+02	8.591732e+00	StimUp	17	14	a11.jpg	771	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.018196e+02	8.753866e+00	StimUp	18	15	a11.jpg	755	499	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.019918e+02	8.926095e+00	StimUp	19	16	a11.jpg	736	535	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.021540e+02	9.088239e+00	StimUp	20	17	a11.jpg	756	512	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.023059e+02	9.240173e+00	StimUp	21	18	a11.jpg	758	505	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.024580e+02	9.392268e+00	StimUp	22	19	a11.jpg	776	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.026806e+02	9.614821e+00	StimUp	23	20	a11.jpg	764	463	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	5	Vert	FollowedV	1.029735e+02	9.907739e+00	StimUp	24	21	a11.jpg	776	485	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	6	Vert	 	1.031492e+02	5.166021e-02	ITI	1	1	a11.jpg	773	496	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	6	Vert	 	1.145713e+02	8.470275e+00	StartStim	2	1	 	511	509	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	6	Vert	FollowedV	1.198405e+02	5.252441e+00	StimUp	3	1	a51.jpg	226	526	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	6	Vert	FollowedV	1.200227e+02	5.434695e+00	StimUp	4	2	a51.jpg	231	526	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:10	1	6	Vert	FollowedV	1.201948e+02	5.606762e+00	StimUp	5	3	a51.jpg	229	516	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	6	Vert	FollowedV	1.206387e+02	6.050636e+00	StimUp	6	4	a51.jpg	295	534	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	6	Vert	FollowedV	1.208109e+02	6.222905e+00	StimUp	7	5	a51.jpg	282	521	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	6	Vert	FollowedV	1.209930e+02	6.404995e+00	StimUp	8	6	a51.jpg	281	521	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	6	Vert	FollowedV	1.213461e+02	6.758080e+00	StimUp	9	7	a51.jpg	280	523	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	7	Vert	 	1.294959e+02	1.873903e+00	StartStim	1	1	 	501	522	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	 	1.433049e+02	7.572114e-01	StartStim	1	1	 	501	498	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.441763e+02	8.563494e-01	StimUp	2	1	a12.jpg	360	507	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.444794e+02	1.159470e+00	StimUp	3	2	a12.jpg	271	479	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.447726e+02	1.452642e+00	StimUp	4	3	a12.jpg	350	293	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.449448e+02	1.624837e+00	StimUp	5	4	a12.jpg	439	474	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.451068e+02	1.786865e+00	StimUp	6	5	a12.jpg	623	453	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.452588e+02	1.938893e+00	StimUp	7	6	a12.jpg	652	409	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.454008e+02	2.080878e+00	StimUp	8	7	a12.jpg	800	641	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.455529e+02	2.232927e+00	StimUp	9	8	a12.jpg	803	587	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.457150e+02	2.395013e+00	StimUp	10	9	a12.jpg	739	506	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.458871e+02	2.567170e+00	StimUp	11	10	a12.jpg	782	538	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.460894e+02	2.769428e+00	StimUp	12	11	a12.jpg	762	526	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.462513e+02	2.931319e+00	StimUp	13	12	a12.jpg	762	525	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.464234e+02	3.103479e+00	StimUp	14	13	a12.jpg	765	504	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.465856e+02	3.265679e+00	StimUp	15	14	a12.jpg	683	505	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.467477e+02	3.427783e+00	StimUp	16	15	a12.jpg	352	558	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.468897e+02	3.569773e+00	StimUp	17	16	a12.jpg	295	497	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.470317e+02	3.711757e+00	StimUp	18	17	a12.jpg	257	458	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.472241e+02	3.904109e+00	StimUp	19	18	a12.jpg	159	460	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.473863e+02	4.066365e+00	StimUp	20	19	a12.jpg	169	521	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.475485e+02	4.228494e+00	StimUp	21	20	a12.jpg	205	482	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.477306e+02	4.410692e+00	StimUp	22	21	a12.jpg	247	519	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.479129e+02	4.592920e+00	StimUp	23	22	a12.jpg	205	582	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	8	Vert	FollowedV	1.480649e+02	4.744895e+00	StimUp	24	23	a12.jpg	209	449	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:11	1	9	Vert	 	1.804613e+02	2.411009e+01	StartStim	1	1	 	513	507	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.809604e+02	4.838732e-01	StimUp	2	1	e11.jpg	747	542	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.811125e+02	6.359456e-01	StimUp	3	2	e11.jpg	786	479	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.812745e+02	7.979111e-01	StimUp	4	3	e11.jpg	771	488	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.814568e+02	9.802155e-01	StimUp	5	4	e11.jpg	769	502	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.816089e+02	1.132340e+00	StimUp	6	5	e11.jpg	748	541	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.817810e+02	1.304491e+00	StimUp	7	6	e11.jpg	722	502	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.819431e+02	1.466533e+00	StimUp	8	7	e11.jpg	748	504	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.821152e+02	1.638632e+00	StimUp	9	8	e11.jpg	783	532	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.822570e+02	1.780498e+00	StimUp	10	9	e11.jpg	782	519	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.823991e+02	1.922560e+00	StimUp	11	10	e11.jpg	774	507	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.825713e+02	2.094753e+00	StimUp	12	11	e11.jpg	776	554	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.827535e+02	2.276984e+00	StimUp	13	12	e11.jpg	733	499	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.829256e+02	2.449096e+00	StimUp	14	13	e11.jpg	756	506	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.830876e+02	2.611103e+00	StimUp	15	14	e11.jpg	764	513	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.832496e+02	2.773090e+00	StimUp	16	15	e11.jpg	769	507	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.834016e+02	2.925081e+00	StimUp	17	16	e11.jpg	788	513	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.835939e+02	3.117338e+00	StimUp	18	17	e11.jpg	782	488	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.837560e+02	3.279409e+00	StimUp	19	18	e11.jpg	772	520	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.839280e+02	3.451504e+00	StimUp	20	19	e11.jpg	759	497	Button	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.892507e+02	8.774141e+00	StimUp	21	20	e11.jpg	818	529	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.894432e+02	8.966655e+00	StimUp	22	21	e11.jpg	801	479	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.902797e+02	9.803181e+00	StimUp	23	22	e11.jpg	720	503	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	9	Vert	IncorrectMinorV	1.904420e+02	9.965424e+00	StimUp	24	23	e11.jpg	754	529	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.906179e+02	1.223847e-01	ITI	1	1	e11.jpg	744	494	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.908103e+02	3.147764e-01	ITI	2	2	e11.jpg	798	577	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.913851e+02	8.896460e-01	ITI	3	3	e11.jpg	698	552	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.918088e+02	1.313352e+00	ITI	4	4	e11.jpg	672	544	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.920214e+02	1.525936e+00	ITI	5	5	e11.jpg	569	415	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.921734e+02	1.677932e+00	ITI	6	6	e11.jpg	575	412	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.924263e+02	1.930855e+00	ITI	7	7	e11.jpg	421	655	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.925583e+02	2.062784e+00	ITI	8	8	e11.jpg	387	578	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.927304e+02	2.234937e+00	ITI	9	9	e11.jpg	415	464	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.929126e+02	2.417133e+00	ITI	10	10	e11.jpg	498	468	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.931048e+02	2.609361e+00	ITI	11	11	e11.jpg	475	351	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.932669e+02	2.771367e+00	ITI	12	12	e11.jpg	552	518	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.934289e+02	2.933431e+00	ITI	13	13	e11.jpg	697	486	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.936373e+02	1.337679e-01	StartStim	14	1	 	818	475	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	 	1.938094e+02	3.059388e-01	StartStim	15	2	 	511	521	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.940064e+02	1.818956e-01	StimUp	16	1	a42.jpg	458	487	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.946822e+02	8.577902e-01	StimUp	17	2	a42.jpg	438	424	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.948947e+02	1.070292e+00	StimUp	18	3	a42.jpg	310	446	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.950369e+02	1.212398e+00	StimUp	19	4	a42.jpg	265	524	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.952091e+02	1.384598e+00	StimUp	20	5	a42.jpg	231	581	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.953914e+02	1.566927e+00	StimUp	21	6	a42.jpg	192	491	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.955434e+02	1.718978e+00	StimUp	22	7	a42.jpg	248	504	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.956854e+02	1.860989e+00	StimUp	23	8	a42.jpg	318	569	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.958878e+02	2.063374e+00	StimUp	24	9	a42.jpg	320	445	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.960397e+02	2.215292e+00	StimUp	25	10	a42.jpg	321	447	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.962219e+02	2.397477e+00	StimUp	26	11	a42.jpg	246	468	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.963740e+02	2.549571e+00	StimUp	27	12	a42.jpg	120	405	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.965563e+02	2.731811e+00	StimUp	28	13	a42.jpg	139	450	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.967385e+02	2.914086e+00	StimUp	29	14	a42.jpg	226	464	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.969107e+02	3.086260e+00	StimUp	30	15	a42.jpg	340	435	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	1.971030e+02	3.278542e+00	StimUp	31	16	a42.jpg	328	515	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	2.024963e+02	8.671820e+00	StimUp	32	17	a42.jpg	529	568	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	10	Vert	FollowedV	2.027290e+02	8.904496e+00	StimUp	33	18	a42.jpg	409	625	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	 	2.092374e+02	2.386231e+00	StartStim	1	1	 	397	608	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	 	2.094500e+02	2.598817e+00	StartStim	2	2	 	513	515	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.096249e+02	1.517620e-01	StimUp	3	1	a43.jpg	578	536	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.106126e+02	1.139460e+00	StimUp	4	2	a43.jpg	142	565	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.108150e+02	1.341858e+00	StimUp	5	3	a43.jpg	237	500	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.109871e+02	1.514034e+00	StimUp	6	4	a43.jpg	279	497	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.111593e+02	1.686220e+00	StimUp	7	5	a43.jpg	524	496	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.113315e+02	1.858372e+00	StimUp	8	6	a43.jpg	702	464	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.114936e+02	2.020474e+00	StimUp	9	7	a43.jpg	721	471	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.116859e+02	2.212834e+00	StimUp	10	8	a43.jpg	733	487	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.119990e+02	2.525871e+00	StimUp	11	9	a43.jpg	781	512	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.121610e+02	2.687922e+00	StimUp	12	10	a43.jpg	766	507	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.122827e+02	2.809656e+00	StimUp	13	11	a43.jpg	766	507	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.124347e+02	2.961570e+00	StimUp	14	12	a43.jpg	766	507	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.125866e+02	3.113509e+00	StimUp	15	13	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.127687e+02	3.295598e+00	StimUp	16	14	a43.jpg	768	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.129206e+02	3.447494e+00	StimUp	17	15	a43.jpg	768	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.130825e+02	3.609423e+00	StimUp	18	16	a43.jpg	768	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.133048e+02	3.831680e+00	StimUp	19	17	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.135271e+02	4.054009e+00	StimUp	20	18	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.137092e+02	4.236134e+00	StimUp	21	19	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.139114e+02	4.438323e+00	StimUp	22	20	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.140834e+02	4.610269e+00	StimUp	23	21	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.142956e+02	4.822486e+00	StimUp	24	22	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.145179e+02	5.044825e+00	StimUp	25	23	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.147403e+02	5.267188e+00	StimUp	26	24	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.149123e+02	5.439205e+00	StimUp	27	25	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.151044e+02	5.631271e+00	StimUp	28	26	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.153166e+02	5.843487e+00	StimUp	29	27	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.155590e+02	6.085944e+00	StimUp	30	28	a43.jpg	767	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.158116e+02	6.338493e+00	StimUp	31	29	a43.jpg	767	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.160239e+02	6.550847e+00	StimUp	32	30	a43.jpg	766	514	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.167797e+02	7.306561e+00	StimUp	33	31	a43.jpg	770	520	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.172133e+02	7.740194e+00	StimUp	34	32	a43.jpg	770	520	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.177274e+02	8.254313e+00	StimUp	35	33	a43.jpg	770	520	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.180707e+02	8.597567e+00	StimUp	36	34	a43.jpg	741	498	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.182630e+02	8.789947e+00	StimUp	37	35	a43.jpg	772	506	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.184251e+02	8.951963e+00	StimUp	38	36	a43.jpg	776	507	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.185972e+02	9.124128e+00	StimUp	39	37	a43.jpg	777	513	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.187692e+02	9.296130e+00	StimUp	40	38	a43.jpg	778	513	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.191426e+02	9.669511e+00	StimUp	41	39	a43.jpg	781	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	11	Vert	FollowedV	2.193449e+02	9.871760e+00	StimUp	42	40	a43.jpg	783	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.197720e+02	2.832212e-01	ITI	1	1	a43.jpg	788	505	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.199440e+02	4.552962e-01	ITI	2	2	a43.jpg	790	505	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.201463e+02	6.575156e-01	ITI	3	3	a43.jpg	797	513	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.203486e+02	8.598365e-01	ITI	4	4	a43.jpg	797	514	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.205510e+02	1.062287e+00	ITI	5	5	a43.jpg	798	519	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.207434e+02	1.254625e+00	ITI	6	6	a43.jpg	772	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.209557e+02	1.466942e+00	ITI	7	7	a43.jpg	774	504	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.212182e+02	1.729444e+00	ITI	8	8	a43.jpg	775	503	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.215512e+02	2.062450e+00	ITI	9	9	a43.jpg	775	503	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.218442e+02	2.355482e+00	ITI	10	10	a43.jpg	775	451	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.220566e+02	2.567869e+00	ITI	11	11	a43.jpg	794	476	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.222790e+02	2.790285e+00	ITI	12	12	a43.jpg	787	462	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.225278e+02	3.302325e-02	StartStim	13	1	 	835	506	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.229513e+02	4.564682e-01	StartStim	14	2	 	831	475	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.231836e+02	6.888184e-01	StartStim	15	3	 	842	458	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.235971e+02	1.102283e+00	StartStim	16	4	 	849	458	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.237791e+02	1.284354e+00	StartStim	17	5	 	849	460	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.249270e+02	2.432212e+00	StartStim	18	6	 	854	503	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.256228e+02	3.128027e+00	StartStim	19	7	 	442	498	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.257748e+02	3.279987e+00	StartStim	20	8	 	444	519	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.259367e+02	3.441866e+00	StartStim	21	9	 	503	530	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	12	Vert	 	2.261288e+02	3.633963e+00	StartStim	22	10	 	525	502	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.373349e+02	1.178478e+00	ITI	1	1	e19.jpg	511	541	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.377591e+02	1.602643e+00	ITI	2	2	e19.jpg	350	485	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.380320e+02	1.875539e+00	ITI	3	3	e19.jpg	449	521	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.383350e+02	2.178579e+00	ITI	4	4	e19.jpg	563	513	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.386885e+02	2.532086e+00	ITI	5	5	e19.jpg	343	493	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.388406e+02	2.684144e+00	ITI	6	6	e19.jpg	370	473	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.390228e+02	2.866361e+00	ITI	7	7	e19.jpg	475	510	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.393219e+02	1.537876e-01	StartStim	8	1	 	536	383	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.395143e+02	3.461937e-01	StartStim	9	2	 	608	515	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	 	2.397066e+02	5.384734e-01	StartStim	10	3	 	527	510	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	FollowedV	2.398939e+02	1.717400e-01	StimUp	11	1	a51.jpg	518	508	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:12	1	13	Vert	FollowedV	2.404586e+02	7.364359e-01	StimUp	12	2	a51.jpg	0	532	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.406509e+02	9.287313e-01	StimUp	13	3	a51.jpg	43	519	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.408129e+02	1.090799e+00	StimUp	14	4	a51.jpg	98	522	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.409951e+02	1.272979e+00	StimUp	15	5	a51.jpg	132	568	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.411773e+02	1.455179e+00	StimUp	16	6	a51.jpg	146	592	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.413596e+02	1.637430e+00	StimUp	17	7	a51.jpg	112	560	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.415317e+02	1.809593e+00	StimUp	18	8	a51.jpg	157	576	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.417343e+02	2.012132e+00	StimUp	19	9	a51.jpg	171	602	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.419065e+02	2.184345e+00	StimUp	20	10	a51.jpg	43	570	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.421390e+02	2.416879e+00	StimUp	21	11	a51.jpg	210	495	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.423010e+02	2.578897e+00	StimUp	22	12	a51.jpg	215	485	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.425035e+02	2.781425e+00	StimUp	23	13	a51.jpg	599	0	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.426959e+02	2.973795e+00	StimUp	24	14	a51.jpg	469	316	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.428580e+02	3.135895e+00	StimUp	25	15	a51.jpg	214	454	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.430301e+02	3.307979e+00	StimUp	26	16	a51.jpg	201	440	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.432023e+02	3.480197e+00	StimUp	27	17	a51.jpg	289	472	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.434047e+02	3.682583e+00	StimUp	28	18	a51.jpg	293	494	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.435971e+02	3.874970e+00	StimUp	29	19	a51.jpg	223	505	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.437593e+02	4.037127e+00	StimUp	30	20	a51.jpg	180	484	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.439314e+02	4.209263e+00	StimUp	31	21	a51.jpg	208	548	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	13	Vert	FollowedV	2.441337e+02	4.411591e+00	StimUp	32	22	a51.jpg	290	510	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.610769e+02	8.329053e+00	StartStim	1	1	 	571	470	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.613799e+02	8.631988e+00	StartStim	2	2	 	535	526	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.615419e+02	8.794045e+00	StartStim	3	3	 	478	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.617442e+02	8.996348e+00	StartStim	4	4	 	480	478	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.618760e+02	9.128141e+00	StartStim	5	5	 	486	517	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.620680e+02	9.320149e+00	StartStim	6	6	 	485	535	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.623106e+02	9.562720e+00	StartStim	7	7	 	556	480	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.625030e+02	9.755069e+00	StartStim	8	8	 	497	534	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.626952e+02	9.947314e+00	StartStim	9	9	 	509	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.628572e+02	1.010931e+01	StartStim	10	10	 	557	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.630795e+02	1.033163e+01	StartStim	11	11	 	457	463	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.632314e+02	1.048348e+01	StartStim	12	12	 	493	484	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	 	2.633834e+02	1.063546e+01	StartStim	13	13	 	516	517	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.635599e+02	1.616369e-01	StimUp	14	1	a10.jpg	511	529	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.677464e+02	4.348121e+00	StimUp	15	2	a10.jpg	396	608	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.679690e+02	4.570677e+00	StimUp	16	3	a10.jpg	237	504	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.681311e+02	4.732772e+00	StimUp	17	4	a10.jpg	228	503	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.683133e+02	4.914997e+00	StimUp	18	5	a10.jpg	368	542	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.685058e+02	5.107470e+00	StimUp	19	6	a10.jpg	256	515	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.686478e+02	5.249498e+00	StimUp	20	7	a10.jpg	266	513	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.688402e+02	5.441848e+00	StimUp	21	8	a10.jpg	382	410	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.689922e+02	5.593849e+00	StimUp	22	9	a10.jpg	347	448	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.691744e+02	5.776109e+00	StimUp	23	10	a10.jpg	214	609	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.693365e+02	5.938167e+00	StimUp	24	11	a10.jpg	165	586	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.695188e+02	6.120540e+00	StimUp	25	12	a10.jpg	171	517	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.697112e+02	6.312863e+00	StimUp	26	13	a10.jpg	229	517	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.700546e+02	6.656289e+00	StimUp	27	14	a10.jpg	172	500	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.702270e+02	6.828655e+00	StimUp	28	15	a10.jpg	153	434	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.705603e+02	7.162011e+00	StimUp	29	16	a10.jpg	179	445	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.707224e+02	7.324137e+00	StimUp	30	17	a10.jpg	214	465	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.709147e+02	7.516416e+00	StimUp	31	18	a10.jpg	223	435	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	14	Vert	FollowedV	2.710666e+02	7.668325e+00	StimUp	32	19	a10.jpg	236	439	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.970410e+02	1.771100e+01	StartStim	1	1	 	472	569	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.972232e+02	1.789321e+01	StartStim	2	2	 	487	512	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.974161e+02	1.808605e+01	StartStim	3	3	 	565	535	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.975994e+02	1.826936e+01	StartStim	4	4	 	489	521	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.977615e+02	1.843148e+01	StartStim	5	5	 	492	508	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	 	2.979033e+02	1.857332e+01	StartStim	6	6	 	512	513	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.980799e+02	1.616912e-01	StimUp	7	1	a12.jpg	533	552	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.982823e+02	3.641283e-01	StimUp	8	2	a12.jpg	512	506	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.986560e+02	7.378214e-01	StimUp	9	3	a12.jpg	207	476	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.988485e+02	9.302764e-01	StimUp	10	4	a12.jpg	366	422	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.991826e+02	1.264397e+00	StimUp	11	5	a12.jpg	254	508	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.993553e+02	1.437112e+00	StimUp	12	6	a12.jpg	245	482	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	2.997594e+02	1.841263e+00	StimUp	13	7	a12.jpg	882	470	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	3.003142e+02	2.396002e+00	StimUp	14	8	a12.jpg	764	523	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:13	1	15	Vert	FollowedV	3.004462e+02	2.528044e+00	StimUp	15	9	a12.jpg	764	523	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.007894e+02	2.871227e+00	StimUp	16	10	a12.jpg	763	515	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.009313e+02	3.013108e+00	StimUp	17	11	a12.jpg	765	515	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.010932e+02	3.174987e+00	StimUp	18	12	a12.jpg	765	515	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.012449e+02	3.326758e+00	StimUp	19	13	a12.jpg	765	515	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.014486e+02	3.530367e+00	StimUp	20	14	a12.jpg	774	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.016308e+02	3.712619e+00	StimUp	21	15	a12.jpg	767	506	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.018230e+02	3.904858e+00	StimUp	22	16	a12.jpg	766	513	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.020153e+02	4.097102e+00	StimUp	23	17	a12.jpg	752	505	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.021874e+02	4.269227e+00	StimUp	24	18	a12.jpg	778	513	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.023595e+02	4.441298e+00	StimUp	25	19	a12.jpg	791	522	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.027227e+02	4.804526e+00	StimUp	26	20	a12.jpg	796	523	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.029049e+02	4.986742e+00	StimUp	27	21	a12.jpg	784	521	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.030871e+02	5.168883e+00	StimUp	28	22	a12.jpg	771	517	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.032893e+02	5.371106e+00	StimUp	29	23	a12.jpg	768	513	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.034615e+02	5.543269e+00	StimUp	30	24	a12.jpg	764	529	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.036235e+02	5.705300e+00	StimUp	31	25	a12.jpg	763	525	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.038157e+02	5.897533e+00	StimUp	32	26	a12.jpg	785	481	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.039475e+02	6.029332e+00	StimUp	33	27	a12.jpg	786	496	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.041498e+02	6.231640e+00	StimUp	34	28	a12.jpg	763	511	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.043119e+02	6.393702e+00	StimUp	35	29	a12.jpg	767	505	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.044639e+02	6.545754e+00	StimUp	36	30	a12.jpg	774	512	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.046764e+02	6.758236e+00	StimUp	37	31	a12.jpg	740	502	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.050600e+02	7.141848e+00	StimUp	38	32	a12.jpg	772	488	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.052423e+02	7.324155e+00	StimUp	39	33	a12.jpg	719	545	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.054547e+02	7.536533e+00	StimUp	40	34	a12.jpg	745	534	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.056067e+02	7.688511e+00	StimUp	41	35	a12.jpg	747	533	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.059600e+02	8.041815e+00	StimUp	42	36	a12.jpg	782	500	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.061422e+02	8.224053e+00	StimUp	43	37	a12.jpg	771	511	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.063043e+02	8.386087e+00	StimUp	44	38	a12.jpg	768	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.064876e+02	8.569377e+00	StimUp	45	39	a12.jpg	770	510	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.066799e+02	8.761722e+00	StimUp	46	40	a12.jpg	747	502	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.068621e+02	8.943896e+00	StimUp	47	41	a12.jpg	772	509	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.070341e+02	9.115901e+00	StimUp	48	42	a12.jpg	775	504	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.072363e+02	9.318066e+00	StimUp	49	43	a12.jpg	776	519	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.074387e+02	9.520546e+00	StimUp	50	44	a12.jpg	740	496	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	15	Vert	FollowedV	3.076210e+02	9.702833e+00	StimUp	51	45	a12.jpg	772	504	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.079575e+02	2.154130e-02	ITI	1	1	a12.jpg	765	504	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.081497e+02	2.137713e-01	ITI	2	2	a12.jpg	766	508	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.083117e+02	3.757358e-01	ITI	3	3	a12.jpg	774	510	Button	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.197356e+02	8.793555e+00	StartStim	4	1	 	543	492	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.200786e+02	9.136552e+00	StartStim	5	2	 	534	496	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.202707e+02	9.328671e+00	StartStim	6	3	 	532	512	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.204226e+02	9.480576e+00	StartStim	7	4	 	529	512	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	 	3.206553e+02	9.713225e+00	StartStim	8	5	 	517	521	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.207918e+02	1.212623e-01	StimUp	9	1	e25.jpg	503	517	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.212558e+02	5.853353e-01	StimUp	10	2	e25.jpg	47	560	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.214583e+02	7.878294e-01	StimUp	11	3	e25.jpg	86	530	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.216305e+02	9.599701e-01	StimUp	12	4	e25.jpg	216	528	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.218227e+02	1.152166e+00	StimUp	13	5	e25.jpg	229	527	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.219947e+02	1.324186e+00	StimUp	14	6	e25.jpg	232	519	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.221466e+02	1.476084e+00	StimUp	15	7	e25.jpg	230	514	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.223187e+02	1.648165e+00	StimUp	16	8	e25.jpg	239	503	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.224516e+02	1.781120e+00	StimUp	17	9	e25.jpg	250	485	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.226238e+02	1.953310e+00	StimUp	18	10	e25.jpg	298	532	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.227960e+02	2.125484e+00	StimUp	19	11	e25.jpg	261	505	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.229581e+02	2.287540e+00	StimUp	20	12	e25.jpg	222	498	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.231099e+02	2.439415e+00	StimUp	21	13	e25.jpg	228	518	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.232719e+02	2.601420e+00	StimUp	22	14	e25.jpg	293	562	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.234239e+02	2.753417e+00	StimUp	23	15	e25.jpg	581	514	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.236464e+02	2.975932e+00	StimUp	24	16	e25.jpg	754	496	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.238691e+02	3.198550e+00	StimUp	25	17	e25.jpg	806	506	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.240514e+02	3.380882e+00	StimUp	26	18	e25.jpg	769	510	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.242235e+02	3.552946e+00	StimUp	27	19	e25.jpg	764	509	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.243754e+02	3.704838e+00	StimUp	28	20	e25.jpg	775	512	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.245374e+02	3.866890e+00	StimUp	29	21	e25.jpg	786	517	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.247599e+02	4.089406e+00	StimUp	30	22	e25.jpg	759	509	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.250830e+02	4.412461e+00	StimUp	31	23	e25.jpg	759	507	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.252551e+02	4.584543e+00	StimUp	32	24	e25.jpg	770	510	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	16	Vert	IncorrectMinorV	3.254171e+02	4.746541e+00	StimUp	33	25	e25.jpg	770	510	Button	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	 	3.427176e+02	9.024025e+00	StartStim	1	1	 	484	448	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	 	3.428697e+02	9.176068e+00	StartStim	2	2	 	553	505	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	 	3.430416e+02	9.348058e+00	StartStim	3	3	 	514	542	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	 	3.432036e+02	9.509997e+00	StartStim	4	4	 	504	511	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.433803e+02	1.617465e-01	StimUp	5	1	a10.jpg	538	519	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.438558e+02	6.372433e-01	StimUp	6	2	a10.jpg	196	509	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.440381e+02	8.195396e-01	StimUp	7	3	a10.jpg	204	495	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.442001e+02	9.815975e-01	StimUp	8	4	a10.jpg	240	497	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.443823e+02	1.163774e+00	StimUp	9	5	a10.jpg	208	500	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.445141e+02	1.295609e+00	StimUp	10	6	a10.jpg	215	501	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.446863e+02	1.467790e+00	StimUp	11	7	a10.jpg	224	503	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.448383e+02	1.619791e+00	StimUp	12	8	a10.jpg	231	507	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.450305e+02	1.812011e+00	StimUp	13	9	a10.jpg	259	516	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.451522e+02	1.933696e+00	StimUp	14	10	a10.jpg	257	516	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.453846e+02	2.166101e+00	StimUp	15	11	a10.jpg	256	516	Stim	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:14	1	17	Vert	FollowedV	3.456070e+02	2.388467e+00	StimUp	16	12	a10.jpg	256	516	Stim	1	1	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	 	3.693422e+02	1.309835e+01	StartStim	1	1	 	312	493	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	 	3.696262e+02	1.338242e+01	StartStim	2	2	 	499	512	Stim	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.698301e+02	1.817567e-01	StimUp	3	1	e28.jpg	517	508	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.706467e+02	9.983139e-01	StimUp	4	2	e28.jpg	806	533	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.710001e+02	1.351721e+00	StimUp	5	3	e28.jpg	788	503	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.712025e+02	1.554124e+00	StimUp	6	4	e28.jpg	745	542	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.713443e+02	1.695929e+00	StimUp	7	5	e28.jpg	744	541	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.715265e+02	1.878151e+00	StimUp	8	6	e28.jpg	752	522	Screen	0	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.716887e+02	2.040295e+00	StimUp	9	7	e28.jpg	759	516	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.718708e+02	2.222401e+00	StimUp	10	8	e28.jpg	759	515	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.720328e+02	2.384414e+00	StimUp	11	9	e28.jpg	762	515	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.721948e+02	2.546453e+00	StimUp	12	10	e28.jpg	772	518	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.723267e+02	2.678290e+00	StimUp	13	11	e28.jpg	773	518	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.725089e+02	2.860532e+00	StimUp	14	12	e28.jpg	772	518	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.726911e+02	3.042774e+00	StimUp	15	13	e28.jpg	770	506	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.728632e+02	3.214863e+00	StimUp	16	14	e28.jpg	774	506	Button	1	0	P019A Super Remdial Vert	
+MaryTest4	January18	18-Jan-2017	16:15	1	18	Vert	IncorrectMinorV	3.731661e+02	3.517735e+00	StimUp	17	15	e28.jpg	780	504	Button	1	1	P019A Super Remdial Vert	

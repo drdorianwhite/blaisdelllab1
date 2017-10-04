@@ -1,0 +1,20 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	MaryTest2	October3	03-Oct-2017	15:10	1	1	Hort	 	7.555214e+00	1.606336e+00	StartStim	1	1	 	515	514	Stim	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:10	1	1	Hort	H Minor	7.947161e+00	2.357627e-01	StimUp	2	1	w13.jpg	519	519	Stim	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	 	4.277492e+01	2.025335e+00	StartStim	1	1	 	501	531	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	 	4.359758e+01	2.847992e+00	StartStim	2	2	 	536	547	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	 	4.397865e+01	3.229060e+00	StartStim	3	3	 	519	531	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	 	4.433403e+01	3.584437e+00	StartStim	4	4	 	497	510	Stim	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	4.469193e+01	2.839516e-01	StimUp	5	1	h21.jpg	533	519	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	4.517300e+01	7.650216e-01	StimUp	6	2	h21.jpg	526	519	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	4.533736e+01	9.293826e-01	StimUp	7	3	h21.jpg	577	525	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	4.545085e+01	1.042866e+00	StimUp	8	4	h21.jpg	548	519	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	4.559593e+01	1.187948e+00	StimUp	9	5	h21.jpg	540	510	Stim	1	1	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	5.237627e+01	7.968290e+00	StimUp	10	6	h21.jpg	486	531	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	5.253078e+01	8.122803e+00	StimUp	11	7	h21.jpg	468	519	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	5.267400e+01	8.266019e+00	StimUp	12	8	h21.jpg	540	498	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	5.283740e+01	8.429419e+00	StimUp	13	9	h21.jpg	501	510	Stim	1	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	5.299067e+01	8.582691e+00	StimUp	14	10	h21.jpg	537	519	Stim	1	1	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	6.218601e+01	1.777802e+01	StimUp	15	11	h21.jpg	154	310	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	6.392415e+01	1.951616e+01	StimUp	16	12	h21.jpg	790	0	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	6.492196e+01	2.051398e+01	StimUp	17	13	h21.jpg	399	150	Screen	0	0	P014C Hort	
+MaryTest2	October3	03-Oct-2017	15:11	1	2	Hort	H Correct	6.582980e+01	2.142182e+01	StimUp	18	14	h21.jpg	562	82	Screen	0	0	P014C Hort	

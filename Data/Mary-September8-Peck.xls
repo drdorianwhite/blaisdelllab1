@@ -1,0 +1,25 @@
+Bird	Session number	Date	Time	Level	TrialNum	Rule	TrialType	SessionTime	StimTime	TrialPart	PeckNumber	PeckForThisStimNumber	ImageShown	PeckX	PeckY	PeckLocation	Correct?	Rewarded	CodeRun	Mary	September8	08-Sep-2017	15:2	1	1	Vert	 	2.570328e+02	2.499394e+02	StartStim	1	1	 	508	531	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	 	2.603768e+02	2.532834e+02	StartStim	2	2	 	533	492	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	 	2.607126e+02	2.536192e+02	StartStim	3	3	 	519	514	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	V Correct	2.610978e+02	2.937121e-01	StimUp	4	1	e11.jpg	508	531	Stim	1	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	V Correct	2.664935e+02	5.689389e+00	StimUp	5	2	e11.jpg	518	487	Stim	1	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	V Correct	2.666987e+02	5.894633e+00	StimUp	6	3	e11.jpg	471	541	Stim	1	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	1	Vert	V Correct	2.668519e+02	6.047780e+00	StimUp	7	4	e11.jpg	526	519	Stim	1	1	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	2	Vert	 	2.959511e+02	2.113796e+00	StartStim	1	1	 	493	510	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	2	Vert	 	2.966667e+02	2.829421e+00	StartStim	2	2	 	530	498	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	2	Vert	 	2.973113e+02	3.473995e+00	StartStim	3	3	 	530	514	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:2	1	2	Vert	 	2.976656e+02	3.828275e+00	StartStim	4	4	 	508	519	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.183802e+02	2.069374e+01	StimUp	5	1	d43.jpg	548	510	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.186236e+02	2.093717e+01	StimUp	6	2	d43.jpg	453	486	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.188258e+02	2.113933e+01	StimUp	7	3	d43.jpg	540	454	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.190078e+02	2.132133e+01	StimUp	8	4	d43.jpg	446	504	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.192200e+02	2.153352e+01	StimUp	9	5	d43.jpg	559	475	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.194026e+02	2.171617e+01	StimUp	10	6	d43.jpg	454	519	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.196048e+02	2.191833e+01	StimUp	11	7	d43.jpg	530	510	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.198068e+02	2.212037e+01	StimUp	12	8	d43.jpg	446	558	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.199988e+02	2.231233e+01	StimUp	13	9	d43.jpg	544	498	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	2	Vert	V Major	3.202008e+02	2.251437e+01	StimUp	14	10	d43.jpg	479	465	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	3	Vert	 	3.333831e+02	2.666533e+00	StartStim	1	1	 	519	514	Stim	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	3	Vert	V Major	3.402559e+02	6.853772e+00	StimUp	2	1	g50.jpg	184	293	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	3	Vert	V Major	3.420116e+02	8.609426e+00	StimUp	3	2	g50.jpg	563	0	Screen	0	0	P014C Vert	
+Mary	September8	08-Sep-2017	15:3	1	3	Vert	V Major	3.431960e+02	9.793807e+00	StimUp	4	3	g50.jpg	391	154	Screen	0	0	P014C Vert	
