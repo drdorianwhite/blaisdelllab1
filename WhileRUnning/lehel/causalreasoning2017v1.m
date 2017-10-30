@@ -11,7 +11,6 @@ function causalreasoning2017v1()
     InitilizeSession();
     SetSessionVariableDefaults();
     PromptForSessionVariables();
-    MakeDataFiles();
     
     parfeval(@RecordPecks, 0, 0); 
     
@@ -50,9 +49,9 @@ function InitilizeSession() %Function that starts the session
 
 
     HideCursor(); %This will hide the cursor
-    MakeDataFile(); %Calls the function that will make the data file
+    MakeDataFiles(); %Calls the function that will make the data file
     MakeTrialList(); %function that makes the list of trials
-
+    
     if strcmp(Session.computerNumber,'1');
         Session.hopperUp=6220;
         Session.hopperDown=1220;
@@ -154,7 +153,7 @@ function PromptForSessionVariables()
         end
     end
     
-    if Session.phaseOfExperiment == 2:
+    if Session.phaseOfExperiment == 2
         disp("Enter Phase 1 Variable Values...");
         
         i = input("Median ITI in minutes (default 5min):");
