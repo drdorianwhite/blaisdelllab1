@@ -46,6 +46,7 @@ function SFLInit()
     
     if isempty(sfm_initialized) 
         sfm_initialized = 1;
+        InitializePsychSound(1); %inidializes sound driver...the 1 pushes for low latency
     end    
 end
 
@@ -73,6 +74,7 @@ end
     % param(1): shape string (accepted values: 'FillRect' and 'FillOval')
     % param(2): 3 element int array containg RGB values for color of shape
     % param(3): 4 element array for rect position/size of shape   
+    % params(4): rgb value of window bgcolor
 function stim_handle = SFLCreateVisual(params)
     global sfm_stimuli;
     
@@ -86,8 +88,9 @@ function stim_handle = SFLCreateVisual(params)
     
     new_stim.handle = 0; % just allocate it for now...
     new_stim.shape = params(1);
-    new_stim.rgb = params(2);
-    
+    new_stim.shapecolor = params(2);
+    new_stim.shaperect = params(3);
+    new_stim.bgcolor = params(4);
     
     if exist(sfm_stimuli.visual, 'var') == 0
         sfm_stimuli.visual(1) = new_stim;
@@ -115,6 +118,16 @@ function stim_handle = SFLCreateAuditory(params)
     if params(1) ~= 'ConstantTone' && params(1) ~= 'ConstantNoise'
         error('error in SFLCreateAuditory: invalid sound function supplied!');
     end
+    
+    if params(1) == 'ConstantTone'
+        wavefile = '..\Audio\tone.wav';
+    else
+        wavefile = '..\Audio\noise.wave';
+    end
+    
+    [wavedata freq] = AUDOREAD(wavefile); % load sound file (make sure that it is in the same folder as this script
+    new_stim.pahandle = PsychPortAudio('Open', [], [], 2, freq/2, 1, 0); % opens sound buffer at a different frequency
+    PsychPortAudio('FillBuffer', new_stim.pahandle, wavedata'); % loads data into buffer
     
     new_stim.handle = 0; % just allocate it for now...
     new_stim.sound = params(1);
@@ -153,22 +166,18 @@ end
 
 % params(1): stim handle
 % params(2): window handle
-function SFLVisualOn(params)
-    
+function onset = SFLVisualOn(params)
+    global sfm_stimuli;
+    stim_data = sfm_stimuli.visual(params(1));
+    Screen('FillRect', params(2) ,stim_data.shapecolor)
+    onset = Screen('Flip',params(2)); 
 end
 
 % params(1): stim handle
-% params(2): sound driver handle
 function SFLAuditoryOn(params)
-    [wavedata freq  ] = wavread('./cow.wav'); % load sound file (make sure that it is in the same folder as this script
-    InitializePsychSound(1); %inidializes sound driver...the 1 pushes for low latency
-    pahandle = PsychPortAudio('Open', [], [], 2, freq/2, 1, 0); % opens sound buffer at a different frequency
-    PsychPortAudio('FillBuffer', pahandle, wavedata'); % loads data into buffer
-    repetitions=5; % how many repititions of the sound
-    PsychPortAudio('Start', pahandle, repetitions,0); %starts sound immediatley
-    WaitSecs(6) %waits 6 seconds for sound to play,if this wait is too short then sounds will be cutoff
-    PsychPortAudio('Stop', pahandle);% Stop sound playback
-    PsychPortAudio('Close', pahandle);% Close the audio device:
+    global sfm_stimuli;
+    stim_data = sfm_stimuli.auditory(params(1));
+    PsychPortAudio('Start', stim_data.pahandle, stim_data.repeat,0); %starts sound immediatley
 end
 
 
@@ -190,15 +199,20 @@ function SFLOff(params)
 end
 
 % params(1): stim handle
-% params(2): window handle
 function SFLVisualOff(params)
-
+    global sfm_stimuli;
+    stim_data = sfm_stimuli.visual(params(1));
+    Screen('FillRect', params(2) ,stim_data.bgcolor)
+    Screen('Flip',params(2)); 
 end
 
 % params(1): stim handle
-% params(2): sound driver handle
 function SFLAuditoryOff(params)
+    PsychPortAudio('Stop', params(1));% Stop sound playback
+end
 
+function SFLShutdown()
+    %iterate through all sound stimuli and close the audio handles
 end
 
 
