@@ -1,0 +1,206 @@
+% file: stim_functions.m
+% author: Lehel KOvach
+% date: 10/31/2017
+% title: Stimuli Functions Library
+% description:  contains utility functions for displaying visual shape stimuli and
+% auditory tone stimuli.  these functions allow for control of location,
+% color/frequency and show/hide. 
+%
+% The library is interfaced by the single function: stimfunclib, which takes
+% specific string values representing the functions in this library (i.e.,
+% 'create', 'on', 'off' and 'modify' and the second parameter being
+% a matrix containing the input parameters for the function
+% A stimuli that is instatiated through the functions, 'Create'  return a value that
+% represents a handle to the stimulus.  to present the stimulus, call
+% 'On' passing this handle as the the first parameter.  Likewise for
+% stopping the presentation with 'Off'.  To change any parameters of a
+% created stimulus (i.e., changing its color, position, frequency, etc,)
+% call the function 'Modify' with the handle of the stimulus
+
+function stimfunclib(sfl_func_name, params)
+   
+    SFLInit();
+    
+    if empty(sfl_func_name)
+        error('SFL error: SFLCall not provided a function name');
+    end
+    
+    switch sfl_func_name
+        case 'create'
+            SFLCreate(params);
+        case 'on'
+            SFLOn(params);
+        case 'off'
+            SFLOff(params);
+        case 'modify'
+            SFLModify(params);
+        otherwise
+            error('SFL error: function name supplied does not exist!');
+    end
+
+end
+
+    
+function SFLInit()
+    global sfm_initialized;
+    
+    if isempty(sfm_initialized) 
+        sfm_initialized = 1;
+    end    
+end
+
+% SFLCreate: called via stimfunclib('create', params)
+% inputs: 
+    % param(1): stimulus type (valid values = 'visual' and 'auditory')
+    % param(2): params specific to SFLCreateVisual and SFLCreateAuditory
+function SFLCreate(params)
+    if isempty(params(1))
+        error('SFL error: SFLCreate not provided a stimulus type');
+    end
+    
+    switch params(1)
+        case 'visual'
+            SFLCreateVisual(params(2:end));
+        case 'auditory'
+            SFLCreateAuditory(params(2:end));
+        otherwise
+            error('SFL error: SFLCreate given bad stimulus type');
+    end
+end
+
+% create visual stimuli (colored shape at a location)
+% input:
+    % param(1): shape string (accepted values: 'FillRect' and 'FillOval')
+    % param(2): 3 element int array containg RGB values for color of shape
+    % param(3): 4 element array for rect position/size of shape   
+function stim_handle = SFLCreateVisual(params)
+    global sfm_stimuli;
+    
+    if empty(params)
+        error('error in SFLCreateVisual: no parameter supplied!');
+    end
+    
+    if params(1) ~= 'FillRect' && params(1) ~= 'FillOval'
+        error('error in SFLCreateVisual: invalid shape function supplied!');
+    end
+    
+    new_stim.handle = 0; % just allocate it for now...
+    new_stim.shape = params(1);
+    new_stim.rgb = params(2);
+    
+    
+    if exist(sfm_stimuli.visual, 'var') == 0
+        sfm_stimuli.visual(1) = new_stim;
+    else
+        sfm_stimuli.visual(end+1) = new_stim;
+    end
+    
+    new_stim.handle = length(sfm_stimuli.visual);
+    stim_handle = new_stim.handle;
+end
+
+
+% create auditory stimuli (colored shape at a location)
+% input:
+    % param(1): sound type string (accepted values: 'ConstantTone' and 'ConstantNoise')
+    % optional param(2): number of time to repeat playing the sound file
+    % optional param(3): frequency to play sound at
+function stim_handle = SFLCreateAuditory(params)
+    global sfm_stimuli;
+    
+    if empty(params)
+        error('error in SFLCreateAuditory: no parameter supplied!');
+    end
+    
+    if params(1) ~= 'ConstantTone' && params(1) ~= 'ConstantNoise'
+        error('error in SFLCreateAuditory: invalid sound function supplied!');
+    end
+    
+    new_stim.handle = 0; % just allocate it for now...
+    new_stim.sound = params(1);
+    new_stim.repeat = params(2);
+    if exist(new_stim.repeat, 'var') == 0
+        new_stim.repeat = 0;
+    end
+    
+    
+    if exist(sfm_stimuli.auditory, 'var') == 0
+        sfm_stimuli.auditory(1) = new_stim;
+    else
+        sfm_stimuli.auditory(end+1) = new_stim;
+    end
+    
+    new_stim.handle = length(sfm_stimuli.auditory);
+    stim_handle = new_stim.handle;
+end
+
+
+
+function SFLOn(params)
+    if isempty(params(1))
+        error('SFL error: SFLOn not provided a stimulus type');
+    end
+    
+    switch params(1)
+        case 'visual'
+            SFLVisualOn(params(2:end));
+        case 'auditory'
+            SFLAuditoryOn(params(2:end));
+        otherwise
+            error('SFL error: SFLOn given bad stimulus type');
+    end
+end
+
+% params(1): stim handle
+% params(2): window handle
+function SFLVisualOn(params)
+    
+end
+
+% params(1): stim handle
+% params(2): sound driver handle
+function SFLAuditoryOn(params)
+    [wavedata freq  ] = wavread('./cow.wav'); % load sound file (make sure that it is in the same folder as this script
+    InitializePsychSound(1); %inidializes sound driver...the 1 pushes for low latency
+    pahandle = PsychPortAudio('Open', [], [], 2, freq/2, 1, 0); % opens sound buffer at a different frequency
+    PsychPortAudio('FillBuffer', pahandle, wavedata'); % loads data into buffer
+    repetitions=5; % how many repititions of the sound
+    PsychPortAudio('Start', pahandle, repetitions,0); %starts sound immediatley
+    WaitSecs(6) %waits 6 seconds for sound to play,if this wait is too short then sounds will be cutoff
+    PsychPortAudio('Stop', pahandle);% Stop sound playback
+    PsychPortAudio('Close', pahandle);% Close the audio device:
+end
+
+
+% params(1): stim type ('visual' or 'auditory')
+% parmas(2): params for subfunctions...
+function SFLOff(params)
+    if isempty(params(1))
+        error('SFL error: SFLOff not provided a stimulus type');
+    end
+    
+    switch params(1)
+        case 'visual'
+            SFLVisualOff(params(2:end));
+        case 'auditory'
+            SFLAuditoryOff(params(2:end));
+        otherwise
+            error('SFL error: SFLOff given bad stimulus type');
+    end
+end
+
+% params(1): stim handle
+% params(2): window handle
+function SFLVisualOff(params)
+
+end
+
+% params(1): stim handle
+% params(2): sound driver handle
+function SFLAuditoryOff(params)
+
+end
+
+
+
+
