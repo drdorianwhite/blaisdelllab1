@@ -20,10 +20,8 @@ function causalreasoning2017v1()
         runPhase0();
     elseif Session.phaseOfExperiment == 2
         runPhase1();
-    elseif Session.phaseOfExperiment == 3
-        runPhase2();
     else
-        runPhase3();
+        runPhase2();
     end
 
     EndSession();
@@ -70,7 +68,7 @@ function PromptForSessionVariables()
     end
     
     if Session.phaseOfExperiment == 2
-        title='Enter Phase 1 Variables';
+        title='Enter Phase 2 Variables';
         prompt={'Median ITI Minutes'; 'ITI max variance Minutes';'#Trials'; 'Type#', 'Stim On Secs'};
         lineNo=1;
         defaultVals={'5';'2';'12';'1'};
@@ -107,21 +105,6 @@ function PromptForSessionVariables()
     
     
     if Session.phaseOfExperiment == 3
-        title='Enter Phase 2 Variables';
-        prompt={'Median ITI Minutes'; 'ITI max variance Minutes';'#Trials'; 'Stim On Secs'; 'Secs between Stims'}; 
-        lineNo=1;
-        defaultVals={'5';'2';'12';'5';'2'};
-        userinput=inputdlg(prompt,title, lineNo, defaultVals);
-        
-        Session.phase2ITIMedianMinutes = str2double(userinput{1});
-        Session.phase2ITIVarianceMinuts = str2double(userinput{2});
-        Session.phase2NumTrials = str2double(userinput{3});
-        Session.phase2KeyOnSeconds = userinput{4};
-        Session.phase2HopperDownSeconds = str2double(userinput{5});
-    end
-        
-    
-    if Session.phaseOfExperiment == 4
         title='Enter Test Phase Variables';
         prompt={'0=Observ/1=Interv'; 'Observ #Presentations';'Median ITI Minutes'; 'ITI max variance Minutes'; 'Shape1 Color';'Shape2 Color';'Tone Secs On'}; 
         lineNo=1;
@@ -134,14 +117,13 @@ function PromptForSessionVariables()
         Session.phase3ITIVarianceMinuts = userinput{4};
         Session.phase3NovelShape1Color = userinput{5};
         Session.phase3InterventionTonePresentationSeconds = userinput{6};
-    end
-    
+    end  
 end
 
 function ConfigureHopperSettings()
     global Session;
     
-    if strcmp(Session.computerNumber,'1');
+    if strcmp(Session.computerNumber,'1')
         Session.hopperUp=6220;
         Session.hopperDown=1220;
         Session.port='COM4';
@@ -149,7 +131,7 @@ function ConfigureHopperSettings()
         Session.servo_setting=1220;
         Session.device=12;
     end
-    if strcmp(Session.computerNumber,'6');
+    if strcmp(Session.computerNumber,'6')
         Session.hopperUp=3500;
         Session.hopperDown=6000;
         Session.port='COM20';
@@ -157,7 +139,7 @@ function ConfigureHopperSettings()
         Session.servo_setting=4220;
         Session.device=12;
     end
-    if strcmp(Session.computerNumber,'8');
+    if strcmp(Session.computerNumber,'8')
         Session.hopperUp=4000;
         Session.hopperDown=6100;
         Session.port='COM16';
@@ -255,10 +237,6 @@ function runPhase1()
 end
 
 function runPhase2()
-
-end
-
-function runPhase3()
 
 end
 
