@@ -7,14 +7,15 @@
 
 
 function causalreasoning2017v1()
-
+    global Session;
+    
     SetSessionVariableDefaults();
     PromptForSessionVariables();
     ConfigureHopperSettings();
     MakeDataFiles(); %Calls the function that will make the data file
     InitiateDisplay();
-    parfeval(@RecordPecks, 0, 0);  %functions that monitor input (pecks) will run on separate thread... 
-    
+    disp('test1');
+ 
     if Session.phaseOfExperiment == 1
         runPhase0();
     elseif Session.phaseOfExperiment == 2
@@ -39,6 +40,8 @@ function SetSessionVariableDefaults()
     Session.keyCode = 10; %figure out what key code should be!
     Session.running = 1;
     Session.keyPecked = 0;  
+    Session.trialNumber = 0;
+    Session.trialType = 0;
 end
 
 
@@ -51,7 +54,7 @@ function PromptForSessionVariables()
     Session.computerNumber = userinput{1};
     Session.pigeonName = userinput{2};
     Session.dayOfExperiment = userinput{3};
-    Session.phaseOfExperiment = userinput{4};
+    Session.phaseOfExperiment = str2double(userinput{4});
     
     if Session.phaseOfExperiment == 1
         title='Enter Training Phase Variables';
@@ -60,53 +63,74 @@ function PromptForSessionVariables()
         defaultVals={'30';'12';'120';'5'};
         userinput=inputdlg(prompt,title, lineNo, defaultVals);
         
-        Session.maxMinutesForPhase0 = STR2DOUBLE(userinput{1});
-        Session.maxKeyOnIntervalsPhase0 = STR2DOUBLE(userinput{2});
-        Session.maxKeyOnSecondsPhase0 = STR2DOUBLE(userinput{3});
-        Session.hopperRaisedSecondsPhase0 = STR2DOUBLE(userinput{4});
+        Session.maxMinutesForPhase0 = str2double(userinput{1});
+        Session.maxKeyOnIntervalsPhase0 = str2double(userinput{2});
+        Session.maxKeyOnSecondsPhase0 = str2double(userinput{3});
+        Session.hopperRaisedSecondsPhase0 = str2double(userinput{4});
     end
     
     if Session.phaseOfExperiment == 2
         title='Enter Phase 1 Variables';
-        prompt={'Median ITI Minutes'; 'ITI max variance Minutes';'#Trials'; 'Stim Color'; 'Stim On Secs'; 'Secs between Stims'}; 
+        prompt={'Median ITI Minutes'; 'ITI max variance Minutes';'#Trials'; 'Type#', 'Stim On Secs'};
         lineNo=1;
-        defaultVals={'5';'2';'12';'Green';'5';'2'};
+        defaultVals={'5';'2';'12';'1'};
+           
         userinput=inputdlg(prompt,title, lineNo, defaultVals);
         
-        Session.phase1ITIMedianMinutes = STR2DOUBLE(userinput{1});
-        Session.phase1ITIVarianceMinutes = STR2DOUBLE(userinput{2});
-        Session.phase1NumTrials = STR2DOUBLE(userinput{3});
-        Session.phase1StimColor = userinput{4};
-        Session.phase1StimOnSeconds = STR2DOUBLE(userinput{5});
-        Session.phase1NumTrials = STR2DOUBLE(userinput{6});
+        Session.phase1ITIMedianMinutes = str2double(userinput{1});
+        Session.phase1ITIVarianceMinutes = str2double(userinput{2});
+        Session.phase1NumTrials = str2double(userinput{3});
+        Session.phase1Type = str2double(userinput{4});
+        Session.phase1StimOnSeconds = str2double(userinput{5});
+        
+        if Session.phase1Type == 1
+            title='Visual Stimulus Data';
+            prompt={'Shape';'Diameter pxl';'R';'G';'B'};
+            lineNo=1;
+            defaultVals={'FillCircle';'100';'255';'0';'0'};
+            
+            userinput=inputdlg(prompt,title, lineNo, defaultVals);
+            Session.phase1StimShape = userinput{1};
+            Session.phase1StimDiameter = str2double(userinput{2});
+            Session.phase1StimColor = [str2double(userinput{3}),str2double(userinput{4}),str2double(userinput{5})];
+        else
+            title='Auditory Stimulus Data';
+            prompt={'Sound file';'freq offset'};
+            lineNo=1;
+            defaultVals={'noise.wav';'0'};
+            
+            userinput=inputdlg(prompt,title, lineNo, defaultVals);
+            Session.phase1StimSoundFile = userinput{1};
+            Session.phase1StimFreqOffset = str2double(userinput{2});
+        end
     end
     
     
-    if SessionPhaseOfExperiment == 3
+    if Session.phaseOfExperiment == 3
         title='Enter Phase 2 Variables';
         prompt={'Median ITI Minutes'; 'ITI max variance Minutes';'#Trials'; 'Stim On Secs'; 'Secs between Stims'}; 
         lineNo=1;
         defaultVals={'5';'2';'12';'5';'2'};
         userinput=inputdlg(prompt,title, lineNo, defaultVals);
         
-        Session.phase2ITIMedianMinutes = STR2DOUBLE(userinput{1});
-        Session.phase2ITIVarianceMinuts = STR2DOUBLE(userinput{2});
-        Session.phase2NumTrials = STR2DOUBLE(userinput{3});
+        Session.phase2ITIMedianMinutes = str2double(userinput{1});
+        Session.phase2ITIVarianceMinuts = str2double(userinput{2});
+        Session.phase2NumTrials = str2double(userinput{3});
         Session.phase2KeyOnSeconds = userinput{4};
-        Session.phase2HopperDownSeconds = STR2DOUBLE(userinput{5});
+        Session.phase2HopperDownSeconds = str2double(userinput{5});
     end
         
     
-    if SessionPhaseOfExperiment == 4
+    if Session.phaseOfExperiment == 4
         title='Enter Test Phase Variables';
         prompt={'0=Observ/1=Interv'; 'Observ #Presentations';'Median ITI Minutes'; 'ITI max variance Minutes'; 'Shape1 Color';'Shape2 Color';'Tone Secs On'}; 
         lineNo=1;
         defaultVals={'0';'6';'5';'2';'blue';'green';'10'};
         userinput=inputdlg(prompt,title, lineNo, defaultVals);
         
-        Session.phase3IsInterventionType = STR2DOUBLE(userinput{1});
-        Session.phase3ObservationPresentationCount = STR2DOUBLE(userinput{2});
-        Session.phase3ITIMedianMinutes = STR2DOUBLE(userinput{3});
+        Session.phase3IsInterventionType = str2double(userinput{1});
+        Session.phase3ObservationPresentationCount = str2double(userinput{2});
+        Session.phase3ITIMedianMinutes = str2double(userinput{3});
         Session.phase3ITIVarianceMinuts = userinput{4};
         Session.phase3NovelShape1Color = userinput{5};
         Session.phase3InterventionTonePresentationSeconds = userinput{6};
@@ -146,17 +170,19 @@ end
 function MakeDataFiles() %Function that makes the data file
     global Session;
     cd('..\Data');
-    Session.filenameScreenPeck=strcat('CausalReasoning-', Session.birdName, '-', Session.dayOfExperiment, '-ScreenPeck', '.xls');%names the file, write file
+    Session.filenameScreenPeck=strcat('CausalReasoning', Session.pigeonName, '_', Session.dayOfExperiment, '_ScreenPeck', '.xls');%names the file, write file
     Session.screenPeckFid= fopen(Session.filenameScreenPeck,'w'); %opens file, w gives permisions
 
-    fprintf(Session.screenPeckFid,'%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t\n',...Make header data types. redo for new data
-        'Computer','Bird','Phase', 'Day', 'Date','Time','TrialNum','TrialType','ScreenPeckNumber','PeckX','PeckY');
+    fprintf(Session.screenPeckFid,'%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t\n',...Make header data types. redo for new data
+        'Computer','Bird','Phase', 'Day', 'Date','Time','TrialNum','TrialType','PeckX','PeckY');
 
-    Session.filenameKeyPeck=strcat('CausalReasoning-', Session.birdName, '-', Session.dayOfExperiment, '-KeyPeck', '.xls');%names the file, write file
+    Session.filenameKeyPeck=strcat('CausalReasoning', Session.pigeonName, '_', Session.dayOfExperiment, '_KeyPeck', '.xls');%names the file, write file
     Session.keyPeckFid= fopen(Session.filenameKeyPeck,'w'); %opens file, w gives permisions
 
-    fprintf(Session.keyPeckFid,'%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t\n',...Make header data types. redo for new data
-        'Computer','Bird','Phase', 'Day', 'Date','Time','TrialNum','TrialType','KeyPeckNumber');
+    fprintf(Session.keyPeckFid,'%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t\n',...Make header data types. redo for new data
+        'Computer','Bird','Phase', 'Day', 'Date','Time','TrialNum','TrialType');
+    
+    cd('..\CausalReasoning');
 end
 
 
@@ -173,13 +199,10 @@ function InitiateDisplay() %Function that starts the session
     Session.startSessionTime=GetSecs(); %Gets the start time of the session used for all 0. MAKE SURE SYNC WITH NEURO, for how look in howto under sync tabs
     Window.screenNumber = max(Screen('Screens')); %Tells the code which screen to use
     Window.backgroundColor = [0 0 0]; %sets the background color to gray
-    Window.startColor = [255 255 255]; %sets the ready stim color to red
-    Window.baseRect = [0 0 30 35]; %sets the intial dimensions of the circle
-
+    
     [Window.window, Window.windowRect] = PsychImaging('OpenWindow', Window.screenNumber, Window.backgroundColor); %Cmake initial screen look
     [Window.xCenter, Window.yCenter] = RectCenter(Window.windowRect); %specifies what the center of the screen is
-    Window.stimLocation=CenterRectOnPointd(Window.baseRect,Window.xCenter, ((Window.yCenter/3)*4)); %says where to put the stim (center rect ON POINT whatever, d is arbitrary
- 
+    
     %HideCursor(); %This will hide the cursor
 end
 
@@ -187,31 +210,41 @@ end
 function runPhase0()
     global Session;
     Session.intervalNumber = 1;
-    tic;
+    sessionTimeStart = GetSecs;
     maxSeconds = Session.maxMinutesForPhase0 * 60;
-   
+    createKeyButton();
     
-    disp('Training Phase Started...');
+    disp(['maxsecs']);
+    disp(maxSeconds);
+    disp(Session.maxKeyOnSecondsPhase0);
     
-    while Session.intervalNumber < Session.maxKeyOnIntervalsPhase0  && toc < maxSeconds
-        fprintf('current interval: %d', Session.intervalNumber);
-        
+    while Session.intervalNumber < Session.maxKeyOnIntervalsPhase0  && GetSecs - sessionTimeStart < maxSeconds        
         turnKeyOn();
         LowerHopper();
         
-        keyPecked = 0;
-        keyOnTime = toc;
+        Session.keyPecked = 0;
+        keyOnTime = GetSecs;   
+        timeElapsed = 0;
         
-        while toc - keyOnTime <  Session.maxKeyOnSecondsPhase0 || keyPecked == 0
+        while timeElapsed <  Session.maxKeyOnSecondsPhase0 && Session.keyPecked == 0
             WaitSecs(0.1);
+            timeElapsed = GetSecs - keyOnTime;
+            disp(timeElapsed);
+            
+            %WaitSecs(rand+.5) %jitters prestim interval between .5 and 1.5 seconds
+           
+            Session.keyPecked = wasKeyPecked();
+            
             if Session.keyPecked == 1
-                keyPecked = Session.keyPecked;
-                Session.keyPecked = 0;
-                turnKeyOff();
-                RaiseHopper();
-                WaitSecs(5.0);
+                RecordKeyPeck();
+                disp('key pecked');
+                break;
             end
         end
+        disp('turning key off');
+        turnKeyOff();
+        RaiseHopper();
+        WaitSecs(5.0);
         
         Session.intervalNumber = Session.intervalNumber + 1;
     end
@@ -229,21 +262,35 @@ function runPhase3()
 
 end
 
+function createKeyButton()
+    global Session;
+    global Window;
+    
+    Window.keyRectBase = [0,0,100,75];
+    Window.keyRect = CenterRectOnPointd(Window.keyRectBase,Window.xCenter, ((Window.yCenter/3)*4)); %says where to put the stim (center rect ON POINT whatever, d is arbitrary
+    Session.key_handle = stimfunclib('create','visual', 'FillRect', Window.window, [255,255,255], Window.keyRect,[0,0,0]);
+end
+
 function turnKeyOn()
-    %fill this in with correct code
+   global Session;
+   global Window;
+   stimfunclib('on', 'visual', Session.key_handle, Window.window);
 end
 
 function turnKeyOff()
-    %fill this in with correct code
+   global Session;
+   global Window;
+   stimfunclib('off', 'visual', Session.key_handle, Window.window);
 end
 
-function RecordPecks()
-    global Session;
+function inside = wasKeyPecked()
+    global Window;
     
-    while Session.running == 1  
-        GetScreenPeck();
-        GetKeyPeck();
-        WaitSecs(0.1);
+    [x,y,buttons] = GetMouse(); 
+    if any(buttons) && inpolygon(x,y,[Window.keyRect(1), Window.keyRect(3)],[Window.keyRect(2), Window.keyRect(4)])
+        inside = 1;
+    else
+        inside = 0;
     end
 end
 
@@ -268,38 +315,18 @@ function RecordsScreenPeck() %records the number of pecks, fprintf is what is do
     global Session; %
     global Peck; %
     
+    
+     fprintf(Session.keyPeckFid,'%s\t%s\t%s\t%s\t%s\t%s\t\n',...Make header data types. redo for new data
+        'Computer','Bird','Phase', 'Day', 'Date','Time');
+    
     time=clock;%get time for trial. NOT FOR MATH only for Aaron and to check time of day in case it gets off schedual
     time=[num2str(time(4)) ':' num2str(time(5))]; %makes time readable
-    fprintf(Session.screenPeckFid,'%d\t',Session.computerNumber);    
-    fprintf(Session.screenPeckFid,'%s\t',Session.birdName);      % Subject ID
-    fprintf(Session.screenPeckFid,'%s\t',Session.phaseOfExperiment); %which testing time
-    fprintf(Session.screenPeckFid,'%s\t',Session.dayOfExperiment);
-    fprintf(Session.screenPeckFid,'%s\t',date); %the date
-    fprintf(Session.screenPeckFid,'%s\t',time); %the clock time
-    fprintf(Session.screenPeckFid,'%d\t',Session.intervalNumber);  % trial
-    if isempty(Session.phase3IsInterventionType)
-        type = 0;
-    else
-        type = Session.phase3IsInterventionType;
-    end
-    fprintf(Session.screenPeckFid,'%s\t',type); %says what type of trial
-    fprintf(Session.screenPeckFid,'%d\t',Session.screenPeckNumber); %session time
-    fprintf(Session.screenPeckFid,'%d\t',Peck.peckX); %records the x coordinate of the peck
-    fprintf(Session.screenPeckFid,'%d\t',Peck.peckY); %records the y coordinate of the peck
-end
-
-function GetKeyPeck()
-    global Session;
-    
-    [keyIsDown,secs,keyCode]=KbCheck;%#ok
-    
-    if keyIsDown == 1 && keyCode(Session.keyCode) == 1 && Session.keyDown == 0
-       Session.keyDown = 1;
-    elseif keyIsDown == 0 && Session.keyDown == 1
-        Session.keyDown = 0;
-        Session.keyPecked = 1;
-        RecordKeyPeck();   
-    end
+    fprintf(Session.keyPeckFid,'%d\t',Session.computerNumber);    
+    fprintf(Session.keyPeckFid,'%s\t',Session.pigeonName);      % Subject ID
+    fprintf(Session.keyPeckFid,'%s\t',Session.phaseOfExperiment); %which testing time
+    fprintf(Session.keyPeckFid,'%s\t',Session.dayOfExperiment);
+    fprintf(Session.keyPeckFid,'%s\t',date); %the date
+    fprintf(Session.keyPeckFid,'%s\t',time); %the clock time
 end
 
 function RecordKeyPeck()
@@ -309,13 +336,13 @@ function RecordKeyPeck()
     time=[num2str(time(4)) ':' num2str(time(5))]; %makes time readable
     %'Computer','Bird','Phase', 'Day', 'Date','Time','TrialNum','TrialType','KeyPeckNumber'
     fprintf(Session.screenPeckFid,'%d\t',Session.computerNumber);    
-    fprintf(Session.screenPeckFid,'%s\t',Session.birdName);      % Subject ID
+    fprintf(Session.screenPeckFid,'%s\t',Session.pigeonName);      % Subject ID
     fprintf(Session.screenPeckFid,'%s\t',Session.phaseOfExperiment); %which testing time
     fprintf(Session.screenPeckFid,'%s\t',Session.dayOfExperiment);
     fprintf(Session.screenPeckFid,'%s\t',date); %the date
     fprintf(Session.screenPeckFid,'%s\t',time); %the clock time
     fprintf(Session.screenPeckFid,'%d\t',Session.intervalNumber);  % trial
-    if isempty(Session.phase3IsInterventionType)
+    if ~exist('Session.phase3IsInterventionType')
         type = 0;
     else
         type = Session.phase3IsInterventionType;
@@ -327,12 +354,14 @@ end
 
 
 function RaiseHopper()
+    return;
     global Session;    
     movePololuServo(Session.port,Session.channel,Session.hopperUp,Session.device);
 end
 
 function LowerHopper()
-     global Session;    
+    return;
+    global Session;    
     movePololuServo(Session.port,Session.channel,Session.hopperDown,Session.device);
 end
 
